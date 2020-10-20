@@ -1,0 +1,107 @@
+@import url(fonts.css);
+
+/**** VARIABLES ****/
+:root {
+  --colorRed: #FF0000;
+  --colorBlack: #121212;
+  --colorGrayLight: #E5E5E5;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+  color: var(--colorBlack);
+}
+
+img {max-width: 100%;}
+
+a {
+  color: var(--colorBlack);
+  transition: color linear .15s;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF0000;
+  text-decoration: underline;
+}
+
+.po-container {
+  margin: 0 auto;
+  max-width: 1260px;
+  padding: 0 20px;
+}
+
+body {
+  border-top: 5px solid var(--colorRed);
+}
+
+/****
+** HEADER
+****/
+#po-header {
+  border-bottom: 1px solid var(--colorGrayLight)
+}
+
+#po-header .po-container {
+  padding: 25px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#po-header .po-logo a {
+  display: block;
+  max-width: 260px;
+  margin: 0 auto;
+}
+
+.po-header-tools, #po-header-menu {
+  flex: 1;
+}
+
+.po-logo {flex: 1 1 100px;}
+
+.po-header-tools {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#po-menu {
+  display: inline-block;
+}
+
+.po-sandwich {max-width: 30px; display: inline-block;}
+
+.po-search {
+  margin-left: 15px;
+  max-width: 30px; 
+  display: inline-block;
+}
+
+#po-header-menu {
+  font: 1rem "The Future Mono 02", monospace;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+#po-header-menu li {
+  display: inline-block;
+  list-style: none;
+}
+
+#po-header-menu li a {
+  display: inline-block;
+  padding-left: 35px;
+}
+
+@media (max-width: 900px)  {
+
+  #po-header-menu {
+    display: none;
+  }
+}

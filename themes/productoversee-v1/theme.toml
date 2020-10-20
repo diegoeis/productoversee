@@ -1,0 +1,13 @@
+name = "Productoversee V1"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = ""
+homepage = "https://productoversee.com.br/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = ""
+  homepage = ""
+

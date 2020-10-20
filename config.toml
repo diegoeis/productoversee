@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "pt-br"
+title = "Product Oversee - o portal de conteúdo para PMs com opinião"
+theme = "productoversee-v1"
+
+enableRobotsTXT = true
+disableLiveReload = false
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[imaging]
+  quality = 75
+
+[related]
+  threshold = 100
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
+  name  = "tags"
+  weight = 40
+  [[related.indices]]
+  name  = "title"
+  weight = 40
+
