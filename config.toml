@@ -15,8 +15,12 @@ disableLiveReload = false
   tag = "tags"
   category = "categories"
 
+[permalinks]
+  posts = "/:filename"
+  pages = "/:filename"
+
 [imaging]
-  quality = 75
+  quality = 65
 
 [related]
   threshold = 100

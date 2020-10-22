@@ -1,1 +1,26 @@
-single
+{{ define "main" }}
+
+<div class="po-container">
+
+  {{.Title}}
+
+  <aside class="po-sidebar">
+    {{with .Params.authors}}
+    <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+    {{end}}
+
+    <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
+
+
+  </aside>
+  <article>
+    
+    <p class="tb-hero-p">
+      {{ .Param "excerpt" }}
+    </p>
+    
+
+    {{.Content}}
+  </article>
+</div>
+{{end}}

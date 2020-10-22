@@ -3,3 +3,7 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/all.css?{{ now.Unix }}">
   <link rel="prerender" href='{{ range first 1 (where .Site.Pages "Type" "post" )}}{{.Permalink}}{{end}}'>
   <meta name="author" content="{{ .Site.Params.author }}">
+
+  {{if .IsHome}}
+  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/home.css?{{ now.Unix }}">
+  {{end}}

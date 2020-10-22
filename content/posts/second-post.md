@@ -1,13 +1,12 @@
 ---
-title: Primeiro Post um primeiro post com título grande pra gente ver como funciona
+title: "Segundo post"
 excerpt: "Um expcerpt bonito"
-authors: Diego Eis
+authors: Lucas Balbino
 date: 2020-10-18T21:41:37-03:00
 tags: [Negócios, Discovery, Delivery]
 categories: [Estratégia, Tático]
-image: /images/posts/img1.jpg
+image: /images/posts/img2.png
 featured_post: false
 ---
-
 first post
 lorem ipsum 

@@ -1,9 +1,44 @@
 {{ define "main" }}
-  <h1>Posts</h1>
-  {{ range .Pages }}
-    <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Content }}
-    </article>
+
+<div class="po-container">
+  
+  {{range first 1 (where .Site.RegularPages "Section" "posts") }}
+  
+  <a href="{{ .Permalink }}" id="po-featured-post"  style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.5) 100%), url({{ .Params.image }}); background-size: cover; mix-blend-mode: multiply;">
+      <span class="po-author">{{ .Params.authors }}</span>
+
+      <h1>{{ .Title }}</h1>
+  </a>
+
   {{ end }}
+
+  <div class="po-hor-list">
+    {{range first 3 (after 1 .Site.RegularPages) }}
+      <div>
+        <a href="{{ .Permalink }}">
+          <figure>
+            <img src="{{ .Params.image }}" alt="">
+          </figure>
+        </a>
+        <ul class="po-list-categs">
+          {{ range .Params.categories }}
+            <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+          {{ end }}
+        </ul>
+        <a href="{{ .Permalink }}">
+          <h2>{{ .Title }}</h2>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</div>
+<!-- title: "Segundo post"
+excerpt: "Um expcerpt bonito"
+authors: [Diego Eis, Pablo Silva]
+date: 2020-10-18T21:41:37-03:00
+tags: [Negócios, Discovery, Delivery]
+categories: [Estratégia, Tático]
+featured_image: /posts/img1.jpg
+featured_post: false -->
+
 {{ end }}

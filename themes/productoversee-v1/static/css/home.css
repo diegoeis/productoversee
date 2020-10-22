@@ -1,0 +1,108 @@
+#po-featured-post {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "The Future Mono 02", monospace;
+}
+#po-featured-post {
+  text-decoration: none; 
+  color: #fff;
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#po-featured-post .po-author {
+  font-size: 0.93rem;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+#po-featured-post h1 {
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #fff;
+  padding: 0 20px;
+  max-width: 700px;
+}
+
+#po-featured-post:hover h1 {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px)  {
+  #po-featured-post {
+    height: 250px;
+  }
+  #po-featured-post h1 {
+    font-size: 1.4rem
+  }
+}
+
+
+.po-hor-list {
+  margin: 0 -15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-family: "The Future Mono 02", monospace;
+}
+
+.po-hor-list div {
+  flex: 1 0 300px;
+  margin: 0 15px;
+}
+
+.po-hor-list div a {
+  color: #000;
+  display: block;
+}
+
+.po-hor-list figure {
+  max-height: 265px;
+  overflow: hidden;
+}
+.po-hor-list figure img  {
+  width: 100%;
+}
+
+.po-hor-list h2 {
+  font-size: 1.25rem;
+}
+
+.po-list-categs {
+  list-style: none;
+}
+.po-list-categs li {display: inline;}
+.po-list-categs li:after {content: ", "; color: #ff0000;}
+.po-list-categs li:last-child:after {display: none;}
+.po-list-categs li a {
+  display: inline-block;
+  color: #ff0000;
+  font-size: 0.9375rem;
+  font-weight: normal;
+  margin: 10px 0 20px
+}
+
+@media (max-width: 900px)  {
+  .po-hor-list div { 
+    margin-bottom: 30px;
+  } 
+
+  .po-hor-list figure {
+    max-height: 200px;
+  }
+
+  .po-list-categs li a {
+    font-size: 0.7375rem;
+    margin: 5px 0 10px
+  }
+    
+  .po-hor-list h2 {
+    font-size: 1rem;
+  }
+
+}
+

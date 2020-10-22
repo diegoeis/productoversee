@@ -45,6 +45,8 @@ body {
   border-bottom: 1px solid var(--colorGrayLight)
 }
 
+.Kind-is-home #po-header {border: none;}
+
 #po-header .po-container {
   padding: 25px 20px;
   display: flex;
@@ -92,6 +94,7 @@ body {
 #po-header-menu li {
   display: inline-block;
   list-style: none;
+  font-size: 0.81rem;
 }
 
 #po-header-menu li a {
@@ -100,7 +103,6 @@ body {
 }
 
 @media (max-width: 900px)  {
-
   #po-header-menu {
     display: none;
   }
