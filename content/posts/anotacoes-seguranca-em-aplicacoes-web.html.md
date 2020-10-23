@@ -1,10 +1,12 @@
 ---
 title: Anotações Segurança em Aplicações Web
-type: post
-date: 2014-05-20
-tags:
-- anotacoes
-- desenvolvimento web
+excerpt: "Um expcerpt bonito"
+authors: Diego Eis
+date: 2020-10-18T21:41:37-03:00
+categories: 
+- Desenvolvimento
+image: /images/posts/img1.jpg
+featured_post: true
 ---
 
 Minhas anotações sobre a palestra do Nando Vieira no 16ELW.

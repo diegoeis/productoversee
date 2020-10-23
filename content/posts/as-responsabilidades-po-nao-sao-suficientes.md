@@ -1,10 +1,12 @@
 ---
 title: "As responsabilidades de um Product Owner não são suficientes"
-type: post
-date: 2018-06-07
+excerpt: "Um expcerpt bonito"
+authors: Diego Eis
+date: 2019-10-18T21:41:37-03:00
+categories: 
+- Carreira
 image: https://cdn-images-1.medium.com/max/1200/1*3g0iXZJryOCK_zDB4RVnPg.jpeg
-tags:
-- lideranca e product management
+featured_post: true
 ---
 
 Esse é um assunto MUITO batido. Mesmo. Há mais discussões sobre as diferenças entre Product Owner e Product Manager que gente na rua 25 de Março em São Paulo. Muito dessa confusão, é que ninguém fala das responsabilidades que cada personagem exerce. Outro ponto, é que ninguém diz que esses dois caras são, na verdade, a mesma pessoa. **Ou pelo menos deveriam ser** (na minha opinião, claro).

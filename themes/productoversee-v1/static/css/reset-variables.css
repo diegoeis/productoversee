@@ -1,0 +1,40 @@
+
+/**** VARIABLES ****/
+:root {
+  --colorRed: #FF0000;
+  --colorBlack: #121212;
+  --colorGrayLight: #E5E5E5;
+  --fontMono: "The Future Mono 02", monospace;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+  color: var(--colorBlack);
+  text-rendering: optimizeLegibility;
+}
+
+img {max-width: 100%;}
+
+a {
+  color: var(--colorBlack);
+  transition: color linear .15s;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF0000;
+  text-decoration: underline;
+}
+
+.po-container {
+  margin: 0 auto;
+  max-width: 1460px;
+  padding: 0 20px;
+}
+
+body {
+  border-top: 5px solid var(--colorRed);
+}

@@ -7,8 +7,8 @@ date: 2020-10-19
 publishdate: 2020-10-19
 categories:
 - Carreira
+featured_post: true
 ---
-
 
 _Esse texto foi publicado antes na [minha newsletter pessoal](https://diegoeis.substack.com/). [Assine e entre](https://diegoeis.substack.com/) para um grupo de mais de 450 pessoas._
 

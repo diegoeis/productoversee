@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "pt-br"
 title = "Product Oversee - o portal de conteúdo para PMs com opinião"
 theme = "productoversee-v1"
+removePathAccents = true
 
 enableRobotsTXT = true
 disableLiveReload = false
@@ -16,8 +17,8 @@ disableLiveReload = false
   category = "categories"
 
 [permalinks]
-  posts = "/:filename"
-  pages = "/:filename"
+  posts = "/:slug"
+  pages = "/:slug"
 
 [imaging]
   quality = 65

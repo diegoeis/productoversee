@@ -1,42 +1,5 @@
+@import url(reset-variables.css);
 @import url(fonts.css);
-
-/**** VARIABLES ****/
-:root {
-  --colorRed: #FF0000;
-  --colorBlack: #121212;
-  --colorGrayLight: #E5E5E5;
-}
-
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-size: 100%;
-  color: var(--colorBlack);
-}
-
-img {max-width: 100%;}
-
-a {
-  color: var(--colorBlack);
-  transition: color linear .15s;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #FF0000;
-  text-decoration: underline;
-}
-
-.po-container {
-  margin: 0 auto;
-  max-width: 1260px;
-  padding: 0 20px;
-}
-
-body {
-  border-top: 5px solid var(--colorRed);
-}
 
 /****
 ** HEADER
@@ -85,7 +48,7 @@ body {
 }
 
 #po-header-menu {
-  font: 1rem "The Future Mono 02", monospace;
+  font: 1rem var(--fontMono);
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -106,4 +69,27 @@ body {
   #po-header-menu {
     display: none;
   }
+}
+
+
+
+/*****
+** TITLES
+*****/
+.po-title-h2 {
+  color: var(--colorBlack);
+  border-bottom: 1px solid var(--colorBlack);
+  font: bold 1.56rem var(--fontMono);
+  padding-bottom: 30px;
+  margin: 70px 0 30px;
+}
+
+.po-title-h3 {
+  color: var(--colorBlack);
+  font: bold 1.875rem var(--fontMono);
+}
+
+.po-title-h4 {
+  color: var(--colorBlack);
+  font: 0.9375rem var(--fontMono);
 }

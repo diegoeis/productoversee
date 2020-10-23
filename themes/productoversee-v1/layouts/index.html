@@ -1,8 +1,13 @@
 {{ define "main" }}
 
+{{ $posts := (where .Site.RegularPages "Section" "posts")  }}
+
+{{ $featured_posts := (where $posts ".Params.featured_post" "=" true)  }}
+
+
 <div class="po-container">
   
-  {{range first 1 (where .Site.RegularPages "Section" "posts") }}
+  {{range first 1 $posts }}
   
   <a href="{{ .Permalink }}" id="po-featured-post"  style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.5) 100%), url({{ .Params.image }}); background-size: cover; mix-blend-mode: multiply;">
       <span class="po-author">{{ .Params.authors }}</span>
@@ -12,8 +17,8 @@
 
   {{ end }}
 
-  <div class="po-hor-list">
-    {{range first 3 (after 1 .Site.RegularPages) }}
+  <section class="po-hor-list">
+    {{range first 3 (after 1 $posts) }}
       <div>
         <a href="{{ .Permalink }}">
           <figure>
@@ -25,20 +30,46 @@
             <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
           {{ end }}
         </ul>
-        <a href="{{ .Permalink }}">
+        <a href="{{ .Permalink }}" class="po-list-text">
           <h2>{{ .Title }}</h2>
+          <p>{{.Params.excerpt}}</p>
         </a>
       </div>
     {{ end }}
+  </section>
+
+<section class="po-section po-featured-posts">
+  <h2 class="po-title-h2">
+    Destaques
+  </h2>
+  <div>
+    {{ range first 1 $featured_posts }}
+      <a href="{{ .Permalink }}" class="po-first-featured-post">
+        <figure>
+          <img src="{{ .Params.image }}" alt="">
+        </figure>
+        <span class="po-list-categs">{{ delimit .Params.categories ", " }}</span>
+        <h2 class="po-title-h3">{{ .Title }}</h2>
+        <p>{{.Params.excerpt}}</p>
+      </a>
+    {{ end }}
+    <ul>
+    {{ range first 4 (after 1 $featured_posts )}}
+      <li>
+        <a href="{{ .Permalink }}">
+          <figure>
+            <img src="{{ .Params.image }}" alt="">
+          </figure>
+          <span class="po-list-categs">{{ delimit .Params.categories ", " }}</span>
+          <h4 class="po-title-h4">{{ .Title }}</h4>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
   </div>
+</section>
+
+
 </div>
-<!-- title: "Segundo post"
-excerpt: "Um expcerpt bonito"
-authors: [Diego Eis, Pablo Silva]
-date: 2020-10-18T21:41:37-03:00
-tags: [Negócios, Discovery, Delivery]
-categories: [Estratégia, Tático]
-featured_image: /posts/img1.jpg
-featured_post: false -->
 
 {{ end }}

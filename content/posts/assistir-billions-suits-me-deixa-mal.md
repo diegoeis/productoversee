@@ -1,13 +1,12 @@
 ---
-type: post
 title: "Assistir Suits e Billions me deixa mal"
-excerpt: Por que todo mundo quer ser o Harvey Specter.
-date: 2020-06-10
-publishdate: 2020-06-10
+excerpt: "Um expcerpt bonito"
+authors: Diego Eis
+date: 2019-10-18T21:41:37-03:00
+categories: 
+- Opinião
 image: https://i.imgur.com/3aEfVat.png
-tags:
-- cotidiano e comportamento
-- eis a newsletter
+featured_post: true
 ---
 
 _Esse texto foi publicado muito antes na [minha newsletter](https://diegoeis.substack.com/about). [Assine e entre](https://diegoeis.substack.com/) para um grupo engajado de mais de 300 pessoas._

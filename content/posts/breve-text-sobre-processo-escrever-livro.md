@@ -1,11 +1,13 @@
 ---
+authors: Diego Eis
 title: Breve texto sobre o processo de escrever um livro
-type: post
-date: 2020-04-23
+excerpt: Não existe caminho certo ou errado, existe o caminho que te deixa mais confortável e feliz.
 image: https://i.imgur.com/VkICGhb.jpg
-tags:
-- lideranca e product management
-- ler assistir e ouvir
+date: 2020-10-21
+publishdate: 2020-10-21
+categories:
+- Carreira
+featured_post: true
 ---
 
 Foram algo em torno de 180 horas só da escrita, mais algumas várias horas não contadas de arrumação (landing page, mailing, configuração de ferramentas, formatação do livro, revisão, etc). Escrever um livro não é algo muito complexo, mas com certeza não é simples de se fazer. Ainda mais quando você decide fazer publicação própria, sem a ajuda de uma editora.
