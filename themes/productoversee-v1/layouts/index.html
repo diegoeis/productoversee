@@ -69,6 +69,29 @@
   </div>
 </section>
 
+<div class="po-sides">
+
+  <section class="po-authors-list">
+    <h2 class="po-title-h2">
+      Autores
+    </h2>
+
+    <ul>
+      {{ range .Site.Data.authors }}
+      <li>
+        <a href="{{ .site }}">
+          <img src="{{ .avatar }}" alt="">
+          <h4 class="po-title-h4">{{ .name }}</h4>
+          <p>{{ .minibio }}</p>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+
+  </section>
+
+</div>
+
 
 </div>
 

@@ -1,4 +1,4 @@
-@import url(reset-variables.css);
+@import url(common.css);
 
 #po-featured-post {
   height: 500px;
@@ -83,10 +83,6 @@
 }
 
 .po-list-text:hover {text-decoration: none;}
-
-.po-hor-list a:hover ~ a h2,
-.po-list-text:hover h2 {color: #ff0000}
-
 
 .po-list-text p {
   font-size: 1rem;
@@ -192,8 +188,8 @@ span.po-list-categs {
    max-width: 100%;
   }
 
-.po-featured-posts ul {
-  padding-right: 0;
-}
+  .po-featured-posts ul {
+    padding-right: 0;
+  }
 
 }

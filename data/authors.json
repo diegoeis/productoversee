@@ -1,0 +1,42 @@
+{
+  "Author 1": {
+    "name": "Diego Eis",
+    "minibio": "Head de Produtos digitais da Sympla e metido a besta.",
+    "avatar": "/images/authors/diego.jpg",
+    "email": "diegoeis@gmail.com",
+    "twitter": "@diegoeis",
+    "linkedin": "diegoeis",
+    "site": "https://diegoeis.com",
+    "other": "https://diegoeis.com"
+  },
+  "Author 2": {
+    "name": "Pablo Silva",
+    "minibio": "Minha missão é transformar grupos de pessoas em times felizes e produtivos.",
+    "avatar": "/images/authors/pablo.jpg",
+    "email": "",
+    "twitter": "@oiseupablo",
+    "linkedin": "",
+    "site": "",
+    "other": ""
+  },
+  "Author 3": {
+    "name": "Ericka Padilha",
+    "minibio": "Carioca questionadora que ama fazer produtos digitais.",
+    "avatar": "/images/authors/ericka.jpg",
+    "email": "",
+    "twitter": "",
+    "linkedin": "",
+    "site": "",
+    "other": ""
+  },
+  "Author 4": {
+    "name": "Lucas Balbino",
+    "minibio": "Entusiasta sobre como podemos fazer produtos digitais melhores e que ajudem mais pessoas.",
+    "avatar": "/images/authors/balbino.jpg",
+    "email": "",
+    "twitter": "",
+    "linkedin": "",
+    "site": "",
+    "other": ""
+  }
+}
