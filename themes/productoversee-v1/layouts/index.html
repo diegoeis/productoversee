@@ -9,11 +9,11 @@
   
   {{range first 1 $posts }}
   
-  <a href="{{ .Permalink }}" id="po-featured-post"  style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.5) 100%), url({{ .Params.image }}); background-size: cover; mix-blend-mode: multiply;">
-      <span class="po-author">{{ .Params.authors }}</span>
+    <a href="{{ .Permalink }}" id="po-featured-post"  style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.5) 100%), url({{ .Params.image }}); background-size: cover; mix-blend-mode: multiply;">
+        <span class="po-author">{{ .Params.authors }}</span>
 
-      <h1>{{ .Title }}</h1>
-  </a>
+        <h1>{{ .Title }}</h1>
+    </a>
 
   {{ end }}
 
@@ -88,6 +88,96 @@
       {{ end }}
     </ul>
 
+  </section>
+
+  <section class="po-latest-posts">
+    <h2 class="po-title-h2">
+      Últimas
+    </h2>
+
+    <ul>
+    {{range first 7 (after 1 $posts) }}
+      <li class="po-latest-post">
+          <figure>
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.image }}" alt="">
+            </a>
+          </figure>
+        <div>
+          <ul class="po-list-categs">
+            {{ range .Params.categories }}
+              <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+            {{ end }}
+          </ul>
+          <a href="{{ .Permalink }}" class="po-list-text">
+            <h2>{{ .Title }}</h2>
+          </a>
+        </div>
+      </li>
+    {{ end }}
+    </ul>
+  </section>
+
+  <section class="po-podcasts-list">
+    <h2 class="po-title-h2">
+      Vale a pena ouvir
+    </h2>
+    <ul>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast1.png" alt="">
+          <h2>#53 Demian Boarba - Existe vida além do Produto e do CNPJ</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast2.png" alt="">
+          <h2>#35 Cultura de Produto</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast3.png" alt="">
+          <h2>#52 Daiany Correa - O diário de um PO na Magazine Luiza</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast1.png" alt="">
+          <h2>#53 Demian Boarba - Existe vida além do Produto e do CNPJ</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast2.png" alt="">
+          <h2>#35 Cultura de Produto</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast3.png" alt="">
+          <h2>#52 Daiany Correa - O diário de um PO na Magazine Luiza</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast1.png" alt="">
+          <h2>#53 Demian Boarba - Existe vida além do Produto e do CNPJ</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast2.png" alt="">
+          <h2>#35 Cultura de Produto</h2>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="po-podcast-item">
+          <img src="/images/podcast3.png" alt="">
+          <h2>#52 Daiany Correa - O diário de um PO na Magazine Luiza</h2>
+        </a>
+      </li>
+    </ul>
   </section>
 
 </div>

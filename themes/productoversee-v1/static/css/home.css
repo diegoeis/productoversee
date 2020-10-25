@@ -181,6 +181,7 @@ span.po-list-categs {
     width: 100%;
     max-width: 100%;
     margin-right: 0;
+    margin-bottom: 50px;
   }
 
   .po-first-featured-post img {
@@ -192,4 +193,68 @@ span.po-list-categs {
     padding-right: 0;
   }
 
+}
+
+
+/**** LATEST POSTS ****/
+.po-latest-posts {
+  margin: 0 100px;
+}
+
+.po-latest-post {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.po-latest-post figure {
+  flex: 1 0 188px;
+  max-width: 188px;
+  margin-right: 20px;
+}
+.po-latest-post img {
+  max-width: 100%;
+}
+
+.po-latest-post h2 {
+  font: 0.9375rem var(--fontMono);
+}
+
+@media (max-width: 950px)  {
+  .po-latest-posts {
+    margin: 0;
+  }
+  
+}
+
+/**** PODCASTS ****/
+.po-podcasts-list, .po-authors-list  {
+  max-width: 300px;
+}
+.po-podcasts-list li {
+  list-style: none;
+  margin-bottom: 20px;
+  padding-right: 20px;
+}
+.po-podcasts-list li a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.po-podcasts-list li h2 {
+  padding-left: 20px;
+  font: 0.85rem var(--fontMono);
+}
+
+.po-sides {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.po-sides > section {
+  flex: 1 0 300px;
 }

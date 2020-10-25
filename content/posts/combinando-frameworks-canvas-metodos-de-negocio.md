@@ -1,12 +1,12 @@
 ---
-type: post
 title: "Combinando os resultados de frameworks e canvas"
 excerpt: Entendendo como podemos conectar diversos métodos e frameworks de negócio
-date: 2020-09-07
-publishdate: 2020-09-07
-image: /images/uploads/post-canvas-frameworks-negocios/pawel-czerwinski-yn97LNy0bao-unsplash.jpg
-tags:
-- lideranca e product management
+authors: Diego Eis
+date: 2020-10-18T21:41:37-03:00
+tags: [Negócios, Discovery, Delivery]
+categories: [Estratégia, Tático]
+image: /images/posts/img1.jpg
+featured_post: false
 ---
 
 As vezes algumas coisas precisam estar escritas para terem mais valor ou simplesmente para gerar alinhamento entre as pessoas. O achismo é um argumento comum no mercado de Produtos e isso está presente em todos os níveis da empresa, desde os C- Levels até a última ponta. Todos acham que sabem o que é melhor para o produto e principalmente para o negócio. Algumas pessoas estão certas, outras erradas, o problema é descobrir isso muito tarde.
