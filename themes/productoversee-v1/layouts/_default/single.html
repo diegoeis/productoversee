@@ -19,14 +19,14 @@
       
       
       <div class="po-sidebar-author">
-        {{ $author_post_details := where .Site.Data.authors.author ".name" .Params.author }}
+        {{ $author_post_details := where .Site.Data.authors.author ".name" .Params.authors }}
 
       {{range $author_post_details}}
         <img src="{{.avatar}}" alt="">
       {{end}}
         <div>
           <p>
-            {{ with .Params.author }}
+            {{ with .Params.authors }}
               <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
             {{ end }}
             {{range $author_post_details}}
@@ -47,14 +47,16 @@
       <span class="po-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
     
       <nav class="po-posts-same-author">
-        <h3>Mais artigos do {{.Params.author}} </h3>
+        <h3>Mais artigos do {{.Params.authors}} </h3>
         <ul>
-          {{ range first 5 (where .Site.RegularPages "Params.author" .Params.author )}}
+          {{ range first 5 (where .Site.RegularPages "Params.author" .Params.authors )}}
           <li><a href="{{.Permalink}}">{{.Title}}</a></li>
           {{end}}
         </ul>
       </nav>
 
+
+    
 
       
     </aside>

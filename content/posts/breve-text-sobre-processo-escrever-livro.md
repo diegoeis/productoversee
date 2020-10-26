@@ -1,5 +1,5 @@
 ---
-author: Pablo Silva
+authors: Pablo Silva
 title: Breve texto sobre o processo de escrever um livro
 excerpt: Não existe caminho certo ou errado, existe o caminho que te deixa mais confortável e feliz.
 image: https://i.imgur.com/VkICGhb.jpg

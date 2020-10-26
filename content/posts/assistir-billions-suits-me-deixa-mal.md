@@ -1,7 +1,7 @@
 ---
 title: "Assistir Suits e Billions me deixa mal"
 excerpt: "Um expcerpt bonito"
-author: Diego Eis
+authors: Diego Eis
 date: 2019-10-18T21:41:37-03:00
 categories: 
 - Opinião

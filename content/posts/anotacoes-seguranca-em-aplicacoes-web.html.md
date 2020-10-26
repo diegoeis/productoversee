@@ -1,7 +1,7 @@
 ---
 title: Anotações Segurança em Aplicações Web
 excerpt: "Um expcerpt bonito"
-author: Diego Eis
+authors: Diego Eis
 date: 2020-10-18T21:41:37-03:00
 categories: 
 - Desenvolvimento

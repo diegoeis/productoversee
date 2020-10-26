@@ -1,7 +1,7 @@
 ---
 title: "Combinando os resultados de frameworks e canvas"
 excerpt: Entendendo como podemos conectar diversos métodos e frameworks de negócio
-author: Diego Eis
+authors: Diego Eis
 date: 2020-10-18T21:41:37-03:00
 tags: [Negócios, Discovery, Delivery]
 categories: [Estratégia, Tático]
