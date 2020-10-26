@@ -1,16 +1,14 @@
 {{ define "main" }}
 
-{{ $posts := (where .Site.RegularPages "Section" "posts")  }}
-
+{{ $posts := (where .Site.RegularPages "Section" "posts") }}
 {{ $featured_posts := (where $posts ".Params.featured_post" "=" true)  }}
-
 
 <div class="po-container">
   
   {{range first 1 $posts }}
   
-    <a href="{{ .Permalink }}" id="po-featured-post"  style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.5) 100%), url({{ .Params.image }}); background-size: cover; mix-blend-mode: multiply;">
-        <span class="po-author">{{ .Params.authors }}</span>
+    <a href="{{ .Permalink }}" id="po-featured-post" style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.5) 100%), url({{ .Params.image }}); background-size: cover; mix-blend-mode: multiply;">
+        <span class="po-author">{{ .Params.author }}</span>
 
         <h1>{{ .Title }}</h1>
     </a>
@@ -76,17 +74,7 @@
       Autores
     </h2>
 
-    <ul>
-      {{ range .Site.Data.authors }}
-      <li>
-        <a href="{{ .site }}">
-          <img src="{{ .avatar }}" alt="">
-          <h4 class="po-title-h4">{{ .name }}</h4>
-          <p>{{ .minibio }}</p>
-        </a>
-      </li>
-      {{ end }}
-    </ul>
+
 
   </section>
 

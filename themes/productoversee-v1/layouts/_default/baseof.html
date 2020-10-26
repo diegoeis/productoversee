@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode | default " pt-br " }}' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#'>
   
-  {{- partial "head.html" . -}}
+	{{ block "head" . }}{{ partialCached "head.html" . }}{{ end }}
 	
 	<body class='Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }} {{.Params.title | urlize }}'>
 	  {{- partial "header.html" . -}}
@@ -10,6 +10,7 @@
 	  	{{- block "main" . }}{{- end }}
 	  </div>
 	  
-	  {{- partial "footer.html" . -}}
+    {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
+		
   </body>
 </html>

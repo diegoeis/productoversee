@@ -1,5 +1,5 @@
 ---
-type: post
+author: Diego Eis
 title: "Assumi que sou um generalista e isso me deixou mais leve"
 excerpt: Não existe caminho certo ou errado, existe o caminho que te deixa mais confortável e feliz.
 image: /images/posts/img4.png

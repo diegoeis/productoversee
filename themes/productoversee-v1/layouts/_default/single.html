@@ -1,26 +1,72 @@
 {{ define "main" }}
 
-<div class="po-container">
+<header id="po-article-header">
+  <ul class="po-list-categs">
+    {{ range .Params.categories }}
+    <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+    {{ end }}
+  </ul>
+  <h1>{{.Title}}</h1>
+  <h2>{{ .Params.excerpt }}</h2>
+</header>
 
-  {{.Title}}
 
-  <aside class="po-sidebar">
-    {{with .Params.authors}}
-    <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-    {{end}}
+<section class="po-container">
 
-    <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
-
-
-  </aside>
-  <article>
+  <article id="po-article">
     
-    <p class="tb-hero-p">
-      {{ .Param "excerpt" }}
-    </p>
+    <aside class="po-sidebar">
+      
+      
+      <div class="po-sidebar-author">
+        {{ $author_post_details := where .Site.Data.authors.author ".name" .Params.author }}
+
+      {{range $author_post_details}}
+        <img src="{{.avatar}}" alt="">
+      {{end}}
+        <div>
+          <p>
+            {{ with .Params.author }}
+              <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+            {{ end }}
+            {{range $author_post_details}}
+              {{.minibio}}
+            {{end}}
+          </p>
+          <ul class="po-author-midia">
+            {{range $author_post_details}}
+            <li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.twitter}}</a></li>
+            <li><a class="po-author-midia-icon-linkedin" href="https://linkedin.com/in/{{.linkedin}}">{{.linkedin}}</a></li>
+            <li><a class="po-author-midia-icon-site" href="{{.site}}">{{.site}}</a></li>
+            <li><a class="po-author-midia-icon-other" href="{{.other}}">{{.other}}</a></li>
+            {{end}}
+          </ul>
+        </div>
+      </div>
+
+      <span class="po-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
+    
+      <nav class="po-posts-same-author">
+        <h3>Mais artigos do {{.Params.author}} </h3>
+        <ul>
+          {{ range first 5 (where .Site.RegularPages "Params.author" .Params.author )}}
+          <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+          {{end}}
+        </ul>
+      </nav>
+
+
+      
+    </aside>
     
 
-    {{.Content}}
+    
+    <div class="po-article-text">
+      {{.Content}}
+    </div>
+    
   </article>
-</div>
+  </section>
+
+</section>
 {{end}}

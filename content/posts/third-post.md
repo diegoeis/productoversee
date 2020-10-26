@@ -1,7 +1,7 @@
 ---
 title: Terceiro Post
 excerpt: "Um expcerpt bonito"
-authors: Ericka Padilha
+author: Ericka Padilha
 date: 2020-10-18T21:41:37-03:00
 tags: [Negócios, Discovery, Delivery]
 categories: [Estratégia, Tático]

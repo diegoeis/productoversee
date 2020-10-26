@@ -15,6 +15,7 @@ disableLiveReload = false
 [taxonomies]
   tag = "tags"
   category = "categories"
+  author = "authors"
 
 [permalinks]
   posts = "/:slug"

@@ -1,7 +1,7 @@
 ---
 title: "As responsabilidades de um Product Owner não são suficientes"
 excerpt: "Um expcerpt bonito"
-authors: Diego Eis
+author: Diego Eis
 date: 2019-10-18T21:41:37-03:00
 categories: 
 - Carreira

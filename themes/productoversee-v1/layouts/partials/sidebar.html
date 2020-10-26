@@ -1,0 +1,9 @@
+<aside class="po-sidebar">
+      
+  {{ with .Params.authors}}
+  <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+  {{ end }}
+
+  <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
+
+</aside>

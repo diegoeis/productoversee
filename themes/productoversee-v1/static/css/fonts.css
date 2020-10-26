@@ -1,10 +1,11 @@
+
 @font-face {
   font-family: 'The Future Mono 02';
-  src: local('fonts/The Future Mono 02 ExtraLight'), local('fonts/TheFutureMono02-ExtraLight'),
-      url('fonts/TheFutureMono02-ExtraLight.woff2') format('woff2'),
-      url('fonts/TheFutureMono02-ExtraLight.woff') format('woff'),
-      url('fonts/TheFutureMono02-ExtraLight.ttf') format('truetype');
-  font-weight: 200;
+  src: local('fonts/The Future Mono 02 Regular'), local('fonts/TheFutureMono02-Regular'),
+      url('fonts/TheFutureMono02-Regular.woff2') format('woff2'),
+      url('fonts/TheFutureMono02-Regular.woff') format('woff'),
+      url('fonts/TheFutureMono02-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -22,11 +23,22 @@
 
 @font-face {
   font-family: 'The Future Mono 02';
-  src: local('fonts/The Future Mono 02 Black'), local('fonts/TheFutureMono02-Black'),
-      url('fonts/TheFutureMono02-Black.woff2') format('woff2'),
-      url('fonts/TheFutureMono02-Black.woff') format('woff'),
-      url('fonts/TheFutureMono02-Black.ttf') format('truetype');
-  font-weight: 900;
+  src: local('fonts/The Future Mono 02 Thin'), local('fonts/TheFutureMono02-Thin'),
+      url('fonts/TheFutureMono02-Thin.woff2') format('woff2'),
+      url('fonts/TheFutureMono02-Thin.woff') format('woff'),
+      url('fonts/TheFutureMono02-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'The Future Mono 02';
+  src: local('fonts/The Future Mono 02 ExtraLight'), local('fonts/TheFutureMono02-ExtraLight'),
+      url('fonts/TheFutureMono02-ExtraLight.woff2') format('woff2'),
+      url('fonts/TheFutureMono02-ExtraLight.woff') format('woff'),
+      url('fonts/TheFutureMono02-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
@@ -52,26 +64,15 @@
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
   font-family: 'The Future Mono 02';
-  src: local('fonts/The Future Mono 02 Regular'), local('fonts/TheFutureMono02-Regular'),
-      url('fonts/TheFutureMono02-Regular.woff2') format('woff2'),
-      url('fonts/TheFutureMono02-Regular.woff') format('woff'),
-      url('fonts/TheFutureMono02-Regular.ttf') format('truetype');
-  font-weight: normal;
+  src: local('fonts/The Future Mono 02 Black'), local('fonts/TheFutureMono02-Black'),
+      url('fonts/TheFutureMono02-Black.woff2') format('woff2'),
+      url('fonts/TheFutureMono02-Black.woff') format('woff'),
+      url('fonts/TheFutureMono02-Black.ttf') format('truetype');
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'The Future Mono 02';
-  src: local('fonts/The Future Mono 02 Thin'), local('fonts/TheFutureMono02-Thin'),
-      url('fonts/TheFutureMono02-Thin.woff2') format('woff2'),
-      url('fonts/TheFutureMono02-Thin.woff') format('woff'),
-      url('fonts/TheFutureMono02-Thin.ttf') format('truetype');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
 

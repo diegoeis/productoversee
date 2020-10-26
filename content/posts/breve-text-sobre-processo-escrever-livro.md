@@ -1,5 +1,5 @@
 ---
-authors: Diego Eis
+author: Pablo Silva
 title: Breve texto sobre o processo de escrever um livro
 excerpt: Não existe caminho certo ou errado, existe o caminho que te deixa mais confortável e feliz.
 image: https://i.imgur.com/VkICGhb.jpg
@@ -13,6 +13,8 @@ featured_post: true
 Foram algo em torno de 180 horas só da escrita, mais algumas várias horas não contadas de arrumação (landing page, mailing, configuração de ferramentas, formatação do livro, revisão, etc). Escrever um livro não é algo muito complexo, mas com certeza não é simples de se fazer. Ainda mais quando você decide fazer publicação própria, sem a ajuda de uma editora.
 
 Talvez você ache que a parte mais difícil seja escrever o livro. Mas eu acho que não. Você só escreve um livro se você já tem algo pra falar. Se você já tem uma motivação intrínseca de compartilhar qualquer tipo de informação técnica ou fictícia.
+
+> Talvez você ache que a parte mais difícil seja escrever o livro. Mas eu acho que não. Você só escreve um livro se você já tem algo pra falar. Se você já tem uma motivação intrínseca de compartilhar qualquer tipo de informação técnica ou fictícia.
 
 Eu entendi que disciplina tem muito mais a ver com frequência e constância do que com horários fixos e quantidade de caractéres por dia, pois dependendo da sua situação, você com certeza não conseguirá trabalhar de forma linear e ininterrupta. Mas é necessário ter disciplina para escrever sempre, ou seja, precisa ter frequência e constância. Os autores profissionais e grandes escritores de histórias, tem uma meta de escrita com um padrão de mais ou menos 2000 palavras por dia (um livro razoável precisa ter algo em torno de 50.000 palavras). NUNCA que eu conseguiria fazer isso de maneira fluída. Ainda mais por que em muitos dias eu pesquisava mais do que escrevia.
 
