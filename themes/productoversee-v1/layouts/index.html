@@ -74,13 +74,12 @@
       Autores
     </h2>
 
-
     <ul>
       {{ range .Site.Data.authors.author }}
       <li>
-        <a href="{{ .site }}">
+        <a href="{{ "/authors/" | relLangURL }}{{ .name | urlize }}">
           <img src="{{ .avatar }}" alt="">
-          <h4 class="po-title-h4">{{ .name }}</h4>
+          <h4 class="po-title-h4">{{ .name  }}</h4>
           <p>{{ .minibio }}</p>
         </a>
       </li>

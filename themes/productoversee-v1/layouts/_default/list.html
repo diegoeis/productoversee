@@ -2,56 +2,48 @@
 
 <section class="tb-list">
 
-  {{ if eq .Kind "taxonomy" }}
-  
-    {{if eq .Data.Singular "category" }}
-      <h1><small>posts da categoria </small> {{ .Title }}</h1>
 
-      <div class="tb-categ-banner">
-        <script class='__lxGc__' type='text/javascript'>
-        ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609049']={'i':__lxGc__.b++};
-        </script>
-      </div>
+  {{ if eq .Section "categories" }}
+    Artigos da categoria <strong>{{.Title}}</strong>
+  {{ end }}
 
-      <!-- <div class="tb-categ-banner">
-        <div id="banner-postlist" style="width:728px;height:90px;margin:0;padding:0"></div>
-        <script type="text/javascript">
-          var OX_ads = OX_ads || []
-          OX_ads.push({
-             slot_id: "banner-postlist",
-             auid: "540311238"
-          });
-        </script>
-        <script type="text/javascript" src="//pixfuture-d.openx.net/w/1.0/jstag"></script>
-      </div> -->
+  {{ if eq .Section "tags" }}
+    Artigos da tag <strong>{{.Title}}</strong>
+  {{ end }}
 
-    {{else if eq .Data.Singular "tag"}}
-      <h1><small>posts da tag </small> {{ .Title }}</h1>
+
+  {{ if eq .Section "authors" }}
+    {{ $author_post_details := where .Site.Data.authors.author ".name" .Title }}
+    
+    {{range $author_post_details}}
       
-      <div class="tb-categ-banner">
-        <script class='__lxGc__' type='text/javascript'>
-              ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609049']={'i':__lxGc__.b++};
-              </script>
-      </div>
+      <img src="{{.avatar}}" alt="Foto de {{.name}}">
 
-    {{else}}
-      <h1><small>posts do autor </small> {{ .Title }}</h1>
-    {{ end }}
+    {{end}} 
+  
+    <strong>{{.Title}}</strong>
+
+    <p>
+
+      {{range $author_post_details}}
+      
+        {{.minibio}}
+
+      {{end}}
+    </p>
 
   {{ end }}
 
 
-  {{ range .Data.Pages }}
-  <div class="tb-list-item">
-    <a href="{{ .RelPermalink }}">
-      <h2>{{ .Title }}</h2>
-      <p>
-        {{ .Param "excerpt" }}
-      </p>
-    </a>
-  </div>
-  {{ end }}
-
+  <ul class="po-list-posts">
+    {{range .Data.Pages}}
+      <li>
+        <a href="{{.Permalink}}">{{.Title}}</a><br>
+        {{ .Params.experpt}}
+      </li>
+    {{end}}
+  </ul>
+    
 </section>
 {{end}}
 
