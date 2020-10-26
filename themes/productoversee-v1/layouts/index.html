@@ -51,15 +51,17 @@
         <p>{{.Params.excerpt}}</p>
       </a>
     {{ end }}
-    <ul>
+    <ul class="po-featured-list">
     {{ range first 4 (after 1 $featured_posts )}}
       <li>
         <a href="{{ .Permalink }}">
           <figure>
             <img src="{{ .Params.image }}" alt="">
           </figure>
-          <span class="po-list-categs">{{ delimit .Params.categories ", " }}</span>
-          <h4 class="po-title-h4">{{ .Title }}</h4>
+          <div>
+            <span class="po-list-categs">{{ delimit .Params.categories ", " }}</span>
+            <h4 class="po-title-h4">{{ .Title }}</h4>
+          </div>
         </a>
       </li>
     {{ end }}
