@@ -6,6 +6,7 @@
   --colorRed: #FF0000;
   --colorBlack: #121212;
   --colorGrayLight: #E5E5E5;
+  --colorGrayMedium: #4F4F4F;
   --fontMono: "The Future Mono 02", monospace;
   --fontArticle: "Work Sans", arial, helvetica, sans-serif;
 }
@@ -94,11 +95,13 @@ a:hover p {color: #000;}
   margin: 0 auto;
 }
 
-.po-header-tools, #po-header-menu {
-  flex: 1;
-}
+.po-header-tools, #po-header-menu {flex: 1;}
 
-.po-logo {flex: 1 1 100px;}
+.po-logo {
+  flex: 1 1 100px; 
+  position: relative;
+  left: 10px;
+}
 
 .po-header-tools {
   flex: 1;
@@ -138,6 +141,9 @@ a:hover p {color: #000;}
 }
 
 @media (max-width: 900px)  {
+  .po-logo {
+    left: 0;
+  }
   #po-header-menu {
     display: none;
   }
@@ -163,7 +169,7 @@ a:hover p {color: #000;}
 
 .po-title-h4 {
   color: var(--colorBlack);
-  font: 0.9375rem var(--fontMono);
+  font: 0.9375rem/1.6 var(--fontMono);
 }
 
 
@@ -198,4 +204,78 @@ input[type="text"] {
   background: #4F4F4F;
   color: #fff;
   text-decoration: none;
+}
+
+
+/*****
+*** LISTS PAGES
+*****/
+.po-section-list {
+  padding: 100px 0;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.po-section-list .po-title-h1 {
+  font: 200 1.5rem var(--fontMono);
+  text-align: center;
+  color: var(--colorGrayMedium);
+}
+
+.po-section-list .po-title-h1 strong {
+  font: bold 2.5rem var(--fontMono);
+  display: block;
+  padding: 10px 0 0;
+  color: #000;
+}
+
+.po-list-posts {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.po-list-posts li {
+  flex: 1 0 300px;
+  list-style: none;
+  padding: 0 10px 100px;
+}
+
+.po-list-posts h4 {
+  margin-top: 15px;
+}
+.po-list-posts li img {max-width: 500px;}
+
+.po-list-posts .po-list-categs {
+  padding: 10px 0 0;
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+/****
+** LIST SECTION AUTHOR
+***/
+.po-section-authors {
+  text-align: center;
+}
+
+.po-section-authors img {
+  border-radius: 50%;
+  max-width: 250px;
+}
+
+.po-section-authors h3 {
+  font: bold 2.7rem var(--fontMono);
+  padding: 50px 0 20px;
+  margin: 0 auto;
+  max-width: 780px;
+}
+
+.po-section-authors p {
+  font: 300 1.35rem/1.7 var(--fontMono);
+  max-width: 780px;
+  color: #4F4F4F;
+  margin: 0 auto;
 }

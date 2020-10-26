@@ -48,7 +48,7 @@
       <nav class="po-posts-same-author">
         <h3>Mais artigos do {{.Params.authors}} </h3>
         <ul>
-          {{ range first 5 (where .Site.RegularPages "Params.author" .Params.authors )}}
+          {{ range first 5 (where .Site.RegularPages "Params.authors" .Params.authors )}}
           <li><a href="{{.Permalink}}">{{.Title}}</a></li>
           {{end}}
         </ul>

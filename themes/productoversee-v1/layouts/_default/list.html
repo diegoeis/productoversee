@@ -2,47 +2,59 @@
 
 <section class="tb-list">
 
+  <div class="po-section-list po-section-{{.Section}}">
+    <div class="po-container">
+      {{ if eq .Section "categories" }}
+        <h1 class="po-title-h1">Artigos da categoria <strong>{{.Title}}</strong></h1>
+      {{ end }}
 
-  {{ if eq .Section "categories" }}
-    Artigos da categoria <strong>{{.Title}}</strong>
-  {{ end }}
-
-  {{ if eq .Section "tags" }}
-    Artigos da tag <strong>{{.Title}}</strong>
-  {{ end }}
-
-
-  {{ if eq .Section "authors" }}
-    {{ $author_post_details := where .Site.Data.authors.author ".name" .Title }}
-    
-    {{range $author_post_details}}
       
-      <img src="{{.avatar}}" alt="Foto de {{.name}}">
+      {{ if eq .Section "tags" }}
+        <h1 class="po-title-h1">Artigos da tag <strong>{{.Title}}</strong></h1>
+      {{ end }}
 
-    {{end}} 
-  
-    <strong>{{.Title}}</strong>
 
-    <p>
+      {{ if eq .Section "authors" }}
+        {{ $author_post_details := where .Site.Data.authors.author ".name" .Title }}
+        
+        {{range $author_post_details}}
+          
+          <img src="{{.avatar}}" alt="Foto de {{.name}}">
 
-      {{range $author_post_details}}
+        {{end}} 
       
-        {{.minibio}}
+        <h3>{{.Title}}</h3>
 
+        <p>
+          {{range $author_post_details}}
+          
+            {{.minibio}}
+
+          {{end}}
+        </p>
+
+      {{ end }}
+    </div>
+  </div>
+
+
+  <div class="po-container">
+    <ul class="po-list-posts">
+      {{ range .Paginator.Pages }}
+      
+        <li>
+          <a href="{{ .Permalink }}">
+            <figure>
+              <img src="{{ .Params.image }}" alt="">
+            </figure>
+            
+
+            <h4 class="po-title-h4">{{ .Title }}</h4>
+          </a>
+        </li>
       {{end}}
-    </p>
-
-  {{ end }}
-
-
-  <ul class="po-list-posts">
-    {{range .Data.Pages}}
-      <li>
-        <a href="{{.Permalink}}">{{.Title}}</a><br>
-        {{ .Params.experpt}}
-      </li>
-    {{end}}
-  </ul>
+    </ul>
+  </div>
     
 </section>
 {{end}}
