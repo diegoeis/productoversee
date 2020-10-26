@@ -96,12 +96,12 @@ span.po-list-categs {
 ** HEADER
 ****/
 #po-header {
-  border-bottom: 1px solid var(--colorGrayLight)
+  border-bottom: 1px solid var(--colorGrayLight);
 }
 
 .Kind-is-home #po-header {border: none;}
 
-#po-header .po-container {
+#po-header > .po-container {
   padding: 25px 20px;
   display: flex;
   justify-content: space-between;
@@ -128,18 +128,127 @@ span.po-list-categs {
   justify-content: flex-start;
 }
 
+/*****
+** HEADER MENU
+****/
+
 #po-menu {
-  display: inline-block;
+  width: 100%;
+  position: fixed;
+  top: 5px;
+  left: 0;
+  z-index: 1;
+  padding: 15px 0 100px;
+  background: #fff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  transform: translateY(-110%);
+  opacity: 0;
+  transition:ease-in .35s all;
 }
 
-.po-sandwich {max-width: 30px; display: inline-block;}
+#po-menu.po-active {
+  opacity: 1;
+  transform: translateY(0)
+}
 
+
+.po-sandwich {
+  max-width: 30px; 
+  display: inline-block;
+  cursor: pointer;
+}
+
+.po-menu-close {
+  cursor: pointer;
+  font: bold 0.9rem/1 var(--fontMono);
+  color: #4F4F4F;
+  display: block;
+  margin: 0 0 50px;
+}
+.po-menu-close:hover {color: var(--colorRed);}
+
+.po-menu-close:before {
+  content: "";
+  display: inline-block;
+  margin-right: 5px;
+  width: 10px;
+  height: 10px;
+  background: url(../images/close-menu.png) no-repeat left center;
+  background-size: cover;
+}
+
+.po-menu-close img {
+  max-width: 10px;
+  display: inline;
+  vertical-align: middle;
+}
+
+#po-menu .po-menu-categs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+#po-menu .po-menu-categs a {
+  flex: 1 0 250px;
+  padding: 0 20px 20px;
+}
+
+#po-menu .po-menu-categs a h2 {
+  font: bold 1.25rem/1 var(--fontMono);
+  transition: all linear .1s;
+}
+
+#po-menu .po-menu-categs a p {
+  padding-top: 10px;
+  font: .75rem/1.5 var(--fontMono);
+  color: #4F4F4F;
+  transition: all linear .1s;
+}
+
+#po-menu .po-menu-categs a:hover {text-decoration: none;}
+
+#po-menu .po-menu-categs a:hover * {
+  color: var(--colorRed);
+  text-decoration: none;
+}
+
+#po-menu .po-menu-categs a:hover ~ a h2 {color: #000;}
+
+#po-menu .po-minimenu {
+  font: .75rem/1.5 var(--fontMono);
+  border-top: 1px solid rgba(0, 0, 0, .1);
+  margin: 50px 0 0;
+  padding: 30px 0 0 20px;
+}
+
+#po-menu .po-minimenu a {
+  display: inline-block;
+  margin-right: 20px;
+  padding: 0 10px;
+}
+
+
+
+  @media (max-width: 900px)  {
+    #po-menu .po-menu-categs a {
+      margin-bottom: 30px;
+    }
+    #po-menu .po-minimenu {
+      margin: 20px 0;
+    }
+}
+  
+
+/*** SEARCH ***/
 .po-search {
   margin-left: 15px;
   max-width: 30px; 
   display: inline-block;
 }
 
+/** SUPPORT HEADER MENU**/
 #po-header-menu {
   font: 1rem var(--fontMono);
   display: flex;

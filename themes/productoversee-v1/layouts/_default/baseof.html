@@ -11,6 +11,32 @@
 	  </div>
 	  
     {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
-		
+
+	
+<script type="text/javascript">
+  
+  (function (){
+    'use strict';
+  
+  
+    function init(){
+      toggleMenu();
+    }
+
+		const menubtn = document.querySelectorAll(".po-toggle-menu");
+		const menu = document.querySelector("#po-menu");
+
+		function toggleMenu(){
+				Array.from(menubtn).forEach(menubtn => {
+					menubtn.addEventListener('click', function(event) {
+					menu.classList.toggle('po-active')
+				});
+			});
+		}
+
+    init()
+  }());
+
+</script>
   </body>
 </html>
