@@ -4,6 +4,11 @@
 	{{ block "head" . }}{{ partialCached "head.html" . }}{{ end }}
 	
 	<body class='Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}'>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRH8LC5"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
 	  {{- partial "header.html" . -}}
 	  
 	  <div id="content">
@@ -12,7 +17,7 @@
 	  
     {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 
-	
+
 <script type="text/javascript">
   
   (function (){
@@ -21,22 +26,55 @@
   
     function init(){
       toggleMenu();
+      toggleNewsletter();
     }
 
-		const menubtn = document.querySelectorAll(".po-toggle-menu");
-		const menu = document.querySelector("#po-menu");
 
 		function toggleMenu(){
-				Array.from(menubtn).forEach(menubtn => {
-					menubtn.addEventListener('click', function(event) {
+
+			const menubtn = document.querySelectorAll(".po-toggle-menu");
+			const menu = document.querySelector("#po-menu");
+
+			Array.from(menubtn).forEach(menubtn => {
+				menubtn.addEventListener('click', function(event) {
 					menu.classList.toggle('po-active')
 				});
 			});
 		}
 
+
+		function toggleNewsletter(){
+			
+			const newsbtn = document.querySelectorAll(".po-news-box");
+			const newsoverlay = document.querySelector("#po-overlay-newsletter");
+			
+			Array.from(newsbtn).forEach(newsbtn => {
+				newsbtn.addEventListener('click', function(event) {
+					newsoverlay.classList.toggle('po-active')
+					event.preventDefault();
+				});
+			});
+		}
+
+
+
+		// function toggleNewsletter(){
+
+		// 	const newsbtn = document.querySelectorAll(".po-news-box");
+		// 	const newsoverlay = document.querySelectorAll("#po-overlay-newsletter");
+
+		// 	Array.from(newsbtn).forEach(newsbtn => {
+		// 		newsbtn.addEventListener('click', function(event) {
+		// 		newsoverlay.classList.toggle('po-active');
+		// 	});
+		// });
+		// }
+
+
     init()
   }());
 
 </script>
+
   </body>
 </html>

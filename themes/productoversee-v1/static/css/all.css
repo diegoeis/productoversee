@@ -3,7 +3,7 @@
 
 /**** VARIABLES ****/
 :root {
-  --colorRed: #EB5757;
+  --colorRed: #FC0D1B;
   --colorBlack: #121212;
   --colorGrayLight: #E5E5E5;
   --colorGrayMedium: #4F4F4F;
@@ -231,13 +231,13 @@ span.po-list-categs {
 
 
 
-  @media (max-width: 900px)  {
-    #po-menu .po-menu-categs a {
-      margin-bottom: 30px;
-    }
-    #po-menu .po-minimenu {
-      margin: 20px 0;
-    }
+@media (max-width: 900px)  {
+  #po-menu .po-menu-categs a {
+    margin-bottom: 30px;
+  }
+  #po-menu .po-minimenu {
+    margin: 20px 0;
+  }
 }
   
 
@@ -344,9 +344,9 @@ input[type="text"] {
 }
 
 .po-section-list .po-title-h1 {
-  font: 200 1.5rem var(--fontMono);
+  font: bold 1.5rem var(--fontMono);
   text-align: center;
-  color: var(--colorGrayMedium);
+  color: var(--colorRed);
 }
 
 .po-section-list .po-title-h1 strong {
@@ -415,7 +415,7 @@ input[type="text"] {
   background: url(../images/line.png) no-repeat left -350px fixed;
 }
 .po-about-page {
-  padding: 150px 0;
+  padding: 150px 20px;
 }
 .po-oversee-icon {
   display: block;
@@ -440,4 +440,99 @@ input[type="text"] {
 .po-about-text h3 {
   padding-top: 5px;
   font: bold 1.365rem/1.8 var(--fontMono);
+}
+
+
+/******
+*** NEWSLETTER OVERLAY
+******/
+#po-overlay-newsletter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background: rgba(0, 0, 0, .9);
+  pointer-events: none;
+  transition: opacity 250ms ease-in-out 0s;
+}
+
+#po-overlay-newsletter.po-active {
+  z-index: 1;
+  opacity: 1;
+  pointer-events: all;
+}
+
+.po-newsletter-over {
+  background: #fff;
+  padding: 50px 70px;
+  position: relative;
+}
+
+#po-overlay-newsletter .po-newsletter-over .subscription-form h4 {
+  font: bold 1.7rem/1.8 var(--fontMono);
+}
+
+#po-overlay-newsletter .po-newsletter-over .subscription-form p {
+  font: 1rem/1.8 var(--fontMono);
+}
+
+#po-overlay-newsletter .subscription-form {
+  border-radius: 0;
+  border: none;
+  width: 500px;
+  max-width: 100%;
+  padding: 0;
+}
+
+#po-overlay-newsletter .subscription-form form {
+  margin: 20px 0 0;
+}
+
+#po-overlay-newsletter .subscription-form input {
+  padding: 10px;
+}
+
+#po-overlay-newsletter .subscription-form button {
+  background: var(--colorRed);
+  text-align: left;
+  cursor: pointer;
+  border-radius: 0;
+  max-width: 200px;
+  font: 1rem/1.8 var(--fontMono);
+  border: 1px solid var(--colorRed);
+}
+
+#po-overlay-newsletter .subscription-form button:hover {
+  background: white;
+  color: var(--colorRed)  
+}
+
+
+#po-overlay-newsletter .subscription-form-fields {
+  margin: 0;
+}
+#po-overlay-newsletter .sender-link-wrapper {
+  display: none !important;
+  color: transparent;
+  font-size: 0.0001rem;
+  pointer-events: none;
+}
+
+.po-close-news:before {
+  content: "";
+  cursor: pointer;
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  display: inline-block;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+  background: url(../images/close-menu.png) no-repeat left center;
+  background-size: cover;
 }

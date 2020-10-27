@@ -44,7 +44,6 @@
   display: block;
 }
 
-
 .po-mentoring-box {
   text-align: center;
 }
@@ -101,4 +100,11 @@
   width: 100%;
   margin: 0 auto;
   text-align: center;
+}
+
+@media (max-width: 900px)  {
+
+  .po-newsletter-box .po-btn {
+    margin-top: 10px;
+  }
 }
