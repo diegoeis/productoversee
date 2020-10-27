@@ -104,8 +104,8 @@
 }
 
 .po-newsletter-footer .subscription-form {
-  width: 100%;
-  text-align: left;
+  width: 100% !important;
+  text-align: left !important;
 }
 
 .po-newsletter-footer .subscription-form-fields {

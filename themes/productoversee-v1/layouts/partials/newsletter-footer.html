@@ -1,0 +1,39 @@
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">
+function submitGR(token){
+if(grecaptcha.getResponse().length > 0){
+document.getElementById("submit-button").setAttribute("captcha", "false");
+document.getElementById("recaptcha-failed-message").setAttribute("hidden", "");
+} else {
+document.getElementById("submit-button").setAttribute("captcha", "true");
+document.getElementById("recaptcha-failed-message").removeAttribute("hidden");
+}
+}
+
+document.addEventListener("DOMContentLoaded", function(event) {
+});
+</script>
+<div class="sender-sub-main">
+<div class="sender-sub-inner">
+<div class="subscription-form">
+<h4 class="dont-break-out">Assine nossa Newsletter</h4>
+<div class="subscription-form-fields">
+<div class="subscription-form-content">
+<p>Todas as quartas, conteúdo só para assinantes.</p>                    </div>
+<form id="sender-subscribe" action="https://app.sender.net/forms/sender_subscription/17648/f06c69d3" method="POST">
+
+<div class="subscription-form-fields" id="subscription-form-fields">
+    <input name="email" type="email"class="email_type" id="email" data-label="Email" placeholder="Email" required>
+</div>
+<button id="submit-button" style="margin-top:5px" type="submit" class=" btn-grad dont-break-out">Assine</button>
+</form>
+</div>
+<span class="sender-link-wrapper">
+<a class="sender-link" href="http://sender.net" title="Email marketing services">
+<img src="https://app.sender.net/favicon.png">
+<span>Sender.net email marketing</span>
+</a>
+</span>
+</div>
+</div>
+</div>                
