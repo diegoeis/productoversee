@@ -414,7 +414,7 @@ input[type="text"] {
 .po-page-sobre body {
   background: url(../images/line.png) no-repeat left -350px fixed;
 }
-.po-page-sobre .po-container {
+.po-about-page {
   padding: 150px 0;
 }
 .po-oversee-icon {

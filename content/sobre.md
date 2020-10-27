@@ -23,3 +23,6 @@ Para conquistarmos novos ambientes, precisamos romper com o que foi dado como ce
 ### Somos Porta-vozes
 Assim mesmo, no plural. Representamos opiniões diferentes. Defendemos a exploração da formação da expressão individual, canalizando as vozes de profissionais que queiram formar um ambiente seguro de troca de ideias e argumentos, com o objetivo de estimular, convencer e interessar quem se dedica a ouvir e a participar dessa conversa.
 
+---
+
+Nós estamos comprometidos a influenciar a evolução do mercado, nos dedicando à evolução individual. É isso.
