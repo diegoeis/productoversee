@@ -5,7 +5,7 @@ authors: []
 date: {{ .Date }}
 tags: []
 categories: []
-featured_image: ""
+image: ""
 featured_post: false
 ---
 

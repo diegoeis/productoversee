@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode | default " pt-br " }}' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#'>
+<html lang='{{ .Site.LanguageCode | default " pt-br " }}' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#' class="po-page-{{.File.BaseFileName | urlize }}">
   
 	{{ block "head" . }}{{ partialCached "head.html" . }}{{ end }}
 	
-	<body class='Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }} {{.Params.title | urlize }}'>
+	<body class='Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}'>
 	  {{- partial "header.html" . -}}
 	  
 	  <div id="content">
