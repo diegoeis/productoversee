@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>desenvolvimento web on Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/tags/desenvolvimento-web/</link>
+    <description>Recent content in desenvolvimento web on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/desenvolvimento-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comentário: Design System e o gap de comunicação entre Designers e Devs</title>
+      <link>/comentario-design-system-e-o-gap-de-comunicacao-entre-designers-e-devs/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/comentario-design-system-e-o-gap-de-comunicacao-entre-designers-e-devs/</guid>
+      <description>Essa foi uma série de tweets que fiz outro dia. No final, tem o link da thread. Seguem as anotações:
+ Vocês já pararam para pensar que o design system é uma espécie de expressão de como havia (e ainda há) um buraco de comunicação e relacionamento entre devs e Designers?
+Durante anos os devs implementam e criam, do início ao fim, design systems a partir dos layouts entregues pelos designers.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas para projetos JAMStack</title>
+      <link>/boas-praticas-para-projetos-jamstack/</link>
+      <pubDate>Thu, 12 Apr 2018 01:18:19 +0000</pubDate>
+      
+      <guid>/boas-praticas-para-projetos-jamstack/</guid>
+      <description>A revolução dos sites usando uma arquitetura baseada em JavaScript, APIs e código pré gerado chama-se JAMStack. Essa forma de fazer websites tem como objetivo aliviar a arquitetura para manter websites ou sistemas. Pegue como exemplo o Tableless, onde nós tínhamos toda uma arquitetura sendo mantida com Wordpress e banco de dados de MySQL e atualmente é todo estático, usando Hugo, hospedado no Netlify e código guardado no Git.
+Para fazer isso, não é difícil, mas existem boas práticas que você pode seguir para facilitar sua vida, são elas:</description>
+    </item>
+    
+    <item>
+      <title>Atlassian libera documentação da sua biblioteca visual</title>
+      <link>/atlassian-libera-documentacao-da-sua-biblioteca-visual/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/atlassian-libera-documentacao-da-sua-biblioteca-visual/</guid>
+      <description>A Atlassian passou por um redesign recentemente, onde toda a sua suite de produtos foi totalmente redesenhada, de forma que não apenas o código fosse reescrito, mas também toda a linguagem de design. Nesse processo, eles deixaram livre para uso público todo o guideline de Design usado para criar esse redesign, como também uma biblioteca baseada em React com todos os componentes de interface, prontinhos para você implementar em qualquer produto.</description>
+    </item>
+    
+    <item>
+      <title>Um comentário sobre a desnecessária fragmentação da profissão designer</title>
+      <link>/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</guid>
+      <description>Eu estava pra escrever um artigo comentando como a pulverização do trabalho do Designer está atrapalhando profissionais e empresas, criando profissões cada vez mais fragmentadas e tão especializadas que chega a ser uma piada. Até que eu li o artigo do Jonas Downey, escrito no canal do Signal v. Noise, que descreveu tudo o que eu gostaria de falar e mais um pouco.
+O artigo é esse aqui: The Unnecessary Fragmentation of Design Job</description>
+    </item>
+    
+    <item>
+      <title>BrazilJS 2016 - Sobre o básico de JSON-LD e Web Semântica</title>
+      <link>/braziljs-2016-sobre-o-basico-de-json-ld-e-web-semantica/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/braziljs-2016-sobre-o-basico-de-json-ld-e-web-semantica/</guid>
+      <description>Esses são os slides da minha palestra feita no BrazilJS de 2016.</description>
+    </item>
+    
+    <item>
+      <title>Can web make ES6 the baseline of the Modern Web?</title>
+      <link>/can-web-make-es6-the-baseline-of-the-modern-web/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/can-web-make-es6-the-baseline-of-the-modern-web/</guid>
+      <description>Minhas anotações sobre a palestra que Chris Heilmann fez no BrazilJS de 2014.
+ Os devs esperam muito que a inovação venha de empresas como Mozilla, Apple, Microsoft. Em uma banda de música, o cara que toca o baixo, tem um papel muito importante, mas quase sempre ele não é levado a sério ou é reconhecido. O baixista dirige a banda. Ele diz para onde a música vai. Ele mantém o ritmo durante a música.</description>
+    </item>
+    
+  </channel>
+</rss>

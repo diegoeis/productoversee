@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discovery on Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/tags/discovery/</link>
+    <description>Recent content in Discovery on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 18 Oct 2020 21:41:37 -0300</lastBuildDate><atom:link href="/tags/discovery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combinando os resultados de frameworks e canvas</title>
+      <link>/combinando-os-resultados-de-frameworks-e-canvas/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/combinando-os-resultados-de-frameworks-e-canvas/</guid>
+      <description>As vezes algumas coisas precisam estar escritas para terem mais valor ou simplesmente para gerar alinhamento entre as pessoas. O achismo é um argumento comum no mercado de Produtos e isso está presente em todos os níveis da empresa, desde os C- Levels até a última ponta. Todos acham que sabem o que é melhor para o produto e principalmente para o negócio. Algumas pessoas estão certas, outras erradas, o problema é descobrir isso muito tarde.</description>
+    </item>
+    
+    <item>
+      <title>Primeiro Post um primeiro post com título grande pra gente ver como funciona</title>
+      <link>/primeiro-post-um-primeiro-post-com-titulo-grande-pra-gente-ver-como-funciona/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/primeiro-post-um-primeiro-post-com-titulo-grande-pra-gente-ver-como-funciona/</guid>
+      <description>first post lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Segundo post</title>
+      <link>/segundo-post/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/segundo-post/</guid>
+      <description>first post lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Terceiro Post</title>
+      <link>/terceiro-post/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/terceiro-post/</guid>
+      <description>third post lorem ipsum</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Eis on Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/authors/diego-eis/</link>
+    <description>Recent content in Diego Eis on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 18 Oct 2020 21:41:37 -0300</lastBuildDate><atom:link href="/authors/diego-eis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anotações Segurança em Aplicações Web</title>
+      <link>/anotacoes-seguranca-em-aplicacoes-web/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/anotacoes-seguranca-em-aplicacoes-web/</guid>
+      <description>Minhas anotações sobre a palestra do Nando Vieira no 16ELW.
+ seu site está seguro? Você se pergunta isso quando coloca seu produto no ar? 75% dos ataques estão na camada da aplicação. brechas de segurança acabam com sua credibilidade. OWASP é uma fundação voltada para distribuir informações sobre segurança em aplicações web. http://owasp.org/ o raios teve algo em torno de 8 ou 9 relesses de segurança em 2013. Parece muito mas não é.</description>
+    </item>
+    
+    <item>
+      <title>Combinando os resultados de frameworks e canvas</title>
+      <link>/combinando-os-resultados-de-frameworks-e-canvas/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/combinando-os-resultados-de-frameworks-e-canvas/</guid>
+      <description>As vezes algumas coisas precisam estar escritas para terem mais valor ou simplesmente para gerar alinhamento entre as pessoas. O achismo é um argumento comum no mercado de Produtos e isso está presente em todos os níveis da empresa, desde os C- Levels até a última ponta. Todos acham que sabem o que é melhor para o produto e principalmente para o negócio. Algumas pessoas estão certas, outras erradas, o problema é descobrir isso muito tarde.</description>
+    </item>
+    
+    <item>
+      <title>Primeiro Post um primeiro post com título grande pra gente ver como funciona</title>
+      <link>/primeiro-post-um-primeiro-post-com-titulo-grande-pra-gente-ver-como-funciona/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/primeiro-post-um-primeiro-post-com-titulo-grande-pra-gente-ver-como-funciona/</guid>
+      <description>first post lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Assumi que sou um generalista e isso me deixou mais leve</title>
+      <link>/assumi-que-sou-um-generalista-e-isso-me-deixou-mais-leve/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/assumi-que-sou-um-generalista-e-isso-me-deixou-mais-leve/</guid>
+      <description>Esse texto foi publicado antes na minha newsletter pessoal. Assine e entre para um grupo de mais de 450 pessoas.
+ Eu iniciei minha carreira sendo desenvolvedor front-end. Depois abri uma empresa. Sai dessa empresa e passei a coordenar times de produto em uma empresa de tecnologia. Nessa empresa, além de coordenar o time, eu absorvia responsabilidades de Agile Coach. Saí de lá e virei Product Manager, depois Diretor de Produtos e atualmente eu sou Head de Produtos em uma empresa de tecnologia.</description>
+    </item>
+    
+    <item>
+      <title>As responsabilidades de um Product Owner não são suficientes</title>
+      <link>/as-responsabilidades-de-um-product-owner-nao-sao-suficientes/</link>
+      <pubDate>Fri, 18 Oct 2019 21:41:37 -0300</pubDate>
+      
+      <guid>/as-responsabilidades-de-um-product-owner-nao-sao-suficientes/</guid>
+      <description>Esse é um assunto MUITO batido. Mesmo. Há mais discussões sobre as diferenças entre Product Owner e Product Manager que gente na rua 25 de Março em São Paulo. Muito dessa confusão, é que ninguém fala das responsabilidades que cada personagem exerce. Outro ponto, é que ninguém diz que esses dois caras são, na verdade, a mesma pessoa. Ou pelo menos deveriam ser (na minha opinião, claro).
+De onde surgiu o Product Owner?</description>
+    </item>
+    
+    <item>
+      <title>Assistir Suits e Billions me deixa mal</title>
+      <link>/assistir-suits-e-billions-me-deixa-mal/</link>
+      <pubDate>Fri, 18 Oct 2019 21:41:37 -0300</pubDate>
+      
+      <guid>/assistir-suits-e-billions-me-deixa-mal/</guid>
+      <description>Esse texto foi publicado muito antes na minha newsletter. Assine e entre para um grupo engajado de mais de 300 pessoas.
+ Um homem, de negócios, sério e muito inteligente entra em uma das salas do seu escritório em Nova York. A sala é da sua Coach pessoal (!). Ele começa dizendo: “- Quando eu cheguei a marca de 10 Bilhões, eu tive uma faísca de empolgação. Como se achasse uma nota de 20 dólares da calçada.</description>
+    </item>
+    
+  </channel>
+</rss>

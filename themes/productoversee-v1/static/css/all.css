@@ -107,25 +107,33 @@ span.po-list-categs {
   justify-content: space-between;
 }
 
-#po-header .po-logo a {
-  display: block;
-  max-width: 260px;
-  margin: 0 auto;
-}
-
-.po-header-tools, #po-header-menu {flex: 1;}
 
 .po-logo {
-  flex: 1 1 100px; 
+  flex: 1; 
   position: relative;
-  left: 10px;
+}
+
+.po-logo a {
+  overflow: hidden;
+  text-indent: -8888px;
+  display: block;
+  max-width: 260px;
+  width: 100%;
+  height: 70px;
+  margin: 0 auto;
+  background: url(../images/logo-bg-white.png) no-repeat center;
+  background-size: cover;
 }
 
 .po-header-tools {
-  flex: 1;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+}
+
+.po-header-inner .po-minimenu,
+.po-header-inner .po-header-tools {
+  flex: 1;
 }
 
 /*****
@@ -216,20 +224,6 @@ span.po-list-categs {
 
 #po-menu .po-menu-categs a:hover ~ a h2 {color: #000;}
 
-#po-menu .po-minimenu {
-  font: .75rem/1.5 var(--fontMono);
-  border-top: 1px solid rgba(0, 0, 0, .1);
-  margin: 50px 0 0;
-  padding: 30px 0 0 20px;
-}
-
-#po-menu .po-minimenu a {
-  display: inline-block;
-  margin-right: 20px;
-  padding: 0 10px;
-}
-
-
 
 @media (max-width: 900px)  {
   #po-menu .po-menu-categs a {
@@ -249,31 +243,45 @@ span.po-list-categs {
 }
 
 /** SUPPORT HEADER MENU**/
-#po-header-menu {
-  font: 1rem var(--fontMono);
+.po-minimenu {
+  font: .75rem/1.5 var(--fontMono);
+}
+
+.po-minimenu a {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.po-header-inner .po-minimenu {
+  border-top: 0;
+  margin: 0;
+  flex: 1;
+  text-align: right;
   display: flex;
-  align-items: center;
   justify-content: flex-end;
+  align-items: center;
 }
 
-#po-header-menu li {
-  display: inline-block;
-  list-style: none;
-  font-size: 0.81rem;
+.po-header-inner .po-minimenu a {
+  margin-left: 40px;
+  margin-right: 0;
 }
 
-#po-header-menu li a {
-  display: inline-block;
-  padding-left: 35px;
+#po-menu .po-container .po-minimenu {
+  border-top: 1px solid rgba(0, 0, 0, .1);
+  margin: 50px 0 0;
+  padding: 30px 0 0 20px;
+  text-align: left;
 }
 
 @media (max-width: 900px)  {
   .po-logo {
-    left: 0;
+    position: static;
+    max-width: 200px;
+    margin: 0 auto;
   }
-  #po-header-menu {
-    display: none;
-  }
+  #po-header .po-minimenu {display: none;}
+  #po-header #po-menu .po-minimenu {display: block;}
 }
 
 
@@ -304,18 +312,17 @@ span.po-list-categs {
 /****
 ** FORMS FIELDS
 *****/
-input[type="text"] {
+input[type="text"], .po-newsletter-footer .email_type {
   border: 1px solid #4F4F4F;
   padding: 10px;
   border-radius:3px;
   vertical-align: middle;
 }
 
-
 /****
 ** BUTTONS
 *****/
-.po-btn {
+.po-btn, .po-newsletter-footer #submit-button {
   display: inline-block;
   background: var(--colorBlack);
   color: #fff;
@@ -327,12 +334,11 @@ input[type="text"] {
   vertical-align: middle;
 }
 
-.po-btn:hover {
+.po-btn:hover, .po-newsletter-footer #submit-button:hover {
   background: #4F4F4F;
   color: #fff;
   text-decoration: none;
 }
-
 
 /*****
 *** LISTS PAGES
@@ -456,7 +462,7 @@ input[type="text"] {
   width: 100%;
   height: 100%;
   opacity: 0;
-  background: rgba(0, 0, 0, .9);
+  background: rgba(150, 150, 150, .9);
   pointer-events: none;
   transition: opacity 250ms ease-in-out 0s;
 }
@@ -467,21 +473,22 @@ input[type="text"] {
   pointer-events: all;
 }
 
-.po-newsletter-over {
+.po-box-newsletter {
   background: #fff;
   padding: 50px 70px;
   position: relative;
+  box-shadow: 0 0 15px rgba(0, 0, 0, .5);
 }
 
-#po-overlay-newsletter .po-newsletter-over .subscription-form h4 {
+.po-box-newsletter .subscription-form h4 {
   font: bold 1.7rem/1.8 var(--fontMono);
 }
 
-#po-overlay-newsletter .po-newsletter-over .subscription-form p {
+.po-box-newsletter .subscription-form p {
   font: 1rem/1.8 var(--fontMono);
 }
 
-#po-overlay-newsletter .subscription-form {
+.po-box-newsletter .subscription-form {
   border-radius: 0;
   border: none;
   width: 500px;
@@ -489,15 +496,15 @@ input[type="text"] {
   padding: 0;
 }
 
-#po-overlay-newsletter .subscription-form form {
+.po-box-newsletter .subscription-form form {
   margin: 20px 0 0;
 }
 
-#po-overlay-newsletter .subscription-form input {
+.po-box-newsletter .subscription-form input {
   padding: 10px;
 }
 
-#po-overlay-newsletter .subscription-form button {
+.po-box-newsletter .subscription-form button {
   background: var(--colorRed);
   text-align: left;
   cursor: pointer;
@@ -507,16 +514,16 @@ input[type="text"] {
   border: 1px solid var(--colorRed);
 }
 
-#po-overlay-newsletter .subscription-form button:hover {
+.po-box-newsletter .subscription-form button:hover {
   background: white;
   color: var(--colorRed)  
 }
 
 
-#po-overlay-newsletter .subscription-form-fields {
+.po-box-newsletter .subscription-form-fields {
   margin: 0;
 }
-#po-overlay-newsletter .sender-link-wrapper {
+.po-box-newsletter .sender-link-wrapper {
   display: none !important;
   color: transparent;
   font-size: 0.0001rem;

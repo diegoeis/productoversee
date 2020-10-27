@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/posts/</link>
+    <description>Recent content on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breve texto sobre o processo de escrever um livro</title>
+      <link>/breve-texto-sobre-o-processo-de-escrever-um-livro/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/breve-texto-sobre-o-processo-de-escrever-um-livro/</guid>
+      <description>Foram algo em torno de 180 horas só da escrita, mais algumas várias horas não contadas de arrumação (landing page, mailing, configuração de ferramentas, formatação do livro, revisão, etc). Escrever um livro não é algo muito complexo, mas com certeza não é simples de se fazer. Ainda mais quando você decide fazer publicação própria, sem a ajuda de uma editora.
+Talvez você ache que a parte mais difícil seja escrever o livro.</description>
+    </item>
+    
+    <item>
+      <title>Anotações Segurança em Aplicações Web</title>
+      <link>/anotacoes-seguranca-em-aplicacoes-web/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/anotacoes-seguranca-em-aplicacoes-web/</guid>
+      <description>Minhas anotações sobre a palestra do Nando Vieira no 16ELW.
+ seu site está seguro? Você se pergunta isso quando coloca seu produto no ar? 75% dos ataques estão na camada da aplicação. brechas de segurança acabam com sua credibilidade. OWASP é uma fundação voltada para distribuir informações sobre segurança em aplicações web. http://owasp.org/ o raios teve algo em torno de 8 ou 9 relesses de segurança em 2013. Parece muito mas não é.</description>
+    </item>
+    
+    <item>
+      <title>Combinando os resultados de frameworks e canvas</title>
+      <link>/combinando-os-resultados-de-frameworks-e-canvas/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/combinando-os-resultados-de-frameworks-e-canvas/</guid>
+      <description>As vezes algumas coisas precisam estar escritas para terem mais valor ou simplesmente para gerar alinhamento entre as pessoas. O achismo é um argumento comum no mercado de Produtos e isso está presente em todos os níveis da empresa, desde os C- Levels até a última ponta. Todos acham que sabem o que é melhor para o produto e principalmente para o negócio. Algumas pessoas estão certas, outras erradas, o problema é descobrir isso muito tarde.</description>
+    </item>
+    
+    <item>
+      <title>Primeiro Post um primeiro post com título grande pra gente ver como funciona</title>
+      <link>/primeiro-post-um-primeiro-post-com-titulo-grande-pra-gente-ver-como-funciona/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/primeiro-post-um-primeiro-post-com-titulo-grande-pra-gente-ver-como-funciona/</guid>
+      <description>first post lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Segundo post</title>
+      <link>/segundo-post/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/segundo-post/</guid>
+      <description>first post lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Terceiro Post</title>
+      <link>/terceiro-post/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/terceiro-post/</guid>
+      <description>third post lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Assumi que sou um generalista e isso me deixou mais leve</title>
+      <link>/assumi-que-sou-um-generalista-e-isso-me-deixou-mais-leve/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/assumi-que-sou-um-generalista-e-isso-me-deixou-mais-leve/</guid>
+      <description>Esse texto foi publicado antes na minha newsletter pessoal. Assine e entre para um grupo de mais de 450 pessoas.
+ Eu iniciei minha carreira sendo desenvolvedor front-end. Depois abri uma empresa. Sai dessa empresa e passei a coordenar times de produto em uma empresa de tecnologia. Nessa empresa, além de coordenar o time, eu absorvia responsabilidades de Agile Coach. Saí de lá e virei Product Manager, depois Diretor de Produtos e atualmente eu sou Head de Produtos em uma empresa de tecnologia.</description>
+    </item>
+    
+    <item>
+      <title>As responsabilidades de um Product Owner não são suficientes</title>
+      <link>/as-responsabilidades-de-um-product-owner-nao-sao-suficientes/</link>
+      <pubDate>Fri, 18 Oct 2019 21:41:37 -0300</pubDate>
+      
+      <guid>/as-responsabilidades-de-um-product-owner-nao-sao-suficientes/</guid>
+      <description>Esse é um assunto MUITO batido. Mesmo. Há mais discussões sobre as diferenças entre Product Owner e Product Manager que gente na rua 25 de Março em São Paulo. Muito dessa confusão, é que ninguém fala das responsabilidades que cada personagem exerce. Outro ponto, é que ninguém diz que esses dois caras são, na verdade, a mesma pessoa. Ou pelo menos deveriam ser (na minha opinião, claro).
+De onde surgiu o Product Owner?</description>
+    </item>
+    
+    <item>
+      <title>Assistir Suits e Billions me deixa mal</title>
+      <link>/assistir-suits-e-billions-me-deixa-mal/</link>
+      <pubDate>Fri, 18 Oct 2019 21:41:37 -0300</pubDate>
+      
+      <guid>/assistir-suits-e-billions-me-deixa-mal/</guid>
+      <description>Esse texto foi publicado muito antes na minha newsletter. Assine e entre para um grupo engajado de mais de 300 pessoas.
+ Um homem, de negócios, sério e muito inteligente entra em uma das salas do seu escritório em Nova York. A sala é da sua Coach pessoal (!). Ele começa dizendo: “- Quando eu cheguei a marca de 10 Bilhões, eu tive uma faísca de empolgação. Como se achasse uma nota de 20 dólares da calçada.</description>
+    </item>
+    
+    <item>
+      <title>Aprendendo a ser eu mesmo</title>
+      <link>/aprendendo-a-ser-eu-mesmo/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/aprendendo-a-ser-eu-mesmo/</guid>
+      <description>Você já deve ter feito algumas avaliações de perfil ao longo da sua carreira. A mais famosinha é o DISC. A primeira vez que fiz o DISC e recebi o resultado, minha cabeça explodiu. Não conseguia entender como um negócio daquele conseguia dar uma descrição quase que perfeita do meu perfil comportamental depois de responder algumas perguntas. Mas conforme você cresce, a mágica desses testes perde o efeito e você começa a encará-los de uma maneira mais racional.</description>
+    </item>
+    
+    <item>
+      <title>Comentário: Design System e o gap de comunicação entre Designers e Devs</title>
+      <link>/comentario-design-system-e-o-gap-de-comunicacao-entre-designers-e-devs/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/comentario-design-system-e-o-gap-de-comunicacao-entre-designers-e-devs/</guid>
+      <description>Essa foi uma série de tweets que fiz outro dia. No final, tem o link da thread. Seguem as anotações:
+ Vocês já pararam para pensar que o design system é uma espécie de expressão de como havia (e ainda há) um buraco de comunicação e relacionamento entre devs e Designers?
+Durante anos os devs implementam e criam, do início ao fim, design systems a partir dos layouts entregues pelos designers.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas para projetos JAMStack</title>
+      <link>/boas-praticas-para-projetos-jamstack/</link>
+      <pubDate>Thu, 12 Apr 2018 01:18:19 +0000</pubDate>
+      
+      <guid>/boas-praticas-para-projetos-jamstack/</guid>
+      <description>A revolução dos sites usando uma arquitetura baseada em JavaScript, APIs e código pré gerado chama-se JAMStack. Essa forma de fazer websites tem como objetivo aliviar a arquitetura para manter websites ou sistemas. Pegue como exemplo o Tableless, onde nós tínhamos toda uma arquitetura sendo mantida com Wordpress e banco de dados de MySQL e atualmente é todo estático, usando Hugo, hospedado no Netlify e código guardado no Git.
+Para fazer isso, não é difícil, mas existem boas práticas que você pode seguir para facilitar sua vida, são elas:</description>
+    </item>
+    
+    <item>
+      <title>Atlassian libera documentação da sua biblioteca visual</title>
+      <link>/atlassian-libera-documentacao-da-sua-biblioteca-visual/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/atlassian-libera-documentacao-da-sua-biblioteca-visual/</guid>
+      <description>A Atlassian passou por um redesign recentemente, onde toda a sua suite de produtos foi totalmente redesenhada, de forma que não apenas o código fosse reescrito, mas também toda a linguagem de design. Nesse processo, eles deixaram livre para uso público todo o guideline de Design usado para criar esse redesign, como também uma biblioteca baseada em React com todos os componentes de interface, prontinhos para você implementar em qualquer produto.</description>
+    </item>
+    
+    <item>
+      <title>Lançamento App Easynvest</title>
+      <link>/lancamento-app-easynvest/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/lancamento-app-easynvest/</guid>
+      <description>Saiu o novo App da Easynvest! :-D
+A Easynvest está passando por mudanças profundas em todos os sentidos: formação de novas equipes, novos sócios/investidores, estrutura, negócio, tudo. Ao contrário do que muita gente acha: a Easynvest não é uma start-up. Ela já tem quase 50 anos. Está aí no mercado financeiro desde 1968. Mas fase de crescimento absurdo que ela está vivendo agora é bastante parecido com que as startups vivem, por isso a confusão.</description>
+    </item>
+    
+    <item>
+      <title>Um comentário sobre a desnecessária fragmentação da profissão designer</title>
+      <link>/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</guid>
+      <description>Eu estava pra escrever um artigo comentando como a pulverização do trabalho do Designer está atrapalhando profissionais e empresas, criando profissões cada vez mais fragmentadas e tão especializadas que chega a ser uma piada. Até que eu li o artigo do Jonas Downey, escrito no canal do Signal v. Noise, que descreveu tudo o que eu gostaria de falar e mais um pouco.
+O artigo é esse aqui: The Unnecessary Fragmentation of Design Job</description>
+    </item>
+    
+    <item>
+      <title>Locaweb</title>
+      <link>/locaweb/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/locaweb/</guid>
+      <description>Este foi meu último dia de trabalho na Locaweb. Foram 5 anos que pareceram poucos meses. A Locaweb é uma empresa tão incrível, que você não vê o tempo passar, e quando percebe, você já se tornou parte da família.
+Quando estava procurando uma nova empresa para morar, eu não queria ir para qualquer lugar. Eu queria ir para um lugar onde eu pudesse fazer a diferença, pudesse ajudar a empresa a crescer, a se modificar, a se transformar para a melhor e acima de tudo, um lugar onde eu pudesse continuar empreendendo, como sempre fiz.</description>
+    </item>
+    
+    <item>
+      <title>BrazilJS 2016 - Sobre o básico de JSON-LD e Web Semântica</title>
+      <link>/braziljs-2016-sobre-o-basico-de-json-ld-e-web-semantica/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/braziljs-2016-sobre-o-basico-de-json-ld-e-web-semantica/</guid>
+      <description>Esses são os slides da minha palestra feita no BrazilJS de 2016.</description>
+    </item>
+    
+    <item>
+      <title>Anotações sobre gestão agile</title>
+      <link>/anotacoes-sobre-gestao-agile/</link>
+      <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/anotacoes-sobre-gestao-agile/</guid>
+      <description>Algumas anotações que tenho sobre gestão 3.0, learning 3.0
+ gestao e lideranca agile e outros assuntos.   Competência é a junção do conhecimento (teoria), habilidade (pratica) e atitude (disciplina) - CHA Você não precisa de milhões de dólares pra criar um ambiente que ajude o desenvolvimento de competências qual o papel de um gestor num ambiente que melhora o desenvolvimento de competências? O gestor precisa criar um ambiente onde as pessoas desenvolvam o CHA de maneira contínua Tem certos aprendizados que foram gerados por erros.</description>
+    </item>
+    
+    <item>
+      <title>Can web make ES6 the baseline of the Modern Web?</title>
+      <link>/can-web-make-es6-the-baseline-of-the-modern-web/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/can-web-make-es6-the-baseline-of-the-modern-web/</guid>
+      <description>Minhas anotações sobre a palestra que Chris Heilmann fez no BrazilJS de 2014.
+ Os devs esperam muito que a inovação venha de empresas como Mozilla, Apple, Microsoft. Em uma banda de música, o cara que toca o baixo, tem um papel muito importante, mas quase sempre ele não é levado a sério ou é reconhecido. O baixista dirige a banda. Ele diz para onde a música vai. Ele mantém o ritmo durante a música.</description>
+    </item>
+    
+    <item>
+      <title>Atender bem para atender sempre</title>
+      <link>/atender-bem-para-atender-sempre/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/atender-bem-para-atender-sempre/</guid>
+      <description>Não atender bem é uma das grandes falhas se você trabalha com web. Parece óbvio, mas um dos principais problemas de empresas, freelancers ou desenvolvedores é o atendimento, por mais simples que seja. Atender bem não é só levar o camarada para almoçar antes de fechar um grande negócio. Atender bem é algo complexo, caro e que toma tempo.
+Quantas empresas você conhece que procuram saber realmente se o seu cliente está ou ficou satisfeito com o trabalho executado?</description>
+    </item>
+    
+    <item>
+      <title>Anotações sobre gestão 3.0</title>
+      <link>/anotacoes-sobre-gestao-3.0/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/anotacoes-sobre-gestao-3.0/</guid>
+      <description>Estas são as minhas anotações sobre o que ouvi em um curso de gerenciamento ágil.
+gestão 3.0 não é uma metodologia. Ela é uma mindset. É um modo de pensar. Não há uma sequência a seguir. São visões diferentes sobre um mesmo ponto: gerenciar corretamente projetos e pessoas em ambientes complexos.
+ Qual o tamanho ideal de um grupo? Depende. Depende da necessidade. Mas geralmente uma equipe de 5 pessoas é o ideal.</description>
+    </item>
+    
+  </channel>
+</rss>

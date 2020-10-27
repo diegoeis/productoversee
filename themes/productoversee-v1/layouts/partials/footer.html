@@ -1,12 +1,15 @@
 <div id="po-endpage">
 
   <div id="po-pre-footer" class="po-container">
-    <div class="po-newsletter-box">
+    <div class="po-newsletter-footer">
       <h3>Torne sua inbox mais interessante às quartas-feiras.</h3>
       <p>Assinantes da Newsletter recebem duas semanas antes conteúdos que serão publicados no portal. Saiba antes como impactar sua carreira, negócio e produto.</p>
-      <form action="">
+
+      <script type="text/javascript" src="https://cdn.sender.net/webforms/17648/f06c69d3.js?v=4"></script>
+
+      <!-- <form action="">
         <input type="text" placeholder="Seu e-mail"> <button class="po-btn">Inscrever</button>
-      </form>
+      </form> -->
     </div>
     <div class="po-mentoring-box">
       <h3>Faça mentoria individual ou em grupo conosco. </h3>
@@ -29,19 +32,18 @@
         <nav>
           <h3>Categorias</h3>
           <ul>
-            <li><a href="#">Estratégia</a></li>
-            <li><a href="#">Gestão e Liderança</a></li>
-            <li><a href="#">Discovery</a></li>
-            <li><a href="#">Dados</a></li>
-            <li><a href="#">Opinião</a></li>
-            <li><a href="#">Mercado e Carreira</a></li>
-          </ul>
+            <li><a href="/categories/opiniao/">Opinião</a></li>
+            <li><a href="/categories/estrategia/">Estratégia</a></li>
+            <li><a href="/categories/tatico/">Tático</a></li>
+            <li><a href="/categories/design/">Design</a></li>
+            <li><a href="/categories/dados/">Dados</a></li>
+            </ul>
         </nav>
         <nav>
           <ul>
-            <li><a href="#">Sobre o Product Oversee</a></li>
-            <li><a href="#">Contato</a></li>
-            <li><a href="#">Media Kit</a></li>
+            <li><a href="/sobre">Sobre o Product Oversee</a></li>
+            <!-- <li><a href="#">Contato</a></li>
+            <li><a href="#">Media Kit</a></li> -->
           </ul>
         </nav>
       </div>
@@ -50,10 +52,10 @@
   </footer>
 
 	
-  <div id="po-overlay-newsletter">
+  <div id="po-overlay-newsletter" aria-hidden="true">
 
-    <div class="po-newsletter-over">
-      <span class="po-close-news po-news-box"></span>
+    <div class="po-box-newsletter" aria-labelledby="Newsletter da Product Oversee" aria-describedby="Se inscreva na nossa newsletter para receber um artigo por semana, todas as quartas-feiras." role="dialog"  tabindex="-1">
+      <span class="po-close-news po-news-box" aria-label="Feche essa modal"></span>
       <script type="text/javascript" src="https://cdn.sender.net/webforms/17648/f06c69d3.js?v=4"></script>
     </div>
   

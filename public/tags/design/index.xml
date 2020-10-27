@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/tags/design/</link>
+    <description>Recent content in design on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comentário: Design System e o gap de comunicação entre Designers e Devs</title>
+      <link>/comentario-design-system-e-o-gap-de-comunicacao-entre-designers-e-devs/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/comentario-design-system-e-o-gap-de-comunicacao-entre-designers-e-devs/</guid>
+      <description>Essa foi uma série de tweets que fiz outro dia. No final, tem o link da thread. Seguem as anotações:
+ Vocês já pararam para pensar que o design system é uma espécie de expressão de como havia (e ainda há) um buraco de comunicação e relacionamento entre devs e Designers?
+Durante anos os devs implementam e criam, do início ao fim, design systems a partir dos layouts entregues pelos designers.</description>
+    </item>
+    
+    <item>
+      <title>Atlassian libera documentação da sua biblioteca visual</title>
+      <link>/atlassian-libera-documentacao-da-sua-biblioteca-visual/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/atlassian-libera-documentacao-da-sua-biblioteca-visual/</guid>
+      <description>A Atlassian passou por um redesign recentemente, onde toda a sua suite de produtos foi totalmente redesenhada, de forma que não apenas o código fosse reescrito, mas também toda a linguagem de design. Nesse processo, eles deixaram livre para uso público todo o guideline de Design usado para criar esse redesign, como também uma biblioteca baseada em React com todos os componentes de interface, prontinhos para você implementar em qualquer produto.</description>
+    </item>
+    
+    <item>
+      <title>Um comentário sobre a desnecessária fragmentação da profissão designer</title>
+      <link>/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</guid>
+      <description>Eu estava pra escrever um artigo comentando como a pulverização do trabalho do Designer está atrapalhando profissionais e empresas, criando profissões cada vez mais fragmentadas e tão especializadas que chega a ser uma piada. Até que eu li o artigo do Jonas Downey, escrito no canal do Signal v. Noise, que descreveu tudo o que eu gostaria de falar e mais um pouco.
+O artigo é esse aqui: The Unnecessary Fragmentation of Design Job</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 <header id="po-header">
-  <div class="po-container">
+  <div class="po-container po-header-inner">
     <div class="po-header-tools">
       <span class="po-sandwich po-toggle-menu">
         <img src="/images/sandwich.png" alt="">
@@ -10,16 +10,12 @@
     </div>
 
     <h1 class="po-logo">
-      <a href="/"><img src="/images/logo-bg-white.png" alt="Product Oversee - O Primeiro portal de conteúdo para pessoas que constróem produtos no Brasil"></a>
+      <a href="/" title="Product Oversee - O Primeiro portal de conteúdo para pessoas que constróem produtos no Brasil">
+        Product Oversee
+      </a>
     </h1>
 
-    <nav id="po-header-menu">
-      <ul>
-        <li><a href="/mentoria">Mentoria</a></li>
-        <li><a href="#" class="po-news-box">Newsletter</a></li>
-        <li><a href="/sobre/">Sobre</a></li>
-      </ul>
-    </nav>
+    {{ partial "minimenu.html"}}
 
   </div>
   <menu id="po-menu">
@@ -49,12 +45,7 @@
         </a>
       </nav>
 
-      <nav class="po-minimenu">
-        <a href="#">Mentoria</a>
-        <a href="#" class="po-news-box">Newsletter</a>
-        <a href="/sobre/">Sobre</a>
-        </ul>
-      </nav>
+      {{ partial "minimenu.html"}}
 
     </div>
   </menu>

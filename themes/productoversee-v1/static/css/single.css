@@ -3,8 +3,8 @@
   padding-bottom: 10px;
 }
 
-.Type-is-posts .po-logo {
-  max-width: 170px;
+.Type-is-posts .po-logo a {
+  max-width: 194px;
 }
 
 .Type-is-posts .po-list-categs {margin: 20px 0 30px;}

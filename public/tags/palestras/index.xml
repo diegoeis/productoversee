@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>palestras on Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/tags/palestras/</link>
+    <description>Recent content in palestras on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 29 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/palestras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BrazilJS 2016 - Sobre o básico de JSON-LD e Web Semântica</title>
+      <link>/braziljs-2016-sobre-o-basico-de-json-ld-e-web-semantica/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/braziljs-2016-sobre-o-basico-de-json-ld-e-web-semantica/</guid>
+      <description>Esses são os slides da minha palestra feita no BrazilJS de 2016.</description>
+    </item>
+    
+  </channel>
+</rss>

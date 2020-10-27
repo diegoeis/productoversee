@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Product Oversee - o portal de conteúdo para PMs com opinião</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Product Oversee - o portal de conteúdo para PMs com opinião</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carreira</title>
+      <link>/categories/carreira/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/carreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento</title>
+      <link>/categories/desenvolvimento/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/categories/desenvolvimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estratégia</title>
+      <link>/categories/estrategia/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/categories/estrategia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tático</title>
+      <link>/categories/tatico/</link>
+      <pubDate>Sun, 18 Oct 2020 21:41:37 -0300</pubDate>
+      
+      <guid>/categories/tatico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinião</title>
+      <link>/categories/opiniao/</link>
+      <pubDate>Fri, 18 Oct 2019 21:41:37 -0300</pubDate>
+      
+      <guid>/categories/opiniao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
