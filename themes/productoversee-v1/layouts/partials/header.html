@@ -1,13 +1,25 @@
 <header id="po-header">
   <div class="po-container po-header-inner">
     <div class="po-header-tools">
-      <span class="po-sandwich po-toggle-menu">
+      <span class="po-sandwich po-toggle-menu" data-toggle="#po-menu">
         <img src="/images/sandwich.png" alt="">
       </span>
-      <span class="po-search">
+      <span class="po-search" data-toggle="#po-search-form">
         <img src="/images/icon-search.png" alt="">
       </span>
     </div>
+
+    <form id="po-search-form" name="x" action="//duckduckgo.com/">
+      <input type="hidden" value="productoversee.com" name="sites"></input>
+      <input type="hidden" value="br-pt" name="kl"></input>
+      <input type="hidden" value="1" name="kz"></input>
+      <input type="hidden" value="e" name="ky"></input>
+      <input type="hidden" value="g" name="k8"></input>
+      <input type="hidden" value="-1" name="k1"></input>
+      <input type="hidden" value="w" name="kj"></input>
+      <input type="text" placeholder="Faça sua busca" name="q" autofocus></input>
+      <!-- <input type="image" src="{{ .Site.BaseURL }}images/search.svg"> -->
+    </form> 
 
     <h1 class="po-logo">
       <a href="/" title="Product Oversee - O Primeiro portal de conteúdo para pessoas que constróem produtos no Brasil">
@@ -20,7 +32,7 @@
   </div>
   <menu id="po-menu">
     <div class="po-container">
-      <span class="po-menu-close po-toggle-menu">Fechar</span>
+      <span class="po-menu-close" data-toggle="#po-menu">Fechar</span>
 
       <nav class="po-menu-categs">
         <a href="/categories/opiniao/">

@@ -105,6 +105,11 @@
   font: bold 1.365rem/1.8 var(--fontMono);
 }
 
+@media only screen and (max-width: 900px) {
+  .po-page-text {
+    margin-top: 50px;
+  }
+}
 
 /*****
 ** ARTICLE 

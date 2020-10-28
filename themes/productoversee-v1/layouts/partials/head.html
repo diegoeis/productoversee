@@ -1,5 +1,27 @@
   <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
+
+  <script type="application/ld+json">
+    { "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{.Title}}",
+      "author": "{{with .Params.authors}}{{ . }}{{end}}",
+      "image": "{{ .Params.image }}",
+      "publisher": {
+        "@type" : "Organization",
+        "name":"{{.Site.Params.siteName}}",
+        "logo":"https://productoversee.com/images/logo-bg-white.png"
+        },
+      "url": "{{ .Permalink }}",
+      "wordCount": "{{ .FuzzyWordCount }}",
+      "keywords": "{{.Params.tags}}",
+      "datePublished": "{{ .Date.Format "02/01/2006"}}",
+      "dateCreated": "{{ .Date.Format "02/01/2006"}}",
+      "articleBody": "{{ .Content }}",
+      "description": "{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end }}"
+    }
+  </script>
+
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
