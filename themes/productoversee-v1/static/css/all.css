@@ -167,15 +167,15 @@ span.po-list-categs {
 }
 
 
-::-webkit-input-placeholder { /* Edge */
+#po-search-form ::-webkit-input-placeholder { /* Edge */
   font: 1.4rem/1.5 var(--fontMono);
 }
 
-:-ms-input-placeholder { /* Internet Explorer 10-11 */
+#po-search-form :-ms-input-placeholder { /* Internet Explorer 10-11 */
   font: 1.4rem/1.5 var(--fontMono);
 }
 
-::placeholder {
+#po-search-form ::placeholder {
   font: 1.4rem/1.5 var(--fontMono);
 }
 
