@@ -21,7 +21,7 @@ Acreditamos que a gestão de produtos encontra maneiras colaborativas, provocand
 Para conquistarmos novos ambientes, precisamos romper com o que foi dado como certo anteriormente. Fomentamos e estimulamos a independência de opinião, facilitando a discussão para a criação de um racional individual. **Motivamos** o **questionamento**, **desafiando o consenso** e ajudando os profissionais a construirem **seu próprio pensamento crítico**.
 
 ### Somos Porta-vozes
-Assim mesmo, no plural. Representamos opiniões diferentes. Defendemos a exploração da formação da expressão individual, canalizando as vozes de profissionais que queiram formar um ambiente seguro de troca de ideias e argumentos, com o objetivo de estimular, convencer e interessar quem se dedica a ouvir e a participar dessa conversa.
+Assim mesmo, no plural. **Representamos opiniões diferentes**. Defendemos a exploração da formação da expressão individual, canalizando as vozes de profissionais que queiram formar um ambiente seguro de troca de ideias e argumentos, com o objetivo de estimular, provocar e interessar quem se dedica a ouvir e a participar dessa conversa.
 
 ---
 
