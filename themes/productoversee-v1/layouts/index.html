@@ -122,6 +122,37 @@
     <h2 class="po-title-h2">
       Vale a pena ouvir
     </h2>
+<!-- 
+    <script type="text/javascript" src="https://rss2json.com/gfapi.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <script type="text/javascript">
+
+    google.load("feeds", "1");
+
+    function initialize() {
+      var feed = new google.feeds.Feed("https://anchor.fm/s/d7f5154/podcast/rss");
+      feed.load(function(result) {
+        if (!result.error) {
+          var container = document.getElementById("feed");
+          for (var i = 0; i < result.feed.entries.length; i++) {
+            var entry = result.feed.entries[i];
+            var div = document.createElement("div");
+            var img = document.createElement("img");
+            div.appendChild(document.createTextNode(entry.title));
+            // div.appendChild(document.createTextNode(entry.content));
+            img.src = entry.thumbnail;
+            container.appendChild(div);
+            container.appendChild(img);
+          }
+        }
+      });
+    }
+    google.setOnLoadCallback(initialize);
+
+    </script>
+    <div id="feed"></div> -->
+
     <ul>
       <li>
         <a href="#" class="po-podcast-item">

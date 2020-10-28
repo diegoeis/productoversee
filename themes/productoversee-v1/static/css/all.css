@@ -9,6 +9,7 @@
   --colorGrayMedium: #4F4F4F;
   --fontMono: "The Future Mono 02", monospace;
   --fontArticle: "Work Sans", arial, helvetica, sans-serif;
+  --breakpoint: 900px;
 }
 
 * {
@@ -50,6 +51,12 @@ a:hover ~ a h2,
 
 a:hover p {color: #000;}
 
+@media only screen and (max-width: 900px) {
+  ul,
+  ol {
+    list-style-position: inside;
+  }
+}
 
 /*** AUTHORS LIST ***/
 .po-authors-list {
@@ -225,7 +232,7 @@ span.po-list-categs {
 #po-menu .po-menu-categs a:hover ~ a h2 {color: #000;}
 
 
-@media (max-width: 900px)  {
+@media only screen and (max-width: 900px) {
   #po-menu {
     max-height: 100%;
     overflow: auto;
@@ -276,7 +283,7 @@ span.po-list-categs {
   text-align: left;
 }
 
-@media (max-width: 900px)  {
+@media only screen and (max-width: 900px) {
   .po-logo {
     position: static;
     max-width: 200px;

@@ -1,6 +1,6 @@
 ---
-title: Seja um autor
-excerpt: Quer escrever conosco? Seja bem vindo.
+title: Escreva conosco
+excerpt: Vamos criar algo grande juntos
 date: 2020-10-26
 layout: pages
 ---
@@ -9,7 +9,7 @@ Nossa proposta é influenciar a evolução do mercado, nos dedicando à evoluç�
 
 ## Quem pode escrever?
 
-Qualquer pessoa pode escrever conosco, obviamente, produzindo conteúdo que tenham a ver com o nosso público e com a linha editorial do site. Isso quer dizer que você pode ser PM, Designer, Dev, Data Science, Negócios, etc. Qualquer pessoa que trabalhe com tecnologia e esteja inserido no processo de entregar, alguma parte da jornada da construção de produtos digitais.
+Qualquer pessoa pode escrever conosco, obviamente, produzindo conteúdo que tenham a ver com o nosso público e com a linha editorial do site. Isso quer dizer que você pode ser PM, Designer, Dev, Data Scientist, Negócios, etc. Qualquer pessoa que trabalhe com tecnologia e esteja inserido no processo de entrega de alguma parte da jornada da construção de produtos digitais.
 
 Nós aceitamos um artigo apenas. Não tem problema. Mas nós queremos estimular que você, como autor, tenha um relacionamento com os seus leitores, por isso, manter a rotina de escrita (seja lá qual rotina e frequencia você escolher), é um passo importante para entregar nossa proposta de valor.
 
@@ -28,13 +28,13 @@ Além desses quatro pilares, nós queremos amplificar a opinião das pessoas que
 
 Queremos aprender cada vez mais a prezar pela frequência, constância e qualidade das publicações. Por isso todos os textos que vão pro ar são editados pela nossa equipe. Funciona assim:
 
-- Envie o seu texto para pmletteremail@gmail.com. Pode ser um arquivo, mas seria melhor se fosse um Google Docs, pra facilitar comentários e revisões;
-- Uma ou mais pessoas do nosso time irá verificar se o texto é aderente ao conteúdo do site, para editar e sugerir mudanças no texto;
+- Envie o seu texto para [product.oversee@gmail.com](mailto:product.oversee@gmail.com?subject=[productoversee]%20Quero%20escrever%20com%20vocês). Pode ser um arquivo, mas seria melhor se fosse um Google Docs, pra facilitar comentários e revisões;
+- Uma ou mais pessoas do nosso time irão verificar se o texto é aderente ao conteúdo do site, para editar e sugerir mudanças no texto;
 - Você aprovando essas mudanças, nós publicamos! :-)
 
-Se você for um autor recorrente, nós iremos te dar acesso à nossa interface, pra facilitar a publicação e a edição. Mas isso só ocorre a partir do terceiro texto. Dessa forma, nós garantimos que você é um autor engajado. E nessa fase, será um prazer adicionar você no nosso grupo no ZapZap para trocarmos ideias e nos organizarmos melhor.
+Se você for um autor recorrente, nós iremos te dar acesso à nossa interface, pra facilitar a publicação e a edição. Mas isso só ocorre a partir do terceiro texto. Dessa forma, nós garantimos que você é um autor engajado. E nessa fase, será um prazer adicionar você no nosso grupo no Whatsup para trocarmos ideias e nos organizarmos melhor.
 
-## Será um prazer receber seu conteúdo
+## Será um prazer receber você
 
 Queremos construir uma comunidade forte e engajada. Embora aumentar o número de pageviews, visitas e etc seja ótimo para mostrar a progressão de crescimento do projeto, nós estamos mais interessados em ter autores e leitores engajados.
 
