@@ -4,7 +4,7 @@ excerpt: Um PM que entende bem o fluxo de desenvolvimento consegue se planejar m
 authors: Pablo Silva
 date: 2020-10-29
 tags: [Agilidade]
-categories: [Tático]
+categories: [Indicadores e Dados]
 image: https://images.unsplash.com/photo-1536407078615-9fd99f2915c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
 featured_post: false
 ---
