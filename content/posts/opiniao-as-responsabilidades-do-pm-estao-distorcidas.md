@@ -6,7 +6,7 @@ date: 2020-10-29
 tags: [Carreira]
 categories: [Opinião]
 image: https://images.unsplash.com/photo-1497864979123-ef3595423b92?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
-featured_post: false
+featured_post: true
 ---
 
 Eu entrevistei mais de 50 PMs recentemente que estavam interessados em

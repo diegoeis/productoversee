@@ -6,7 +6,7 @@ date: 2020-10-30
 tags: [Negócios]
 categories: [Opinião, Estratégia]
 image: https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-featured_post: false
+featured_post: true
 ---
 
 O ciclo inicial de uma startup geralmente segue um padrão: encontra uma

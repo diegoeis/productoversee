@@ -1,5 +1,5 @@
 ---
-title: Opinião: a glamourização do Product Manager
+title: "Opinião: a glamourização do Product Manager"
 excerpt:
 authors: Diego Eis
 date: 2020-10-29

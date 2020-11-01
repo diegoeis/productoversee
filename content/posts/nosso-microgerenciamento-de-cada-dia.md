@@ -6,7 +6,7 @@ date: 2020-10-29
 tags: [Liderança]
 categories: [Estratégia, Liderança]
 image: https://images.unsplash.com/photo-1579256308199-873605ecd436?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=976&q=80
-featured_post: false
+featured_post: true
 ---
 
 Estar em uma posição de gestão incorre no desafio de guiar sua equipe e

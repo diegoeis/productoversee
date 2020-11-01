@@ -5,8 +5,8 @@ authors: Lucas Balbino
 date: 2020-10-29
 tags: [Negócios]
 categories: [Estratégia]
-image: https://images.unsplash.com/photo-1548410554-e44c2f94b12b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80
-featured_post: false
+image: https://images.unsplash.com/photo-1597600159211-d6c104f408d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1874&q=80
+featured_post: true
 ---
 
 O primeiro passo para **aumentar a retenção** de clientes é **[entender

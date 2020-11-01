@@ -89,6 +89,7 @@
 
 .po-list-text p {
   font-size: 1rem;
+  line-height: 1.8;
   color: #4F4F4F;
   padding: 15px 0 0;
 }
@@ -155,14 +156,30 @@
 .po-featured-posts .po-featured-list li a {
   align-items: center;
   display: flex;
+  flex
 }
 
 .po-featured-posts .po-featured-list .po-list-categs {padding-bottom: 5px;}
 
-.po-featured-posts ul {
-  display: flex;
+.po-featured-list figure,
+.po-featured-list div {
   flex: 1;
-  flex-direction: column;
+}
+.po-featured-list figure {
+  margin-right: 20px;
+}
+.po-featured-list figure {
+  height: 125px;
+  max-width: 190px;
+  overflow: hidden;
+  position: relative;
+}
+
+
+.po-featured-posts ul {
+  /* display: flex;
+  flex: 1;
+  flex-direction: column; */
   list-style: none;
   padding-right: 20px;
 }
@@ -171,10 +188,8 @@
   margin-bottom: 30px;
 }
 
-
 .po-featured-posts ul li img {
-  float: left;
-  max-width: 190px;
+  max-width: 100%;
   margin-right: 20px;
 }
 
@@ -240,7 +255,7 @@
 .po-authors-list a:hover p {
   color: #000;
 }
-
+.po-authors-list li {list-style: none;}
 .po-authors-list li > a {
   display: block;
   margin-bottom: 20px;

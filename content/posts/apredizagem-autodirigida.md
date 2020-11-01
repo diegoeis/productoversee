@@ -5,7 +5,7 @@ authors: Éricka Padilha
 date: 2020-10-31
 tags: [Liderança]
 categories: [Tático]
-image: https://images.unsplash.com/photo-1535083252457-6080fe29be45?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80
+image: https://images.unsplash.com/photo-1582700860484-9974523c5d40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80
 featured_post: false
 ---
 
