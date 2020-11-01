@@ -60,6 +60,11 @@
   display: inline-block;
 }
 
+.po-hor-list div > a {
+  width: 100%;
+}
+
+
 .po-hor-list figure {
   max-height: 240px;
   overflow: hidden;
@@ -74,7 +79,7 @@
   font-weight: bold;
 }
 
-.po-hor-list .po-list-categs {padding-left: 10px}
+.po-hor-list .po-list-categs {padding-left: 10px; display: block;}
 
 .po-list-text {
   padding: 0 10px;
@@ -210,6 +215,8 @@
   flex: 1 0 188px;
   max-width: 188px;
   margin-right: 20px;
+  height: 125px;
+  overflow: hidden;
 }
 .po-latest-post img {
   max-width: 100%;

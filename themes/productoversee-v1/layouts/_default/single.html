@@ -13,7 +13,8 @@
 <section class="po-container">
 
   <article id="po-article">
-    
+   
+     
     <aside class="po-sidebar">
       
       
@@ -29,15 +30,15 @@
               <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
             {{ end }}
             {{range $author_post_details}}
-              {{.minibio}}
+              {{if .minibio}}{{.minibio}}{{end}}
             {{end}}
           </p>
           <ul class="po-author-midia">
             {{range $author_post_details}}
-            <li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.twitter}}</a></li>
-            <li><a class="po-author-midia-icon-linkedin" href="https://linkedin.com/in/{{.linkedin}}">{{.linkedin}}</a></li>
-            <li><a class="po-author-midia-icon-site" href="{{.site}}">{{.site}}</a></li>
-            <li><a class="po-author-midia-icon-other" href="{{.other}}">{{.other}}</a></li>
+            {{if .twitter}}<li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.twitter}}</a></li>{{end}}
+            {{if .linkedin}}<li><a class="po-author-midia-icon-linkedin" href="https://linkedin.com/in/{{.linkedin}}">{{.linkedin}}</a></li>{{end}}
+            {{if .site}}<li><a class="po-author-midia-icon-site" href="{{.site}}">{{.site}}</a></li>{{end}}
+            {{if .other}}<li><a class="po-author-midia-icon-other" href="{{.other}}">{{.other}}</a></li>{{end}}
             {{end}}
           </ul>
         </div>
@@ -54,15 +55,11 @@
         </ul>
       </nav>
 
-
-    
-
       
     </aside>
     
-
-    
     <div class="po-article-text">
+      {{if .Params.image}}<figure class="po-single-img"><img src="{{.Params.image}}" alt="{{if .Params.excerpt}}Imagem de destaque de {{.Title}}{{end}}"></figure>{{end}}
       {{.Content}}
     </div>
     

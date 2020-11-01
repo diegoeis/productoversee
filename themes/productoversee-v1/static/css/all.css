@@ -432,12 +432,13 @@ input[type="text"], .po-newsletter-footer .email_type {
   flex: 1 0 300px;
   list-style: none;
   padding: 0 10px 100px;
+  max-width: 500px;
 }
 
 .po-list-posts h4 {
   margin-top: 15px;
 }
-.po-list-posts li figure {max-width: 500px;}
+.po-list-posts li figure {max-width: 500px; height: 215px; overflow: hidden;}
 
 .po-list-posts .po-list-categs {
   padding: 10px 0 0;

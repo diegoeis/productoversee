@@ -1,5 +1,3 @@
-  <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-
 
   <script type="application/ld+json">
     { "@context": "https://schema.org",
@@ -41,12 +39,13 @@
   <link rel="prerender" href='{{ range first 1 (where .Site.Pages "Type" "post" )}}{{.Permalink}}{{end}}'>
 
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/home.css?{{ now.Unix }}">
-  
+
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/single.css?{{ now.Unix }}">
 
-  <meta name="author" content="{{ .Site.Params.author }}">
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  <meta name="author" content="{{ .Params.authors }}">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.excerpt }}{{ . }}{{ end }}{{ end }}{{ end }}">
 
   {{ if .OutputFormats.Get "RSS" }}
   {{ with .OutputFormats.Get "RSS" }}
@@ -54,3 +53,20 @@
     <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
     {{ end }}
   {{ end }}
+
+  <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
+
+  <meta property="og:url" content="{{ .Permalink }}">
+  
+  <meta property="og:title" content="{{ .Title}}">
+  <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
+
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+  
+  <meta property="fb:app_id" content="187329465112652">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@productoversee">
+  <meta name="twitter:title" content="{{.Title}}">
+  <meta name="twitter:description" content="{{ .Params.excerpt }}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">

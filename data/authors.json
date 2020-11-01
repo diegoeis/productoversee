@@ -21,8 +21,8 @@
     "other": ""
   },
   {
-    "name": "Ericka Padilha",
-    "minibio": "Carioca questionadora que ama fazer produtos digitais.",
+    "name": "Éricka Padilha",
+    "minibio": "Head de Produtos Digitais na Sympla. Um dos idealizadores do Product Oversee e metido a besta.",
     "avatar": "/images/authors/ericka.jpg",
     "email": "",
     "twitter": "",
@@ -39,5 +39,15 @@
     "linkedin": "",
     "site": "",
     "other": ""
+  },
+  {
+    "name": "André Pimentel",
+    "minibio": "Diretor de Produtos na Estante Mágica",
+    "avatar": "/images/authors/andre-pimentel.jpg",
+    "email": "",
+    "twitter": "",
+    "linkedin": "p1m3nt3l",
+    "site": "",
+    "other": ""
   }
-  ]}
+]}

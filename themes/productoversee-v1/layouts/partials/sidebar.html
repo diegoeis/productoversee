@@ -1,9 +1,43 @@
-<aside class="po-sidebar">
+ 
+    <aside class="po-sidebar">
       
-  {{ with .Params.authors}}
-  <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-  {{ end }}
+      
+      <div class="po-sidebar-author">
+        {{ $author_post_details := where .Site.Data.authors.author ".name" .Params.authors }}
 
-  <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
+      {{range $author_post_details}}
+        <img src="{{.avatar}}" alt="">
+      {{end}}
+        <div>
+          <p>
+            {{ with .Params.authors }}
+              <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+            {{ end }}
+            {{range $author_post_details}}
+              {{.minibio}}
+            {{end}}
+          </p>
+          <ul class="po-author-midia">
+            {{range $author_post_details}}
+            <li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.twitter}}</a></li>
+            <li><a class="po-author-midia-icon-linkedin" href="https://linkedin.com/in/{{.linkedin}}">{{.linkedin}}</a></li>
+            <li><a class="po-author-midia-icon-site" href="{{.site}}">{{.site}}</a></li>
+            <li><a class="po-author-midia-icon-other" href="{{.other}}">{{.other}}</a></li>
+            {{end}}
+          </ul>
+        </div>
+      </div>
 
-</aside>
+      <span class="po-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
+    
+      <nav class="po-posts-same-author">
+        <h3>Mais artigos do {{.Params.authors}} </h3>
+        <ul>
+          {{ range first 5 (where .Site.RegularPages "Params.authors" .Params.authors )}}
+          <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+          {{end}}
+        </ul>
+      </nav>
+
+      
+    </aside>

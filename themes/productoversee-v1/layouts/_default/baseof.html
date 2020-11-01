@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode | default " pt-br " }}' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#' class="po-page-{{.File.BaseFileName | urlize }}">
-  
-	{{ block "head" . }}{{ partialCached "head.html" . }}{{ end }}
+<html lang='{{ .Site.LanguageCode | default " pt-br " }}' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#' {{if .File.BaseFileName }}class="po-page-{{.File.BaseFileName | urlize }}"{{end}}>
+
+	<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
+
+	{{ block "head" . }}{{ partial "head.html" . }}{{ end }}
 	
 	<body class='Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}'>
 <!-- Google Tag Manager (noscript) -->
@@ -18,37 +20,37 @@
     {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 
 
-<script type="text/javascript">
-  
-  (function (){
-    'use strict';
-  
-    function init(){
-			showHideElement()
-    }
-
-		function showHideElement(){
+		<script type="text/javascript">
 			
-			const elementTrigger = document.querySelectorAll("[data-toggle]");
+			(function (){
+				'use strict';
 			
-			Array.from(elementTrigger).forEach(elementTrigger => {
-				elementTrigger.addEventListener('click', function(event) {
-					const elementTarget = elementTrigger.getAttribute("data-toggle")
-					document.querySelector(elementTarget).classList.toggle('po-active')
+				function init(){
+					showHideElement()
+				}
 
-					if(elementTarget=="#po-search-form") {
-						document.querySelector("#po-search-form input[type='text']").focus()
-					}
+				function showHideElement(){
+					
+					const elementTrigger = document.querySelectorAll("[data-toggle]");
+					
+					Array.from(elementTrigger).forEach(elementTrigger => {
+						elementTrigger.addEventListener('click', function(event) {
+							const elementTarget = elementTrigger.getAttribute("data-toggle")
+							document.querySelector(elementTarget).classList.toggle('po-active')
 
-					event.preventDefault();
-				});
-			});
-		}
+							if(elementTarget=="#po-search-form") {
+								document.querySelector("#po-search-form input[type='text']").focus()
+							}
 
-    init()
-  }());
+							event.preventDefault();
+						});
+					});
+				}
 
-</script>
+				init()
+			}());
+
+		</script>
 
   </body>
 </html>

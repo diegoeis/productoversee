@@ -15,7 +15,7 @@
   align-content: center;
 }
 
-#po-pre-footer div {flex: 1 0 400px; margin-bottom: 50px;}
+#po-pre-footer div {flex: 1 0 350px; margin-bottom: 50px;}
 
 
 #po-pre-footer h3 {font: bold 1.25rem var(--fontMono); margin-bottom: 15px;}
@@ -138,4 +138,6 @@
   .po-newsletter-footer .po-btn {
     margin-top: 10px;
   }
+  #po-pre-footer div {text-align: center;}
+
 }
