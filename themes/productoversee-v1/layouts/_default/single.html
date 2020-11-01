@@ -29,9 +29,9 @@
             {{ with .Params.authors }}
               <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
             {{ end }}
-            {{range $author_post_details}}
+            <span class="po-minibio">{{range $author_post_details}}
               {{if .minibio}}{{.minibio}}{{end}}
-            {{end}}
+            {{end}}</span>
           </p>
           <ul class="po-author-midia">
             {{range $author_post_details}}

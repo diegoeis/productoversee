@@ -353,11 +353,14 @@ hr {
 
   .po-time-read,
   .po-posts-same-author,
-  .po-single-img {display: none;}
+  .po-single-img,
+  .po-minibio {display: none;}
 
   .po-sidebar {padding: 0}
   .po-sidebar-author,
   .po-single-img,
   .po-single-img img {margin-bottom: 0}
+
+  .po-author-midia {padding-top: 10px;}
 
 }
