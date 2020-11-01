@@ -1,12 +1,12 @@
 ---
-title: Nomes estranhos e progressão de carreira de um PM 💫 🚀
+title: Nomes estranhos e progressão de carreira de um PM
 excerpt: Entender onde está e como evoluir é o mais importante
 authors: Diego Eis
 date: 2020-10-29
 tags: [Carreira]
 categories: [Opinião]
 image: https://images.unsplash.com/photo-1525538182201-02cd1909effb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80
-featured_post: false
+featured_post: true
 ---
 
 Para falar sobre carreira, gostaria que você tentasse abstrair um pouco

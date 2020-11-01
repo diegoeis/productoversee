@@ -432,8 +432,25 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 .po-list-posts h4 {
   margin-top: 15px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0 10px;
 }
-.po-list-posts li figure {max-width: 500px; height: 215px; overflow: hidden;}
+
+.po-list-posts li figure {
+  max-width: 500px; 
+  height: 250px; 
+  overflow: hidden;
+  position: relative;
+}
+
+.po-list-posts li figure img {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  max-width: 130%;
+}
+
 
 .po-list-posts .po-list-categs {
   padding: 10px 0 0;

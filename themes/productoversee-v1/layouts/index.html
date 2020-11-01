@@ -9,7 +9,7 @@
   
   {{range first 1 $posts }}
   
-    <a href="{{ .Permalink }}" id="po-featured-post" style="background: linear-gradient(180deg, rgba(18, 18, 18, 0) 20%, rgba(18, 18, 18, 0.268229) 60%, rgba(18, 18, 18, 0.6) 100%), url({{ .Params.image }}) center; background-size: cover; mix-blend-mode: multiply;">
+    <a href="{{ .Permalink }}" id="po-featured-post" style="background:  url({{ .Params.image }}) center; background-size: cover; mix-blend-mode: multiply;">
         <span class="po-author">{{ .Params.authors }}</span>
 
         <h1>{{ .Title }}</h1>
