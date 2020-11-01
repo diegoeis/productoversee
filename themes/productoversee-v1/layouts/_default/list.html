@@ -45,7 +45,7 @@
         <li>
           <a href="{{ .Permalink }}">
             <figure>
-              <img src="{{ .Params.image }}" alt="">
+              {{if .Params.image}}<img src="{{ .Params.image }}" alt="">{{else}}<img src="/images/missing.jpg">{{end}}
             </figure>
             
 

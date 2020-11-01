@@ -7,7 +7,7 @@ tags:
 - carreira
 categories:
 - Tático
-image: "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e436a2f8-0187-424d-844b-2486c995b546_215x101.png"
+image: "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
 featured_post: false
 ---
 

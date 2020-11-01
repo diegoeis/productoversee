@@ -23,7 +23,6 @@ busquei seu significado no dicionário:
 -   Qualidade da pessoa criativa, de quem tem capacidade, inteligência e
     talento para criar, inventar ou fazer inovações na área em que atua;
     originalidade.
-
 -   Capacidade de inventar, de criar, de compor a partir da imaginação;
     engenho, engenhosidade, inventiva.
 
@@ -40,16 +39,12 @@ criatividade:
 
 -   Persistência: criar uma solução fora do comum é um processo e não
     apenas um momento isolado de "eureca", é preciso persistir;
-
 -   Curiosidade: desenvolver a habilidade em inspecionar, observar e
     explorar o mundo a sua volta;
-
 -   Ousadia: as soluções mais fora da curva estão *linkadas* com uma
     pitada de ousadia e do sair de um molde pré estabelecido;
-
 -   Atenção aos detalhes: seja uma pessoa observadora, veja não apenas
     as questões de forma macro, aprofunde e atente aos detalhes; e
-
 -   Inconformismo: não aceitar uma resposta simplista, não ser
     conformado com padrões e o senso comum são fatores geradores de
     inovação.
@@ -75,9 +70,6 @@ Além disso, ele explica que o primeiro passo é nos aceitar, deixar o
 "não" do lado de fora, e que o improviso é essencial para treinarmos
 formas de como rearranjar os conhecimentos, de combinar de formas
 diferentes o que temos, de fazer e ver as coisas de outro jeito.
-
-::: {#youtube2-hjhD0lhCGHk .youtube-wrap attrs="{\"videoId\":\"hjhD0lhCGHk\",\"startTime\":null,\"endTime\":null}"}
-:::
 
 E conseguimos fazer novas combinações quando substituímos o: Não
 consigo, Não posso, Não tenho tempo, por: Como consigo? Como posso? Como

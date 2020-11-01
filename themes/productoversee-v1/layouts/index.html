@@ -44,27 +44,41 @@
   </h2>
   <div>
     {{ range first 1 $featured_posts }}
-      <a href="{{ .Permalink }}" class="po-first-featured-post">
+      <div class="po-first-featured-post">
+      <a href="{{ .Permalink }}">
         <figure>
           <img src="{{ .Params.image }}" alt="">
         </figure>
-        <span class="po-list-categs">{{ delimit .Params.categories ", " }}</span>
+      </a>
+        <ul class="po-list-categs">
+          {{ range .Params.categories }}
+            <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+          {{ end }}
+        </ul>
+      <a href="{{ .Permalink }}">
         <h2 class="po-title-h3">{{ .Title }}</h2>
         <p>{{.Params.excerpt}}</p>
       </a>
+      </div>
     {{ end }}
     <ul class="po-featured-list">
     {{ range first 4 (after 1 $featured_posts )}}
       <li>
-        <a href="{{ .Permalink }}">
           <figure>
-            <img src="{{ .Params.image }}" alt="">
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.image }}" alt="">
+            </a>
           </figure>
           <div>
-            <span class="po-list-categs">{{ delimit .Params.categories ", " }}</span>
-            <h4 class="po-title-h4">{{ .Title }}</h4>
+            <ul class="po-list-categs">
+              {{ range .Params.categories }}
+                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+              {{ end }}
+            </ul>
+            <a href="{{ .Permalink }}">
+              <h4 class="po-title-h4">{{ .Title }}</h4>
+            </a>
           </div>
-        </a>
       </li>
     {{ end }}
     </ul>

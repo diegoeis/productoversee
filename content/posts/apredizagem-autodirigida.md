@@ -11,13 +11,7 @@ featured_post: false
 
 Creio que todos estão constantemente preocupados em identificar quanto
 os seus perfis e habilidades estão condizente com as necessidades atuais
-e futuras do mercado de trabalho. Ao ler o relatório do *[World Economic
-Forum](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy)*
-[sobre](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy)
-*[Jobs of Tomorrow: Mapping Opportuynity in the New
-Economy](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy)*
-dentre muitas habilidades chaves referidas para profissionais de
-produtos, uma me chama a atenção: **liderança**.
+e futuras do mercado de trabalho. Ao ler o relatório do [World Economic Forum](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy) [sobre](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy) [Jobs of Tomorrow: Mapping Opportuynity in the New Economy](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy) dentre muitas habilidades chaves referidas para profissionais de produtos, uma me chama a atenção: **liderança**.
 
 Esta soft skill tem sido amplamente comentada no cenário atual do
 covid-19, onde esperamos atitudes virtuosas e precisas de diferentes
@@ -37,23 +31,23 @@ através da aprendizagem autodirigida: aprender ou fortalecer
 intencionalmente um aspecto da pessoa que somos ou que queremos ser, ou
 as duas coisas. Este processo envolve cinco descobertas, são elas:
 
-1.       **Meu eu ideal:** Refletir sobre qual é o eu ideal, aquele que
+1. **Meu eu ideal:** Refletir sobre qual é o eu ideal, aquele que
 queremos ser ou aprimorar. Para tal, exige um mergulho profundo em nós
 mesmos para desvendarmos o que queremos ser na vida e no trabalho.
 
-2.       **Meu eu real:** É descobrirmos quem realmente somos agora,
+2. **Meu eu real:** É descobrirmos quem realmente somos agora,
 para isto precisamos realizar um inventário de nossos talentos, paixões
 e falhas. Isto exige alto grau de autoconsciência, é preciso não cair em
 armadilhas de autoilusão ou em mecanismos de defesa do ego.
 
-3.       **Meu programa de aprendizagem:** É a elaboração de um plano de
+3. **Meu programa de aprendizagem:** É a elaboração de um plano de
 ação que forneça orientação minuciosa sobre quais coisas tentar a cada
 dia ou circunstância.  Este plano precisa ser focado na aprendizagem, é
 preciso ressaltar aquilo que queremos nos tornar e não a ideia que os
 outros fazem do que deveríamos ser ou o padrão de sucesso arbitrário, é
 nos levar a estabelecer nossos próprios padrões.
 
-4.       **Fazer experimentos:** As lições de liderança são aprendidas
+4. **Fazer experimentos:** As lições de liderança são aprendidas
 cedo através da observação de outros líderes, como: pais, professores,
 treinadores e sacerdotes. E por fim, colocamos em prática de forma nem
 sempre intencional. Sendo assim, quando identificamos algo que precisa
@@ -62,7 +56,7 @@ Quanto mais trabalhamos uma sequência comportamental, mais forte ficam
 os circuitos cerebrais subjacentes. Assim, as pessoas literalmente
 religam o cérebro.   
 
-5.       **Desenvolver relações:** Esta descoberta poderá ocorrer em
+5. **Desenvolver relações:** Esta descoberta poderá ocorrer em
 qualquer momento do processo, e apesar de ser uma aprendizagem
 autodirigida, ter o envolvimento de outras pessoas é importante, pois
 elas nos ajudam a identificar ou encontrar nosso eu ideal, nossos pontos
@@ -81,45 +75,31 @@ emocional, listadas abaixo:
 **Autoconsciência**
 
 -   Autoconsciência emocional
-
 -   Autoavaliação correta
-
 -   Autoconfiança
 
 **Autogestão**
 
 -   Autocontrole emocional
-
 -   Transparência
-
 -   Adaptabilidade
-
 -   Empreendedorismo
-
 -   Iniciativa
-
 -   Otimismo
 
 **Consciência Social**
 
 -   Empatia
-
 -   Consciência organizacional
-
 -   Serviço
 
 **Gestão de Relacionamento**
 
 -   Liderança inspiradora
-
 -   Influência
-
 -   Desenvolvimento dos outros
-
 -   Estímulo a mudanças
-
 -   Administração de conflitos
-
 -   Trabalho em equipe e colaboração
 
 Mudar hábitos é trabalhoso, pois temos décadas de aprendizagem que

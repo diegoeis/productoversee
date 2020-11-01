@@ -7,7 +7,7 @@ tags:
 - experiência
 categories:
 - Tático
-image: "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7948a193-3087-4265-bd83-ab72d220fe2a_215x101.png"
+image: https://images.unsplash.com/photo-1556557598-84d97035e37c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=2650&q=80
 featured_post: false
 ---
 
