@@ -2,7 +2,7 @@
 title: A sutil diferença entre Disrupção e Inovação 🚀✈🚁
 excerpt: Por muito tempo tidos como relativos, há sim uma sutil diferença entre esses termos
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-05-27
 tags: [Negócios]
 categories: [Opinião]
 image: https://images.unsplash.com/photo-1537806078416-64d8c0147e1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80

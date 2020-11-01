@@ -2,7 +2,7 @@
 title: Contexto de negócio
 excerpt: Começando a entender sobre o contexto do negócio
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-09-02
 tags: [Negócios]
 categories: [Estratégia]
 image: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80

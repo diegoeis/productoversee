@@ -1,7 +1,3 @@
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f73d09d4-5bc7-4f73-b588-d3e026a378c6_215x101.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff73d09d4-5bc7-4f73-b588-d3e026a378c6_215x101.png)
-
-Letter \#1
-
 Existe ética em Produtos Digitais?
 ==================================
 

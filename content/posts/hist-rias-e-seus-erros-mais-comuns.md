@@ -2,7 +2,7 @@
 title: Histórias e seus erros mais comuns
 excerpt: Product Managers de diferentes tipos de produtos precisam aprender a escrever boas histórias de usuários, também conhecidos como user story
 authors: Pablo Silva
-date: 2020-10-29
+date: 2020-02-19
 tags: [Processos]
 categories: [Tático]
 image: https://images.unsplash.com/photo-1541960071727-c531398e7494?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2448&q=80

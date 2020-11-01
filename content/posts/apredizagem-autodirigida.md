@@ -2,7 +2,7 @@
 title: Aprendizagem autodirigida para uma liderança emocionalmente inteligente
 excerpt: As cinco descobertas para aprender a ser um bom líder
 authors: Éricka Padilha
-date: 2020-10-31
+date: 2020-09-23
 tags: [Liderança]
 categories: [Tático]
 image: https://images.unsplash.com/photo-1582700860484-9974523c5d40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80

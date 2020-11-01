@@ -2,7 +2,7 @@
 title: Entendendo como um Churn acontece
 excerpt: Identifique quais os tipos e estágios de um churn para garantir a retenção dos clientes
 authors: Lucas Balbino
-date: 2020-10-28
+date: 2020-09-09
 tags: [Negócios]
 categories: [Tático]
 image: https://images.unsplash.com/photo-1588800549188-b103a104ce33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80

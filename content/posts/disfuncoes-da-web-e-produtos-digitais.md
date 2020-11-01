@@ -2,7 +2,7 @@
 title: Disfunções da Web e Produtos Digitais
 excerpt: 
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-02-05
 tags: [Negócios]
 categories: [Opinião]
 image: https://images.unsplash.com/photo-1527531993849-70fc64556621?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2882&q=80

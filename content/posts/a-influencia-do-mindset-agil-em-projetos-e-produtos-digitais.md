@@ -2,7 +2,7 @@
 title: A influência do Mindset Ágil em Projetos e Produtos Digitais
 excerpt:
 authors: Diego Eis
-date: 2020-10-29
+date: 2019-12-11
 tags: [Processos]
 categories: [Opinião, Tático]
 image: https://images.unsplash.com/photo-1536486239970-277f67f55a11?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80

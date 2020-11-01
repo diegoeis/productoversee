@@ -2,7 +2,7 @@
 title: Defesas competitivas
 excerpt: As vantagens competitivas nos levam até onde queremos ir, mas são as nossas defesas nos ajudarão a permanecer nesse lugar
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-09-16
 tags: [Negócios]
 categories: [Estratégia]
 image: https://p1.pxfuel.com/preview/760/992/992/architecture-building-infrastructure-structure-establishment-apartment.jpg

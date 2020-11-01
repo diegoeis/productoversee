@@ -2,7 +2,7 @@
 title: Como criar produtos éticos?
 excerpt: Por que você, como gestora de produto, é responsável pelos impactos do seu produto
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-07-15
 tags: [Ética]
 categories: [Tático]
 image: https://images.unsplash.com/photo-1532264523420-881a47db012d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80

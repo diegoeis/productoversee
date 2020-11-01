@@ -2,7 +2,7 @@
 title: Fale um idioma que as pessoas que trabalham com você vão entender
 excerpt: Visão de produto. Como adaptar um produto digital existente para novos segmentos de clientes
 authors: Cleyton Messias
-date: 2020-10-30
+date: 2020-06-24
 tags: [Negócios]
 categories: [Estratégia]
 image: https://images.unsplash.com/photo-1542648284-01cca5c1052e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1480&q=80

@@ -2,7 +2,7 @@
 title: "Dual Track: Upstream e Downstream"
 excerpt: 
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-01-14
 tags: [Ferramentas, Processos]
 categories: [Tático]
 image: https://images.unsplash.com/photo-1515674447568-09bbb507b96c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2797&q=80

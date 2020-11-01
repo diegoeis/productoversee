@@ -2,7 +2,7 @@
 title: Duas métricas ágeis super importantes para PMs
 excerpt: Um PM que entende bem o fluxo de desenvolvimento consegue se planejar melhor
 authors: Pablo Silva
-date: 2020-10-29
+date: 2020-03-26
 tags: [Agilidade]
 categories: [Indicadores e Dados]
 image: https://images.unsplash.com/photo-1536407078615-9fd99f2915c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80

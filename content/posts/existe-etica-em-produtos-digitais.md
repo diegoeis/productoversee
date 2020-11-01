@@ -2,7 +2,7 @@
 title: Existe ética em Produtos Digitais?
 excerpt: Se existe ética, não falamos muito sobre esse tema
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-06-05
 tags: [Negócios]
 categories: [Opinião]
 image: https://images.unsplash.com/photo-1483193722442-5422d99849bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80

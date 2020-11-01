@@ -1,7 +1,7 @@
 ---
 title: The Opportunity Solution Tree e ORKs 📈
 excerpt: Visualizar a estratégia para tomar decisões estruturadas
-date: 2020-10-29
+date: 2020-02-12
 tags: [Processos, Ferramentas]
 categories: [Estratégia, Tático]
 image: https://images.unsplash.com/photo-1480618213131-3abfec8a53cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80

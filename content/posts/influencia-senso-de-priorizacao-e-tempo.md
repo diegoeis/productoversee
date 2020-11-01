@@ -1,8 +1,8 @@
 ---
-title: Influência, Senso de Priorização e Tempo 👍 💭
+title: Influência, Senso de Priorização e Tempo
 excerpt: 
 authors: Diego Eis
-date: 2020-10-29
+date: 2020-04-29
 tags: [Produtividade]
 categories: [Opinião]
 image: https://images.unsplash.com/photo-1507149214576-19e2f76d09ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80

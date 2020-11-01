@@ -2,7 +2,7 @@
 title: Correlação estatística e causalidade em métricas de produto
 excerpt: Como entender esses dois conceitos pode facilitar demais a vida de uma PM
 authors: Pablo Silva
-date: 2020-10-30
+date: 2020-08-26
 tags: [Negócios]
 categories: [Indicadores e Dados]
 image: https://images.unsplash.com/photo-1584472666879-7d92db132958?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2746&q=80

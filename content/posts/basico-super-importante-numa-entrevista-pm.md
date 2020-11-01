@@ -2,7 +2,7 @@
 title: O básico super importante em uma entrevista para PM
 excerpt: Saber esses conceitos já é um grande passo para passar numa entrevista
 authors: Pablo Silva
-date: 2020-10-30
+date: 2020-03-11
 tags: [Entrevistas]
 categories: [Opinião, Tático]
 image: https://images.unsplash.com/photo-1573676386604-78f8ed228e2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80
