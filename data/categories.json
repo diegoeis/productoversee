@@ -1,0 +1,23 @@
+{
+  "category": [
+    {
+      "name": "Opinião",
+      "description": "Como nossos autores enxergam o mundo de produtos digitais, analisando mercado, negócios, pessoas e processos."
+    },
+    {
+      "name": "Estratégia",
+      "description": "Como criamos um produto e um serviço contemplando visões de negócio, mercado e comportamento da sociedade."
+    },
+    {
+      "name": "Tático",
+      "description": "Construção de produto do ponto de vista executivo, desdobrando as visões de negócio para a materialização do produto em software."
+    },
+    {
+      "name": "Design",
+      "description": "Visão da experiência sentida pelo usuário no momento do uso, descobrindo oportunidades de impacto positivo."
+    },
+    {
+      "name": "Indicadores e Dados",
+      "description": "Controlando o produto por meio de indicadores e métricas que nos dizem como o usuário se comporta no nosso ambiente."
+    }
+]}

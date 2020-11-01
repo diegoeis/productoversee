@@ -17,8 +17,7 @@ automaticamente os candidatos. Por isso eu resolvi contar aqui para
 vocês os três principais pontos que tenho observado e que vocês devem
 fazer de tudo para evitar errar em uma entrevista para PM.
 
-Conhecimento sobre o produto
-----------------------------
+## Conhecimento sobre o produto
 
 Esse é o mais básico de todos, porque se você vai ser PM do produto
 dessa empresa, o mínimo que você pode fazer é tentar encontrar o maior
@@ -29,8 +28,7 @@ isso demonstra falta de interesse real em trabalhar nessa empresa e a
 impressão que você passa é que está só em busca de dinheiro ou está
 perdido na carreira mesmo.
 
-Conhecimento sobre o mercado
-----------------------------
+## Conhecimento sobre o mercado
 
 Você analisou o mercado antes de se candidatar? É um mercado em
 crescimento ou declínio? Quais são as principais oportunidades que você
@@ -41,8 +39,7 @@ o mercado porque simplesmente o seu papel é impactar o negócio e mais,
 você entraria num mercado totalmente em declíneo ou num mercado que não
 tenha nada a ver com você?
 
-Saber profundamente sobre as habilidades e o papel de um PM
------------------------------------------------------------
+## Saber profundamente sobre as habilidades e o papel de um PM
 
 Uma pergunta que eu sempre faço nas entrevistas é \"Qual a principal
 habilidade que um PM precisa ter para ser um bom PM?\" e se o candidato
@@ -65,7 +62,7 @@ profissional em alguma área é você saber profundamente qual o papel que
 vai ter que desempenhar e quais habilidades você precisa ter para
 conseguir desempenhar bem esse papel.
 
-**Uma dica extra**
+## Uma dica extra
 
 Você pode e deve se tornar o entrevistador em alguma parte da
 entrevista. É muito desanimador quando eu pergunto para o candidato se
@@ -84,22 +81,7 @@ está tomando as decisões certas? Você é o dono da sua carreira!
 Referências:
 -----------
 
--   [Perguntas para PMs em
-    entrevistas](https://diegoeis.com/perguntas-para-pms-entrevistas/)
-
--   [Product Manager Interview: The Product Design
-    Question](https://www.productmanagerhq.com/2014/07/product-manager-interview-the-product-design-question/)
-
--   **[How](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba)**
-    [I Prepared for
-    a](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba)
-    **[Product](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba)**
-    [Manager
-    Interview](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba)
-
--   **[How](https://www.youtube.com/watch?v=61M1r69ZWDg)**
-    [](https://www.youtube.com/watch?v=61M1r69ZWDg)
-    **[To](https://www.youtube.com/watch?v=61M1r69ZWDg)**
-    [Crack](https://www.youtube.com/watch?v=61M1r69ZWDg)
-    **[Product](https://www.youtube.com/watch?v=61M1r69ZWDg)** [Manager
-    Interview](https://www.youtube.com/watch?v=61M1r69ZWDg)
+- [Perguntas para PMs em entrevistas](https://diegoeis.com/perguntas-para-pms-entrevistas/)
+- [Product Manager Interview: The Product Design Question](https://www.productmanagerhq.com/2014/07/product-manager-interview-the-product-design-question/)
+- [How I Prepared for a Product Manager Interview](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba)
+- [How To Crack Product Manager Interview](https://www.youtube.com/watch?v=61M1r69ZWDg)

@@ -28,8 +28,7 @@ não liguem se houver typos na escrita, além de algumas partes que podem
 ficar com sentido estranho, porque fui fazendo uma tradução simultânea
 de inglês para português enquanto o Cagan falava. ;-)
 
-Sobre Tipos de Time de Produto
-------------------------------
+## Sobre Tipos de Time de Produto
 
 Os times que se focam no produto são importantes. Se uma empresa não tem
 times focados no produto, não há como ter produtos digitais fortes.
@@ -200,8 +199,7 @@ trabalhasse em um time assim.
 -   Meu time é **Accountable**: O time que é responsável para resolver
     problemas de clientes e ou do negócio (outcome);
 
-Como transformar seu time em um time empoderado de produto?
------------------------------------------------------------
+## Como transformar seu time em um time empoderado de produto?
 
 -   Garanta que exista um líder sênior de produto. Se seus líderes não
     tem essa experiência e não conseguem Coach com pessoas competentes,
@@ -244,8 +242,7 @@ time de produto faça a evangelização das outras áreas. É assim que
 podemos compartilhar as falhas e os sucessos do produto com os
 integrantes de outros times da empresa.
 
-Algumas perguntas feitas no final da palestra
----------------------------------------------
+## Algumas perguntas feitas no final da palestra
 
 **Quais os skills de um bom product managers ou um time empoderado?**
 

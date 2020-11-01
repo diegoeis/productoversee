@@ -294,7 +294,50 @@ hr {
   font: 0.85rem var(--fontMono);
 }
 
+/**** COMMENTS ****/
+.graphcomment-button a {
+  text-align: left !important;
+  margin-bottom: 20px !important;
+  background: transparent url(/images/icon-comments.png) no-repeat left center !important;
+  background-size: contain !important;
+  padding-left: 33px !important;
+}
 
+.graphcomment-button a:before {
+  content: "Comentários";
+  text-transform: capitalize;
+  color: #000;
+  font: bold 1rem var(--fontMono);
+  display: inline-block;
+  position: relative; top: -2px;
+}
+
+.graphcomment-button a:hover:before {color: #FC0D1B !important; }
+
+.graphcomment-button a span {display: none !important};
+
+/* #po-comments {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(150, 150, 150, .9); 
+   opacity: 0;
+  pointer-events: none;
+  transition: opacity 250ms ease-in-out 0s;
+}
+
+#po-comments .po-comments-inner {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  max-width: 600px;
+  height: 100%;
+  background: #fff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+} */
 
 @media only screen and (max-width: 900px) {
   #po-article-header {
@@ -325,3 +368,5 @@ hr {
   }
 
 }
+
+

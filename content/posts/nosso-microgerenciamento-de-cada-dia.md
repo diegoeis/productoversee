@@ -4,7 +4,7 @@ excerpt: Você está promovendo uma cultura saudável de produtos ou está apena
 authors: Éricka Padilha
 date: 2020-10-29
 tags: [Liderança]
-categories: [Estratégia, Liderança]
+categories: [Estratégia]
 image: https://images.unsplash.com/photo-1579256308199-873605ecd436?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=976&q=80
 featured_post: true
 ---
