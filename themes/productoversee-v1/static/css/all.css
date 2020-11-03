@@ -7,6 +7,7 @@
   --colorBlack: #121212;
   --colorGrayLight: #E5E5E5;
   --colorGrayMedium: #4F4F4F;
+  --fontDefault: "The Future Mono 02", monospace;
   --fontMono: "The Future Mono 02", monospace;
   --fontArticle: "Work Sans", arial, helvetica, sans-serif;
   --breakpoint: 900px;
@@ -36,7 +37,7 @@ a:hover {
 
 .po-container {
   margin: 0 auto;
-  max-width: 1460px;
+  max-width: 1260px;
   padding: 0 20px;
 }
 
@@ -60,7 +61,7 @@ a:hover p {color: #000;}
 
 /*** AUTHORS LIST ***/
 .po-authors-list {
-  font: 0.9375rem var(--fontMono);
+  font: 0.8rem/1.7 var(--fontDefault);
 }
 
 .po-authors-list a:hover {
@@ -69,7 +70,10 @@ a:hover p {color: #000;}
 
 .po-authors-list h4 {font-weight: bold; margin-bottom: 5px;}
 .po-authors-list h4,
-.po-authors-list a p {margin-left: 75px; color: #4F4F4F;}
+.po-authors-list a p {
+  margin-left: 75px; 
+  color: #4F4F4F; 
+}
 
 .po-authors-list li {
   overflow: hidden;
@@ -95,7 +99,7 @@ a:hover p {color: #000;}
 span.po-list-categs {
   display: inline-block;
   color: #ff0000 !important;
-  font: normal 0.9rem var(--fontMono);
+  font: normal 0.8rem var(--fontDefault);
   padding: 10px 0;
 }
 
@@ -125,7 +129,7 @@ span.po-list-categs {
   display: block;
   max-width: 260px;
   width: 100%;
-  height: 70px;
+  height: 90px;
   margin: 0 auto;
   background: url(../images/logo-bg-white.png) no-repeat center;
   background-size: contain;
@@ -167,18 +171,18 @@ span.po-list-categs {
 }
 
 
-#po-search-form ::-webkit-input-placeholder { /* Edge */font: 1.4rem/1.5 var(--fontMono);}
+#po-search-form ::-webkit-input-placeholder { /* Edge */font: 1.4rem/1.5 var(--fontDefault);}
 
-#po-search-form :-ms-input-placeholder { /* Internet Explorer 10-11 */font: 1.4rem/1.5 var(--fontMono);}
+#po-search-form :-ms-input-placeholder { /* Internet Explorer 10-11 */font: 1.4rem/1.5 var(--fontDefault);}
 
-#po-search-form ::placeholder {font: 1.4rem/1.5 var(--fontMono);}
+#po-search-form ::placeholder {font: 1.4rem/1.5 var(--fontDefault);}
 
 #po-search-form input[type="text"] {
   outline: none;
   width: 100%;
   height: 100%;
   background: #fff;
-  font: 1.4rem/1.5 var(--fontMono);
+  font: 1.4rem/1.5 var(--fontDefault);
   border: 1px solid var(--colorGrayLight);
   padding: 20px;
 }
@@ -218,7 +222,7 @@ span.po-list-categs {
 
 .po-menu-close {
   cursor: pointer;
-  font: bold 0.9rem/1 var(--fontMono);
+  font: bold 0.9rem/1 var(--fontDefault);
   color: #4F4F4F;
   display: block;
   margin: 0 0 50px 20px;
@@ -254,13 +258,13 @@ span.po-list-categs {
 }
 
 #po-menu .po-menu-categs a h2 {
-  font: bold 1.25rem/1 var(--fontMono);
+  font: bold 1.25rem/1 var(--fontDefault);
   transition: all linear .1s;
 }
 
 #po-menu .po-menu-categs a p {
   padding-top: 10px;
-  font: .75rem/1.5 var(--fontMono);
+  font: .75rem/1.5 var(--fontDefault);
   color: #4F4F4F;
   transition: all linear .1s;
 }
@@ -298,7 +302,7 @@ span.po-list-categs {
 }
 
 /** SUPPORT HEADER MENU**/
-.po-minimenu {font: .75rem/1.5 var(--fontMono);}
+.po-minimenu {font: .75rem/1.5 var(--fontDefault);}
 
 .po-minimenu a {
   display: inline-block;
@@ -338,26 +342,45 @@ span.po-list-categs {
 }
 
 
+.po-align-center {text-align: center !important;}
 
 /*****
 ** TITLES
 *****/
 .po-title-h2 {
   color: var(--colorBlack);
-  border-bottom: 1px solid var(--colorBlack);
-  font: bold 1.56rem var(--fontMono);
+  border-bottom: 1px solid var(--colorGrayLight);
+  font: bold 1.7rem var(--fontDefault);
   padding-bottom: 30px;
   margin: 70px 0 30px;
+  position: relative;
 }
+
+.po-title-h2:before {
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  content: "";
+  height: 4px;
+  background: var(--colorRed);
+  width: 120px;
+  display: block;
+}
+
+.po-align-center.po-title-h2:before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 
 .po-title-h3 {
   color: var(--colorBlack);
-  font: bold 1.875rem/1.2 var(--fontMono);
+  font: bold 1.875rem/1.2 var(--fontDefault);
 }
 
 .po-title-h4 {
   color: var(--colorBlack);
-  font: 0.9375rem/1.6 var(--fontMono);
+  font: 0.9375rem/1.6 var(--fontDefault);
 }
 
 
@@ -380,7 +403,7 @@ input[type="text"], .po-newsletter-footer .email_type {
   background: var(--colorBlack);
   color: #fff;
   cursor: pointer;
-  font: 0.9375rem var(--fontMono);
+  font: 0.9375rem var(--fontDefault);
   border: none;
   border-radius: 3px;
   padding: 10px 20px;
@@ -403,13 +426,13 @@ input[type="text"], .po-newsletter-footer .email_type {
 }
 
 .po-section-list .po-title-h1 {
-  font: bold 1.5rem var(--fontMono);
+  font: bold 1.5rem var(--fontDefault);
   text-align: center;
   color: var(--colorRed);
 }
 
 .po-section-list .po-title-h1 strong {
-  font: bold 2.5rem var(--fontMono);
+  font: bold 2.5rem var(--fontDefault);
   display: block;
   padding: 10px 0 0;
   color: #000;
@@ -471,14 +494,14 @@ input[type="text"], .po-newsletter-footer .email_type {
 }
 
 .po-section-authors h3 {
-  font: bold 2.7rem var(--fontMono);
+  font: bold 2.7rem var(--fontDefault);
   padding: 50px 0 20px;
   margin: 0 auto;
   max-width: 780px;
 }
 
 .po-section-authors p {
-  font: 300 1.35rem/1.7 var(--fontMono);
+  font: 300 1.35rem/1.7 var(--fontDefault);
   max-width: 780px;
   color: #4F4F4F;
   margin: 0 auto;
@@ -510,11 +533,11 @@ input[type="text"], .po-newsletter-footer .email_type {
 }
 
 .po-about-text li {margin-bottom: 5px;}
-.po-about-text h2 {font: bold 1.665rem/1.8 var(--fontMono);}
+.po-about-text h2 {font: bold 1.665rem/1.8 var(--fontDefault);}
 
 .po-about-text h3 {
   padding-top: 5px;
-  font: bold 1.365rem/1.8 var(--fontMono);
+  font: bold 1.365rem/1.8 var(--fontDefault);
 }
 
 
@@ -548,11 +571,11 @@ input[type="text"], .po-newsletter-footer .email_type {
 }
 
 .po-box-newsletter .subscription-form h4 {
-  font: bold 1.7rem/1.8 var(--fontMono);
+  font: bold 1.7rem/1.8 var(--fontDefault);
 }
 
 .po-box-newsletter .subscription-form p {
-  font: 1rem/1.8 var(--fontMono);
+  font: 1rem/1.8 var(--fontDefault);
 }
 
 .po-box-newsletter .subscription-form {
@@ -577,7 +600,7 @@ input[type="text"], .po-newsletter-footer .email_type {
   cursor: pointer;
   border-radius: 0;
   max-width: 200px;
-  font: 1rem/1.8 var(--fontMono);
+  font: 1rem/1.8 var(--fontDefault);
   border: 1px solid var(--colorRed);
 }
 

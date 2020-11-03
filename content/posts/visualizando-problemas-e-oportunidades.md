@@ -5,7 +5,7 @@ authors: Pablo Silva
 date: 2020-10-31
 tags: [Discovery]
 categories: [Tático]
-image: https://images.unsplash.com/photo-1476973422084-e0fa66ff9456?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1966&q=80
+image: /images/posts/oportunidades-mapas-usuario.jpg
 featured_post: false
 ---
 

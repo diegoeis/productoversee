@@ -18,8 +18,8 @@
 #po-pre-footer div {flex: 1 0 350px; margin-bottom: 50px;}
 
 
-#po-pre-footer h3 {font: bold 1.25rem var(--fontMono); margin-bottom: 15px;}
-#po-pre-footer p {font: 0.9375rem/1.8 var(--fontMono);}
+#po-pre-footer h3 {font: bold 1.25rem var(--fontDefault); margin-bottom: 15px;}
+#po-pre-footer p {font: 0.9375rem/1.8 var(--fontDefault);}
 
 #po-pre-footer form {
   padding: 30px 0 0;
@@ -66,7 +66,7 @@
 
 .po-footer-navs nav h3 {
   color: rgba(255, 255, 255, 0.75);
-  font: bold 1rem var(--fontMono);
+  font: bold 1rem var(--fontDefault);
   padding-bottom: 20px;
 }
 
@@ -75,7 +75,7 @@
 }
 
 .po-footer-navs nav a {
-  font: 0.9375rem var(--fontMono);
+  font: 0.9375rem var(--fontDefault);
   color: rgba(255, 255, 255, 0.75);
   display: inline-block;
   padding-bottom: 7px;
@@ -86,7 +86,7 @@
 }
 
 .po-footer-manifest {
-  font: 0.75rem var(--fontMono);
+  font: 0.75rem var(--fontDefault);
   color: rgba(255, 255, 255, 0.3);
   max-width: 750px;
   width: 100%;

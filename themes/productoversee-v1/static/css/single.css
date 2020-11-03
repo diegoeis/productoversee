@@ -36,14 +36,14 @@
 
 
 #po-article-header h1 {
-  font: bold 2.5rem/1.3 var(--fontMono);
+  font: bold 2.5rem/1.3 var(--fontDefault);
   max-width: 875px;
   width: 100%;
   margin: auto
 }
 
 #po-article-header h2 {
-  font: 300 1.25rem/1.5 var(--fontMono);
+  font: 300 1.25rem/1.5 var(--fontDefault);
   color: #4F4F4F;
   padding-top: 20px;
   max-width: 715px;
@@ -76,7 +76,7 @@
 
 
 .po-page-text h1 {
-  font: bold 2rem/1.8 var(--fontMono);
+  font: bold 2rem/1.8 var(--fontDefault);
   text-align: center;
   margin: 0 0 15px
 }
@@ -88,12 +88,12 @@
 }
 
 .po-page-text h2 {
-  font: bold 1.665rem/1.8 var(--fontMono);
+  font: bold 1.665rem/1.8 var(--fontDefault);
 }
 
 .po-page-text h3 {
   padding-top: 5px;
-  font: bold 1.365rem/1.8 var(--fontMono);
+  font: bold 1.365rem/1.8 var(--fontDefault);
 }
 
 @media only screen and (max-width: 900px) {
@@ -209,7 +209,7 @@ hr {
 
 
 .po-time-read {
-  font: 0.75rem var(--fontMono);
+  font: 0.75rem var(--fontDefault);
 }
 
 /*** AUTHOR SIDEBAR ***/
@@ -217,7 +217,7 @@ hr {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  font: 0.75rem var(--fontMono);
+  font: 0.75rem var(--fontDefault);
   margin-bottom: 100px;
 }
 
@@ -268,7 +268,7 @@ hr {
 
 .po-posts-same-author {
   margin: 100px 0;
-  font: 1rem var(--fontMono);
+  font: 1rem var(--fontDefault);
 }
 
 .po-posts-same-author h3 {
@@ -277,7 +277,7 @@ hr {
 
 .po-posts-same-author li {
   padding-bottom: 8px;
-  font: 0.85rem var(--fontMono);
+  font: 0.85rem var(--fontDefault);
 }
 
 /**** COMMENTS ****/
@@ -293,7 +293,7 @@ hr {
   content: "Comentários";
   text-transform: capitalize;
   color: #000;
-  font: bold 1rem var(--fontMono);
+  font: bold 1rem var(--fontDefault);
   display: inline-block;
   position: relative; top: -2px;
 }

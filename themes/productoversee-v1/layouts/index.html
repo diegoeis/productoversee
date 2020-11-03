@@ -32,14 +32,14 @@
         </ul>
         <a href="{{ .Permalink }}" class="po-list-text">
           <h2>{{ .Title }}</h2>
-          <p>{{.Params.excerpt}}</p>
+          <!-- <p>{{.Params.excerpt}}</p> -->
         </a>
       </div>
     {{ end }}
   </section>
 
 <section class="po-section po-featured-posts">
-  <h2 class="po-title-h2">
+  <h2 class="po-title-h2 po-align-center">
     Destaques
   </h2>
   <div>
@@ -63,7 +63,7 @@
     {{ end }}
     <ul class="po-featured-list">
     {{ range first 4 (after 1 $featured_posts )}}
-      <li>
+      <li class="po-post-vertical-list">
           <figure>
             <a href="{{ .Permalink }}">
               <img src="{{ .Params.image }}" alt="">
@@ -113,7 +113,7 @@
 
     <ul>
     {{range first 7 (after 1 $posts) }}
-      <li class="po-latest-post">
+      <li class="po-post-vertical-list">
           <figure>
             <a href="{{ .Permalink }}">
               <img src="{{ .Params.image }}" alt="">
