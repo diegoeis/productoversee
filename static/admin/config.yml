@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
+      - {label: "Autor", name: "authors", widget: "string"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"]}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"]}
+      - {label: "Seu texto em MARKDOWN", name: "body", widget: "markdown"}
