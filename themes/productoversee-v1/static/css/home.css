@@ -238,6 +238,11 @@
   transform: translateY(-50%);
 }
 
+.po-post-vertical-list figure:hover ~ div a h4,
+.po-first-featured-post figure:hover ~ a p,
+.po-first-featured-post figure:hover ~ a h2 {color: var(--colorRed); text-decoration: underline;}
+
+
 .po-post-vertical-list h2,
 .po-post-vertical-list h4 {
   font: 500 0.9375rem var(--fontDefault);

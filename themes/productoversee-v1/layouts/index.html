@@ -74,11 +74,11 @@
     <div>
       {{ range first 1 $featured_posts }}
         <div class="po-first-featured-post">
-        <a href="{{ .Permalink }}">
           <figure>
-            <img src="{{ .Params.image }}" alt="">
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.image }}" alt="">
+            </a>
           </figure>
-        </a>
           <ul class="po-list-categs">
             {{ range .Params.categories }}
               <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>

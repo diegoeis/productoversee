@@ -59,6 +59,14 @@ a:hover p {color: #000;}
   }
 }
 
+hr {
+  display: block;
+  border: none;
+  border-top: 1px solid var(--colorGrayLight);
+  margin: 50px 0;
+}
+
+
 /*** AUTHORS LIST ***/
 .po-authors-list {
   font: 0.8rem/1.7 var(--fontDefault);
@@ -113,7 +121,7 @@ span.po-list-categs {
 .Kind-is-home #po-header {border: none;}
 
 #po-header > .po-container {
-  padding: 25px 20px;
+  padding: 25px 0;
   display: flex;
   justify-content: space-between;
 }
@@ -149,6 +157,31 @@ span.po-list-categs {
 }
 
 .po-header-inner {position: relative}
+
+
+.po-header-social {
+  position: absolute;
+  right: 0;
+  top: 20px;
+  height: 20px;
+}
+.po-header-social li {
+  list-style: none;
+  display: inline-block;
+}
+.po-header-social li a {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url(/images/social-icons/header-social.png) no-repeat left center;
+  background-size: auto 20px;
+  text-indent: -999px;
+  overflow: hidden;
+}
+
+li.po-social-potwitter a {background-position: right center;}
+li.po-social-rss a {background-position: left center;}
+
 
 /*** SEARCH ***/
 #po-search-form {
@@ -193,6 +226,12 @@ span.po-list-categs {
   #po-search-form {
     width: 65%;
   }
+
+  #po-header > .po-container {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
 }
 
 
