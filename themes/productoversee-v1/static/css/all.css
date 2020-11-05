@@ -462,7 +462,7 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 .po-list-posts li figure {
   max-width: 500px; 
-  height: 250px; 
+  height: 160px; 
   overflow: hidden;
   position: relative;
 }
@@ -471,7 +471,7 @@ input[type="text"], .po-newsletter-footer .email_type {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  max-width: 130%;
+  /* max-width: 130%; */
 }
 
 
