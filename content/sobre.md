@@ -15,7 +15,7 @@ Acreditamos que a gestão de produtos encontra maneiras colaborativas, provocand
 
 
 ### Somos Iconoclastas
-**Nós quebramos ídolos**. Nós desejamos que você construa seu próprio racional e seja seu próprio guia. Odiamos a tradição de métodos e técnicas que influenciadores, empresas e escolas do mercado de produto divulgam para novos profissionais em um mercado que está se estabelecendo. Queremos fazer parte de uma comunidade única, que quebra essa dinâmica passiva de construção de opinião.
+**Nós quebramos ídolos**. Nós desejamos que você construa seu próprio racional e seja seu próprio guia. Odiamos a tradição de métodos e técnicas ensinados e divulgados por influenciadores e/ou empresas para novos profissionais em um mercado que está se estabelecendo. Queremos fazer parte de uma comunidade que queira quebrar essa dinâmica passiva de construção de opinião.
 
 ### Somos desafiantes
 Para conquistarmos novos ambientes, precisamos romper com o que foi dado como certo anteriormente. Fomentamos e estimulamos a independência de opinião, facilitando a discussão para a criação de um racional individual. **Motivamos** o **questionamento**, **desafiando o consenso** e ajudando os profissionais a construirem **seu próprio pensamento crítico**.
