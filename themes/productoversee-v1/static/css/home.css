@@ -393,7 +393,14 @@
     order: 1;
     margin: 0 0 50px;
     padding: 0;
+    font-size: 1.2rem;
   }
+
+  #po-middle-post p {
+    font-size: 0.9rem;
+    padding: 20px 0;
+  }
+
   .po-top .po-left-list {
     order: 2;
   }
@@ -401,4 +408,19 @@
     order: 3;
     padding-top: 0px;
   }
+
+  #po-middle-post h1 {
+    padding: 20px 0 0;
+  }
+
+  .po-first-featured-post h2 {
+    width: auto;
+    padding: 0;
+    font-size: 1.6rem;
+  }
+
+  .po-featured-posts {
+    margin-bottom: 0;
+  }
+
 }

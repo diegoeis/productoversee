@@ -51,6 +51,7 @@
 
 .po-footer-navs .po-container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-content: center;
   align-items: flex-start;
@@ -138,6 +139,23 @@
   .po-newsletter-footer .po-btn {
     margin-top: 10px;
   }
-  #po-pre-footer div {text-align: center;}
+
+  .po-footer-navs {
+    padding: 50px 0 25px;
+    margin-bottom: 0
+  }
+
+  #po-pre-footer div,
+  .po-footer-navs nav li {text-align: center;}
+
+  .po-footer-navs nav {
+    flex: auto;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  .po-footer-manifest {
+    padding: 0 30px;
+  }
 
 }
