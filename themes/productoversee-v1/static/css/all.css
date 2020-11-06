@@ -693,10 +693,21 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 }
 
+
+/***** BANNERS ****/
+
 .po-banner-horizontal {
   width: 100%;
   max-width: 900px;
   height: 100%;
   max-height: 300px;
   margin: 30px auto 0;
+}
+
+.po-banner-authors {
+  position: sticky;
+  top: 30px;
+}
+
+.po-banner-rightHome {
 }
