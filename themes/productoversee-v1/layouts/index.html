@@ -123,7 +123,7 @@
 
       <ul>
         {{ range .Site.Data.authors.author }}
-        <li>
+        <li class="po-author-{{ .name | urlize }}">
           <a href="{{ "/authors/" | relLangURL }}{{ .name | urlize }}">
             <img src="{{ .avatar }}" alt="">
             <h4 class="po-title-h4">{{ .name  }}</h4>

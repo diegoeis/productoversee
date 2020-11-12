@@ -71,6 +71,7 @@ hr {
 .po-authors-list {
   font: 0.8rem/1.7 var(--fontDefault);
 }
+.po-author-tiago-doria {display: none;}
 
 .po-authors-list a:hover {
   text-decoration: none;
@@ -165,6 +166,8 @@ span.po-list-categs {
   top: 20px;
   height: 20px;
 }
+.Type-is-posts .po-header-social {top:13px;}
+
 .po-header-social li {
   list-style: none;
   display: inline-block;
@@ -695,6 +698,10 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 
 /***** BANNERS ****/
+.popo-banner-horizontal,
+.po-banner-authors,
+.po-banner-rightHome {display: none;}
+
 
 .po-banner-horizontal {
   width: 100%;
