@@ -39,21 +39,27 @@
       <span class="po-menu-close" data-toggle="#po-menu">Fechar</span>
 
       <nav class="po-menu-categs">
-        {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
-          <a href="{{.Permalink}}">
-            <h2>{{.Title}}</h2>
+        <a href="/categories/tatico/">
+          <h2>Tático</h2>
 
-          {{ $category_details := where .Site.Data.categories.category ".name" .Title }}
-        
-          {{range $category_details}}
-            <p>{{.description}}</p>
-          {{end}}
-  
-          </a>
+          <p>Construção de produto do ponto de vista executivo, desdobrando as visões de negócio para a materialização do produto em software.</p>
+        </a>
+        <a href="/categories/estrategia/">
+          <h2>Estratégia</h2>
 
-        {{end}}
+          <p>Como criamos um produto e um serviço contemplando visões de negócio, mercado e comportamento da sociedade.</p>
+        </a>
+        <a href="/categories/opiniao/">
+          <h2>Opinião</h2>
+
+          <p>Como nossos autores enxergam o mundo de produtos digitais, analisando mercado, negócios, pessoas e processos.</p>
+        </a>
+        <a href="/categories/indicadores-e-dados/">
+          <h2>Indicadores e Dados</h2>
+
+          <p>Controlando o produto por meio de indicadores e métricas que nos dizem como o usuário se comporta no nosso ambiente.</p>
+        </a>
       </nav>
-
       {{ partial "minimenu.html"}}
 
     </div>
