@@ -568,25 +568,36 @@ input[type="text"], .po-newsletter-footer .email_type {
   margin: 0 auto 150px;
 }
 
-.po-about-text {
+.po-about-text,
+.po-page-text {
   max-width: 700px;
   margin: 0 auto;
 }
 .po-about-text p,
-.po-about-text li {
+.po-about-text li,
+.po-page-text p,
+.po-page-text li {
   font: 400 1.065rem/1.8 var(--fontArticle);
   color: var(--colorGrayMedium);
   margin-bottom: 25px;
 }
 
-.po-about-text li {margin-bottom: 5px;}
-.po-about-text h2 {font: bold 1.665rem/1.8 var(--fontDefault);}
+.po-about-text li,
+.po-page-text  li {margin-bottom: 5px;}
+.po-about-text h2,
+.po-page-text h2 {font: bold 1.665rem/1.8 var(--fontDefault);}
 
-.po-about-text h3 {
+.po-about-text h3,
+.po-page-text h3 {
   padding-top: 5px;
   font: bold 1.365rem/1.8 var(--fontDefault);
 }
 
+.po-page-text h1 {
+  padding: 100px 0 50px;
+  text-align: center;
+  font: bold 2rem/1.8 var(--fontDefault);
+}
 
 /******
 *** NEWSLETTER OVERLAY
@@ -716,5 +727,23 @@ input[type="text"], .po-newsletter-footer .email_type {
   top: 30px;
 }
 
-.po-banner-rightHome {
+/**** PAGE NEWSLETTER ****/
+#po-page-newsletter .subscription-form {
+  border: none;
+  width: 100%;
+  padding: 0;
 }
+
+#po-page-newsletter .subscription-form h4.dont-break-out,
+#po-page-newsletter .subscription-form .subscription-form-content,
+#po-page-newsletter .subscription-form span {display: none;}
+
+#po-page-newsletter .subscription-form [type="submit"] {
+  cursor: pointer;
+}
+  
+#po-page-newsletter .subscription-form input[type="email"] {
+  padding: 20px
+}
+
+#po-page-newsletter .subscription-form .subscription-thank-you p {font-size: 1.5rem}
