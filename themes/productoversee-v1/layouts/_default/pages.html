@@ -5,12 +5,16 @@
     <article class="po-page-text">
         <h1>{{ .Title }}</h1>
         {{if .Params.excerpt }}<h2>{{ .Params.excerpt }}</h2>{{end}}
-        {{.Content}}
-        
+
+    
         {{ if eq "newsletter" .File.BaseFileName }}
             {{ partial "newsletter-footer.html"}}
+            <br><br><br>
         {{end}}
             
+
+        {{.Content}}
+    
         </article>
         
         
