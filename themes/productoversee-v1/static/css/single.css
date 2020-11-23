@@ -326,6 +326,7 @@ hr {
 } */
 
 .po-banner-sidebar {
+  display: none;
   position: sticky;
   top: 30px;
 }

@@ -334,12 +334,17 @@
   overflow: hidden;
   margin-bottom: 20px;
 }
+
 .po-top .po-right-list > div figure {
   flex: 1 0 100px;
   max-width: 100px;
   order: 3;
   width: 100%;
   text-align: right;
+}
+
+.po-top .po-right-list > div figure:hover ~ span * {
+  color: var(--colorRed);
 }
 
 .po-top .po-right-list span {

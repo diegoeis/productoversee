@@ -121,7 +121,7 @@ span.po-list-categs {
 .Kind-is-home #po-header {border: none;}
 
 #po-header > .po-container {
-  padding: 25px 0;
+  padding: 25px 20px;
   display: flex;
   justify-content: space-between;
 }
@@ -191,7 +191,8 @@ li.po-social-rss a {background-position: left center;}
   top: 14px;
   left: 110px;
   z-index: 1;
-  width: 93%;
+  width: 100%;
+  max-width: 800px;
   height: 90px;
   background: #fff;
   opacity: 0;
