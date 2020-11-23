@@ -6,7 +6,7 @@
     "avatar": "/images/authors/diego.jpg",
     "email": "diegoeis@gmail.com",
     "twitter": "@diegoeis",
-    "linkedin": "diegoeis",
+    "linkedin": "https://www.linkedin.com/in/diegoeis/",
     "site": "https://diegoeis.com",
     "other": ""
   },
@@ -46,7 +46,7 @@
     "avatar": "/images/authors/andre-pimentel.jpg",
     "email": "",
     "twitter": "",
-    "linkedin": "p1m3nt3l",
+    "linkedin": "https://www.linkedin.com/in/p1m3nt3l/",
     "site": "",
     "other": ""
   },
@@ -56,7 +56,18 @@
     "avatar": "/images/authors/tiago-doria.jpg",
     "email": "tiago@tiagodoria.com.br",
     "twitter": "@tdoria",
+    "linkedin": "",
     "site": "http://www.tiagodoria.com.br",
     "other": "@tiagodoria"
+  },
+  {
+    "name": "Paulo Victor Rodrigues",
+    "minibio": "Entusiasta de produtos digitais, criatividade, inovação e comportamento do consumidor. Trabalho todos os dias para encontrar as principais necessidades do mercado, e transformá-las em oportunidades de negócio.",
+    "avatar": "/images/authors/paulo-victor-rodrigues.jpg",
+    "email": "",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/paulo-victor-rodrigues-316247104/",
+    "site": "",
+    "other": ""
   }
 ]}

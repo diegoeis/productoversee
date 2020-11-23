@@ -15,7 +15,7 @@
   align-content: center;
 }
 
-#po-pre-footer div {flex: 1 0 350px; margin-bottom: 50px;}
+#po-pre-footer > div {flex: 1 0 350px; margin-bottom: 50px;}
 
 
 #po-pre-footer h3 {font: bold 1.25rem var(--fontDefault); margin-bottom: 15px;}
@@ -141,7 +141,7 @@
   }
 
   .po-footer-navs {
-    padding: 50px 0 25px;
+    padding: 50px 0 25px; 
     margin-bottom: 0
   }
 

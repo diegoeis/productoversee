@@ -1,5 +1,4 @@
 @import url(fonts.css);
-@import url(footer.css);
 
 /**** VARIABLES ****/
 :root {
@@ -635,31 +634,34 @@ input[type="text"], .po-newsletter-footer .email_type {
   box-shadow: 0 0 15px rgba(0, 0, 0, .5);
 }
 
-.po-box-newsletter .subscription-form h4 {
+
+.sender-form-title,
+.sender-form-label,
+.sender-form-checkboxes,
+.sender-form-bottom-text,
+.sender-form-link {
+  display: none !important;
+}
+
+
+.po-box-newsletter > h2 {
   font: bold 1.7rem/1.8 var(--fontDefault);
+  max-width: 600px;
 }
 
-.po-box-newsletter .subscription-form p {
-  font: 1rem/1.8 var(--fontDefault);
-}
-
-.po-box-newsletter .subscription-form {
+.po-box-newsletter form.sender-form-box {
   border-radius: 0;
   border: none;
   width: 500px;
   max-width: 100%;
-  padding: 0;
+  padding: 25px 0 0;
 }
 
-.po-box-newsletter .subscription-form form {
-  margin: 20px 0 0;
-}
-
-.po-box-newsletter .subscription-form input {
+.po-box-newsletter input {
   padding: 10px;
 }
 
-.po-box-newsletter .subscription-form button {
+.po-box-newsletter button.sender-form-button {
   background: var(--colorRed);
   text-align: left;
   cursor: pointer;
@@ -669,15 +671,13 @@ input[type="text"], .po-newsletter-footer .email_type {
   border: 1px solid var(--colorRed);
 }
 
-.po-box-newsletter .subscription-form button:hover {
-  background: white;
-  color: var(--colorRed)  
+.po-box-newsletter button.sender-form-button:hover {
+  background: white !important;
+  color: var(--colorRed) !important;
+  filter: none;
+  -webkit-filter: none;
 }
 
-
-.po-box-newsletter .subscription-form-fields {
-  margin: 0;
-}
 .po-box-newsletter .sender-link-wrapper {
   display: none !important;
   color: transparent;

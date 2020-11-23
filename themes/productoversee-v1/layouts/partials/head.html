@@ -14,6 +14,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/all.css?{{ now.Unix }}">
+  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/footer.css?{{ now.Unix }}">
   
   <link rel="prerender" href='{{ range first 1 (where .Site.Pages "Type" "post" )}}{{.Permalink}}{{end}}'>
 
@@ -95,3 +96,17 @@
     }
   </script>
 
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('cc37bf1ee61714')
+</script>

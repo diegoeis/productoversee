@@ -5,7 +5,7 @@
       <h3>Torne sua inbox mais interessante às quartas-feiras.</h3>
       <p>Assinantes da Newsletter recebem duas semanas antes conteúdos que serão publicados no portal. Saiba antes como impactar sua carreira, negócio e produto.</p>
 
-      {{ partial "newsletter-footer.html"}}
+      {{ partial "newsletter-form.html"}}
 
     </div>
     <div class="po-mentoring-box">
@@ -53,7 +53,11 @@
 
     <div class="po-box-newsletter" aria-labelledby="Newsletter da Product Oversee" aria-describedby="Se inscreva na nossa newsletter para receber um artigo por semana, todas as quartas-feiras." role="dialog"  tabindex="-1">
       <span  data-toggle="#po-overlay-newsletter" class="po-close-news" aria-label="Feche essa modal"></span>
-      <script type="text/javascript" src="https://cdn.sender.net/webforms/17648/f06c69d3.js?v=4"></script>
+
+        <h2>Inscreva-se na PM Letter Oversee</h2>
+      {{ partial "newsletter-form.html"}}
+
+      <!-- <script type="text/javascript" src="https://cdn.sender.net/webforms/17648/f06c69d3.js?v=4"></script> -->
     </div>
   
   </div>
