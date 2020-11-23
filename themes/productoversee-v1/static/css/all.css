@@ -47,9 +47,8 @@ body {
 a:hover,
 a:hover *,
 a:hover ~ a h2,
-.po-list-text:hover h2 {color: #ff0000}
-
-a:hover p {color: #000;}
+.po-list-text:hover h2,
+.po-list-text:hover h2 ~ p {color: #ff0000 !important;}
 
 @media only screen and (max-width: 900px) {
   ul,
@@ -509,7 +508,7 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 .po-list-posts li figure {
   max-width: 500px; 
-  height: 160px; 
+  height: 170px; 
   overflow: hidden;
   position: relative;
 }

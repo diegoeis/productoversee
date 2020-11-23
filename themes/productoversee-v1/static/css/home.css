@@ -231,6 +231,13 @@
   overflow: hidden;
   position: relative;
 }
+
+.po-latest-posts .po-post-vertical-list > figure:hover ~ div * {
+  color: var(--colorRed);
+  text-decoration: underline;
+}
+
+
 .po-post-vertical-list img {
   max-width: 100%;
   position: absolute;
