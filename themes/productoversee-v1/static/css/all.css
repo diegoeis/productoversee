@@ -46,7 +46,6 @@ body {
 
 a:hover,
 a:hover *,
-a:hover ~ a h2,
 .po-list-text:hover h2,
 .po-list-text:hover h2 ~ p {color: #ff0000 !important;}
 
