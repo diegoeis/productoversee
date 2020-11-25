@@ -4,7 +4,7 @@ excerpt: Entendimento sobre o processo de comunicação, suas barreiras e maneir
 authors: Éricka Padilha
 date: 2020-10-30
 tags: [Negócios]
-categories: [Opinião, Tático]
+categories: [Tático]
 image: https://images.unsplash.com/photo-1550177977-ad69e8f3cae0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
 featured_post: false
 ---

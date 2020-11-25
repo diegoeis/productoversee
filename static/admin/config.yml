@@ -6,6 +6,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 site_url: https://productoversee.com
 display_url: https://productoversee.com
 locale: 'pt'
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -18,7 +19,7 @@ collections:
       # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
-      - {label: "Autor", name: "authors", widget: "list", default: ["Ericka Padilha, Diego Eis, Pablo Silva, Lucas Balbino"]}
+      - {label: "Autor", name: "authors", widget: "string", default: ["Ericka Padilha, Diego Eis, Pablo Silva, Lucas Balbino, Tiago Dória"]}
       - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Imagem destaque", name: "image", widget: "string"}

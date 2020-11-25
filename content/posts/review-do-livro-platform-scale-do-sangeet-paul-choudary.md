@@ -3,8 +3,7 @@ type: post
 title: Review do livro Platform Scale do Sangeet Paul Choudary
 excerpt: "Esse é um pequeno review do livro sobre modelos de negócio baseados em
   plataforma do Sangeet Paul Choudary "
-authors:
-  - Diego Eis
+authors: Diego Eis
 date: 2020-11-25
 publishDate: 2020-11-25
 image: https://i.imgur.com/HC0fuA9.jpg
