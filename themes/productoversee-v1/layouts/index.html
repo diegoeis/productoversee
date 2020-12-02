@@ -6,7 +6,7 @@
 {{ $featured_posts := (where $posts ".Params.featured_post" "=" true)  }}
 
 <div class="po-container">
-  
+
   <div class="po-top">
     <section class="po-left-list">
       {{range first 2 (after 1 $posts) }}
@@ -32,19 +32,17 @@
     {{range first 1 $posts }}
     
       <a href="{{ .Permalink }}" id="po-middle-post">
-          <img src="{{ .Params.image }}" alt="">
-          
-          <h1>{{ .Title }}</h1>
-          <p>{{ .Params.excerpt }}</p>
-          <span class="po-author">{{.Params.authors}}</span>
+        <img src="{{ .Params.image }}" alt="">
         
-
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.excerpt }}</p>
+        <span class="po-author">{{ .Params.authors }}</span>
       </a>
 
     {{ end }}
 
     <section class="po-right-list">
-      {{range first 5 (after 3 $posts) }}
+      {{range first 4 (after 3 $posts) }}
         <div>
             <figure>
               <a href="{{ .Permalink }}">
@@ -67,7 +65,6 @@
     </section>
   </div>
   
-
   <section class="po-section po-featured-posts">
     <h2 class="po-title-h2 po-align-center">
       Esses são nossos recomendados
@@ -85,30 +82,30 @@
               <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
             {{ end }}
           </ul>
-        <a href="{{ .Permalink }}">
-          <h2 class="po-title-h3">{{ .Title }}</h2>
-          <p>{{.Params.excerpt}}</p>
-        </a>
+          <a href="{{ .Permalink }}">
+            <h2 class="po-title-h3">{{ .Title }}</h2>
+            <p>{{.Params.excerpt}}</p>
+          </a>
         </div>
       {{ end }}
       <ul class="po-featured-list">
       {{ range first 4 (after 1 $featured_posts )}}
         <li class="po-post-vertical-list">
-            <figure>
-              <a href="{{ .Permalink }}">
-                <img src="{{ .Params.image }}" alt="">
-              </a>
-            </figure>
-            <div>
-              <ul class="po-list-categs">
-                {{ range .Params.categories }}
-                  <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
-                {{ end }}
-              </ul>
-              <a href="{{ .Permalink }}">
-                <h4 class="po-title-h4">{{ .Title }}</h4>
-              </a>
-            </div>
+          <figure>
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.image }}" alt="">
+            </a>
+          </figure>
+          <div>
+            <ul class="po-list-categs">
+              {{ range .Params.categories }}
+                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+              {{ end }}
+            </ul>
+            <a href="{{ .Permalink }}">
+              <h4 class="po-title-h4">{{ .Title }}</h4>
+            </a>
+          </div>
         </li>
       {{ end }}
       </ul>
@@ -183,10 +180,12 @@
       <h2 class="po-title-h2">
         Vale a pena ouvir
       </h2>
-      <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=product-gurus-G27X2L&ge=s1!eee76bbf17c8fe4a86ed21bfb6a8df1d88e18b9e"></iframe>
-      <br><br>
-      <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=mulheres-de-produto-6rOL5a&ge=s1!b0423b65987fcd1e6058a36f6ad0481a875a240d"></iframe>
       
+      <iframe src="https://open.spotify.com/embed-podcast/show/7uRmxP1l3m9kwrsTYxnIMA" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <br><br>
+      <iframe src="https://open.spotify.com/embed-podcast/show/1rfUWxL2Ia7kA343ClLya1" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <br><br>
+      <iframe src="https://open.spotify.com/embed-podcast/show/5PD1bRaJz3irxq712zF566" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       
       
       <div class="po-banner-rightHome">

@@ -2,8 +2,7 @@
 type: post
 title: A Visão Sistêmica no Gerenciamento de Produtos
 excerpt: O produto como ambiente complexo e pensamento analítico
-authors:
-  - Newton Calegari
+authors: Newton Calegari
 date: 2020-12-01
 publishDate: 2020-12-01
 image: https://i.imgur.com/sBfoIoq.jpeg
@@ -13,6 +12,7 @@ tags:
   - negócio
   - mercado
 ---
+
 Por mais simples que um produto possa parecer à primeira vista, nós não notamos a complexidade que existe nele. Desde o desenvolvimento, etapa que requer esforços de engenharia, código, bases de dados, design de interfaces, pesquisas de experiência de usuário (UX), até estratégias de marketing e divulgação.
 
 Todas essas habilidades contribuem para a tangibilização de uma proposta de valor e consequentemente para o sucesso de um produto.
