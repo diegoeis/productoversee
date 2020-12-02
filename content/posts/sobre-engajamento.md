@@ -1,12 +1,16 @@
 ---
-title: Sobre Engajamento
 excerpt: Meus pensamentos sobre o que é engajamento em serviços e produtos digitais
 authors: Diego Eis
 date: 2020-10-30
-tags: [Negócios]
-categories: [Tático]
-image: https://images.unsplash.com/photo-1528495612343-9ca9f4a4de28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80
 featured_post: false
+title: Sobre Engajamento
+publishDate: 2020-12-02
+image: https://images.unsplash.com/photo-1528495612343-9ca9f4a4de28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80
+categories:
+  - Tático
+tags:
+  - negócios
+  - engajamento
 ---
 
 Engajamento e retenção são dois dos fundamentos mais importantes na
