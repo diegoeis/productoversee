@@ -360,7 +360,10 @@
   padding-right: 15px;
 }
 
-.po-top .po-right-list h2 {font-weight: normal;}
+.po-top .po-right-list h2 {
+  font-weight: normal;
+  font-size: .8rem;
+}
 
 .po-top .po-left-list div {
   margin-bottom: 30px;
