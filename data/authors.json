@@ -41,6 +41,16 @@
     "other": ""
   },
   {
+    "name": "Tiago Dória",
+    "minibio": "É UX engineer e escreve sobre cultura digital e produtos desde 1998. É especializado em Inovação pelo MIT e Mestre em UX e Web Development pela Northeastern University, em Massachusetts, EUA.",
+    "avatar": "/images/authors/tiago-doria.jpg",
+    "email": "tiago@tiagodoria.com.br",
+    "twitter": "@tdoria",
+    "linkedin": "",
+    "site": "http://www.tiagodoria.com.br",
+    "other": "@tiagodoria"
+  },
+  {
     "name": "André Pimentel",
     "minibio": "Diretor de Produtos na Estante Mágica.",
     "avatar": "/images/authors/andre-pimentel.jpg",
@@ -59,16 +69,6 @@
     "linkedin": "https://www.linkedin.com/in/newtoncalegari/",
     "site": "https://newtoncalegari.com.br/about/",
     "other": ""
-  },
-  {
-    "name": "Tiago Dória",
-    "minibio": "É UX engineer e escreve sobre cultura digital e produtos desde 1998. É especializado em Inovação pelo MIT e Mestre em UX e Web Development pela Northeastern University, em Massachusetts, EUA.",
-    "avatar": "/images/authors/tiago-doria.jpg",
-    "email": "tiago@tiagodoria.com.br",
-    "twitter": "@tdoria",
-    "linkedin": "",
-    "site": "http://www.tiagodoria.com.br",
-    "other": "@tiagodoria"
   },
   {
     "name": "Paulo Victor Rodrigues",

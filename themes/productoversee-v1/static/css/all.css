@@ -68,7 +68,6 @@ hr {
 .po-authors-list {
   font: 0.8rem/1.7 var(--fontDefault);
 }
-.po-author-tiago-doria {display: none;}
 
 .po-authors-list a:hover {
   text-decoration: none;

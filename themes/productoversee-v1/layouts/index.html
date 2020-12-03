@@ -120,7 +120,7 @@
       </h2>
 
       <ul>
-        {{ range .Site.Data.authors.author }}
+        {{ range first 5 .Site.Data.authors.author }}
         <li class="po-author-{{ .name | urlize }}">
           <a href="{{ "/authors/" | relLangURL }}{{ .name | urlize }}">
             <img src="{{ .avatar }}" alt="">
