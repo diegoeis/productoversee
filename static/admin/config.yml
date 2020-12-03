@@ -7,7 +7,6 @@ site_url: https://productoversee.com
 display_url: https://productoversee.com
 locale: 'pt'
 publish_mode: editorial_workflow
-
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Todos os Post" # Used in the UI
@@ -30,41 +29,106 @@ collections:
     label: "Posts do Diego Eis"
     folder: "content/posts"
     filter: {field: "authors", value: "Diego Eis"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}
   - name: "posts-pablo"
     label: "Posts do Pablo"
     folder: "content/posts"
     filter: {field: "authors", value: "Pablo Silva"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
-  - name: "posts-ericka"
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}  - name: "posts-ericka"
     label: "Posts do Ericka"
     folder: "content/posts"
     filter: {field: "authors", value: "Ericka Padilha"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
-  - name: "posts-balbino"
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}  - name: "posts-balbino"
     label: "Posts do Lucas"
     folder: "content/posts"
     filter: {field: "authors", value: "Lucas Balbino"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
-  - name: "categ-opiniao"
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}  - name: "categ-opiniao"
     label: "Categoria - Opinião"
     folder: "content/posts"
     filter: {field: "categories", value: "Opinião"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
+      - {label: "Autor", name: "authors", widget: "string"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
-  - name: "categ-tatico"
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}  - name: "categ-tatico"
     label: "Categoria - Tático"
     folder: "content/posts"
     filter: {field: "categories", value: "Tático"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
+      - {label: "Autor", name: "authors", widget: "string"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
-  - name: "categ-estrategia"
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}  - name: "categ-estrategia"
     label: "Categoria - Estratégia"
     folder: "content/posts"
     filter: {field: "categories", value: "Estratégia"}
-    fields:
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
+      - {label: "Autor", name: "authors", widget: "string"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}
