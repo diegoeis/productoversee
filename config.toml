@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://productoversee.com/"
 languageCode = "pt-br"
 title = "Product Oversee - o portal de conteúdo para PMs com opinião"
 theme = "productoversee-v1"
