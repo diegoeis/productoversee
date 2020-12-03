@@ -26,21 +26,45 @@ collections:
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
       - {label: "Seu texto", name: "body", widget: "markdown"}
-  - name: "posts-diegoeis" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts do Diego Eis" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
-    create: false # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  - name: "posts-diegoeis"
+    label: "Posts do Diego Eis"
+    folder: "content/posts"
     filter: {field: "authors", value: "Diego Eis"}
-    fields: # The fields for each document, usually in front matter
-      - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Resumo", name: "excerpt", widget: "string"}
+    fields:
       - {label: "Autor", name: "authors", widget: "string"}
-      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Imagem destaque", name: "image", widget: "string"}
+  - name: "posts-pablo"
+    label: "Posts do Pablo"
+    folder: "content/posts"
+    filter: {field: "authors", value: "Pablo Silva"}
+    fields:
+      - {label: "Autor", name: "authors", widget: "string"}
+  - name: "posts-ericka"
+    label: "Posts do Ericka"
+    folder: "content/posts"
+    filter: {field: "authors", value: "Ericka Padilha"}
+    fields:
+      - {label: "Autor", name: "authors", widget: "string"}
+  - name: "posts-balbino"
+    label: "Posts do Lucas"
+    folder: "content/posts"
+    filter: {field: "authors", value: "Lucas Balbino"}
+    fields:
+      - {label: "Autor", name: "authors", widget: "string"}
+  - name: "categ-opiniao"
+    label: "Categoria - Opinião"
+    folder: "content/posts"
+    filter: {field: "categories", value: "Opinião"}
+    fields:
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
-      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
-      - {label: "Seu texto", name: "body", widget: "markdown"}
+  - name: "categ-tatico"
+    label: "Categoria - Tático"
+    folder: "content/posts"
+    filter: {field: "categories", value: "Tático"}
+    fields:
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+  - name: "categ-estrategia"
+    label: "Categoria - Estratégia"
+    folder: "content/posts"
+    filter: {field: "categories", value: "Estratégia"}
+    fields:
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
