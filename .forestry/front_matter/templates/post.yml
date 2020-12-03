@@ -5,6 +5,7 @@ fields:
 - type: text
   name: type
   label: type
+  default: post
 - type: text
   name: title
   label: title
