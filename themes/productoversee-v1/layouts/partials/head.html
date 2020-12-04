@@ -36,12 +36,11 @@
 
   <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
 
+  <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .Permalink }}">
-  
   <meta property="og:title" content="{{ .Title}}">
   <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
-
-  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}?{{ now.Unix }}{{ else }}images/missing-img.png?{{ now.Unix }}{{ end }}">
   
   <meta property="fb:app_id" content="187329465112652">
 

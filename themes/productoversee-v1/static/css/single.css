@@ -225,6 +225,7 @@ hr {
   flex: 1;
   max-width: 60px;
   max-height: 60px;
+  border-radius: 50%;
 }
 
 .po-sidebar-author div {flex: 1;}
