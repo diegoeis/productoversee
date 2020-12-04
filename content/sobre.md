@@ -26,3 +26,7 @@ Assim mesmo, no plural. **Representamos opiniões diferentes**. Defendemos a exp
 ---
 
 Nós estamos comprometidos a influenciar a evolução do mercado, nos dedicando à evolução individual. É isso.
+
+---
+
+Agradecimento ao nosso designer predileto que nos guiou em toda a ideação da nossa personalidade e marca: [Conrado Cotomacio](https://www.behance.net/ConradoPoke). <3 
