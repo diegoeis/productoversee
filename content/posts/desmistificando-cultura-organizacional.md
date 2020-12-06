@@ -8,6 +8,7 @@ publishDate: 2020-12-09
 image: https://master.tus.io/files/88c206f91e6351a2724ba54894db2a10+yMHK.cn6TOn4vOoKkY2rPQu0bjfcrFDyrCUaRNLngEJ67PCRTJntgW.LGxhaY3SvpLrPIu5f85kAyQY97n.v2OK4YB9kTyVYJDuBiPymWWlukIlYgpiLUDDFTrOX.WwZ
 categories:
   - Tática
+  - Processos e Métodos
 tags:
   - cultura
   - mercado

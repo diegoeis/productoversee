@@ -467,7 +467,7 @@ input[type="text"], .po-newsletter-footer .email_type {
 /*****
 *** LISTS PAGES
 *****/
-.po-section-list {
+.po-section-list, .po-section-head {
   padding: 100px 0;
   margin-bottom: 50px;
   border-bottom: 1px solid #E5E5E5;
@@ -529,10 +529,17 @@ input[type="text"], .po-newsletter-footer .email_type {
   font-size: 0.75rem;
 }
 
-.po-page-todas-publicacoes h1.po-title-h1 + .po-excerpt {
+.po-section-head h1.po-title-h1 + .po-excerpt {
   text-align: center;
-  font: 1.2rem var(--fontDefault);
-  margin-top: 15px;
+  font: 1.1rem var(--fontDefault);
+  max-width: 700px;
+  margin: 15px auto 0;
+}
+
+.po-section-head h1.po-title-h1 {
+  font: bold 1.8rem var(--fontDefault);
+  text-align: center;
+  color: var(--colorRed);
 }
 
 /****
@@ -630,4 +637,39 @@ input[type="text"], .po-newsletter-footer .email_type {
 .po-banner-authors {
   position: sticky;
   top: 30px;
+}
+
+
+/*****
+** PAGINA DE LISTAGEM DE AUTORES
+*****/
+.po-list-authors {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.po-list-authors img {
+  max-width: 150px;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.po-list-authors li {
+  padding: 0 30px;
+  margin-bottom: 100px;
+  flex: 1 0 300px;
+  max-width: 300px;
+  width: 100%;
+  text-align: center;
+}
+
+.po-list-authors h3 {
+  font-size: 1.5rem;
+  padding: 10px 0;
+}
+
+.po-list-authors p {
+  font: .9rem/1.7 var(--fontDefault);
+
 }

@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+
+<section class="tb-list">
+
+  <div class="po-section-head po-section-{{.Section}}">
+    <div class="po-container">
+        <h1 class="po-title-h1">{{.Title}}</h1>
+        <p class="po-excerpt">{{ .Param "excerpt" }}</p>
+    </div>
+  </div>
+
+
+  <div class="po-container">
+    <ul class="po-list-authors">
+      {{ range .Site.Data.authors.author }}
+      <li class="po-author-{{ .name | urlize }}">
+        <a href="{{ "/authors/" | relLangURL }}{{ .name | urlize }}">
+          <img src="{{ .avatar }}" alt="">
+          <h3 class="po-title-h3">{{ .name  }}</h4>
+          <p>{{ .minibio }}</p>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+    
+</section>
+
+
+{{end}}
+
