@@ -1,0 +1,40 @@
+
+
+{{ define "main" }}
+
+
+<section class="tb-list">
+
+  <div class="po-section-list po-section-{{.Section}}">
+    <div class="po-container">
+        <img src="{{ .Params.avatar }}" alt="Foto de {{.Params.name}}">
+      <h3>{{ .Params.name }}</h3>
+
+      <p class="po-excerpt">{{ .Content }}</p>
+    
+    </div>
+  </div>
+
+  <div class="po-container">
+    <ul class="po-list-posts">
+      {{ range .Data.Pages }}
+      <li>
+        <a href="{{ .Permalink }}">
+          <figure>
+            {{if .Params.image}}<img src="{{ .Params.image }}" alt="">{{else}}<img src="/images/missing.jpg">{{end}}
+          </figure>
+
+          <h4 class="po-title-h4">{{ .Title }}</h4>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+    
+</section>
+
+
+
+
+
+{{end}}

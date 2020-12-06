@@ -26,7 +26,7 @@
     "avatar": "/images/authors/ericka.jpg",
     "email": "",
     "twitter": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/ericka-padilha/",
     "site": "",
     "other": ""
   },
@@ -36,19 +36,9 @@
     "avatar": "/images/authors/balbino.jpg",
     "email": "",
     "twitter": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/lucasbalbino/",
     "site": "",
     "other": ""
-  },
-  {
-    "name": "Tiago Dória",
-    "minibio": "É UX engineer e escreve sobre cultura digital e produtos desde 1998. É especializado em Inovação pelo MIT e Mestre em UX e Web Development pela Northeastern University, em Massachusetts, EUA.",
-    "avatar": "/images/authors/tiago-doria.jpg",
-    "email": "tiago@tiagodoria.com.br",
-    "twitter": "@tdoria",
-    "linkedin": "",
-    "site": "http://www.tiagodoria.com.br",
-    "other": "@tiagodoria"
   },
   {
     "name": "André Pimentel",
@@ -61,16 +51,6 @@
     "other": ""
   },
   {
-    "name": "Newton Calegari",
-    "minibio": "Product Manager na JusBrasil e professor de Design na PUC-SP.",
-    "avatar": "/images/authors/newton-calegari.png",
-    "email": "",
-    "twitter": "@newtoncalegari",
-    "linkedin": "https://www.linkedin.com/in/newtoncalegari/",
-    "site": "https://newtoncalegari.com.br/about/",
-    "other": ""
-  },
-  {
     "name": "Paulo Victor Rodrigues",
     "minibio": "Entusiasta de produtos digitais, criatividade, inovação e comportamento do consumidor. Trabalho todos os dias para encontrar as principais necessidades do mercado, e transformá-las em oportunidades de negócio.",
     "avatar": "/images/authors/paulo-victor-rodrigues.jpg",
@@ -78,6 +58,46 @@
     "twitter": "",
     "linkedin": "https://www.linkedin.com/in/paulo-victor-rodrigues-316247104/",
     "site": "",
+    "other": ""
+  },
+  {
+    "name": "Djenane Rocha",
+    "minibio": "Experiência em Product Management, Corporate Learning, treinamento e desenvolvimento em companias de média e larga escala.",
+    "avatar": "/images/authors/djenane.jpg",
+    "email": "",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/djenane-rocha/",
+    "site": "",
+    "other": ""
+  },
+  {
+    "name": "Jefferson Kobs",
+    "minibio": "GPM na Way2 Tecnologia e corredor de maratonas.",
+    "avatar": "/images/authors/jeff-kobs.jpg",
+    "email": "",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/jeffersonkobs/",
+    "site": "",
+    "other": ""
+  },
+  {
+    "name": "Tiago Doria",
+    "minibio": "É UX engineer e escreve sobre cultura digital e produtos desde 1998. É especializado em Inovação pelo MIT e Mestre em UX e Web Development pela Northeastern University, em Massachusetts, EUA.",
+    "avatar": "/images/authors/tiago-doria.jpg",
+    "email": "tiago@tiagodoria.com.br",
+    "twitter": "@tdoria",
+    "linkedin": "",
+    "site": "http://www.tiagodoria.com.br",
+    "other": "@tiagodoria"
+  },
+  {
+    "name": "Newton Calegari",
+    "minibio": "Product Manager na JusBrasil e professor de Design na PUC-SP.",
+    "avatar": "/images/authors/newton-calegari.png",
+    "email": "",
+    "twitter": "@newtoncalegari",
+    "linkedin": "https://www.linkedin.com/in/newtoncalegari/",
+    "site": "https://newtoncalegari.com.br/about/",
     "other": ""
   },
   {

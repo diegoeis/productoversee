@@ -10,16 +10,23 @@
     </div>
   </div>
 
+  {{ $author_post_details := .Site.Data.authors.author }}
 
   <div class="po-container">
     <ul class="po-list-authors">
-      {{ range .Site.Data.authors.author }}
+      {{ range $author_post_details }}
       <li class="po-author-{{ .name | urlize }}">
         <a href="{{ "/authors/" | relLangURL }}{{ .name | urlize }}">
           <img src="{{ .avatar }}" alt="">
           <h3 class="po-title-h3">{{ .name  }}</h4>
           <p>{{ .minibio }}</p>
         </a>
+        <ul class="po-author-midia">
+          {{if .twitter}}<li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.twitter}}</a></li>{{end}}
+          {{if .linkedin}}<li><a class="po-author-midia-icon-linkedin" href="{{.linkedin}}">{{.linkedin}}</a></li>{{end}}
+          {{if .site}}<li><a class="po-author-midia-icon-site" href="{{.site}}">{{.site}}</a></li>{{end}}
+          {{if .other}}<li><a class="po-author-midia-icon-other" href="{{.other}}">{{.other}}</a></li>{{end}}
+        </ul>
       </li>
       {{ end }}
     </ul>

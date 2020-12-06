@@ -115,20 +115,27 @@
   <div class="po-sides">
 
     <section class="po-authors-list">
+      
       <h2 class="po-title-h2">
-        Autores
+        <a href="/authors/">Ver todas</a> Autores 
       </h2>
 
+
+
       <ul>
-        {{ range first 5 .Site.Data.authors.author }}
-        <li class="po-author-{{ .name | urlize }}">
-          <a href="{{ "/authors/" | relLangURL }}{{ .name | urlize }}">
-            <img src="{{ .avatar }}" alt="">
-            <h4 class="po-title-h4">{{ .name  }}</h4>
-            <p>{{ .minibio }}</p>
-          </a>
-        </li>
-        {{ end }}
+
+        <ul>
+          {{ range first 5 ($.Site.GetPage "taxonomyTerm" "authors").Pages }}
+          <li class="po-author-{{ .Params.name | urlize }}">
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.avatar }}" alt="">
+              <h4 class="po-title-h4">{{ .Params.name }}</h4>
+              <p>{{ .Params.minibio }}</p>
+            </a>
+          </li>
+         {{ end }}
+        </ul>
+
       </ul>
 <!-- 
       <div class="po-banner-authors">

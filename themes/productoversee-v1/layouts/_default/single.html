@@ -13,9 +13,10 @@
 <section class="po-container">
 
   <article id="po-article">
-     
+
     <aside class="po-sidebar">
       <div class="po-sidebar-author">
+        
         {{ $author_post_details := where .Site.Data.authors.author ".name" .Params.authors }}
 
       {{range $author_post_details}}

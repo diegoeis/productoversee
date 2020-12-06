@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<section class="tb-list">
+
+<div class="po-section-head po-section-{{.Section}}">
+  <div class="po-container">
+      <h1 class="po-title-h1">Todas as pessoas que escrevem conosco</h1>
+      <p class="po-excerpt">As autoras e autores que escrevem conosco, expondo sua opinião, criando vínculo com a comunidade e mostrando um pouco de como eles fazem produtos nas empresas em que trabalham.</p>
+  </div>
+</div>
+
+<div class="po-container">
+  <ul class="po-list-authors">
+    {{ range .Data.Pages }}
+    <li class="po-author-{{ .Params.name | urlize }}">
+      <a href="{{ .Permalink }}">
+        <img src="{{ .Params.avatar }}" alt="Foto {{.Params.name}}">
+        <h3 class="po-title-h3">{{ .Params.name }}</h3>
+        <p>{{ .Params.minibio }}</p>
+
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+<ul>
+
+</ul>
+
+</section>
+{{end}}

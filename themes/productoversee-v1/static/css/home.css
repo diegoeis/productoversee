@@ -289,6 +289,14 @@
   margin-bottom: 20px;
 }
 
+.po-authors-list .po-title-h2 a {
+  font-size: .9rem;
+  font-weight: normal;
+  display: inline-block;
+  float: right;
+  padding-top: 10px;
+}
+
 /**** PODCASTS ****/
 .po-podcasts-list, .po-authors-list  {
   max-width: 300px;
@@ -439,3 +447,4 @@
   }
 
 }
+
