@@ -1,4 +1,5 @@
 @import url(fonts.css);
+@import url(form-newsletter.css);
 
 /**** VARIABLES ****/
 :root {
@@ -136,7 +137,7 @@ span.po-list-categs {
   width: 100%;
   height: 90px;
   margin: 0 auto;
-  background: url(../images/logo-bg-white.png) no-repeat center;
+  background: url(../images/logo-bg-white.png?1) no-repeat center;
   background-size: contain;
   position: relative;
   left: 15px; /** para acertar a centralização do logo **/
@@ -612,116 +613,6 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 .po-page-text h2 {margin: 25px 0 10px}
 
-/******
-*** NEWSLETTER OVERLAY
-******/
-#po-overlay-newsletter {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  background: rgba(150, 150, 150, .9);
-  pointer-events: none;
-  transition: opacity 250ms ease-in-out 0s;
-}
-
-#po-overlay-newsletter.po-active {
-  z-index: 1;
-}
-
-.po-box-newsletter {
-  background: #fff;
-  padding: 50px 70px;
-  position: relative;
-  box-shadow: 0 0 15px rgba(0, 0, 0, .5);
-}
-
-
-.sender-form-title,
-.sender-form-label,
-.sender-form-checkboxes,
-.sender-form-bottom-text,
-.sender-form-link {
-  display: none !important;
-}
-
-
-.po-box-newsletter > h2 {
-  font: bold 1.7rem/1.8 var(--fontDefault);
-  max-width: 600px;
-}
-
-.po-box-newsletter form.sender-form-box {
-  border-radius: 0;
-  border: none;
-  width: 500px;
-  max-width: 100%;
-  padding: 25px 0 0;
-}
-
-.po-box-newsletter input {
-  padding: 10px;
-}
-
-.po-box-newsletter button.sender-form-button {
-  background: var(--colorRed);
-  text-align: left;
-  cursor: pointer;
-  border-radius: 0;
-  max-width: 200px;
-  font: 1rem/1.8 var(--fontDefault);
-  border: 1px solid var(--colorRed);
-}
-
-.po-box-newsletter button.sender-form-button:hover {
-  background: white !important;
-  color: var(--colorRed) !important;
-  filter: none;
-  -webkit-filter: none;
-}
-
-.po-box-newsletter .sender-link-wrapper {
-  display: none !important;
-  color: transparent;
-  font-size: 0.0001rem;
-  pointer-events: none;
-}
-
-
-.po-close-news:before {
-  content: "";
-  cursor: pointer;
-  position: absolute;
-  top: 25px;
-  right: 25px;
-  display: inline-block;
-  margin-right: 5px;
-  width: 15px;
-  height: 15px;
-  background: url(../images/close-menu.png) no-repeat left center;
-  background-size: cover;
-}
-
-@media only screen and (max-width: 900px) {
-
-  .po-box-newsletter,
-  #po-overlay-newsletter,
-  .po-box-newsletter .subscription-form {
-    width: 100%
-  }
-
-  .sender-sub-inner {
-    display: block !important;
-  }
-
-}
-
-
 /***** BANNERS ****/
 .popo-banner-horizontal,
 .po-banner-authors,
@@ -740,24 +631,3 @@ input[type="text"], .po-newsletter-footer .email_type {
   position: sticky;
   top: 30px;
 }
-
-/**** PAGE NEWSLETTER ****/
-#po-page-newsletter .po-page .subscription-form {
-  border: none;
-  width: 100%;
-  padding: 0;
-}
-
-#po-page-newsletter .po-page .subscription-form h4.dont-break-out,
-#po-page-newsletter .po-page .subscription-form .subscription-form-content,
-#po-page-newsletter .po-page .subscription-form span {display: none;}
-
-#po-page-newsletter .po-page .subscription-form [type="submit"] {
-  cursor: pointer;
-}
-  
-#po-page-newsletter .po-page .subscription-form input[type="email"] {
-  padding: 20px
-}
-
-#po-page-newsletter .po-page .subscription-form .subscription-thank-you p {font-size: 1.5rem}
