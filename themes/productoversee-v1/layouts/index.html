@@ -71,7 +71,7 @@
     </h2>
     <div>
       <ul class="po-featured-list">
-      {{ range first 5 $featured_posts | shuffle }}
+      {{ range $featured_posts | shuffle }}
         <li class="po-post-vertical-list">
           <figure>
             <a href="{{ .Permalink }}">

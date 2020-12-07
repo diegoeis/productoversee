@@ -8,7 +8,7 @@ tags:
 categories:
 - Estratégia
 - Tático
-image: "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0c02bb1e-a6b2-418b-b224-cb3ce611a6bd_215x101.png"
+image: "https://i.imgur.com/IyzfN75.jpg"
 featured_post: true
 ---
 
