@@ -2,7 +2,7 @@
 type: post
 title: A internet de referências gringas está morrendo
 excerpt: Existe uma nova música tocando no mundo da tecnologia, e ela não vem dos EUA.
-authors: Tiago Dória
+authors: Tiago Doria
 date: 2020-12-07
 publishDate: 2020-12-07
 image: https://i.imgur.com/HJjgz4D.jpg
