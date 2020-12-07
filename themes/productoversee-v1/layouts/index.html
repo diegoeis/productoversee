@@ -70,26 +70,8 @@
       Esses são nossos recomendados
     </h2>
     <div>
-      {{ range first 1 $featured_posts }}
-        <div class="po-first-featured-post">
-          <figure>
-            <a href="{{ .Permalink }}">
-              <img src="{{ .Params.image }}" alt="">
-            </a>
-          </figure>
-          <ul class="po-list-categs">
-            {{ range .Params.categories }}
-              <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
-            {{ end }}
-          </ul>
-          <a href="{{ .Permalink }}">
-            <h2 class="po-title-h3">{{ .Title }}</h2>
-            <p>{{.Params.excerpt}}</p>
-          </a>
-        </div>
-      {{ end }}
       <ul class="po-featured-list">
-      {{ range first 4 (after 1 $featured_posts )}}
+      {{ range first 5 $featured_posts | shuffle }}
         <li class="po-post-vertical-list">
           <figure>
             <a href="{{ .Permalink }}">
@@ -104,6 +86,7 @@
             </ul>
             <a href="{{ .Permalink }}">
               <h4 class="po-title-h4">{{ .Title }}</h4>
+              <p>{{.Params.excerpt}}</p>
             </a>
           </div>
         </li>
@@ -119,8 +102,6 @@
       <h2 class="po-title-h2">
         <a href="/authors/">Ver todas</a> Autores 
       </h2>
-
-
 
       <ul>
 

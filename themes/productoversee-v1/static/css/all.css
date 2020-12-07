@@ -109,6 +109,8 @@ span.po-list-categs {
   padding: 10px 0;
 }
 
+.po-featured-list .po-list-categs a {padding-top: 0}
+
 /****
 ** HEADER
 ****/
