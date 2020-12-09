@@ -103,20 +103,17 @@
       </h2>
 
       <ul>
-
-        <ul>
-          {{ range first 5 ($.Site.GetPage "taxonomyTerm" "authors").Pages }}
-          <li class="po-author-{{ .Params.name | urlize }}">
-            <a href="{{ .Permalink }}">
-              <img src="{{ .Params.avatar }}" alt="">
-              <h4 class="po-title-h4">{{ .Params.name }}</h4>
-              <p>{{ .Params.minibio }}</p>
-            </a>
-          </li>
-         {{ end }}
-        </ul>
-
+        {{ range first 6 ($.Site.GetPage "taxonomyTerm" "authors").Pages }}
+        <li class="po-author-{{ .Params.name | urlize }}">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.avatar }}" alt="">
+            <h4 class="po-title-h4">{{ .Params.name }}</h4>
+            <p>{{ .Params.minibio }}</p>
+          </a>
+        </li>
+        {{ end }}
       </ul>
+
 <!-- 
       <div class="po-banner-authors">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
