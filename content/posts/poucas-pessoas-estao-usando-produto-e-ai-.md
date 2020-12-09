@@ -1,6 +1,8 @@
 ---
 title: Poucas pessoas estão usando o produto, e aí?
-excerpt:
+excerpt: "É normal que na fase de growth, existam alguns momentos onde a tração do
+crescimento de usuários demore para aparecer. Existem algumas estratégias que podem facilitar o produto ganhar
+tração."
 authors: Diego Eis
 date: 2020-10-29
 tags: [Negócios]

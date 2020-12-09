@@ -14,9 +14,8 @@ collections:
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -30,9 +29,8 @@ collections:
     label: "Posts do Diego Eis"
     folder: "content/posts"
     filter: {field: "authors", value: "Diego Eis"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -46,9 +44,8 @@ collections:
     label: "Posts do Pablo"
     folder: "content/posts"
     filter: {field: "authors", value: "Pablo Silva"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -59,12 +56,11 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
       - {label: "Seu texto", name: "body", widget: "markdown"}
   - name: "posts-ericka"
-    label: "Posts do Ericka"
+    label: "Posts da Ericka"
     folder: "content/posts"
     filter: {field: "authors", value: "Ericka Padilha"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -78,9 +74,8 @@ collections:
     label: "Posts do Lucas"
     folder: "content/posts"
     filter: {field: "authors", value: "Lucas Balbino"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -94,9 +89,23 @@ collections:
     label: "Posts do Tiago Doria"
     folder: "content/posts"
     filter: {field: "authors", value: "Tiago Doria"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
+      - {label: "Autor", name: "authors", widget: "string"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem destaque", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Seu texto", name: "body", widget: "markdown"}
+  - name: "posts-newton"
+    label: "Posts do Newton"
+    folder: "content/posts"
+    filter: {field: "authors", value: "Newton"}
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -110,9 +119,8 @@ collections:
     label: "Categoria - Opinião"
     folder: "content/posts"
     filter: {field: "categories", value: "Opinião"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -122,14 +130,12 @@ collections:
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
       - {label: "Seu texto", name: "body", widget: "markdown"}
-
   - name: "categ-tatico"
     label: "Categoria - Tático"
     folder: "content/posts"
     filter: {field: "categories", value: "Tático"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -143,9 +149,8 @@ collections:
     label: "Categoria - Estratégia"
     folder: "content/posts"
     filter: {field: "categories", value: "Estratégia"}
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      # - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}

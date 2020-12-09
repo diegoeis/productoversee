@@ -1,6 +1,7 @@
 ---
 title: "Opinião: a glamourização do Product Manager"
-excerpt:
+excerpt: "As pessoas querem poder. Elas querem decidir as coisas. Ser PM é um
+caminho fácil, mas mentiroso, de conseguir isso."
 authors: Diego Eis
 date: 2020-10-29
 tags: [Negócios]
