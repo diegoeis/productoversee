@@ -7,7 +7,7 @@ date: 2020-12-09
 publishDate: 2020-12-09
 image: https://i.imgur.com/Jq8mSNC.jpg
 categories:
-  - Tática
+  - Tático
   - Processos e Métodos
 tags:
   - cultura
