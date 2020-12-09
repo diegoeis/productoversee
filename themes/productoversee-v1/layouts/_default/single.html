@@ -17,29 +17,26 @@
     <aside class="po-sidebar">
       <div class="po-sidebar-author">
         
-        {{ $author_post_details := where .Site.Data.authors.author ".name" .Params.authors }}
+        {{ $postauthor := .Params.authors }}
+        {{ range where (where .Site.Pages "Type" "authors") ".Params.name" "=" $postauthor }}
+        
+          <img src="{{ .Params.avatar }}" alt="Foto de {{.Params.name}}">
+          <div>
+            <p>
+              <a href="{{ "/authors/" | relLangURL }}{{ .Params.name | urlize }}">{{ .Params.name }}</a><br>
+              <span class="po-minibio">{{ .Params.minibio }}</span>
+            </p>
+            <ul class="po-author-midia">
 
-      {{range $author_post_details}}
-        <img src="{{.avatar}}" alt="">
-      {{end}}
-        <div>
-          <p>
-            {{ with .Params.authors }}
-              <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-            {{ end }}
-            <span class="po-minibio">{{range $author_post_details}}
-              {{if .minibio}}{{.minibio}}{{end}}
-            {{end}}</span>
-          </p>
-          <ul class="po-author-midia">
-            {{range $author_post_details}}
-            {{if .twitter}}<li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.twitter}}</a></li>{{end}}
-            {{if .linkedin}}<li><a class="po-author-midia-icon-linkedin" href="{{.linkedin}}">{{.linkedin}}</a></li>{{end}}
-            {{if .site}}<li><a class="po-author-midia-icon-site" href="{{.site}}">{{.site}}</a></li>{{end}}
-            {{if .other}}<li><a class="po-author-midia-icon-other" href="{{.other}}">{{.other}}</a></li>{{end}}
-            {{end}}
-          </ul>
-        </div>
+              {{if .Params.twitter}}<li><a class="po-author-midia-icon-twitter" href="https://twitter.com/{{.twitter}}">{{.Params.twitter}}</a></li>{{end}}
+              {{if .Params.linkedin}}<li><a class="po-author-midia-icon-linkedin" href="{{.Params.linkedin}}">{{.Params.linkedin}}</a></li>{{end}}
+              {{if .Params.site}}<li><a class="po-author-midia-icon-site" href="{{.site}}">{{.Params.site}}</a></li>{{end}}
+              {{if .Params.other}}<li><a class="po-author-midia-icon-other" href="{{.other}}">{{.Params.other}}</a></li>{{end}}
+
+            </ul>
+          </div>
+        {{ end }}
+      
       </div>
 
       {{/*partial "comments.html"*/}}
@@ -56,9 +53,8 @@
       </nav>
 
 
-      <div class="po-banner-sidebar">
+      <!-- <div class="po-banner-sidebar">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- sidebar-vertical -->
         <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-8115861735629092"
@@ -68,7 +64,7 @@
         <script>
              (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
-      </div>
+      </div> -->
       
     </aside>
     

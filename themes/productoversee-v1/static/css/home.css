@@ -356,6 +356,8 @@
   display: flex;
 }
 
+.po-left-list a:hover ~ a h2 {color: var(--colorRed);}
+
 .po-top .po-left-list,
 .po-top .po-right-list {
   font: 1rem var(--fontDefault);
