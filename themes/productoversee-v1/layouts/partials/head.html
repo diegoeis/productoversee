@@ -41,15 +41,15 @@
   <meta property="og:title" content="{{ .Title}}">
   <meta property="og:author" content="{{ .Params.authors}}">
   <meta property="og:author" content="{{ .Params.publishDate}}">
-  <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
-  <meta property="og:image" content="{{ with .Params.image }}{{ . }}?{{ now.Unix }}{{ else }}images/missing-img.png?{{ now.Unix }}{{ end }}">
+  <meta property="og:description" content="{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}" name="description">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}/images/missing.jpg{{ end }}">
   
   <meta property="fb:app_id" content="187329465112652">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@productoversee">
   <meta name="twitter:title" content="{{.Title}}">
-  <meta name="twitter:description" content="{{ .Params.excerpt }}">
+  <meta name="twitter:description" content="{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}">
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}/images/missing.jpg{{ end }}">
 
 

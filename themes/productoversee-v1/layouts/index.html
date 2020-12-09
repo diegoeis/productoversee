@@ -85,7 +85,7 @@
             </ul>
             <a href="{{ .Permalink }}">
               <h4 class="po-title-h4">{{ .Title }}</h4>
-              <p>{{.Params.excerpt}}</p>
+              <p>{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}</p>
             </a>
           </div>
         </li>
