@@ -40,7 +40,8 @@
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ .Title}}">
   <meta property="og:author" content="{{ .Params.authors}}">
-  <meta property="og:author" content="{{ .Params.publishDate}}">
+  <meta property="og:date" content="{{ .Params.publishDate}}">
+  
   <meta property="og:description" content="{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}" name="description">
   <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}/images/missing.jpg{{ end }}">
   
