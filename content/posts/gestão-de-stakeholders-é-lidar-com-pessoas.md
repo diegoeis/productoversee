@@ -4,7 +4,7 @@ title: Gestão de stakeholders é lidar com pessoas
 excerpt: Algumas dicas importantes para a comunicação, parte essencial do nosso
   trabalho como produteiro(a)
 authors: Pedro Quintino
-date: 2020-12-09
+date: 2020-12-11
 publishDate: 2020-12-11
 image: https://i.imgur.com/m3AplDF.jpg
 categories:
