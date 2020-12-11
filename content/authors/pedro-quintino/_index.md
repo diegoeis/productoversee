@@ -1,7 +1,7 @@
 ---
 name: "Pedro Quintino"
 minibio: "Product Manager e Product Chapter Lead na Concrete, e organizador do ProductTank Rio de Janeiro."
-avatar: "/images/authors/pedro-quintino.jpg"
+avatar: "/images/authors/pedro-quintino.jpeg"
 email: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/qmpedro/"
