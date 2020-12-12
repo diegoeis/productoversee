@@ -3,7 +3,7 @@
 <header id="po-article-header">
   <ul class="po-list-categs">
     {{ range .Params.categories }}
-    <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+    <li><a href="/categories/{{ . | urlize }}?utm_source=po_single&utm_medium=link_categ_single&utm_campaign=po_internal_link">{{ . }}</a></li>
     {{ end }}
   </ul>
   <h1>{{.Title}}</h1>
@@ -23,7 +23,7 @@
           <img src="{{ .Params.avatar }}" alt="Foto de {{.Params.name}}">
           <div>
             <p>
-              <a href="{{ "/authors/" | relLangURL }}{{ .Params.name | urlize }}">{{ .Params.name }}</a><br>
+              <a href='{{ "/authors/" | relLangURL }}{{ .Params.name | urlize }}?utm_source=po_single&utm_medium=link_author_name&utm_campaign=po_internal_link'>{{ .Params.name }}</a><br>
               <span class="po-minibio">{{ .Params.minibio }}</span>
             </p>
             <ul class="po-author-midia">
@@ -47,7 +47,7 @@
         <h3>Mais artigos do {{.Params.authors}} </h3>
         <ul>
           {{ range first 5 (where .Site.RegularPages "Params.authors" .Params.authors )}}
-          <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+          <li><a href="{{.Permalink}}?utm_source=po_single&utm_medium=link_articles_author&utm_campaign=po_internal_link">{{.Title}}</a></li>
           {{end}}
         </ul>
       </nav>

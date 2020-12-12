@@ -10,17 +10,17 @@
     <section class="po-left-list">
       {{range first 2 (after 1 $posts) }}
         <div>
-          <a href="{{ .Permalink }}">
+          <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_left&utm_campaign=po_internal_link">
             <figure>
               <img src="{{ .Params.image }}" alt="">
             </figure>
           </a>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_featured_left&utm_campaign=po_internal_link">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" class="po-list-text">
+            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_left&utm_campaign=po_internal_link" class="po-list-text">
               <h2>{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
             </a>
@@ -30,7 +30,7 @@
 
     {{range first 1 $posts }}
     
-      <a href="{{ .Permalink }}" id="po-middle-post">
+      <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_post&utm_campaign=po_internal_link" id="po-middle-post">
         <img src="{{ .Params.image }}" alt="">
         
         <h1>{{ .Title }}</h1>
@@ -44,17 +44,17 @@
       {{range first 5 (after 3 $posts) }}
         <div>
             <figure>
-              <a href="{{ .Permalink }}">
+              <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_right&utm_campaign=po_internal_link">
                 <img src="{{ .Params.image }}" alt="">
               </a>
             </figure>
           <span>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_featured_right&utm_campaign=po_internal_link">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" class="po-list-text">
+            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_right&utm_campaign=po_internal_link" class="po-list-text">
               <h2>{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
             </a>
@@ -73,17 +73,17 @@
       {{ range first 5 $featured_posts | shuffle }}
         <li class="po-post-vertical-list">
           <figure>
-            <a href="{{ .Permalink }}">
+            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_recommended&utm_campaign=po_internal_link">
               <img src="{{ .Params.image }}" alt="">
             </a>
           </figure>
           <div>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_recommended&utm_campaign=po_internal_link">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}">
+            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_recommended&utm_campaign=po_internal_link">
               <h4 class="po-title-h4">{{ .Title }}</h4>
               <p>{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}</p>
             </a>
@@ -105,7 +105,7 @@
       <ul>
         {{ range first 6 ($.Site.GetPage "taxonomyTerm" "authors").Pages }}
         <li class="po-author-{{ .Params.name | urlize }}">
-          <a href="{{ .Permalink }}">
+          <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_authors&utm_campaign=po_internal_link">
             <img src="{{ .Params.avatar }}" alt="">
             <h4 class="po-title-h4">{{ .Params.name }}</h4>
             <p>{{ .Params.minibio }}</p>
@@ -141,17 +141,17 @@
       {{range first 7 (after 5 $posts) }}
         <li class="po-post-vertical-list">
             <figure>
-              <a href="{{ .Permalink }}">
+              <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_later_articles&utm_campaign=po_internal_link">
                 <img src="{{ .Params.image }}" alt="">
               </a>
             </figure>
           <div>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_later_articles&utm_campaign=po_internal_link">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" class="po-list-text">
+            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_later_articles&utm_campaign=po_internal_link" class="po-list-text">
               <h2>{{ .Title }}</h2>
             </a>
           </div>
@@ -172,9 +172,8 @@
       <iframe src="https://open.spotify.com/embed-podcast/show/5PD1bRaJz3irxq712zF566" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       
       
-      <div class="po-banner-rightHome">
+      <!-- <div class="po-banner-rightHome">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- home-square -->
         <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-8115861735629092"
@@ -184,97 +183,10 @@
         <script>
              (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
-      </div>
+      </div> -->
       
       
       
-      <!-- 
-      <script type="text/javascript" src="https://rss2json.com/gfapi.js"></script>
-      <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
-      <script type="text/javascript">
-
-      google.load("feeds", "1");
-
-      function initialize() {
-        var feed = new google.feeds.Feed("https://anchor.fm/s/d7f5154/podcast/rss");
-        feed.load(function(result) {
-          if (!result.error) {
-            var container = document.getElementById("feed");
-            for (var i = 0; i < result.feed.entries.length; i++) {
-              var entry = result.feed.entries[i];
-              var div = document.createElement("div");
-              var img = document.createElement("img");
-              div.appendChild(document.createTextNode(entry.title));
-              // div.appendChild(document.createTextNode(entry.content));
-              img.src = entry.thumbnail;
-              container.appendChild(div);
-              container.appendChild(img);
-            }
-          }
-        });
-      }
-      google.setOnLoadCallback(initialize);
-
-      </script>
-      <div id="feed"></div> -->
-  <!-- 
-      <ul>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast1.png" alt="">
-            <h2>#53 Demian Boarba - Existe vida além do Produto e do CNPJ</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast2.png" alt="">
-            <h2>#35 Cultura de Produto</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast3.png" alt="">
-            <h2>#52 Daiany Correa - O diário de um PO na Magazine Luiza</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast1.png" alt="">
-            <h2>#53 Demian Boarba - Existe vida além do Produto e do CNPJ</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast2.png" alt="">
-            <h2>#35 Cultura de Produto</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast3.png" alt="">
-            <h2>#52 Daiany Correa - O diário de um PO na Magazine Luiza</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast1.png" alt="">
-            <h2>#53 Demian Boarba - Existe vida além do Produto e do CNPJ</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast2.png" alt="">
-            <h2>#35 Cultura de Produto</h2>
-          </a>
-        </li>
-        <li>
-          <a href="#" class="po-podcast-item">
-            <img src="/images/podcast3.png" alt="">
-            <h2>#52 Daiany Correa - O diário de um PO na Magazine Luiza</h2>
-          </a>
-        </li>
-      </ul> -->
     </section>
 
   </div>
