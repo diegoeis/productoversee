@@ -6,7 +6,7 @@ date: 10/06/2019
 tags: validação
 categories:
 - Tático
-image: ""
+image: "https://i.imgur.com/PTGY9Ok.jpg"
 featured_post: false
 ---
 
