@@ -1,7 +1,7 @@
 ---
 name: "Matheus Marzochi"
 minibio: "Enterprise Agile Coach na Hash"
-avatar: "/images/authors/matheus-marzochi.jpeg"
+avatar: "/images/authors/matheus-marzochi.jpg"
 email: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/matheusmarzochi/"

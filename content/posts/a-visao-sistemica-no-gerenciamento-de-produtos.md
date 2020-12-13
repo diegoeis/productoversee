@@ -6,6 +6,7 @@ authors: Newton Calegari
 date: 2020-12-01
 publishDate: 2020-12-01
 image: https://i.imgur.com/sBfoIoq.jpeg
+featured_post: true
 categories:
   - Estratégia
 tags:
