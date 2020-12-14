@@ -22,12 +22,14 @@ Se nos debruçarmos sobre este assunto, o que vemos na maioria das vezes, são e
 
 Procurando pela origem da palavra CULTURA chegamos ao latim: colere, que significa cultivar, cuidar com afeto, com amor. A partir desse ponto podemos interpretar cultura, não como uma substância, mas sim como uma força ativa, algo que se exerce, e não como algo a ter ou deixar de ter. Utilizando esse prisma, é possível enxergar essa questão de outro ângulo:
 
-Cultura é o produto das interações que cultivamos, e não algo que se altera ou influencia diretamente. A analogia é a sombra, podemos alterar a luz ou o objeto, mas nunca a sombra diretamente.
-Valor é o resultado do que cultivamos e dificilmente pode ser transmitido apenas pelo viés de uma ideia ou teoria apresentada.
+- **Cultura** é o produto das interações que cultivamos, e não algo que se altera ou influencia diretamente. A analogia é a sombra, podemos alterar a luz ou o objeto, mas nunca a sombra diretamente.
+- **Valor** é o resultado do que cultivamos e dificilmente pode ser transmitido apenas pelo [viés](http://productoversee.com/o-que-sao-vieses-cognitivos/) de uma ideia ou teoria apresentada.
+
 Dado isso, entendemos que os valores são o resultado do que cultivamos no dia-a-dia, então porque apresentamos um conjunto de valores pré-definidos para alguém recém chegado em uma empresa? Essa ação muitas vezes vem da expectativa de que estes valores “programem” a cultura da empresa nessa pessoa, influenciando as decisões dela para algo que acreditamos ser o melhor.
 
-“The language of cultural changes will decide what culture we want and then we’ll install that culture in people, we will program them” - Dave Snowden
-Assim como o Snowden menciona em sua palestra (Is Mindset Yet Another Agile Buzzword?), tenho observado uma movimentação onde o foco da melhoria cultural se pauta em reforçar os valores formais da organização, e não nas práticas que deveriam sustentar ou viabilizá-los.
+> “The language of cultural changes will decide what culture we want and then we’ll install that culture in people, we will program them” - Dave Snowden
+
+Assim como o Snowden menciona em sua palestra ([Is Mindset Yet Another Agile Buzzword?](https://www.youtube.com/watch?v=XGuz87TR3XY&ab_channel=ConfEngine)), tenho observado uma movimentação onde o foco da melhoria cultural se pauta em reforçar os valores formais da organização, e não nas práticas que deveriam sustentar ou viabilizá-los.
 
 Cultura é como um arquivo read-only, que não recebe alterações diretas e não pode ser programado, mas é resultado do que você cultiva. Logo, o foco deve estar direcionado para as práticas a serem exercidas no ambiente de trabalho e não para as ideias (valores) a serem aprendidas. Não me entendam mal, não estou dizendo que as ideias não possuem valor, mas questiono o foco no desejo de fixar nas pessoas os valores da organização, que muitas vezes deixam em segundo plano as práticas que poderiam proporcionar experiências que resultam em: colaboração, autonomia, aprendizado, inovação e confiança. 
 
