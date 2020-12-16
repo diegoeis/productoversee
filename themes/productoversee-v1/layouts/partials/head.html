@@ -20,6 +20,7 @@
 
 
   {{ if eq "home" .Kind }}
+  <meta property="og:type" content="website">
 
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/home.css?{{ now.Unix }}">
 
@@ -36,7 +37,9 @@
 
   <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
 
-  <meta property="og:type" content="website">
+  {{ if eq "page" .Kind }}
+  <meta property="og:type" content="article">
+  {{end}}
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ .Title}}">
   <meta property="og:author" content="{{ .Params.authors}}">
