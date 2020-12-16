@@ -13,7 +13,11 @@
 <section class="po-container">
 
   <article id="po-article">
-
+    
+    <div class="po-article-text">
+      {{if .Params.image}}<figure class="po-single-img"><img src="{{.Params.image}}" alt="{{if .Params.excerpt}}Imagem de destaque de {{.Title}}{{end}}"></figure>{{end}}
+      {{.Content}}
+    </div>
     <aside class="po-sidebar">
       <div class="po-sidebar-author">
         
@@ -67,11 +71,7 @@
       </div> -->
       
     </aside>
-    
-    <div class="po-article-text">
-      {{if .Params.image}}<figure class="po-single-img"><img src="{{.Params.image}}" alt="{{if .Params.excerpt}}Imagem de destaque de {{.Title}}{{end}}"></figure>{{end}}
-      {{.Content}}
-    </div>
+
     
   </article>
 </section>

@@ -112,11 +112,13 @@
 
 .po-sidebar {
   flex: 1 0 360px;
+  order: 1;
   max-width: 300px;
 }
 
 .po-article-text {
   flex: 1 0 500px;
+  order: 2;
   max-width: 700px;
   width: 100%;
   margin-left: 100px;
@@ -156,7 +158,6 @@
   transform: translateY(-50%);
 }
 
-
 hr {
   border: none;
   border-top: 1px solid var(--colorBlack);
@@ -173,7 +174,7 @@ hr {
 .po-article-text ul,
 .po-article-text ol {
   margin-bottom: 30px;
-  color: #4F4F4F;
+  color: #313131;
 }
 
 .po-article-text h2 {
