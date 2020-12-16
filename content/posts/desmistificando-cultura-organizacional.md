@@ -33,10 +33,9 @@ Assim como o Snowden menciona em sua palestra ([Is Mindset Yet Another Agile Buz
 
 Cultura é como um arquivo read-only, que não recebe alterações diretas e não pode ser programado, mas é resultado do que você cultiva. Logo, o foco deve estar direcionado para as práticas a serem exercidas no ambiente de trabalho e não para as ideias (valores) a serem aprendidas. Não me entendam mal, não estou dizendo que as ideias não possuem valor, mas questiono o foco no desejo de fixar nas pessoas os valores da organização, que muitas vezes deixam em segundo plano as práticas que poderiam proporcionar experiências que resultam em: colaboração, autonomia, aprendizado, inovação e confiança. 
 
-Não trata-se de jogar fora o que foi construído, como uma missão e valores bem definidos, mas aplicar energias para criar práticas que fomentem os resultados desejados (valores). Por exemplo, se sua organização compreende o aprendizado como um valor, você deveria se questionar quais práticas existem hoje na empresa que viabilizam o aprendizado para que aconteça de forma abrangente.
-
-
 ## Liderança como principal interessada
+
+Não trata-se de jogar fora o que foi construído, como uma missão e valores bem definidos, mas aplicar energias para criar práticas que fomentem os resultados desejados (valores). Por exemplo, se sua organização compreende o aprendizado como um valor, você deveria se questionar quais práticas existem hoje na empresa que viabilizam o aprendizado para que aconteça de forma abrangente.
 
 A liderança da empresa tem um impacto tremendo sobre como a cultura é percebida. Mesmo que a organização tenha seus valores muito bem definidos, se a liderança não for a principal interessada em promover as práticas culturais, teremos como resultado a chamada cultura de parede, onde a ênfase está em destacar valores que a própria organização não cultiva.
 

@@ -426,7 +426,7 @@
   font-size: 1.1rem;
   line-height: 1.8;
   color: var(--colorGrayMedium);
-  padding: 20px 40px;
+  padding: 20px 30px;
 }
 
 @media (max-width: 950px)  {
