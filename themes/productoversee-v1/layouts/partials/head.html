@@ -29,7 +29,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600&display=swap" rel="stylesheet">
   
   <meta name="author" content="{{ .Params.authors }}">
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.excerpt }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  <meta name="description" content="{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}">
 
   {{ with .OutputFormats.Get "rss" -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}

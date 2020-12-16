@@ -10,17 +10,17 @@
     <section class="po-left-list">
       {{range first 2 (after 1 $posts) }}
         <div>
-          <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_left&utm_campaign=po_internal_link">
+          <a href="{{ .Permalink }}">
             <figure>
               <img src="{{ .Params.image }}" alt="">
             </figure>
           </a>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_featured_left&utm_campaign=po_internal_link">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_left&utm_campaign=po_internal_link" class="po-list-text">
+            <a href="{{ .Permalink }}" class="po-list-text">
               <h2>{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
             </a>
@@ -30,7 +30,7 @@
 
     {{range first 1 $posts }}
     
-      <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_post&utm_campaign=po_internal_link" id="po-middle-post">
+      <a href="{{ .Permalink }}" id="po-middle-post">
         <img src="{{ .Params.image }}" alt="">
         
         <h1>{{ .Title }}</h1>
@@ -44,17 +44,17 @@
       {{range first 5 (after 3 $posts) }}
         <div>
             <figure>
-              <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_right&utm_campaign=po_internal_link">
+              <a href="{{ .Permalink }}">
                 <img src="{{ .Params.image }}" alt="">
               </a>
             </figure>
           <span>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_featured_right&utm_campaign=po_internal_link">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_featured_right&utm_campaign=po_internal_link" class="po-list-text">
+            <a href="{{ .Permalink }}" class="po-list-text">
               <h2>{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
             </a>
@@ -73,17 +73,17 @@
       {{ range first 5 $featured_posts | shuffle }}
         <li class="po-post-vertical-list">
           <figure>
-            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_recommended&utm_campaign=po_internal_link">
+            <a href="{{ .Permalink }}">
               <img src="{{ .Params.image }}" alt="">
             </a>
           </figure>
           <div>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_recommended&utm_campaign=po_internal_link">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_recommended&utm_campaign=po_internal_link">
+            <a href="{{ .Permalink }}">
               <h4 class="po-title-h4">{{ .Title }}</h4>
               <p>{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}</p>
             </a>
@@ -105,7 +105,7 @@
       <ul>
         {{ range first 6 ($.Site.GetPage "taxonomyTerm" "authors").Pages }}
         <li class="po-author-{{ .Params.name | urlize }}">
-          <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_authors&utm_campaign=po_internal_link">
+          <a href="{{ .Permalink }}">
             <img src="{{ .Params.avatar }}" alt="">
             <h4 class="po-title-h4">{{ .Params.name }}</h4>
             <p>{{ .Params.minibio }}</p>
@@ -141,17 +141,17 @@
       {{range first 7 (after 5 $posts) }}
         <li class="po-post-vertical-list">
             <figure>
-              <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_later_articles&utm_campaign=po_internal_link">
+              <a href="{{ .Permalink }}">
                 <img src="{{ .Params.image }}" alt="">
               </a>
             </figure>
           <div>
             <ul class="po-list-categs">
               {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}?utm_source=po_home&utm_medium=link_categ_later_articles&utm_campaign=po_internal_link">{{ . }}</a></li>
+                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}?utm_source=po_home&utm_medium=link_later_articles&utm_campaign=po_internal_link" class="po-list-text">
+            <a href="{{ .Permalink }}" class="po-list-text">
               <h2>{{ .Title }}</h2>
             </a>
           </div>
