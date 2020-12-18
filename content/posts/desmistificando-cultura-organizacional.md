@@ -8,7 +8,6 @@ publishDate: 2020-12-09
 image: https://i.imgur.com/Jq8mSNC.jpg
 categories:
   - Tático
-  - Processos e Métodos
 tags:
   - cultura
   - mercado
