@@ -88,7 +88,7 @@ Em outro momento quero abordar um formato que me agrada muito mais, chamado de C
 - [Don’t Let Your North Star Metric Deceive You](https://www.reforge.com/blog/north-star-metric-growth)
 - [What are the main differences between metrics and indicators?](https://www.opservices.com/differences-between-metrics-and-indicators/)
 - [One Metric That Matters (OMTM) Clear explaination - Agile Parrot](https://agileparrot.com/metrics/one-metric-that-matters-omtm/)
-- https://blog.growthhackers.com/what-is-a-north-star-metric-b31a8512923f
+- [What is a North Star Metric?](https://blog.growthhackers.com/what-is-a-north-star-metric-b31a8512923f)
 - [North Star Metric ou Métrica da Estrela Guia](https://blog.vindi.com.br/north-star-metric-estrela-guia/)
 - [Finding Your Product’s North Star Metric](https://www.youtube.com/watch?v=bijLsIvhAys)
 
