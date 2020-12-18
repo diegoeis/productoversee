@@ -5,7 +5,7 @@ excerpt: Veja um pouco mais sobre essa técnica e como ela pode te ajudar
 authors: Pedro Quintino
 date: 2020-12-18
 publishDate: 2020-12-18
-image: https://i.imgur.com/E7PWWSc.png
+image: https://i.imgur.com/itgeAyo.jpg
 categories:
   - Tático
 tags:
