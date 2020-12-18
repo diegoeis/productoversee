@@ -6,6 +6,7 @@ authors: Matheus Marzochi
 date: 2020-12-09
 publishDate: 2020-12-09
 image: https://i.imgur.com/Jq8mSNC.jpg
+featured_post: true
 categories:
   - Tático
 tags:

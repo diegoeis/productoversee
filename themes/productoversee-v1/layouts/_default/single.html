@@ -48,7 +48,7 @@
       <span class="po-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
     
       <nav class="po-posts-same-author">
-        <h3>Mais artigos do {{.Params.authors}} </h3>
+        <h3>Mais artigos de {{.Params.authors}} </h3>
         <ul>
           {{ range first 5 (where .Site.RegularPages "Params.authors" .Params.authors )}}
           <li><a href="{{.Permalink}}?utm_source=po_single&utm_medium=link_articles_author&utm_campaign=po_internal_link">{{.Title}}</a></li>

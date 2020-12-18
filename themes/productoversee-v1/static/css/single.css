@@ -250,10 +250,11 @@ hr {
 
 .po-posts-same-author h3 {
   margin-bottom: 10px;
+  font-size: 1.1rem
 }
 
 .po-posts-same-author li {
-  padding-bottom: 8px;
+  padding-bottom: 15px;
   font: 0.85rem var(--fontDefault);
 }
 
