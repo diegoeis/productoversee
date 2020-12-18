@@ -9,7 +9,6 @@ publishDate: 2020-12-18
 image: https://i.imgur.com/SN3ho8l.jpg
 categories:
   - Opinião
-  - Estratégia
 tags:
   - carreira
 ---
