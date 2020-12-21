@@ -4,9 +4,9 @@ excerpt: "Uma North Metric é o resultado de uma série de ações."
 authors: Diego Eis
 date: 30/10/2019
 tags: 
+  - métricas
 categories:
-- Indicadores e Dados
-image: ""
+  - Indicadores e Dados
 featured_post: false
 ---
 

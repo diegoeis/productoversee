@@ -12,6 +12,7 @@ categories:
 tags:
   - experiência
 ---
+
 Uma plataforma é criada com três elementos: unidade de valor, plataforma tecnológica, interação entre as pontas. 
 
 Uma unidade de valor é o que o produtor cria para ser consumido pela pessoa/empresa do outro lado do processo. No caso do Uber a unidade de valor é a localização e a disponibilidade do motorista. No caso do Google, são as informações de sites  capturadas pelo crawler. No caso do Instagram, é a fotografia (agora é melhor falar conteúdo, dado que o Instagram está mais abrangente) que foi disponibilizada. No caso do Airbnb, o local. No caso da Sympla, a unidade de valor são as experiências disponibilizadas na plataforma. Do iFood, é a variedade de refeições (podemos ter uma discussão aqui se em vez de refeições não seria mais correto os restaurantes, mas deixemos para outra hora).  

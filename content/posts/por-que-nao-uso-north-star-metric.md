@@ -58,7 +58,7 @@ O encadeamento que eu faço, usando OKRs (mas essa analogia pode ser adaptada co
 
 ![](https://i.imgur.com/lWV80Pb.jpg)
 
-![]https://i.imgur.com/ZmebwVq.jpg)
+![](https://i.imgur.com/ZmebwVq.jpg)
 
 ![](https://i.imgur.com/LXk0Dfp.jpg)
 
@@ -91,4 +91,7 @@ Em outro momento quero abordar um formato que me agrada muito mais, chamado de C
 - [What is a North Star Metric?](https://blog.growthhackers.com/what-is-a-north-star-metric-b31a8512923f)
 - [North Star Metric ou Métrica da Estrela Guia](https://blog.vindi.com.br/north-star-metric-estrela-guia/)
 - [Finding Your Product’s North Star Metric](https://www.youtube.com/watch?v=bijLsIvhAys)
+- [Don't Become a Victim of One Key Metric](https://caseyaccidental.com/one-key-metric-victim)
+- [Every Product Needs a North Star Metric: Here's How to Find Yours](https://amplitude.com/blog/2018/03/21/product-north-star-metric)
+- [SaaS Product Metrics Pyramid](https://www.productplan.com/saas-product-metrics-pyramid/)
 
