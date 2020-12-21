@@ -1,6 +1,6 @@
 ---
 type: post
-title: Por que não acredito em North Star Metric
+title: Por que não uso em North Star Metric
 excerpt: Quando falamos de se apoiar em uma métrica que talvez indique tudo o
   que precisamos saber do sucesso do produto, estamos limitando nossa visão
   sobre impactos do produto.

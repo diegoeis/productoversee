@@ -13,7 +13,7 @@
   <ul class="po-list-authors">
     {{ range .Data.Pages }}
     <li class="po-author-{{ .Params.name | urlize }}">
-      <a href="{{ .Permalink }}">
+      <a href="{{ .Permalink }}" data-event="lnk-authors-page">
         <img src="{{ .Params.avatar }}" alt="Foto {{.Params.name}}">
         <h3 class="po-title-h3">{{ .Params.name }}</h3>
         <p>{{ .Params.minibio }}</p>
