@@ -9,7 +9,7 @@ date: 2020-12-21
 publishDate: 2020-12-21
 image: https://i.imgur.com/wdrj9E7.jpg
 categories:
-  - Dados & Indicadores
+  - Indicadores e Dados
 tags:
   - métricas
 ---
