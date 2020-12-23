@@ -23,6 +23,7 @@
   <meta property="og:type" content="website">
 
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/home.css?{{ now.Unix }}">
+	<title>{{.Site.Title}}</title>
 
   {{end}}
 
@@ -38,6 +39,8 @@
   <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
 
   {{ if eq "page" .Kind }}
+	<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} - {{ end }}Product Oversee{{ end }}</title>
+
   <meta property="og:type" content="article">
   {{end}}
   <meta property="og:url" content="{{ .Permalink }}">

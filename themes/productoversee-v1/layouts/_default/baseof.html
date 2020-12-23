@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode | default " pt-br " }}' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#' {{if .File.BaseFileName }}class="po-page-{{.File.BaseFileName | urlize }}" id="po-page-{{.File.BaseFileName | urlize }}"{{end}}>
 
-	<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} - {{ end }}Product Oversee{{ end }}</title>
 
 	{{ block "head" . }}{{ partial "head.html" . }}{{ end }}
 	
