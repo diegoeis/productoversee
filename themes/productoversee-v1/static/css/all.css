@@ -9,7 +9,7 @@
   --colorGrayMedium: #4F4F4F;
   --fontDefault: "The Future Mono 02", monospace;
   --fontMono: "The Future Mono 02", monospace;
-  --fontArticle: "Work Sans", arial, helvetica, sans-serif;
+  --fontArticle: Roboto, arial, helvetica, sans-serif;
   --breakpoint: 900px;
 }
 

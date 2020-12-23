@@ -10,9 +10,9 @@
     <section class="po-left-list">
       {{range first 2 (after 1 $posts) }}
         <div>
-          <a href="{{ .Permalink }}" data-event="lnk-medium-posts">
+          <a href="{{ .Permalink }}">
             <figure>
-              <img src="{{ .Params.image }}" alt="">
+              <img src="{{ .Params.image }}" alt="" data-event="lnk-medium-posts">
             </figure>
           </a>
             <ul class="po-list-categs">
@@ -20,8 +20,8 @@
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" class="po-list-text">
-              <h2>{{ .Title }}</h2>
+            <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-medium-posts">
+              <h2 data-event="lnk-medium-posts">{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
             </a>
         </div>
@@ -30,7 +30,7 @@
 
     {{range first 1 $posts }}
     
-      <a href="{{ .Permalink }}" id="po-middle-post" data-event="lnk-featured-home-post">
+      <a href="{{ .Permalink }}" id="po-middle-post">
         <img src="{{ .Params.image }}" alt="">
         
         <h1>{{ .Title }}</h1>
@@ -45,7 +45,7 @@
         <div>
             <figure>
               <a href="{{ .Permalink }}">
-                <img src="{{ .Params.image }}" alt="">
+                <img src="{{ .Params.image }}" alt=""  data-event="lnk-minor-posts">
               </a>
             </figure>
           <span>
