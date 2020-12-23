@@ -15,15 +15,15 @@
               <img src="{{ .Params.image }}" alt="" data-event="lnk-medium-posts">
             </figure>
           </a>
-            <ul class="po-list-categs">
-              {{ range .Params.categories }}
-                <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
-              {{ end }}
-            </ul>
-            <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-medium-posts">
-              <h2 data-event="lnk-medium-posts">{{ .Title }}</h2>
-              <!-- <p>{{.Params.excerpt}}</p> -->
-            </a>
+          <ul class="po-list-categs">
+            {{ range .Params.categories }}
+              <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+            {{ end }}
+          </ul>
+          <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-medium-posts">
+            <h2 data-event="lnk-medium-posts">{{ .Title }}</h2>
+            <!-- <p>{{.Params.excerpt}}</p> -->
+          </a>
         </div>
       {{ end }}
     </section>
@@ -54,8 +54,8 @@
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-minor-posts">
-              <h2>{{ .Title }}</h2>
+            <a href="{{ .Permalink }}" class="po-list-text">
+              <h2 data-event="lnk-minor-posts">{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
             </a>
           </span>
@@ -73,8 +73,8 @@
       {{ range first 5 $featured_posts | shuffle }}
         <li class="po-post-vertical-list">
           <figure>
-            <a href="{{ .Permalink }}" data-event="lnk-home-recommended">
-              <img src="{{ .Params.image }}" alt="">
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.image }}" alt=""  data-event="lnk-home-recommended">
             </a>
           </figure>
           <div>
@@ -83,9 +83,9 @@
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" data-event="lnk-home-recommended">
-              <h4 class="po-title-h4">{{ .Title }}</h4>
-              <p>{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}</p>
+            <a href="{{ .Permalink }}">
+              <h4 class="po-title-h4" data-event="lnk-home-recommended">{{ .Title }}</h4>
+              <p data-event="lnk-home-recommended">{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}</p>
             </a>
           </div>
         </li>
@@ -105,10 +105,10 @@
       <ul>
         {{ range first 6 ($.Site.GetPage "taxonomyTerm" "authors").Pages }}
         <li class="po-author-{{ .Params.name | urlize }}">
-          <a href="{{ .Permalink }}" data-event="lnk-home-author">
-            <img src="{{ .Params.avatar }}" alt="">
-            <h4 class="po-title-h4">{{ .Params.name }}</h4>
-            <p>{{ .Params.minibio }}</p>
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.avatar }}" alt="" data-event="lnk-home-author">
+            <h4 class="po-title-h4" data-event="lnk-home-author">{{ .Params.name }}</h4>
+            <p data-event="lnk-home-author">{{ .Params.minibio }}</p>
           </a>
         </li>
         {{ end }}
@@ -141,8 +141,8 @@
       {{range first 7 (after 5 $posts) }}
         <li class="po-post-vertical-list">
             <figure>
-              <a href="{{ .Permalink }}" data-event="lnk-home-latest">
-                <img src="{{ .Params.image }}" alt="">
+              <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="" data-event="lnk-home-latest">
               </a>
             </figure>
           <div>
@@ -151,8 +151,8 @@
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
             </ul>
-            <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-home-latest">
-              <h2>{{ .Title }}</h2>
+            <a href="{{ .Permalink }}" class="po-list-text">
+              <h2 data-event="lnk-home-latest">{{ .Title }}</h2>
             </a>
           </div>
         </li>

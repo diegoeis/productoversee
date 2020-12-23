@@ -51,7 +51,7 @@
         <h3>Mais artigos de {{.Params.authors}} </h3>
         <ul>
           {{ range first 5 (where .Site.RegularPages "Params.authors" .Params.authors )}}
-          <li><a href="{{.Permalink}}?utm_source=po_single&utm_medium=link_articles_author&utm_campaign=po_internal_link">{{.Title}}</a></li>
+          <li><a href="{{.Permalink}}?utm_source=po_single&utm_medium=link_articles_author&utm_campaign=po_internal_link" data-event="lnk-posts-sameAuthor">{{.Title}}</a></li>
           {{end}}
         </ul>
       </nav>
