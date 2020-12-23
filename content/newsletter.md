@@ -6,7 +6,7 @@ layout: pages
 
 O PM Letter é uma letter feita para a comunidade brasileira de produtos digitais. Sabemos que informação abundante pode atrapalhar mais do que ajudar, por isso, ter acesso a bons conteúdos pode te ajudar a formar opinião mais rápido e melhor.
 
-Você recebe todas as quartas um breve texto abordando um assunto de interesse para quem faz produtos digitais. Embora a newsletter seja destinada para Product Managers, qualquer um que constrói produtos vai se sentir em casa.
+Você recebe todas as quartas um breve texto abordando um assunto de interesse para quem faz produtos digitais. Embora a newsletter seja destinada para Product Managers, qualquer um que constrói produtos vai se sentir em casa. 
 
 ## Regras da casa:
 
@@ -17,4 +17,4 @@ Você recebe todas as quartas um breve texto abordando um assunto de interesse p
 
 ## Quer escrever conosco?
 
-Queremos incentivar a criação de bons conteúdos com pessoas que querem expressar sua opinião e ensinar assuntos relevantes para PMs e pessoas de produtos. Portanto, se você quiser contribuir, seja recorrentemente ou só uma vez, mande um email para [diegoeis@gmail.com](mailto:diegoeis@gmail.com) ou Direct Message no Twitter para [@diegoeis](https://twitter.com/diegoeis).
+Queremos incentivar a criação de bons conteúdos com pessoas que querem expressar sua opinião e ensinar assuntos relevantes para PMs e pessoas que constróem produtos e serviços digitais no Brasil. Portanto, se você quiser contribuir, seja recorrentemente ou só uma vez, mande um email para [faleconosco@productoversee.com](mailto:faleconosco@productoversee.com).
