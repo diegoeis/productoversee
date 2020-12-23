@@ -310,7 +310,8 @@
   margin-bottom: 20px;
 }
 
-.po-authors-list .po-title-h2 a {
+.po-authors-list .po-title-h2 a,
+.po-title-h2 a.lnk-all-articles {
   font-size: .9rem;
   font-weight: normal;
   display: inline-block;
