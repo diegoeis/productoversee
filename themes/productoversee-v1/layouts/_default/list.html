@@ -52,6 +52,8 @@
             
 
             <h4 class="po-title-h4">{{ .Title }}</h4>
+
+            <a href='{{ "/authors/" | relLangURL }}{{ .Params.authors | urlize }}?utm_source=po_all_posts&utm_medium=link_author_name&utm_campaign=po_internal_link' class="po-author">Por {{ .Params.authors }}</a>
           </a>
         </li>
       {{end}}
