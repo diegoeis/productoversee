@@ -525,6 +525,12 @@ input[type="text"], .po-newsletter-footer .email_type {
   /* max-width: 130%; */
 }
 
+.po-list-posts .po-author {
+  font: 300 .8rem/1.8 var(--fontDefault);
+  display: inline-block;
+  padding: 20px 10px 0 10px;
+}
+
 .po-list-posts .po-list-categs {
   padding: 10px 0 0;
   margin: 0;
