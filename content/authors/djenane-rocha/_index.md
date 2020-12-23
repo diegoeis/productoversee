@@ -1,6 +1,6 @@
 ---
 name: "Djenane Rocha"
-minibio: "Experiência em Product Management, Corporate Learning, treinamento e desenvolvimento em companias de média e larga escala."
+minibio: "Head de Produtos na Afferolab, especialista em Treinamento & Desenvolvimento, Gestão da Mudança e Liderança em companhias de médio e grande portes."
 avatar: "/images/authors/djenane.jpg"
 email: ""
 twitter: ""
@@ -9,6 +9,6 @@ site: ""
 other: ""
 ---
 
-Experiência em Product Management, Corporate Learning, treinamento e desenvolvimento em companias de média e larga escala.
+Head de Produtos na Afferolab, especialista em Treinamento & Desenvolvimento, Gestão da Mudança e Liderança em companhias de médio e grande portes.
 
 
