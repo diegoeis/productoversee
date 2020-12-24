@@ -3,8 +3,8 @@ type: post
 title: O Dilema da Inovação
 excerpt: Entendendo um pouco sobre os processos que envolvem a inovação e a disrupção
 authors: Paulo Victor Rodrigues
-date: 2021-01-06
-publishDate: 2021-01-06
+date: 2021-01-13
+publishDate: 2021-01-13
 image: https://i.imgur.com/bdYtuCv.jpg
 categories:
   - Estratégia
