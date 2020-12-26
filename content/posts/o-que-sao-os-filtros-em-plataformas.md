@@ -1,11 +1,11 @@
 ---
 type: post
 title: O que são os “filtros” em Plataformas
-excerpt: Mecanismos que controlam a abundância disponibilizada para os usuários
-  nas plataformas.
+excerpt: Mecanismos que controlam a abundância gerada pelos modelos baseados em plataforma
 authors: Diego Eis
 date: 2020-12-23
 publishDate: 2020-12-23
+showHome: false
 image: https://i.imgur.com/qEmRdI2.jpg
 categories:
   - Tático

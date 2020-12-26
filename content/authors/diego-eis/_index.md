@@ -9,4 +9,4 @@ site: "https://diegoeis.com"
 other: ""
 ---
 
-Head de Produtos Digitais na Sympla. Um dos idealizadores do Product Oversee e metido a besta.
+Head de Eventos Online na Sympla, autor do Gestão Moderna de Produtos Digitais, um dos idealizadores do Product Oversee e metido a besta.

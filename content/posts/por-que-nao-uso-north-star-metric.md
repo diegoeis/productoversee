@@ -7,6 +7,7 @@ excerpt: Quando falamos de se apoiar em uma métrica que talvez indique tudo o
 authors: Diego Eis
 date: 2020-12-21
 publishDate: 2020-12-21
+featured_post: true
 image: https://i.imgur.com/wdrj9E7.jpg
 categories:
   - Indicadores e Dados
