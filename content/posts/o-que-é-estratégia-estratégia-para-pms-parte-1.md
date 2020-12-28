@@ -12,6 +12,7 @@ categories:
 tags:
   - negócio
   - mercado
+  - carreira
 ---
 Product Managers [não decidem negócio](https://productoversee.com/product-managers-nao-decidem-negocio/). Contudo, a pessoa que gere produtos e serviços digitais têm uma influência muito grande em como o negócio da empresa pode ser impactado por meio do produto. Esse produto ou serviço faz parte do sistema dinâmico da empresa - prefiro usar o termo sistema dinâmico em detrimento ao termo "ecossistema". Não gosto desse nome por que tem um "eco", de ecologia, no início) -  que está posicionada em um setor da indústria, entregando valor, impactando a sociedade e gerando receitas (dinheiro, money, bufunfa, capital) para que a empresa mantenha ativo o ciclo de geração de valor.
 
