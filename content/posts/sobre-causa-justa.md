@@ -4,8 +4,8 @@ title: Sobre Causa Justa
 excerpt: Como a empresa consegue dar sentido aos seus objetivos perseguindo sua
   Causa Justa
 authors: Diego Eis
-date: 2021-01-04
-publishDate: 2021-01-04
+date: 2021-01-18
+publishDate: 2021-01-18
 image: https://i.imgur.com/ghrhAUC.jpg
 categories:
   - Opinião
