@@ -1,6 +1,10 @@
 ---
 type: post
+<<<<<<< HEAD:content/posts/o-que-é-estratégia-estratégia-para-pms-parte-1.md
 title: O que é estratégia - Estratégia para PMs - Parte 2
+=======
+title: O que é estratégia? - Estratégia para PMs - Parte 1
+>>>>>>> estrategia para PMs:content/posts/o-que-e-estrategia-para-pms-parte-1.md
 excerpt: Para gerir serviços e produtos digitais, PMs precisam aprender sobre
   negócios. Essa, na minha opinião, é a evolução natural de quem gere produtos.
 authors: Diego Eis
