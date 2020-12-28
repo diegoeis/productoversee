@@ -1,19 +1,18 @@
 ---
 type: post
 title: Temas Organizacionais para Business Agility
-excerpt: Como Temas Organizacionais e a forma com que eles são aplicados a partir
-  da Teoria de Emaranhado.
+excerpt: Como Temas Organizacionais e a forma com que eles são aplicados a
+  partir da Teoria de Emaranhado.
 authors: Alexandre Magno
-date: 2021-01-04
-publishDate: 2021-01-04
+date: 2021-01-11
+publishDate: 2021-01-11
 image: https://miro.medium.com/max/1500/1*39Zl4Yz5pKHff0s4zrjkOQ.jpeg
 categories:
-- Opinião
-- Estratégia
+  - Opinião
+  - Estratégia
 tags:
-- negócio
-- mercado
-
+  - negócio
+  - mercado
 ---
 _Artigo gentilmente cedido e escrito pelo Alexandre Magno. Esse_ [_artigo foi originalmente publicado_](https://medium.com/emergee/temas-organizacionais-para-business-agility-a9040a16e12c) _no blog da_ [_Emergee_](https://www.emergee.com.br/sobre)_, a melhor empresa para aprender e aplicar modelos emergentes para organizações complexas._
 
