@@ -1,6 +1,6 @@
 ---
 name: "Jefferson Kobs"
-minibio: "GPM na Way2 Tecnologia e corredor de maratonas."
+minibio: "GPM na Way2 Tecnologia e corredor de maratonas. Entusiasta de produtos digitais para o cenário B2B."
 avatar: "/images/authors/jeff-kobs.jpg"
 email: ""
 twitter: ""
