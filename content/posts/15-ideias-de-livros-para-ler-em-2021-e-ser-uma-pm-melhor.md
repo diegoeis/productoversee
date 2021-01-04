@@ -18,21 +18,21 @@ Essas são as minhas dicas de leitura para quem é Product Manager e líder de P
 
 Abaixo segue minha lista de livros sugeridos. A ordem não é importante, mas ordenei os livros pelo meu interesse em cada um dos assuntos. 
 
-- [Platform Scale, Sangeet Paul Choudary](https://amzn.to/37TLX9x)
-- [O Jogo Infinito, Simon Sinek](https://amzn.to/2WTquXG)
-- [Vencedoras por Opção, Jim Collins](https://amzn.to/2KV0Cbn)
-- [Quem manda no mundo, Noam Chomsky](https://amzn.to/2WSlGlI)
-- [Arriscando a própria pele, Nassim Nicholas Taleb](https://amzn.to/37QkqFP)
-- [The Second Curve: Thoughts on Reinventing Society,  Charles Handy](https://amzn.to/3aOXYyD)
-- [Reinventando Organizações, Frederic Laloux](https://amzn.to/3hzNTHz)
-- [Antifrágil, Nassim Nicholas Taleb](https://amzn.to/3rsm4oS)
-- [Princípios, Ray Dalio](https://amzn.to/3hpWNHy)
-- [Maestria, Robert Greene](https://amzn.to/3nX1E5f)
-- [Range: Why Generalists Triumph in a Specialized World, David Epstein](https://amzn.to/2KYgKJa)
-- [De zero a um, Peter Thiel](https://amzn.to/3rt6MAp)
-- [Comece pelo Porquê, Simon Sinek](https://amzn.to/2Jsp2Zu)
-- [Blitzscaling, Chris Yeh](https://amzn.to/37Ueiww)
-- [The Product Book, Gonzales de Villaumbrosia](https://amzn.to/2WPkAXF)
+1. [Platform Scale, Sangeet Paul Choudary](https://amzn.to/37TLX9x)
+1. [O Jogo Infinito, Simon Sinek](https://amzn.to/2WTquXG)
+1. [Vencedoras por Opção, Jim Collins](https://amzn.to/2KV0Cbn)
+1. [Quem manda no mundo, Noam Chomsky](https://amzn.to/2WSlGlI)
+1. [Arriscando a própria pele, Nassim Nicholas Taleb](https://amzn.to/37QkqFP)
+1. [The Second Curve: Thoughts on Reinventing Society,  Charles Handy](https://amzn.to/3aOXYyD)
+1. [Reinventando Organizações, Frederic Laloux](https://amzn.to/3hzNTHz)
+1. [Antifrágil, Nassim Nicholas Taleb](https://amzn.to/3rsm4oS)
+1. [Princípios, Ray Dalio](https://amzn.to/3hpWNHy)
+1. [Maestria, Robert Greene](https://amzn.to/3nX1E5f)
+1. [Range: Why Generalists Triumph in a Specialized World, David Epstein](https://amzn.to/2KYgKJa)
+1. [De zero a um, Peter Thiel](https://amzn.to/3rt6MAp)
+1. [Comece pelo Porquê, Simon Sinek](https://amzn.to/2Jsp2Zu)
+1. [Blitzscaling, Chris Yeh](https://amzn.to/37Ueiww)
+1. [The Product Book, Gonzales de Villaumbrosia](https://amzn.to/2WPkAXF)
 
 Para citar apenas dois livros dessa lista segue abaixo um pequeno resumo de dois reviews. 
 

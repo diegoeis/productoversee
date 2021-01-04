@@ -177,6 +177,10 @@ hr {
   color: #313131;
 }
 
+.po-article-text li {
+  list-style-position: inside;
+}
+
 .po-article-text h2 {
   font-size: 2rem;
   line-height: 1.4;
