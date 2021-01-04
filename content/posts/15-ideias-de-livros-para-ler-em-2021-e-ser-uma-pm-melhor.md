@@ -6,7 +6,6 @@ excerpt: Ler é essencial para qualquer pessoa e na minha opinião, Product
   sugestões.
 authors: Diego Eis
 date: 2021-01-04
-publishDate: 2021-01-04
 image: https://i.imgur.com/fG3wHPr.jpg
 categories:
   - Opinião
