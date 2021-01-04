@@ -1,9 +1,7 @@
 ---
 type: post
 title: Por que não uso North Star Metric
-excerpt: Quando falamos de se apoiar em uma métrica que talvez indique tudo o
-  que precisamos saber do sucesso do produto, estamos limitando nossa visão
-  sobre impactos do produto.
+excerpt: Quando se apoiamos em apenas uma métrica que talvez indique tudo o que precisamos saber sobre o sucesso do produto, talvez limitamos nossa visão de impacto.
 authors: Diego Eis
 date: 2020-12-21
 publishDate: 2020-12-21
@@ -14,6 +12,7 @@ categories:
 tags:
   - métricas
 ---
+
 Quando estudamos sobre métodos e frameworks para definir métricas e indicadores de produtos, nós esbarramos em um conceito bastante difundido chamado North Star Metric. Na verdade, a North Star Metric está muito atrelado ao One Metric That Matters, que foi falado primeiramente no livro [Lean Analytics](https://amzn.to/32nwcDL). Logo essa ideia virou moda entre os produteiros do mundo todo. Aí o conceito de ter uma North Star Metric ganhou força. A North Star Metric é aquela métrica que toda empresa ou produto pode resumir seu sucesso. É aquele indicador que melhor descreve o “core value” que seu produto entrega para os usuários. 
 
 ## O que é a North Star Metric e por que não gosto dela?
