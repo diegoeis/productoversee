@@ -1,10 +1,6 @@
 ---
 type: post
-<<<<<<< HEAD:content/posts/o-que-é-estratégia-estratégia-para-pms-parte-1.md
 title: O que é estratégia - Estratégia para PMs - Parte 2
-=======
-title: O que é estratégia? - Estratégia para PMs - Parte 1
->>>>>>> estrategia para PMs:content/posts/o-que-e-estrategia-para-pms-parte-1.md
 excerpt: Para gerir serviços e produtos digitais, PMs precisam aprender sobre
   negócios. Essa, na minha opinião, é a evolução natural de quem gere produtos.
 authors: Diego Eis
@@ -18,6 +14,7 @@ tags:
   - mercado
   - carreira
 ---
+
 Product Managers [não decidem negócio](https://productoversee.com/product-managers-nao-decidem-negocio/). Contudo, a pessoa que gere produtos e serviços digitais têm uma influência muito grande em como o negócio da empresa pode ser impactado por meio do produto. Esse produto ou serviço faz parte do sistema dinâmico da empresa - prefiro usar o termo sistema dinâmico em detrimento ao termo "ecossistema". Não gosto desse nome por que tem um "eco", de ecologia, no início) -  que está posicionada em um setor da indústria, entregando valor, impactando a sociedade e gerando receitas (dinheiro, money, bufunfa, capital) para que a empresa mantenha ativo o ciclo de geração de valor.
 
 Para gerir produtos que tenham impacto real, seja na empresa ou nas pessoas (sociedade), é necessário que PMs entendam muito bem sobre o negócio. E quando eu falo de negócio, não me refiro apenas à empresa da qual você faz parte, mas do mercado, do setor industrial e suas relações do qual a sua empresa faz parte. Dizem que PMs são generalistas, mas eu discordo um pouco. Hoje é totalmente possível fazermos carreira nos mercados que escolhemos trabalhar e aí, podemos ter a chance de nos especializarmos nesse mercado. Vide fintechs, por exemplo.
@@ -184,10 +181,10 @@ Embora gestão de produto não envolva gestão de negócio, o produto é respons
 
 ## Referências:
 
-*  [ Great Leaders & Organizations Advance a Just Cause | Simon Sinek](https://simonsinek.com/discover/great-leaders-organizations-advance-a-just-cause/) 
-*  [ Playing to Win: How Strategy Really Works](https://hbr.org/2014/12/playing-to-win-how-strategy-really-works) 
-*  [ Jogar Para Vencer: Como a Estratégia Realmente Funciona | Amazon.com.br](https://amzn.to/3ki0ej4) 
-*  [ Service Dominant Logic - What It means to Innovation? - YouTube](https://www.youtube.com/watch?v=d8HjQw9yXiE) 
-*  [ SMaC Recipe by Jim Collins, a powerful strategy tool | ToolsHero](https://www.toolshero.com/strategy/smac-recipe-jim-collins/) 
-*  [ What are the best ways to learn business strategy? | StrategicScience.Org](https://strategicscience.org/what-are-the-best-ways-to-learn-business-strategy/) 
-*  [ 10+ Examples of Game Theory - Simplicable](https://simplicable.com/new/game-theory)
+- [Great Leaders & Organizations Advance a Just Cause | Simon Sinek](https://simonsinek.com/discover/great-leaders-organizations-advance-a-just-cause/) 
+- [Playing to Win: How Strategy Really Works](https://hbr.org/2014/12/playing-to-win-how-strategy-really-works) 
+- [Jogar Para Vencer: Como a Estratégia Realmente Funciona | Amazon.com.br](https://amzn.to/3ki0ej4) 
+- [Service Dominant Logic - What It means to Innovation? - YouTube](https://www.youtube.com/watch?v=d8HjQw9yXiE) 
+- [SMaC Recipe by Jim Collins, a powerful strategy tool | ToolsHero](https://www.toolshero.com/strategy/smac-recipe-jim-collins/) 
+- [What are the best ways to learn business strategy? | StrategicScience.Org](https://strategicscience.org/what-are-the-best-ways-to-learn-business-strategy/) 
+- [10+ Examples of Game Theory - Simplicable](https://simplicable.com/new/game-theory)
