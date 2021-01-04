@@ -4,8 +4,8 @@ title: Squad as a Service
 excerpt: Alugar, terceirizar, externalizar as especialidades de um time é
   salvação ou o pior pesadelo de PMs?
 authors: Djenane Rocha
-date: 2021-01-06
-publishDate: 2021-01-06
+date: 2021-01-20
+publishDate: 2021-01-20
 image: https://i.imgur.com/HALGEA6.jpg
 categories:
   - Opinião
