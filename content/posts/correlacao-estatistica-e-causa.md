@@ -1,14 +1,16 @@
 ---
-title: Correlação estatística e causalidade em métricas de produto
 excerpt: Como entender esses dois conceitos pode facilitar demais a vida de uma PM
 authors: Pablo Silva
 date: 2020-08-26
-tags: [Negócios]
-categories: [Indicadores e Dados]
-image: https://images.unsplash.com/photo-1584472666879-7d92db132958?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2746&q=80
 featured_post: false
+title: Correlação estatística e causalidade em métricas de produto
+publishDate: 2021-01-06
+image: https://i.imgur.com/2OgXvP7.jpg
+categories:
+  - Indicadores e Dados
+tags:
+  - Negócios
 ---
-
 A correlação estatística e o conceito de causalidade podem ser
 diretamente aplicados no dia a dia de trabalho de uma PM. Identificar a
 correlação que o nosso conjunto de métricas de produto tem com os
@@ -34,20 +36,17 @@ decréscimo de uma em relação a outra.
 ### Toda correlação tem um grau
 
 O grau dessa associação pode ser calculado através do coeficiente de
-correlação, conhecido na estatística como **r** ([correlação de
-Pearson](https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/))**.**
+correlação, conhecido na estatística como **r** ([correlação de Pearson](https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/), que é uma das múltiplas formas de calcular correlações)**.**
 Existem três possíveis casos quando calculamos r:
 
--   0 \> r ≥ 1 nesse caso temos uma correlação positiva e isso acontece
-    quando as duas variáveis estão crescendo ou decrescendo. É positiva
-    porque as variáveis estão indo na mesma direção.
-
--   0 nesse caso não existe nenhuma correlação entre as variáveis
-
--   -1 ≥ r \> 0 nesse caso temos uma correlação negativa e isso acontece
-    quando uma variável está crescendo e a outra decrescendo ou
-    vice-versa. É negativa porque uma variável está influenciando a
-    outra na direção oposta.
+* 0 > r ≥ 1 nesse caso temos uma correlação positiva e isso acontece
+  quando as duas variáveis estão crescendo ou decrescendo. É positiva
+  porque as variáveis estão indo na mesma direção.
+* 0 nesse caso não existe nenhuma correlação entre as variáveis
+* \-1 ≥ r > 0 nesse caso temos uma correlação negativa e isso acontece
+  quando uma variável está crescendo e a outra decrescendo ou
+  vice-versa. É negativa porque uma variável está influenciando a
+  outra na direção oposta.
 
 Quanto mais próximo de 1 o coeficiente for, não importando se negativo
 ou positivo, mais forte é a evidência de que há uma relação entre as
@@ -59,7 +58,7 @@ Eu não vou entrar em detalhes aqui na fórmula para calcular esse
 coeficiente, mas vamos imaginar que você é PM do Lava Carros, um app em
 que as pessoas podem agendar lavagens de carros em suas próprias casas.
 Você recebeu a missão de aumentar o número de carros lavados em 30%.
-Vamos tomar como exemplo o \# de carros vendidos e o \# de carros
+Vamos tomar como exemplo o # de carros vendidos e o # de carros
 lavados entre janeiro e agosto de 2020
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/16905ceb-9333-45e6-a659-a9e3005e7fe2_335x192.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F16905ceb-9333-45e6-a659-a9e3005e7fe2_335x192.png)
@@ -73,8 +72,8 @@ completo está
 
 Para esse conjunto de dados, podemos ver que r = 0.94, o que significa
 que há uma correlação positiva e quase perfeita, porque está muito
-próximo de +1. É visível que conforme o \# de carros vendido cresceu o
-\# de carros lavados também cresceu.
+próximo de +1. É visível que conforme o # de carros vendido cresceu o
+# de carros lavados também cresceu.
 
 É claro que nesse exemplo, estamos com um conjunto de dados bem simples
 e conseguimos ver visualmente, mas pense em um conjunto de dados
@@ -104,8 +103,8 @@ digitais](https://amzn.to/34GEV6y))
 
 ###### Output e Input Metrics --- Gestão Moderna de Serviços Digitais --- Diego Eis
 
-Trazendo para o nosso exemplo no Lava Carros, nossa *Output Metric* é \#
-de carros lavados e uma *input metric* é o \# de novos carros
+Trazendo para o nosso exemplo no Lava Carros, nossa *Output Metric* é #
+de carros lavados e uma *input metric* é o # de novos carros
 cadastrados. No modelo acima, ficaria assim inicialmente
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/60502015-59c5-420f-aa92-f27b04b4f40a_1066x670.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60502015-59c5-420f-aa92-f27b04b4f40a_1066x670.png)
@@ -158,7 +157,7 @@ carros lavados?
 
 ### A causalidade emerge da experimentação
 
-Para descobrir se \# de cupons de desconto causa o aumento no \# de
+Para descobrir se # de cupons de desconto causa o aumento no # de
 carros lavados, o que precisamos fazer é um experimento. Podemos
 escolher um grupo de clientes que nunca fizeram nenhuma lavagem e
 mandamos um cupom de desconto para eles e observamos o resultado que
@@ -200,16 +199,12 @@ não há argumentos!
 
 ### Referências
 
--   [Naked Statistics: Stripping the Dread from the Data - Charles
-    Wheelan](https://amzn.to/3jh4IGJ)
+[Naked Statistics: Stripping the Dread from the Data - Charles Wheelan](https://amzn.to/3jh4IGJ)
 
--   [Como mentir com Estatística](https://amzn.to/34GOO4a)
+[Como mentir com Estatística](https://amzn.to/34GOO4a)
 
--   [Gestão Moderna de Serviços Digitais - Diego
-    Eis](https://amzn.to/2G0nBPR)
+[Gestão Moderna de Serviços Digitais - Diego Eis](https://amzn.to/2G0nBPR)
 
--   [Correlação de
-    Pearson](https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/)
+[Correlação de Pearson](https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/)
 
--   [Guia Estatística Análise de
-    Correlação](https://www.ecommercebrasil.com.br/artigos/guia-estatistica-analise-correlacao/)
+[Guia Estatística Análise de Correlação](https://www.ecommercebrasil.com.br/artigos/guia-estatistica-analise-correlacao/)
