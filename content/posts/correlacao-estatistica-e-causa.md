@@ -73,6 +73,7 @@ completo está
 Para esse conjunto de dados, podemos ver que r = 0.94, o que significa
 que há uma correlação positiva e quase perfeita, porque está muito
 próximo de +1. É visível que conforme o # de carros vendido cresceu o
+
 # de carros lavados também cresceu.
 
 É claro que nesse exemplo, estamos com um conjunto de dados bem simples
@@ -100,7 +101,6 @@ Para exemplificar, aqui nesse texto vou utilizar os termos *output* e
 digitais](https://amzn.to/34GEV6y))
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d1e6f815-be98-4503-9382-4e1e2d4fc651_800x611.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1e6f815-be98-4503-9382-4e1e2d4fc651_800x611.png "Output e Input Metrics - Gestão Moderna de Serviços Digitais, Diego Eis")
-
 
 Trazendo para o nosso exemplo no Lava Carros, nossa *Output Metric* é #
 de carros lavados e uma *input metric* é o # de novos carros
@@ -141,9 +141,9 @@ Visto que o óbvio nem sempre é o que vai nos trazer o resultado que
 estamos buscando, o melhor que podemos fazer, é trabalhar com um
 conjunto maior de *input metrics*, numa dimensão que nos permita ganhar
 mais alcance de variáveis que podem ter um índice de causalidade maior
-na nossa *output metric**.***
+na nossa *output metric*.
 
-Evoluindo nosso modelo do Lava Carros**,** poderíamos ter mais variáveis
+Evoluindo nosso modelo do Lava Carros, poderíamos ter mais variáveis
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f7ba4fd1-0bb1-4757-ad29-79cf0a5c42b0_800x641.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7ba4fd1-0bb1-4757-ad29-79cf0a5c42b0_800x641.png)
 
