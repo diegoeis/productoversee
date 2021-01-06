@@ -99,15 +99,14 @@ Para exemplificar, aqui nesse texto vou utilizar os termos *output* e
 *input metrics* que retirei do livro do Eis ([Gestão moderna de serviços
 digitais](https://amzn.to/34GEV6y))
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d1e6f815-be98-4503-9382-4e1e2d4fc651_800x611.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1e6f815-be98-4503-9382-4e1e2d4fc651_800x611.png)
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d1e6f815-be98-4503-9382-4e1e2d4fc651_800x611.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1e6f815-be98-4503-9382-4e1e2d4fc651_800x611.png "Output e Input Metrics - Gestão Moderna de Serviços Digitais, Diego Eis")
 
-###### Output e Input Metrics --- Gestão Moderna de Serviços Digitais --- Diego Eis
 
 Trazendo para o nosso exemplo no Lava Carros, nossa *Output Metric* é #
 de carros lavados e uma *input metric* é o # de novos carros
 cadastrados. No modelo acima, ficaria assim inicialmente
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/60502015-59c5-420f-aa92-f27b04b4f40a_1066x670.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60502015-59c5-420f-aa92-f27b04b4f40a_1066x670.png)
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/60502015-59c5-420f-aa92-f27b04b4f40a_1066x670.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60502015-59c5-420f-aa92-f27b04b4f40a_1066x670.png "Output e Input Metrics - Gestão Moderna de Serviços Digitais, Diego Eis")
 
 Nesse caso, vimos que existe uma correlação positiva quase perfeita
 entre o número de novos carros cadastrados e número de carros lavados.
