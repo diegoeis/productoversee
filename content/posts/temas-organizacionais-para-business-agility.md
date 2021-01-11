@@ -14,13 +14,13 @@ tags:
   - negócio
   - mercado
 ---
-_Artigo gentilmente cedido e escrito pelo Alexandre Magno. Esse_ [_artigo foi originalmente publicado_](https://medium.com/emergee/temas-organizacionais-para-business-agility-a9040a16e12c) _no blog da_ [_Emergee_](https://www.emergee.com.br/sobre)_, a melhor empresa para aprender e aplicar modelos emergentes para organizações complexas._
+> *Artigo gentilmente cedido e escrito pelo Alexandre Magno. Esse **[artigo foi originalmente publicado](https://medium.com/emergee/temas-organizacionais-para-business-agility-a9040a16e12c)** no blog da **[Emergee](https://www.emergee.com.br/sobre)**, a melhor empresa para aprender e aplicar modelos emergentes para organizações complexas.*
 
 \---
 
 Admitir que a agilidade de um negócio é dependente de um emaranhado de temas — e não apenas de níveis ou camadas — é o primeiro passo para enxergar a complexidade organizacional com lentes sóbrias.
 
-Neste artigo procuro apresentar os Temas Organizacionais que fazem parte do BUILD (BUsiness agILity Design) e a forma com que eles são aplicados a partir da Teoria de Emaranhamento (_Entanglement_).
+Neste artigo procuro apresentar os Temas Organizacionais que fazem parte do BUILD (BUsiness agILity Design) e a forma com que eles são aplicados a partir da Teoria de Emaranhamento (*Entanglement*).
 
 Para ilustração, trago detalhes dos trabalhos de Brian Eno, principalmente daqueles que se conectam com a aplicação da complexidade na forma com que fazemos no BUILD.
 
@@ -44,11 +44,11 @@ Por conexão e alinhamento, me refiro às situações onde o processo de diverg�
 
 Processo de divergência/convergência sem emaranhamento
 
-Por emaranhamento, ao invés, me refiro às situações onde o processo de divergência/convergência nasce a partir de uma questão maliciosa (_wicked question_), e se aplica de forma a ignorar os limites entre as matérias, emaranhando-as de forma a contaminarem-se irreversivelmente. Por exemplo, artistas e cientistas trabalham continuamente em divergência/convergência, até que geram um descoberta a qual não se consegue facilmente definir nem como arte, nem como ciência.
+Por emaranhamento, ao invés, me refiro às situações onde o processo de divergência/convergência nasce a partir de uma questão maliciosa (*wicked question*), e se aplica de forma a ignorar os limites entre as matérias, emaranhando-as de forma a contaminarem-se irreversivelmente. Por exemplo, artistas e cientistas trabalham continuamente em divergência/convergência, até que geram um descoberta a qual não se consegue facilmente definir nem como arte, nem como ciência.
 
 ![Image for post](https://miro.medium.com/max/1120/1*xY07v3jEiJPw1MDjox7_Mw.png)
 
-_Processo de divergência/convergência com emaranhamento_
+*Processo de divergência/convergência com emaranhamento*
 
 Nesta linha, o trabalho de Brian Eno se torna um singular campo de estudo sobre emaranhamento por, paradoxalmente, reconfigurar os limites entre luz, espaço, som, e arte. Por exemplo, seu trabalho [“77 Million Paintings”](https://en.wikipedia.org/wiki/77_Million_Paintings) é de difícil definição, justamente devido ao emaranhado de matérias exploradas. Neste caso, poderíamos definir o resultado deste trabalho como um software? Ou arte? Ou ciência? Música? Talvez um conjunto de vídeos? Pinturas? Ou seriam apenas montagens…? Sim ou não, seriam ambas respostas plausíveis para todas estas perguntas.
 
@@ -68,9 +68,9 @@ Estratégias mais amplas de emaranhamento se mostram necessárias para explorar 
 
 > Empresas querem ser mais ágeis, mas também mais rápidas, humanas, eficazes, eficientes, robustas, lucrativas, atrativas, poderosas, escaláveis, admiradas… e muito mais.
 
-Ao combinarmos a contradição de alguns desses elementos, chegamos facilmente às tais questões maliciosas (_wicked questions_) anteriormente mencionadas.
+Ao combinarmos a contradição de alguns desses elementos, chegamos facilmente às tais questões maliciosas (*wicked questions*) anteriormente mencionadas.
 
-Além do mais, quando estamos trabalhando para, por exemplo, aumentar a agilidade de uma empresa… o que exatamente estamos construindo? Qual será o resultado do nosso trabalho? Processos, novas competências, relações, métodos, ferramentas, _mindset_? Como no trabalho de Brian Eno, sim ou não, seriam ambas respostas plausíveis para todas estas perguntas.
+Além do mais, quando estamos trabalhando para, por exemplo, aumentar a agilidade de uma empresa… o que exatamente estamos construindo? Qual será o resultado do nosso trabalho? Processos, novas competências, relações, métodos, ferramentas, *mindset*? Como no trabalho de Brian Eno, sim ou não, seriam ambas respostas plausíveis para todas estas perguntas.
 
 > Dessa forma, se práticas que olham para o Agile Manifesto não dependem tanto de altos níveis de emaranhamento, a Business Agility está pisando em um território totalmente dependente destes.
 
@@ -80,9 +80,9 @@ Percebo cada vez mais que estratégias para agilidade nos negócios deveriam par
 
 Neste raciocínio, **alinhar** pessoas a uma estratégia de negócios, por exemplo, não seria suficiente para lidar com o nível de complexidade existente — nesses casos, deveríamos construir "algo" que emaranhasse ao menos esses dois temas (pessoas e estratégia).
 
-_(1) Utilizando linguagem do_ [_Cynefin_](https://materiais.emergee.com.br/ebook-cynefin?fbclid=IwAR2xjQ0s_R4ioEdZdj12IxFvmmIk11PchK-jAC316yTnEbYzR8JWjF0l5Uo) _para apontar que, em sua maioria, contextos de desenvolvimento de software estão em uma área liminal entre alta complicação e baixa complexidade.  
-(2) Quando se tenta incluir nos times capacidades não relacionadas ao desenvolvimento do produto.  
-(3) Contextos onde trabalhar com unidade de indivíduos, e não de times, se mostra ser uma solução mais apropriada._
+*(1) Utilizando linguagem do* *[Cynefin](https://materiais.emergee.com.br/ebook-cynefin?fbclid=IwAR2xjQ0s_R4ioEdZdj12IxFvmmIk11PchK-jAC316yTnEbYzR8JWjF0l5Uo)* *para apontar que, em sua maioria, contextos de desenvolvimento de software estão em uma área liminal entre alta complicação e baixa complexidade.\
+(2) Quando se tenta incluir nos times capacidades não relacionadas ao desenvolvimento do produto.\
+(3) Contextos onde trabalhar com unidade de indivíduos, e não de times, se mostra ser uma solução mais apropriada.*
 
 # BUILD e seus Temas Organizacionais
 
@@ -121,7 +121,7 @@ Como mencionei [aqui](https://medium.com/emergee/sobre-sucos-rumores-resist%C3%
 
 Por exemplo, na imagem ao lado compartilho um dos rumores identificados em uma dinâmica de Brief. **Ao olharmos para este rumor com as lentes do BUILD, percebemos o emaranhamento de alguns dos Temas Organizacionais: modelos de negócio, relações, estratégia, qualidade e, possivelmente, estrutura.** Perceba que qualquer alternativa monotemática que fosse aplicada, rapidamente utilizaria alguma ferramenta ou técnica à procura de uma simples relação de causa e efeito para resolver o problema ("Se mudar o modelo de negócios resolve!").
 
-No BUILD, este é um momento no qual reconhecemos que sequer sabemos se temos mesmo um problema pois, afinal, ainda estamos trabalhando com um rumor, algo que não foi validado ainda. Mesmo com tamanha incerteza, no entanto, já é sim importante olharmos para os Temas Organizacionais, pois eles tem potencial para nos ajudar a [montar os _scaffoldings_ (andaimes) na etapa Sense](http://propriedades%20na%20etapa%20de%20design%2C/).
+No BUILD, este é um momento no qual reconhecemos que sequer sabemos se temos mesmo um problema pois, afinal, ainda estamos trabalhando com um rumor, algo que não foi validado ainda. Mesmo com tamanha incerteza, no entanto, já é sim importante olharmos para os Temas Organizacionais, pois eles tem potencial para nos ajudar a [montar os *scaffoldings* (andaimes) na etapa Sense](http://propriedades%20na%20etapa%20de%20design%2C/).
 
 ## Padrões
 
@@ -175,10 +175,10 @@ Esse comportamento é o que, muitas vezes, faz como que uma prática seja inefic
 
 # Conclusão
 
-No final dos anos 2000 (_circa_ 2008/2009), Brian Eno lançou [_Bloom_](http://www.generativemusic.com/bloom.html) e [_Trope_](http://www.generativemusic.com/trope.html)_,_ ambos aplicativos para iOS que permitem que qualquer pessoa crie melodias únicas que emaranhem composição, som, arte e engenharia — ambos muito associados ao seu trabalho de música ambiente. Ao que tudo indica, o que ele busca com esse trabalho é fazer com que todos tenham a oportunidade de "ser" Brian Eno, ou seja, todos tenham capacidade de criar emaranhamentos de forma consciente e estética e, com isso, gerar algo inovador, contextual e significativo. É tornar o potencial da **música generativa** acessível a todos.
+No final dos anos 2000 (*circa* 2008/2009), Brian Eno lançou *[Bloom](http://www.generativemusic.com/bloom.html)* e *[Trope](http://www.generativemusic.com/trope.html),* ambos aplicativos para iOS que permitem que qualquer pessoa crie melodias únicas que emaranhem composição, som, arte e engenharia — ambos muito associados ao seu trabalho de música ambiente. Ao que tudo indica, o que ele busca com esse trabalho é fazer com que todos tenham a oportunidade de "ser" Brian Eno, ou seja, todos tenham capacidade de criar emaranhamentos de forma consciente e estética e, com isso, gerar algo inovador, contextual e significativo. É tornar o potencial da **música generativa** acessível a todos.
 
 De certa forma, essa é uma ótimo analogia para retratar o que acontece com as empresas que praticam o BUILD. Digo isso pois, a partir desta estratégia, as empresas desenvolvem a capacidade de significar seus contextos e trabalhar conscientemente com seus emaranhamentos, culminando em um modelo que [equilibra agilidade](https://medium.com/emergee/todos-neg%C3%B3cios-precisam-de-agilidade-mas-nem-todos-precisam-de-agile-a52a28844d3a?source=collection_home---4------2-----------------------) na busca pelo que verdadeiramente importa: o sucesso do negócio. É um passo importante para o que poderíamos chamar de **agilidade generativa**.
 
 \---
 
-_Imagem de destaque: 77 Million Paints, Brian Eno | Imagem cortesia de Spencer Bray_
+*Imagem de destaque: 77 Million Paints, Brian Eno | Imagem cortesia de Spencer Bray*
