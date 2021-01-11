@@ -14,9 +14,9 @@ tags:
   - negócio
   - mercado
 ---
-_*Artigo gentilmente cedido e escrito pelo Alexandre Magno. Esse **[artigo foi originalmente publicado](https://medium.com/emergee/temas-organizacionais-para-business-agility-a9040a16e12c)** no blog da **[Emergee](https://www.emergee.com.br/sobre)**, a melhor empresa para aprender e aplicar modelos emergentes para organizações complexas.*_
+*Artigo gentilmente cedido e escrito pelo Alexandre Magno. Esse **[artigo foi originalmente publicado](https://medium.com/emergee/temas-organizacionais-para-business-agility-a9040a16e12c)** no blog da **[Emergee](https://www.emergee.com.br/sobre)**, a melhor empresa para aprender e aplicar modelos emergentes para organizações complexas.*
 
-\---
+
 
 Admitir que a agilidade de um negócio é dependente de um emaranhado de temas — e não apenas de níveis ou camadas — é o primeiro passo para enxergar a complexidade organizacional com lentes sóbrias.
 
