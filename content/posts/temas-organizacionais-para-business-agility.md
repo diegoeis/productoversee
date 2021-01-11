@@ -16,8 +16,6 @@ tags:
 ---
 *Artigo gentilmente cedido e escrito pelo Alexandre Magno. Esse **[artigo foi originalmente publicado](https://medium.com/emergee/temas-organizacionais-para-business-agility-a9040a16e12c)** no blog da **[Emergee](https://www.emergee.com.br/sobre)**, a melhor empresa para aprender e aplicar modelos emergentes para organizações complexas.*
 
-
-
 Admitir que a agilidade de um negócio é dependente de um emaranhado de temas — e não apenas de níveis ou camadas — é o primeiro passo para enxergar a complexidade organizacional com lentes sóbrias.
 
 Neste artigo procuro apresentar os Temas Organizacionais que fazem parte do BUILD (BUsiness agILity Design) e a forma com que eles são aplicados a partir da Teoria de Emaranhamento (*Entanglement*).
@@ -28,13 +26,13 @@ Por ser um artigo um tanto denso, será melhor aproveitado por aqueles que já t
 
 Ao longo dos próximos meses, escreverei artigos específicos para cada um dos Temas Organizacionais do BUILD sendo este, portanto, uma espécie de introdução ao tópico.
 
-# Conhecendo Brian Eno
+## Conhecendo Brian Eno
 
 [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) é indiscutivelmente um dos maiores artistas contemporâneos. Talvez você pouco tenha ouvido falar sobre ele, mas certamente já teve contato com algo influenciado direta ou indiretamente pelo seu trabalho.
 
 Devido à minha paixão pela música de [David Bowie](https://en.wikipedia.org/wiki/David_Bowie), tive contato com o trabalho de Brian Eno, o produtor, ainda nos meus vinte e poucos anos, enquanto estudava a história por trás da produção dos álbuns da ["Trilogia de Berlim"](https://en.wikipedia.org/wiki/Berlin_Trilogy) de Bowie. Nessa mesma época, comecei também a apreciar Brian Eno, o músico, conhecendo seu trabalho no [Roxy Music](https://en.wikipedia.org/wiki/Roxy_Music), me deliciando com verdadeiras obras-primas da sua carreira solo, como o álbum ["Another Green World"](https://en.wikipedia.org/wiki/Another_Green_World) (1975), e tentando me conectar com seus trabalhos sonoros mais experimentais, como ["Ambient 1: Music for Airports"](https://en.wikipedia.org/wiki/Ambient_1:_Music_for_Airports) (1978). O que eu não poderia imaginar é que, já depois dos meus quarenta e pouco anos, eu encontraria no material de Brian Eno, agora o artista-cientista, uma fonte riquíssima sobre complexidade aplicada, destacando seus trabalhos com obliquidade, emaranhamento e estética — justamente pontos críticos para meu atual campo de pesquisa e experimentação: a agilidade nas organizações.
 
-# Sobre Emaranhamento
+## Sobre Emaranhamento
 
 Muitos dos avanços científicos que tivemos nas últimas décadas só ganharam tração a partir do momento que diversas matérias e campos de estudo, até então exploradas e aplicadas de forma separada, começaram a ser **emaranhadas, e não apenas conectadas ou alinhadas**.
 
@@ -56,7 +54,7 @@ Nesta linha, o trabalho de Brian Eno se torna um singular campo de estudo sobre 
 
 O assunto vem sendo explorado, agora de forma consciente, através de [pesquisas, experimentos](https://www.researchcatalogue.net/view/12219/12220) e [aplicações](https://en.wikipedia.org/wiki/Quantum_entanglement) por diferentes vozes ao redor do mundo, algumas apontando inclusive que estamos entrando em uma ["Era de Emaranhamentos"](https://jods.mitpress.mit.edu/pub/ageofentanglement/release/1).
 
-# Emaranhamento nas Organizações
+## Emaranhamento nas Organizações
 
 Ok, hora de "aterrissar" com o assunto e conversarmos sobre a presença dos emaranhamentos nas empresas, e de que forma podemos utiliza-los a nosso favor.
 
@@ -84,7 +82,7 @@ Neste raciocínio, **alinhar** pessoas a uma estratégia de negócios, por exe
 (2) Quando se tenta incluir nos times capacidades não relacionadas ao desenvolvimento do produto.\
 (3) Contextos onde trabalhar com unidade de indivíduos, e não de times, se mostra ser uma solução mais apropriada.*
 
-# BUILD e seus Temas Organizacionais
+## BUILD e seus Temas Organizacionais
 
 Em artigos anteriores, como neste [aqui](https://medium.com/emergee/brief-sense-design-a-contextualiza%C3%A7%C3%A3o-da-agilidade-nos-neg%C3%B3cios-679b6bf2e9b8), eu apresentei vários detalhes das Etapas do BUILD (Brief, Sense, Design), mas pouco falei sobre seus Temas Organizacionais, que também representam uma parte importante desta estratégia para agilidade nos negócios.
 
@@ -113,7 +111,7 @@ Importante ressaltar, caso ainda não esteja claro, que por mais que haja coerê
 
 Tais manifestações emergem ao longo das etapas do BUILD em 5 diferentes formatos: rumores, padrões, heurísticas, propriedades e práticas.
 
-## Rumores
+### Rumores
 
 Como mencionei [aqui](https://medium.com/emergee/sobre-sucos-rumores-resist%C3%AAncia-e-narrativas-e0d76715803d?source=collection_home---4------3-----------------------), no BUILD reconhecemos que, infelizmente, os rumores podem exercer uma influência enorme no processo de tomada de decisão nas organizações. Justamente por isso, ainda no Brief, identificamos alguns dos rumores predominantes no contexto, e já nesta etapa utilizamos lentes que nos ajudem a identificar o emaranhado de temas presentes no rumor.
 
@@ -123,7 +121,7 @@ Por exemplo, na imagem ao lado compartilho um dos rumores identificados em uma d
 
 No BUILD, este é um momento no qual reconhecemos que sequer sabemos se temos mesmo um problema pois, afinal, ainda estamos trabalhando com um rumor, algo que não foi validado ainda. Mesmo com tamanha incerteza, no entanto, já é sim importante olharmos para os Temas Organizacionais, pois eles tem potencial para nos ajudar a [montar os *scaffoldings* (andaimes) na etapa Sense](http://propriedades%20na%20etapa%20de%20design%2C/).
 
-## Padrões
+### Padrões
 
 Uma vez que um padrão de narrativa emerja durante a etapa Sense, também realizamos um trabalho para identificar o emaranhado de Temas Organizacionais presentes naquele padrão.
 
@@ -173,7 +171,7 @@ Um ponto importante aqui, é entender que, em sua maioria, práticas também pos
 
 Esse comportamento é o que, muitas vezes, faz como que uma prática seja ineficaz ou mesmos desastrosa em um contexto, já que as escolhemos focando em um único tema, ignorando seu impacto no emaranhamento com diversos outros temas.
 
-# Conclusão
+## Conclusão
 
 No final dos anos 2000 (*circa* 2008/2009), Brian Eno lançou *[Bloom](http://www.generativemusic.com/bloom.html)* e *[Trope](http://www.generativemusic.com/trope.html),* ambos aplicativos para iOS que permitem que qualquer pessoa crie melodias únicas que emaranhem composição, som, arte e engenharia — ambos muito associados ao seu trabalho de música ambiente. Ao que tudo indica, o que ele busca com esse trabalho é fazer com que todos tenham a oportunidade de "ser" Brian Eno, ou seja, todos tenham capacidade de criar emaranhamentos de forma consciente e estética e, com isso, gerar algo inovador, contextual e significativo. É tornar o potencial da **música generativa** acessível a todos.
 
