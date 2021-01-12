@@ -4,7 +4,7 @@ authors: Diego Eis
 date: 28/08/2019
 featured_post: true
 title: O ovo ou a galinha em serviços digitais
-publishDate: 2021-01-12
+publishDate: 2028-08-20
 image: https://i.imgur.com/5AN1SLi.jpg
 categories:
   - Estratégia
@@ -12,30 +12,11 @@ categories:
 tags:
   - efeito de rede
 ---
-Você já deve ter ouvido falar desse problema milenar onde tentamos
-descobrir quem veio primeiro: a galinha ou o ovo. O Neil deGrasse Tyson
-[diz](https://twitter.com/neiltyson/status/296100559423954944) que foi o
-ovo, vindo de uma ave que não era necessariamente uma galinha. Existem
-ainda
-[vários](https://blogs.unimelb.edu.au/sciencecommunication/2017/08/28/which-came-first-the-chicken-or-the-egg/)
-[estudos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486432/) que
-ainda colocam isso em dúvida. Contudo, até que esse mistério seja
-resolvido, podemos usar o ditado "o ovo ou a galinha" para descrever
-acontecimentos que deveriam ser considerados causa e qual deveria ser
-considerado o efeito.
+Você já deve ter ouvido falar desse problema milenar onde tentamos descobrir quem veio primeiro: a galinha ou o ovo. O Neil deGrasse Tyson[ diz](https://twitter.com/neiltyson/status/296100559423954944) que foi o ovo, vindo de uma ave que não era necessariamente uma galinha. Existem ainda[ vários](https://blogs.unimelb.edu.au/sciencecommunication/2017/08/28/which-came-first-the-chicken-or-the-egg/)[ estudos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486432/) que ainda colocam isso em dúvida. Contudo, até que esse mistério seja resolvido, podemos usar o ditado "o ovo ou a galinha" para descrever acontecimentos que deveriam ser considerados causa e qual deveria ser considerado o efeito.
 
-Quando estamos construindo um produto com um ciclo de growth contínuo,
-uma das estratégias é aplicar regras e princípios de efeito de rede,
-resultando em um produto com características de plataforma. Nesse caso,
-o desafio é criar massa crítica para as pontas da rede, para iniciar o
-ciclo virtuoso de **quanto mais uma ponta da rede cresce, mais as outras
-pontas se fortalecem**.
+Quando estamos construindo um produto com um ciclo de growth contínuo, uma das estratégias é aplicar regras e princípios de efeito de rede, resultando em um produto com características de plataforma. Nesse caso, o desafio é criar massa crítica para as pontas da rede, para iniciar o ciclo virtuoso de **quanto mais uma ponta da rede cresce, mais as outras pontas se fortalecem**.
 
-Basicamente todos os serviços que dependem de duas (ou mais) pontas e
-que usam seu produto como intermediário ou como uma plataforma, terão o
-problema do "ovo ou a galinha". O que vem primeiro, motoristas ou
-usuários? Restaurantes ou clientes? Vendedores ou compradores? Como
-resolvemos isso?\
+Basicamente todos os serviços que dependem de duas (ou mais) pontas e que usam seu produto como intermediário ou como uma plataforma, terão o problema do "ovo ou a galinha". O que vem primeiro, motoristas ou usuários? Restaurantes ou clientes? Vendedores ou compradores? Como resolvemos isso?
 
 ### Pensando em soluções
 
@@ -76,18 +57,9 @@ serviços:
    pagava usando Paypal para aproveitar a base de vendedores domésticos
    no eBay.
 
-Aqui (e em outros lugares do mundo), depois de um determinado momento, o
-problema não é crescer um dos lados, mas manter essa massa crítica, é aí
-que entra o desafio de fazer os usuários engajarem, gerando retenção.
-Nesse caso, o **comprometimento** dos usuários se torna muito mais
-**essencial e importante** que a aquisição.\
-É comum os serviços tentarem engrenar isso dando descontos, cupons,
-cashback e outras estratégias. Quem nunca deixou um produto no carrinho
-um ou dois dias para receber aquele email de desconto? Basicamente as
-empresas (principalmente startups) queimam dinheiro nesse processo para
-conseguir ter um crescimento imenso, ao mesmo tempo que tentam manter o
-interesse do usuário, gerando engajamento na entrega de valor e
-eventualmente gerando fidelização com o produto.
+Aqui (e em outros lugares do mundo), depois de um determinado momento, o problema não é crescer um dos lados, mas manter essa massa crítica, é aí que entra o desafio de fazer os usuários engajarem, gerando retenção. Nesse caso, o **comprometimento** dos usuários se torna muito mais **essencial e importante** que a aquisição.
+
+É comum os serviços tentarem engrenar isso dando descontos, cupons, cashback e outras estratégias. Quem nunca deixou um produto no carrinho um ou dois dias para receber aquele email de desconto? Basicamente as empresas (principalmente startups) queimam dinheiro nesse processo para conseguir ter um crescimento imenso, ao mesmo tempo que tentam manter o interesse do usuário, gerando engajamento na entrega de valor e eventualmente gerando fidelização com o produto.
 
 Você e sua empresa já teve que decidir entre o ovo ou a galinha? Se sim, qual foi a solução?
 
