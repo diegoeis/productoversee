@@ -93,7 +93,7 @@ Você e sua empresa já teve que decidir entre o ovo ou a galinha? Se sim, qual 
 
 ## Referências:
 
-[Network Effects, Lei de Metcalfe e produtos digitais] (https://diegoeis.com/network-effects-lei-de-metcalfe-e-produtos-digitais)
+[Network Effects, Lei de Metcalfe e produtos digitais](https://diegoeis.com/network-effects-lei-de-metcalfe-e-produtos-digitais)
 
 [Livro: Plataforma: a Revolução da Estratégia](https://amzn.to/2HwsSMO)
 
