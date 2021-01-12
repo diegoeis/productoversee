@@ -1,10 +1,10 @@
 ---
-excerpt: Um problema comum quando criamos um produto como plataforma.
+excerpt: Um problema comum quando criamos um produto como plataforma
 authors: Diego Eis
-date: 28/08/2019
+date: 2019-08-28
 featured_post: true
 title: O ovo ou a galinha em serviços digitais
-publishDate: 2028-08-20
+publishDate: 2019-08-28
 image: https://i.imgur.com/5AN1SLi.jpg
 categories:
   - Estratégia
