@@ -1,18 +1,17 @@
 ---
-title: "O ovo ou a galinha em serviços digitais"
-excerpt: "Um problema comum quando criamos um produto como plataforma."
+excerpt: Um problema comum quando criamos um produto como plataforma.
 authors: Diego Eis
 date: 28/08/2019
-tags: 
-- efeito de rede
-categories:
-- Estratégia
-- Tático
-image: "https://i.imgur.com/5AN1SLi.jpg"
 featured_post: true
+title: O ovo ou a galinha em serviços digitais
+publishDate: 2021-01-12
+image: https://i.imgur.com/5AN1SLi.jpg
+categories:
+  - Estratégia
+  - Tático
+tags:
+  - efeito de rede
 ---
-
-
 Você já deve ter ouvido falar desse problema milenar onde tentamos
 descobrir quem veio primeiro: a galinha ou o ovo. O Neil deGrasse Tyson
 [diz](https://twitter.com/neiltyson/status/296100559423954944) que foi o
@@ -43,43 +42,39 @@ resolvemos isso?\
 Existem diversas formas. Vou citar aqui 4 que podem se aplicar em alguns
 serviços:
 
-1.  **Resolva o lado mais difícil primeiro.** Quando você descobre o
-    lado mais difícil de engrenar na rede, e faz esse lado chegar no seu
-    momento de massa crítica, os lados mais fáceis crescerão de forma
-    orgânica.
-
-2.  **Invista/Pague para um dos lados estarem no seu produto**.
-    Inicialmente o Uber pagou para motoristas estarem no aplicativo,
-    gerando um mínimo de demanda. O Huffington Post contratou escritores
-    profissionais no seu lançamento, para que leitores se interessassem
-    pelo conteúdo do site... eventualmente esses leitores começaram a
-    contribuir com seus próprios posts e então a roda começou a girar. O
-    Google fez isso também com o Android, pagando prêmios para os
-    desenvolvedores criarem Apps para a plataforma. Com mais Apps, mais
-    usuários interessados.
-
-3.  **Crie valor primeiro para um dos lados.** Se você se focar em gerar
-    muito valor para primeiramente um dos lados. Depois que esse lado
-    estiver já estabelecido e bem servido, atraia o outro lado que
-    queira interagir com o primeiro. No início o MySpace deu profiles
-    para bandas, que consequentemente trouxeram as visitas dos seus fãs
-    para a plataforma. O Paypal também dava USD\$10 para o usuário no
-    ato do cadastro e depois mais USD\$10 por indicação.
-
-4.  **Automatize atividade para tracionar fluxo real.** Essa não
-    funciona para todos os serviços e ainda tem ponto de "ética" a se
-    pensar. Exemplo: No início o Reddit usou usuários fake para postar
-    perguntas e respostas para dar a impressão de que o site era
-    popular. Ou a velha história do Paypal, que usou robos para
-    comprarem produtos no eBay, via Paypal, para gerar buzz de
-    crescimento sobre a plataforma.
-
-5.  **Conecte-se em outra plataforma que ajude a criar valor.** Você
-    pode conectar seu serviço em outra plataforma, já estabelecida, para
-    mostrar o valor que seu serviço pode entregar. O Paypal fez isso ao
-    fazer o sambarilove com o bot comprava produtos automaticamente e
-    pagava usando Paypal para aproveitar a base de vendedores domésticos
-    no eBay.
+1. **Resolva o lado mais difícil primeiro.** Quando você descobre o
+   lado mais difícil de engrenar na rede, e faz esse lado chegar no seu
+   momento de massa crítica, os lados mais fáceis crescerão de forma
+   orgânica.
+2. **Invista/Pague para um dos lados estarem no seu produto**.
+   Inicialmente o Uber pagou para motoristas estarem no aplicativo,
+   gerando um mínimo de demanda. O Huffington Post contratou escritores
+   profissionais no seu lançamento, para que leitores se interessassem
+   pelo conteúdo do site... eventualmente esses leitores começaram a
+   contribuir com seus próprios posts e então a roda começou a girar. O
+   Google fez isso também com o Android, pagando prêmios para os
+   desenvolvedores criarem Apps para a plataforma. Com mais Apps, mais
+   usuários interessados.
+3. **Crie valor primeiro para um dos lados.** Se você se focar em gerar
+   muito valor para primeiramente um dos lados. Depois que esse lado
+   estiver já estabelecido e bem servido, atraia o outro lado que
+   queira interagir com o primeiro. No início o MySpace deu profiles
+   para bandas, que consequentemente trouxeram as visitas dos seus fãs
+   para a plataforma. O Paypal também dava USD$10 para o usuário no
+   ato do cadastro e depois mais USD$10 por indicação.
+4. **Automatize atividade para tracionar fluxo real.** Essa não
+   funciona para todos os serviços e ainda tem ponto de "ética" a se
+   pensar. Exemplo: No início o Reddit usou usuários fake para postar
+   perguntas e respostas para dar a impressão de que o site era
+   popular. Ou a velha história do Paypal, que usou robos para
+   comprarem produtos no eBay, via Paypal, para gerar buzz de
+   crescimento sobre a plataforma.
+5. **Conecte-se em outra plataforma que ajude a criar valor.** Você
+   pode conectar seu serviço em outra plataforma, já estabelecida, para
+   mostrar o valor que seu serviço pode entregar. O Paypal fez isso ao
+   fazer o sambarilove com o bot comprava produtos automaticamente e
+   pagava usando Paypal para aproveitar a base de vendedores domésticos
+   no eBay.
 
 Aqui (e em outros lugares do mundo), depois de um determinado momento, o
 problema não é crescer um dos lados, mas manter essa massa crítica, é aí
@@ -94,42 +89,14 @@ conseguir ter um crescimento imenso, ao mesmo tempo que tentam manter o
 interesse do usuário, gerando engajamento na entrega de valor e
 eventualmente gerando fidelização com o produto.
 
-Você e sua empresa já teve que decidir entre o ovo ou a galinha? Se sim,
-qual foi a solução?
+Você e sua empresa já teve que decidir entre o ovo ou a galinha? Se sim, qual foi a solução?
 
-Referências:
-------------
+## Referências:
 
--   [Network Effects, Lei de Metcalfe e produtos
-    digitais](https://diegoeis.com/network-effects-lei-de-metcalfe-e-produtos-digitais)
+[Network Effects, Lei de Metcalfe e produtos digitais] (https://diegoeis.com/network-effects-lei-de-metcalfe-e-produtos-digitais)
 
--   [Livro: Plataforma: a Revolução da
-    Estratégia](https://amzn.to/2HwsSMO)
+[Livro: Plataforma: a Revolução da Estratégia](https://amzn.to/2HwsSMO)
 
--   [Livro: Organizações exponenciais: Por que elas são 10 vezes
-    melhores, mais rápidas e mais baratas que a sua (e o que fazer a
-    respeito)](https://amzn.to/2ZznJdn)
+[Livro: Organizações exponenciais: Por que elas são 10 vezes melhores, mais rápidas e mais baratas que a sua (e o que fazer a respeito)](https://amzn.to/2ZznJdn)
 
--   [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your
-    Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)
-
-[![Foto do Diego
-Eis](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/69322e0f-495a-4590-a765-b3aa6363c6cf_400x400.jpeg)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F69322e0f-495a-4590-a765-b3aa6363c6cf_400x400.jpeg)
-
-**Diego Eis** é Diretor de Produtos Digitais na Jüssi.\
-\
-[\@diegoeis](https://twitter.com/diegoeis)\
-<https://diegoeis.com/>\
-<https://pmtoolkit.work/>\
-<https://medium.com/gestao-produtos>\
-<https://tableless.com.br/>\
-
-<div>
-
-------------------------------------------------------------------------
-
-</div>
-
-\
-[Pode nos dar seu feedback](http://bit.ly/feedback-pmletter)? Você
-responde em menos de 15 segundos.
+[19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplac](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)
