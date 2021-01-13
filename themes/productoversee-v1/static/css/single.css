@@ -263,16 +263,22 @@ hr {
 }
 
 /**** COMMENTS ****/
-.graphcomment-button a {
+.graphcomment-button a {display: none;}
+.graphcomment-button a,
+.po-lnk-comment {
   text-align: left !important;
   margin-bottom: 20px !important;
   background: transparent url(/images/icon-comments.png) no-repeat left center !important;
   background-size: contain !important;
   padding-left: 33px !important;
+  color: #000;
+  font: bold 1rem var(--fontDefault);
+  cursor:pointer;
 }
 
-.graphcomment-button a:before {
-  content: "Comentários";
+.graphcomment-button a:before,
+.po-lnk-comment:before {
+  /* content: "Comentários"; */
   text-transform: capitalize;
   color: #000;
   font: bold 1rem var(--fontDefault);
@@ -280,9 +286,10 @@ hr {
   position: relative; top: -2px;
 }
 
-.graphcomment-button a:hover:before {color: #FC0D1B !important; }
+.graphcomment-button a:hover:before,
+.po-lnk-comment:hover:before {color: #FC0D1B !important; }
 
-.graphcomment-button a span {display: none !important}
+.graphcomment-button a span  {display: none !important}
 
 .po-float-sidebar {
   position:sticky;
