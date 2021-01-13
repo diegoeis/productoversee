@@ -7,6 +7,7 @@ authors: Alexandre Magno
 date: 2021-01-11
 publishDate: 2021-01-11
 image: https://miro.medium.com/max/1500/1*39Zl4Yz5pKHff0s4zrjkOQ.jpeg
+featured_post: true
 categories:
   - Opinião
   - Estratégia

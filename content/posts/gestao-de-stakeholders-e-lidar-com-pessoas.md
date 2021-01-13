@@ -6,7 +6,6 @@ excerpt: Algumas dicas importantes para a comunicação, parte essencial do noss
 authors: Pedro Quintino
 date: 2020-12-11
 publishDate: 2020-12-11
-featured_post: true
 image: https://i.imgur.com/m3AplDF.jpg
 categories:
   - Estratégia
