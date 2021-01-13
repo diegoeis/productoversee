@@ -284,6 +284,11 @@ hr {
 
 .graphcomment-button a span {display: none !important}
 
+.po-float-sidebar {
+  position:sticky;
+  top: 100px;
+}
+
 /* #po-comments {
   position: fixed;
   top: 0;

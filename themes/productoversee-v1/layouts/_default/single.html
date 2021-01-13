@@ -43,10 +43,12 @@
       
       </div>
 
-      {{/*partial "comments.html"*/}}
       
       <span class="po-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
     
+
+    <div class="po-float-sidebar">
+
       <nav class="po-posts-same-author">
         <h3>Mais artigos de {{.Params.authors}} </h3>
         <ul>
@@ -56,6 +58,9 @@
         </ul>
       </nav>
 
+      {{partial "comments.html"}}
+
+    </div>
 
       <!-- <div class="po-banner-sidebar">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
