@@ -3,8 +3,8 @@ type: post
 title: Grandes empresas de tecnologia não estão mais “inovando”, e isso não é ruim
 excerpt: Quando uma indústria deixar de ser “adolescente”, nada "novo" mais acontece.
 authors: Tiago Doria
-date: 2021-01-27
-publishDate: 2021-01-27
+date: 2021-02-24
+publishDate: 2021-02-24
 image: https://i.imgur.com/1Xan4A1.jpg
 categories:
   - Opinião
