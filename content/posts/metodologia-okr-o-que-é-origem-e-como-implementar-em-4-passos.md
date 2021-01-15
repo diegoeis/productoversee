@@ -126,7 +126,7 @@ O processo não é complexo.
 
 Basta seguir as quatro etapas que eu detalhei abaixo:
 
-1. ### Organize os objetivos
+### 1. Organize os objetivos
 
 Para começar, você deve organizar os objetivos que espera atingir.
 
@@ -136,7 +136,7 @@ Lembre-se de que os objetivos precisam ser claros e devem estar conectados com a
 
 Do contrário, tudo perde o sentido.
 
-2. ### Defina um período
+### 2. Defina um período
 
 Os objetivos não podem levar o tempo que for para serem cumpridos.
 
@@ -150,7 +150,7 @@ O mais comum é termos uma visão de longo prazo (um ano) e criar ciclos curtos 
 
 Então, a cada trimestre, nós repetimos o planejamento de OKRs.
 
-3. ### Estabeleça os KRs e iniciativas
+### 3. Estabeleça os KRs e iniciativas
 
 Depois de estabelecer os objetivos e os prazos, você deve estruturar os resultados-chave e, em seguida, as iniciativas.
 
@@ -164,7 +164,7 @@ Já as iniciativas podem ser inúmeras, entretanto, é indispensável refletir s
 
 Lembrando que esse método não impede a utilização de outras técnicas em conjunto, como o Product Discovery para as iniciativas, por exemplo.
 
-4. ### Avalie os resultados
+### 4. Avalie os resultados
 
 Todo processo precisa ser constantemente monitorado, concorda?
 
@@ -183,8 +183,6 @@ A imagem abaixo demonstra a dinâmica de rituais e planejamento dos OKRs:
 ![](https://lh6.googleusercontent.com/xeSGRstvbhv0afaOJgdYamUDCEu7ceA4aY_UpnF8jbjSkdCA52R-FEtZ7JU8Bexo35aBGaRCV2yEMJJr8xRPl-Sa57u4T2Y88xfGIO7EuajgcYysiVGjWHZhGCmOVIzeUYjOWcNl)
 
 Dinâmica de rituais e planejamento dos OKRs.
-
-
 
 ## Conclusão: por que investir em metodologia de gestão?
 
@@ -206,5 +204,6 @@ Caso tenha ficado com alguma dúvida sobre o conteúdo, é só deixar o seu come
 
 ## Referências
 
-* Perdoo - OKR Guide
-* "Passos simples para implementar o método OKR", por Jae Lee.
+Perdoo - OKR Guide
+
+"Passos simples para implementar o método OKR", por Jae Lee.
