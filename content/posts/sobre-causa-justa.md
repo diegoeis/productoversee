@@ -23,11 +23,13 @@ A gestão pode ser fundamentada em dois pontos muito simples: autonomia e alinha
 Alinhamento sem autonomia é autoritarismo, comando e controle, top down, gestão diretiva… Quando se tem autonomia sem alinhamento, isso vira anarquia. Esses dois pilares precisam conviver e se integrar durante todo o processo de gestão. Vamos falar um pouco sobre alinhamento hoje.
 
 ## Entendendo para onde se quer ir
+
 Existem diversos níveis de alinhamento em uma empresa. Alinhamento nada mais é do que ter claro onde queremos chegar, os motivos de se chegar lá e as possibilidades do que faremos quando chegar lá. Esse último ponto, de saber o que fazer quando chegar na posição desejada, não precisa ser respondida logo de início, porque pode ser uma visão muito longa, contudo, você precisa almejar algo para que se tenha uma possibilidades de exploração. 
 
 Existem duas maneiras de entender essa visão de onde queremos ir. Uma delas é a Causa Justa e a outra a BHAG (pronuncia-se “Bee Hag”). Nesse post eu vou falar um pouco sobre a Causa Justa.
 
 ### O que é Causa Justa
+
 Eu conheci o termo Causa Justa lendo o livro Jogo Infinito do Simon Sinek. Eu fiz um [ review desse livro nesse link](https://diegoeis.com/review-o-jogo-infinito-simon-sinek/) , então vou pular alguns detalhes. Mas nesse livro ele fala que empresas que jogam o jogo infinito, tem estratégias que perduram durante o tempo, são empresas vencedoras. Empresas que não se preocupam tanto com as movimentações constantes do mercado ou dos concorrentes, exatamente porque elas estão pensando muito mais nos resultados que virão dali muito tempo.
 
 A Causa Justa entra exatamente nesse contexto, onde o longo prazo define o que é correto, prioritário e importante no curto prazo.  Mas para conseguirmos alinhar o que devemos fazer no curto prazo, removendo o ruído e as distrações, além das brigas por priorizações, é necessário que a empresa inteira esteja casada com a Causa Justa.
@@ -65,9 +67,10 @@ A Apple tem uma causa justa incrível onde eles querem **to make the best produc
 É muito comum encontrarmos empresas que não tem uma visão clara e expressiva de onde querem chegar. Mas pior que isso é ter uma causa falsa. Que só serve pra ser bonito no papel, para poder fazer Press releases bonitos para imprensa. 
 
 ## O desdobramento da Causa Justa para visão tática
+
 Talvez você já tenha visto esse desenho, talvez não. Mas essa é uma ilustração que uso bastante para mostrar como desdobramos a Causa Justa, a Visão, a Missão da empresa com a parte tática, principalmente quando se trata de produtos.
 
-[image:9E424ABC-C26F-485A-B60B-4AE4097F4EFE-1362-0000172B331333C6/refs-assets-product-managers - Diagrama de Interações entre Tático e Estratégico.jpg]
+!\[Diagrama de Interações entre Tático e Estratégico.jpg](https://i.imgur.com/PZlHKsm.jpg)
 
 Não é muito produtivo se qualquer coisa feita no produto não impacte a rede como um todo. Cada linha de código feita em um produto precisa estar alinhado à visão estratégica da empresa. Todas as funcionalidades precisam estar alinhadas ao objetivo macro que queremos alcançar. 
 
@@ -76,6 +79,7 @@ Product Managers que não entendem como o negócio é formado, por que queremos 
 A Causa Justa também vai ajudar Product Managers a criarem uma visão estratégica de produto/serviço mais correta. Essa visão tende a materializar melhor os propósitos de produto que tem como objetivo impactar as visões mais macro da empresa. O time vai se sentir muito mais parte do processo de decisão, exatamente por que entendendo qual é a parte deles para ajudar a empresa a chegar no destino definido. É sim, de responsabilidade de Product Managers, definirem a visão macro do Produto. 
 
 ## Conclusão
+
 Uma Causa Justa mexe com o nosso propósito pessoal. Eu sei que tem pessoas que tem uma visão muito mais pragmática e financeira e eu estou escrevendo esse artigo para todos os privilegiados que podem escolher trabalhar em empresas de qualidade em mercados incríveis. Isso não reflete a realidade do Brasil em nenhuma forma. Esse, na verdade, pode ser mais um motivo, usando essa sua chance rara, para escolher empresas que tenham seus propósitos e suas causas alinhadas às suas perspectivas pessoais. 
 
 * Todo mundo da sua empresa sabe responder qual é o propósito da empresa, sua causa justa e como o tático está alinhado à essa visão macro? 
@@ -84,6 +88,7 @@ Uma Causa Justa mexe com o nosso propósito pessoal. Eu sei que tem pessoas que 
 * O produto tem um roadmap claro que contribui para o alcance dessa visão macro?
 
 ## Referências
-- [1. Just Cause | THE 5 PRACTICES](https://www.youtube.com/watch?v=0XK-qiQK5Ms)
-- [Great Leaders & Organizations Advance a Just Cause | Simon Sinek](https://simonsinek.com/discover/great-leaders-organizations-advance-a-just-cause/)
-- [Have A Just Cause (The First of Simon Sinek’s 5 Practices of Leadership)](https://www.legitimateleadership.com/2019/12/03/just-cause-one-of-simon-sineks-5-practices-of-leadership/)
+
+* [1. Just Cause | THE 5 PRACTICES](https://www.youtube.com/watch?v=0XK-qiQK5Ms)
+* [Great Leaders & Organizations Advance a Just Cause | Simon Sinek](https://simonsinek.com/discover/great-leaders-organizations-advance-a-just-cause/)
+* [Have A Just Cause (The First of Simon Sinek’s 5 Practices of Leadership)](https://www.legitimateleadership.com/2019/12/03/just-cause-one-of-simon-sineks-5-practices-of-leadership/)
