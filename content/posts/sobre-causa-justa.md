@@ -42,13 +42,13 @@ Essa Causa Justa é maior que a missão da empresa. Teoricamente, a Missão da E
 
 > *É a Causa Justa que dá significado ao nosso trabalho e a nossa vida. Uma Causa Justa nos inspira a nos manter focados além das recompensas finitas e de ganhos individuais e provê o contexto para todos os jogos finitos que temos que jogar ao longo desse caminho. É o que nos inspira a querer continuar no jogo. — Sinek, Simon. O jogo infinito (p. 39). Sextante. Kindle Edition.*
 
-A Causa Justa é maior que nós mesmos. É maior que a empresa. Existem outras empresas querendo impactar essa causa e se elas forem bem intencionadas, elas não ficarão chateadas ou se sentirão ameaçadas por que outras empresas estão atacando também essa causa, porque a causa justa é algo inacabável. 
+A Causa Justa é maior que nós mesmos. É maior que a empresa. Várias empresas podem impactar uma mesma causa justa e isso não é um problema, exatamente por que a causa justa é inacabável. O que muda, é o ponto de partida que tais empresas iniciarão os trabalhos nessa determinada causa.
 
 O Simon diz que a Causa Justa está altamente conectada com o WHY da empresa (do Golden Circle). A Causa Justa é o WHY projetado no futuro. 
 
 Existem 5 critérios para formar uma Causa Justa:
 
-1. **Para algo**: isso quer dizer que a Causa Justa expressa muito mais o que você e a empresa defendem do que vocês enfrentam ou atacam. 
+1. **Para defender algo**: isso quer dizer que a Causa Justa expressa muito mais o que você e a empresa defendem do que vocês enfrentam ou atacam. 
 2. **Inclusiva**: a Causa Justa atrai pessoas que têm pensamentos diferentes, mas que queiram contribuir para uma mesma causa. Ela inspira todas as pessoas de qualquer especialidade da empresa, de forma que essas pessoas se sintam valorizadas.
 3. **Orientado a Serviço**: deve ser orientada ao serviço a fim de beneficiar além da empresa, os consumidores em primeiro lugar. Isso quer dizer que não faz sentido fazer algo que só tenha valor para empresa e que isso não reflita, de alguma forma, para os usuários.
 4. **Resiliente**: não deve ser baseada em algo frágil como uma regra, uma tecnologia, ou uma cultura. Essas coisas podem, sumir, mudar e se transformar com o tempo. A Causa Justa deve durar e deve resistir à mudanças.
