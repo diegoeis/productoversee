@@ -70,7 +70,7 @@ A Apple tem uma causa justa incrível onde eles querem **to make the best produc
 
 Talvez você já tenha visto esse desenho, talvez não. Mas essa é uma ilustração que uso bastante para mostrar como desdobramos a Causa Justa, a Visão, a Missão da empresa com a parte tática, principalmente quando se trata de produtos.
 
-!\[Diagrama de Interações entre Tático e Estratégico.jpg](https://i.imgur.com/PZlHKsm.jpg)
+![Diagrama de Interações entre Tático e Estratégico.jpg](https://i.imgur.com/PZlHKsm.jpg)
 
 Não é muito produtivo se qualquer coisa feita no produto não impacte a rede como um todo. Cada linha de código feita em um produto precisa estar alinhado à visão estratégica da empresa. Todas as funcionalidades precisam estar alinhadas ao objetivo macro que queremos alcançar. 
 
