@@ -4,8 +4,8 @@ title: O PM certo para a estratégia da empresa
 excerpt: Nem sempre trazer um PM super experiente será a chave para resolver
   todos os seus problemas
 authors: Jefferson Kobs
-date: 2021-02-10
-publishDate: 2021-02-10
+date: 2021-01-27
+publishDate: 2021-01-27
 image: https://i.imgur.com/HKUaBeA.jpg
 categories:
   - Estratégia
