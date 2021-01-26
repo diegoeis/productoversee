@@ -65,15 +65,11 @@ O uso de sons em interfaces é um tópico empolgante e ainda considerado novo. C
 
 Aqui estão algumas bibliotecas gratuitas úteis que você pode usar para brincar com áudio:
 
-1) [Facebook sound kit](https://facebook.design/soundkit)
-
-2) [Material UI sounds](https://material.io/design/sound/sound-resources.html#)
-
-3) [Freesound](https://freesound.org/)
-
-4) [Octave sounds](http://raisedbeaches.com/octave/)
-
-5) [Sounds UI](https://uisounds.prototypr.io/)
+1. [Facebook sound kit](https://facebook.design/soundkit)
+2. [Material UI sounds](https://material.io/design/sound/sound-resources.html#)
+3. [Freesound](https://freesound.org/)
+4. [Octave sounds](http://raisedbeaches.com/octave/)
+5. [Sounds UI](https://uisounds.prototypr.io/)
 
 Eu também criei um pequeno exemplo [aqui](https://ui-sounds.netlify.app/).
 
