@@ -14,8 +14,6 @@ tags:
   - métricas
   - metodologia
 ---
-
-
 # **Desvendando a expansão em produtos digitais**
 
 Após uma empresa passar a fase de product market-fit e se estabelecer como uma companhia em crescimento (mudando até o termo de start-up para scale-up), ela precisa encontrar **outras formas de manter seu processo persistente e perene**. Enquanto novas vendas é primordial para os primeiros estágios de um negócio, após algum tempo é oportuno que elas deixem de ser a principal forma de nova receita.
@@ -24,7 +22,7 @@ Conforme reportado por David Skok em seu [report anual sobre empresas SaaS priv
 
 E se pensar bem, é um pouco lógico a razão disso: **o CAC da receita que vem de expansão é bem menor** se comparado com novos clientes, que ainda não conhecem o produto. Para um cliente da base, é muito mais simples apresentar uma nova funcionalidade e convencer que resolve um outro problema.
 
-# Estratégia Land & Expand
+## Estratégia Land & Expand
 
 Para uma empresa apostar em expansão, uma **estratégia bastante usada é a Land & Expand**. Por um lado, você gasta pouco esforço (e tem pouco retorno) ao conquistar um cliente, mas com o uso recorrente do produto você começa a ganhar aquele retorno que não foi atingido no momento da venda ao adicionar mais valor (e mais custo) com o passar do tempo.
 
@@ -34,7 +32,7 @@ Para por em prática essa estratégia, **primeiro é preciso delineá-la como u
 
 Outra verdade: **Crescimento orgânico não é a mesma coisa que botar em prática o Land & Expand**. É esperado de um produto com market-fit que ele naturalmente cresça em número de usuários (abrangência) e a frequência de uso por parte desses (profundidade). Porém esse comportamento é passivo ou reativo. **O processo para expansão deve ser proativo e consciente, deve fazer parte das metas de negócio**.
 
-# Receita Básica para Expansão
+## Receita Básica para Expansão
 
 Para implementar esse processo de expansão é necessário definir os **grandes marcos na jornada do usuário** do produto digital.
 
@@ -68,8 +66,6 @@ Além disso, **o produto deve ser preparado para possibilitar esse crescimento*
 * Add-ons altamente integráveis ao produto principal
 * Loja de aplicativos com uma proposta de marketplace
 * Bundles juntando planos e módulos complementares
-
- 
 
 ![](https://i4.createsend1.com/ei/t/5C/2CD/A2F/125239/csfinal/img3-9900000000079e3c.jpeg)
 
@@ -108,7 +104,7 @@ Existem ainda ações que podem ser contabilizadas como "expansão", mas verdade
 * **Reativação (Reactivation)** - quando um churn é reativado, ou seja, ele volta a ser cliente após ter sido propriamente cancelado. Seja por alguma ação do time de Customer Success ou Vendas, seja por oferta automática ou churn involuntário. Comumente na reativação a receita reconstituída é diferente da anterior: pode ser um valor inferior nos casos onde foi aplicado algum desconto ou superior quando a reativação vem acompanhada de um upsell ou cross-sell.
 * **Reversão (Reversion)** - quando um churn é revertido, ou seja, ele solicitou o pedido de churn, mas na negociação o cancelamento não foi confirmado. Nesses casos é importante [entender como um churn acontece](https://productoversee.createsend1.com/t/t-l-xukuklk-l-k/) para saber como atuar.
 
-# Principal métrica: Net Churn ou Quick Ratio
+## Principal métrica: Net Churn ou Quick Ratio
 
 Para se medir se a expansão de uma empresa está saudável ou ocorrendo de maneira satisfatória, é preciso acompanhar alguns indicadores que mostram essa situação. A [métrica mais indicada](https://productoversee.createsend1.com/t/t-l-xukuklk-l-u/) é Net Churn ou Quick Ratio.
 
@@ -116,7 +112,7 @@ Ela calcula a diferença entre o que foi perdido na base de clientes com o que f
 
 Um número saudável é quando ela retorna **negativa**: a somatória de churns e contrações é menor do que a somatória da expansão e reativações/reversões. Esse cenário mostraria que se mesmo sem nenhuma venda a empresa teria lucro.
 
-# Referências
+## Referências
 
 [https://www.forentrepreneurs.com/multi-axis-pricing-a-key-tool-for-increasing-saas-revenue/](https://productoversee.createsend1.com/t/t-l-xukuklk-l-o/)
 
