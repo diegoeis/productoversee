@@ -4,7 +4,7 @@ title: Priorização por decibéis​
 excerpt: Muito se discute sobre métodos de priorização, afinal saber onde focar
   e no que dar prioridade é um importante atributo de quem trabalha na área de
   produto
-authors: Ericka Padilha
+authors: Éricka Padilha
 date: 2021-02-10
 publishDate: 2021-02-10
 image: https://i.imgur.com/rgEwsNG.jpg
