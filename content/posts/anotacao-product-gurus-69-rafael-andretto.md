@@ -1,6 +1,6 @@
 ---
 type: post
-title: "Anotação - Product Guru’s #69 - Rafael Andretto"
+title: "Anotação - Product Guru’s 69 - Rafael Andretto"
 excerpt: Entendendo um pouco mais a opinião do Rafael Andretto sobre geração de
   valor, metodologias e validação de hipóteses
 authors: Diego Eis
