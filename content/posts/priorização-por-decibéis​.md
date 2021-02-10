@@ -7,7 +7,7 @@ excerpt: Muito se discute sobre métodos de priorização, afinal saber onde foc
 authors: Ericka Padilha
 date: 2021-02-10
 publishDate: 2021-02-10
-image: https://i.imgur.com/qyUo6eF.jpg
+image: https://i.imgur.com/rgEwsNG.jpg
 categories:
   - Tático
 tags:
