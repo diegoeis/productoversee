@@ -15,10 +15,10 @@ tags:
 ---
 Essas são minhas anotações, sobre o que eu aprendi ouvindo o episódio do [Product Guru’s](https://anchor.fm/product-gurus) com o [Rafael Andretto](https://www.linkedin.com/in/rafaelchedid/), Product Manager da OLX. Para ouvir na íntegra, siga os links:
 
-Spotify: https://spoti.fi/325RHXt
-Apple Podcast: https://apple.co/321hKiA
-Deezer: http://bit.ly/2sR2Cs9
-Outros: https://lnkd.in/dQ9Tprm
+- Spotify: [https://spoti.fi/325RHXt](https://spoti.fi/325RHXt)
+- Apple Podcast: [https://apple.co/321hKiA](https://apple.co/321hKiA)
+- Deezer: [http://bit.ly/2sR2Cs9](http://bit.ly/2sR2Cs9)
+- Outros: [https://lnkd.in/dQ9Tprm](https://lnkd.in/dQ9Tprm)
 
 <iframe src="https://anchor.fm/product-gurus/embed/episodes/69-Rafael-Andretto---Gerar-valor-para-as-pessoas-e-impacto-no-negcio-eq67nc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
