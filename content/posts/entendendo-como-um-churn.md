@@ -1,12 +1,16 @@
 ---
-title: Entendendo como um Churn acontece
-excerpt: Identifique quais os tipos e estágios de um churn para garantir a retenção dos clientes
+excerpt: Identifique quais os tipos e estágios de um churn para garantir a
+  retenção dos clientes
 authors: Lucas Balbino
 date: 2020-09-09
-tags: [Negócios]
-categories: [Tático]
-image: https://images.unsplash.com/photo-1588800549188-b103a104ce33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 featured_post: false
+title: Entendendo como um Churn acontece
+publishDate: 2021-02-16
+image: https://images.unsplash.com/photo-1588800549188-b103a104ce33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+categories:
+  - Tático
+tags:
+  - Negócios
 ---
 
 
@@ -63,18 +67,14 @@ melhor representado como uma ampulheta) tem algumas etapas:
 
 -   Reconhecimento (**Awareness**) - despertar e endereçar o problema do
     possível cliente com o valor do produto;
-
 -   Consideração (**Consideration**) - desenvolver um relacionamento com
     o possível cliente indicando os diferenciais e benefícios que o
     produto tem;
-
 -   Conversão (**Conversion**) - convencer o possível cliente a
     comprar/assinar o produto;
-
 -   Retenção (**Loyalty**) - continuar a resolver periodicamente o
     problema do cliente com o produto e oferecer novo valor afim de
     ganhar sua fidelidade;
-
 -   Recomendação (**Advocacy**) - tornar o cliente em um promotor do
     produto onde ele o recomenda a outros possíveis clientes.
 
@@ -184,11 +184,8 @@ lealdade do cliente cai.
 A insatisfação pode ser percebida de algumas formas:
 
 -   Usuários com NPS baixo;
-
 -   Reclamações ao time de Customer Success;
-
 -   Registro de repetidos logs de erro;
-
 -   Diminuição do uso do produto.
 
 Ela pode ser mitigada endereçando os pontos alegados e mantendo o
@@ -251,14 +248,11 @@ problema? A resposta é, como a maioria das perguntas nesse sentido,
 
 -   Do **modelo de negócio** adotado pela empresa - existem modelos onde
     a margem pode ser maior e outros onde a margem é bem restrita;
-
 -   Do **custo de aquisição** - caso o custo seja alto, uma taxa de
     churn saudável deve ser menor do que comparativamente de uma empresa
     com o CAC baixo;
-
 -   Do **ticket médio** do produto - caso o ARPA seja baixo, um volume
     maior de cancelamentos é menor percebido;
-
 -   Da **capacidade de expansão** da base total - caso a expansão não
     represente muito no Net New MRR da organização, perder clientes não
     melhora a situação.
@@ -271,7 +265,6 @@ artigos trazem que o **Churn rate de um SaaS tem que ser entre 3% e
 -   [The Innovator\'s Dilemma for SaaS
     Startups](https://tomtunguz.com/saas-innovators-dilemma/) de Tomasz
     Tunguz
-
 -   [Is your churn rate within a healthy
     range?](https://info.recurly.com/research/churn-rate-benchmarks) da
     Recurly Research
@@ -284,15 +277,10 @@ ter ações específicas voltadas para a **retenção de clientes**. Dentre
 elas estão:
 
 -   Crie uma ótima primeira impressão
-
 -   Alinhe expectativas dos clientes
-
 -   Entregue a melhor experiência possível
-
 -   Preste atenção no que o cliente tem a dizer
-
 -   Entenda porque os seus clientes não usam seu produto
-
 -   Identifique clientes com maior chance de cancelar
 
 Devo aprofundar mais nessas ações no meu próximo texto.
