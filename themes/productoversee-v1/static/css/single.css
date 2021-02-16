@@ -248,7 +248,7 @@ hr {
 }
 
 .po-posts-same-author {
-  margin: 100px 0;
+  margin: 100px 0 70px;
   font: 1rem var(--fontDefault);
 }
 
@@ -293,7 +293,7 @@ hr {
 
 .po-float-sidebar {
   position:sticky;
-  top: 100px;
+  top: 50px;
 }
 
 /* #po-comments {
@@ -361,4 +361,32 @@ hr {
 
   .po-author-midia {padding-top: 10px;}
 
+}
+
+
+.po-sponsor-paragraph {
+  border-top: 1px solid rgba(0, 0, 0, .1);
+  margin: 120px 0 0;
+  padding: 50px 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.po-sponsor-paragraph a,
+.po-sponsor-paragraph p {
+  flex: 1;
+  margin: 0;
+}
+
+.po-sponsor-paragraph img {
+  max-width: 100%;
+  margin: 0
+}
+.po-sponsor-paragraph a {
+  max-width: 210px;
+  margin-right: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

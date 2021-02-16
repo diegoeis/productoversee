@@ -357,8 +357,22 @@
   display: flex;
 }
 
-.po-left-list a:hover ~ a h2 {color: var(--colorRed);}
 
+.sponsor-stamp {
+  display: inline-block;
+  background: #fff;
+  max-width: 60px;
+  padding: 5px 8px 6px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.sponsor-stamp img {max-width: 100%;}
+
+
+.po-left-list a:hover ~ a h2 {color: var(--colorRed);}
+.po-top div {position: relative;}
 .po-top .po-left-list,
 .po-top .po-right-list {
   font: 1rem var(--fontDefault);
@@ -400,8 +414,11 @@
 }
 
 
-#po-middle-post {
+.po-middle-post-box {
   margin: 0 20px;
+
+}
+#po-middle-post {
   display: block;
   text-align: center;
   font: 1.4rem var(--fontDefault);
