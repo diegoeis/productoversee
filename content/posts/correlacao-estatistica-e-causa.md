@@ -4,8 +4,8 @@ authors: Pablo Silva
 date: 2020-08-26
 featured_post: false
 title: Correlação estatística e causalidade em métricas de produto
-publishDate: 2021-01-06
-image: https://i.imgur.com/2OgXvP7.jpg
+publishDate: 2020-08-26
+image: https://i.imgur.com/VjrDtHE.png
 categories:
   - Indicadores e Dados
 tags:
