@@ -2,10 +2,10 @@
 excerpt: Empresas que são focadas no cliente, criam produtos internos com a
   mesma energia e qualidade que os produtos usados pelos clientes.
 authors: André Pimentel
-date: 04/09/2019
+date: 2019-09-04
 featured_post: false
 title: Produtos internos
-publishDate: 2021-02-19
+publishDate: 2019-09-04
 image: https://i.imgur.com/vD736Ww.png
 categories:
   - Tático
