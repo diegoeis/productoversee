@@ -5,7 +5,7 @@ excerpt: Você não é o seu usuário e precisa entender isso
 authors: Pablo Silva
 date: 2021-02-15
 publishDate: 2021-02-15
-image: https://i.imgur.com/BuGtW9Y.jpg
+image: https://i.imgur.com/OASoVMV.png
 categories:
   - Tático
 tags:
@@ -20,7 +20,7 @@ Toda vez que eu entrava no carro, o painel dele me deixava um pouco surpreso e e
 
 Certo dia, eu resolvi perguntar para um motorista que ano era o carro dele, porque vai que era 2010 né, já faria um pouco mais de sentido ter um painel analógico assim. Pra minha surpresa, ele respondeu que o carro era 2018/2019.
 
-Bom, pra mim não fazia nenhum sentido um carro desse ano ter um painel analógico numérico e então resolvi começar a fazer as seguintes perguntas para os motoristas quando eu entrava nos Kas, já que eu não me considero um usuário de carro (e um dos princípios básicos da gestão de produto é que quase sempre VOCÊ NÃO É O SEU USUÁRIO e até que você fale com ele, tudo não passa de hipóteses):
+Bom, pra mim não fazia nenhum sentido um carro desse ano ter um painel analógico numérico e então resolvi começar a fazer as seguintes perguntas para os motoristas quando eu entrava nos Kas, já que eu não me considero um usuário de carro (e um dos princípios básicos da gestão de produto é que quase sempre **você não é o seu usuário** e até que você fale com ele, tudo não passa de hipóteses):
 
 * Você sabe para que serve esse teclado?
 * Você sabe usar esse teclado?
