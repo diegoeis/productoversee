@@ -1,6 +1,6 @@
 ---
 type: post
-title: Tornando o refinamento mais efetivo - Parte 1
+title: Tornando o refinamento mais efetivo — Parte 1
 excerpt: O refinamento pode evitar lead times altos demais e trazer ciclos de
   aprendizado mais curtos
 authors: Pablo Silva
