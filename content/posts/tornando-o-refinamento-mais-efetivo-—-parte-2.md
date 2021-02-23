@@ -18,7 +18,7 @@ No [primeiro artigo](https://productoversee.com/tornando-o-refinamento-mais-efe
 
 Nesse segundo artigo, vamos focar em entender como “quebrar” histórias, e assim reduzir o esforço e o risco, utilizando uma técnica que chamei de novas capacidades (valor) para os usuários.
 
-# Toda nova capacidade pode virar uma história
+## Toda nova capacidade pode virar uma história
 
 A maneira como eu sempre vejo histórias de usuário é de uma ótica de novas capacidades que eu pretendo entregar para os usuários ao entregar uma história em produção. Aliás, se você escreve uma história que não vai permitir que o usuário tenha acesso a nenhuma nova capacidade, então é melhor não fazê-la. É claro que histórias técnicas geralmente não entregam valor visível para o usuário, sendo a única exceção cabível que enxergo para furar a afirmação que acabei de fazer.
 
@@ -36,11 +36,9 @@ Nesse exemplo, eu vejo várias novas capacidades que os usuários vão ter acess
 
 Cada tipo de login pode e deve virar uma história separada e cada um deles pode virar mais duas histórias, uma para fazer a integração e a outra pra usar a integração. A lógica é, sempre que o usuário for ter acesso a uma nova capacidade, ela pode ser entregue de forma separada, gerando valor mais rapidamente.
 
-# Um exemplo prático ao lidar com interfaces
+## Um exemplo prático ao lidar com interfaces
 
 Para exemplificar a técnica de capacidades que citei acima, vamos utilizar a seguinte interface
-
-![Image for post](https://miro.medium.com/max/60/0*vjALP8HutTlhJj6z.png?q=20)
 
 ![Image for post](https://miro.medium.com/max/1456/0*vjALP8HutTlhJj6z.png)
 
@@ -74,7 +72,7 @@ Dito isso, considerando então a técnica de entregar novas capacidades para os 
 
 A maior parte dessas novas capacidades tem um esforço mínimo para ser implementada, o que ajuda a diminuir muito o lead time. Vamos supor que já seja possível entregar o relatório só com a primeira capacidade e que faça sentido para o usuário (podemos estar em fase de testes ainda por exemplo) e o tempo para fazê-la seja de 3 dias, ao invés de esperar 1 mês para entregar tudo de uma vez, ótimo não? Já vamos aprender algo muito mais rápido.
 
-# Quanto mais você se aprofunda, mais esforço consegue quebrar
+## Quanto mais você se aprofunda, mais esforço consegue quebrar
 
 Existe uma capacidade que pretendemos entregar para o usuário, que mesmo depois de quebrarmos a tela em 15 pedaços, ainda vai demandar um esforço muito grande:
 
@@ -88,7 +86,7 @@ Por isso, *quanto mais você se aprofundar e quanto mais cedo envolver os desen
 
 Volto numa próxima oportunidade para falar de maneira prática, como reduzir incerteza das histórias. Até lá, compartilha com a gente outras técnicas para quebrar histórias que vem dando certo para vocês!
 
-# Referências:
+## Referências:
 
 * [Better User Stories](https://www.betteruserstories.com/courses/better-user-stories/videos?video_id=1)
 * [Método SPIDR](http://s3.amazonaws.com/betteruserstories/videos/bonus_downloads/000/000/014/original/spidr-poster.pdf?1524602363)
