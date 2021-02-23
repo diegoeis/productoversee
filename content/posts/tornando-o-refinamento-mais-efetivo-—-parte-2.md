@@ -14,7 +14,7 @@ tags:
   - agile
   - processo
 ---
-No [primeiro artigo](https://medium.com/@oseupablo/tornando-o-refinamento-mais-efetivo-parte-1-b75e8a17553d) desta série sobre refinamento, falei sobre como retirar complexidade e incerteza das histórias é algo bastante crítico pois pode influenciar diretamente no lead time das entregas do time e consequentemente no tempo que é levado para entregar valor.
+No [primeiro artigo](https://productoversee.com/tornando-o-refinamento-mais-efetivo-parte-1/) desta série sobre refinamento, falei sobre como retirar complexidade e incerteza das histórias é algo bastante crítico pois pode influenciar diretamente no lead time das entregas do time e consequentemente no tempo que é levado para entregar valor.
 
 Nesse segundo artigo, vamos focar em entender como “quebrar” histórias, e assim reduzir o esforço e o risco, utilizando uma técnica que chamei de novas capacidades (valor) para os usuários.
 
