@@ -40,8 +40,6 @@ Cada tipo de login pode e deve virar uma história separada e cada um deles pode
 
 Para exemplificar a técnica de capacidades que citei acima, vamos utilizar a seguinte interface
 
-![Image for post](https://miro.medium.com/max/60/0*vjALP8HutTlhJj6z.png?q=20)
-
 ![Image for post](https://miro.medium.com/max/1456/0*vjALP8HutTlhJj6z.png)
 
 que é um relatório de recebíveis de vendas por boleto.
