@@ -5,7 +5,7 @@ excerpt: Não é uma coisinha bonita que todo mundo quer fazer porque está na m
 authors: Pablo Silva
 date: 2021-01-08
 publishDate: 2021-01-08
-image: https://i.imgur.com/mkDac0Z.png
+image: https://i.imgur.com/ITVX3vX.png
 categories:
   - Opinião
 tags:
