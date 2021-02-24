@@ -5,7 +5,7 @@ date: 2020-08-26
 featured_post: false
 title: Correlação estatística e causalidade em métricas de produto
 publishDate: 2020-08-26
-image: https://i.imgur.com/VjrDtHE.png
+image: https://i.imgur.com/vmXzPt2.png
 categories:
   - Indicadores e Dados
 tags:
