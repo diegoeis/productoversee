@@ -6,7 +6,7 @@ excerpt: O refinamento pode evitar lead times altos demais e trazer ciclos de
 authors: Pablo Silva
 date: 2020-05-13
 publishDate: 2020-05-13
-image: https://i.imgur.com/OhIHY7t.png
+image: https://i.imgur.com/CVzesbq.png
 categories:
   - Tático
 tags:
