@@ -1,6 +1,6 @@
 ---
 name: "Paulo Victor Rodrigues"
-minibio: "Entusiasta de produtos digitais, criatividade, inovação e comportamento do consumidor. Trabalho todos os dias para encontrar as principais necessidades do mercado, e transformá-las em oportunidades de negócio."
+minibio: "Entusiasta de produtos digitais, criatividade, inovação e comportamento do consumidor. Product Manager na Sympla."
 avatar: "/images/authors/paulo-victor-rodrigues.jpg"
 email: ""
 twitter: ""
