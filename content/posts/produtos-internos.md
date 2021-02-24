@@ -6,7 +6,7 @@ date: 2019-09-04
 featured_post: false
 title: Produtos internos
 publishDate: 2019-09-04
-image: https://i.imgur.com/vD736Ww.png
+image: https://i.imgur.com/JCb0euV.png
 categories:
   - Tático
 tags:
