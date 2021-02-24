@@ -6,7 +6,7 @@ excerpt: Para gerir serviços e produtos digitais, PMs precisam aprender sobre
 authors: Diego Eis
 date: 2021-02-24
 publishDate: 2021-02-24
-image: https://i.imgur.com/qLAl6Zy.png
+image: https://i.imgur.com/h5XcM8B.png
 categories:
   - Estratégia
 tags:
