@@ -5,7 +5,7 @@ excerpt: Você não é o seu usuário e precisa entender isso
 authors: Pablo Silva
 date: 2021-02-15
 publishDate: 2021-02-15
-image: https://i.imgur.com/OASoVMV.png
+image: https://i.imgur.com/XbkE7rP.png
 categories:
   - Tático
 tags:
