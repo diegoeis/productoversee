@@ -6,7 +6,6 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 site_url: https://productoversee.com
 display_url: https://productoversee.com
 locale: 'pt'
-publish_mode: editorial_workflow
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
