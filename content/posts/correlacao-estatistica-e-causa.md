@@ -72,7 +72,7 @@ completo está
 
 Para esse conjunto de dados, podemos ver que r = 0.94, o que significa
 que há uma correlação positiva e quase perfeita, porque está muito
-próximo de +1. É visível que conforme o # de carros vendido cresceu o número de carros lavados também cresceu.
+próximo de +1. É visível que conforme o de carros vendido cresceu o número de carros lavados também cresceu.
 
 É claro que nesse exemplo, estamos com um conjunto de dados bem simples
 e conseguimos ver visualmente, mas pense em um conjunto de dados
