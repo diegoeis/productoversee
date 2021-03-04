@@ -1,0 +1,18 @@
+
+{{if .Params.sponsor }}
+
+  {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
+
+    <div class="po-sponsor-paragraph">
+
+      <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}" class="logo-awari"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a>
+
+      <p>
+        {{ (index .Site.Params.sponsor .Params.sponsor).paragraph_description }}
+      </p>
+
+    </div>
+
+  {{end}}
+
+{{end}}
