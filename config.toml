@@ -38,3 +38,13 @@ disableLiveReload = false
   name  = "title"
   weight = 40
 
+[params.sponsor]
+  [params.sponsor.awari]
+      active = true
+      site = "https://awari.com.br/?utm_source=blogProductOversee&utm_campaign=patrocinio&utm_content=ProductOversee"
+      name = "awari"
+      paragraph_description = "Aprenda as habilidades mais requisitadas pelo mercado, receba mentoria de profissionais referência em suas áreas de atuação e conte com a ajuda de profissionais especializados para conquistar uma vaga em sua nova área."
+  [params.sponsor.organizze]
+      active = false
+      site = "https://www.organizze.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+      name = "organizze"

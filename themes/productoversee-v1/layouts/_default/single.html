@@ -17,17 +17,11 @@
     <div class="po-article-text">
       {{if .Params.image}}<figure class="po-single-img"><img src="{{.Params.image}}" alt="{{if .Params.excerpt}}Imagem de destaque de {{.Title}}{{end}}"></figure>{{end}}
       {{.Content}}
-<!-- 
-      <div class="po-sponsor-paragraph">
-        <a href="https://awari.com.br/" class="logo-awari"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a>
 
-        <p>
-          Aprenda as habilidades mais requisitadas pelo mercado, receba mentoria de profissionais referência em suas áreas de atuação e conte com a ajuda de profissionais especializados para conquistar uma vaga em sua nova área.
-        </p>
-
-      </div> -->
+      {{partial "sponsor/sponsor-single-paragraph.html" . }}
 
     </div>
+    
     <aside class="po-sidebar">
       <div class="po-sidebar-author">
         
@@ -67,17 +61,9 @@
           {{end}}
         </ul>
       </nav>
-<!-- 
-      <style>
-        .logo-awari {
-          text-align: center;
-          display: block;
-        }
-        .logo-awari img {
-          max-width:200px;
-        }
-      </style>
-      <a href="#" class="logo-awari"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a> -->
+
+      {{partial "sponsor/sponsor-sidebar-logo.html" . }}
+
 
     </div>
 
