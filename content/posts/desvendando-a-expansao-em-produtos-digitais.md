@@ -4,6 +4,7 @@ title: Desvendando a expansão em produtos digitais
 excerpt: Entenda todos os aspectos para fazer com sua empresa SaaS B2B escale de
   forma sistêmica e cresça exponencialmente
 authors: Lucas Balbino
+sponsor: awari
 date: 2021-02-01
 publishDate: 2021-02-01
 image: https://i.imgur.com/va3RI1d.png
@@ -14,6 +15,7 @@ tags:
   - métricas
   - metodologia
 ---
+
 Após uma empresa passar a fase de product market-fit e se estabelecer como uma companhia em crescimento (mudando até o termo de start-up para scale-up), ela precisa encontrar **outras formas de manter seu processo persistente e perene**. Enquanto novas vendas é primordial para os primeiros estágios de um negócio, após algum tempo é oportuno que elas deixem de ser a principal forma de nova receita.
 
 Conforme reportado por David Skok em seu [report anual sobre empresas SaaS privadas](https://productoversee.createsend1.com/t/t-l-xukuklk-l-j/) e ressaltado por Brooke Goodbary em [seu artigo](https://productoversee.createsend1.com/t/t-l-xukuklk-l-t/), **investir em upsells e expansões continua sendo um bom ROI**. De acordo com a pesquisa, novas vendas para a base representam em média, 37% do novo ARR nas empresas. E dentre as empresas maiores, aquelas com o ARR de mais de $100MM, o percentual é ainda maior, ficando por volta da metade da nova receita no ano.

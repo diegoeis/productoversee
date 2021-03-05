@@ -10,6 +10,19 @@
     <section class="po-left-list">
       {{range first 2 (after 1 $posts) }}
         <div>
+
+          {{if .Params.sponsor }}
+
+            {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
+
+                <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=article_ProductOversee&utm_campaign=parceria_ProductOversee"  class="po-sponsor-flag po-flag-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+                  <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Um apoio do Patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+                </a>
+
+            {{end}}
+
+          {{end}}
+
           <a href="{{ .Permalink }}">
             <figure>
                 <!-- <a href="#" class="sponsor-stamp"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a> -->
@@ -33,7 +46,17 @@
     
     <div class="po-middle-post-box">
       <!-- <a href="#" class="sponsor-stamp"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a> -->
+      {{if .Params.sponsor }}
 
+      {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
+
+          <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=article_ProductOversee&utm_campaign=parceria_ProductOversee"  class="po-sponsor-flag po-flag-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+            <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Um apoio do Patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+          </a>
+
+      {{end}}
+
+    {{end}}
       <a href="{{ .Permalink }}" id="po-middle-post">
         
         <img src="{{ .Params.image }}" alt="">
@@ -78,6 +101,17 @@
       <ul class="po-featured-list">
       {{ range first 5 $featured_posts | shuffle }}
         <li class="po-post-vertical-list">
+          {{if .Params.sponsor }}
+
+          {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
+
+              <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=featuredArticle_ProductOversee&utm_campaign=parceria_ProductOversee"  class="po-sponsor-flag po-flag-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+                <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Um apoio do Patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+              </a>
+
+          {{end}}
+
+        {{end}}
           <figure>
             <a href="{{ .Permalink }}">
               <img src="{{ .Params.image }}" alt=""  data-event="lnk-home-recommended">

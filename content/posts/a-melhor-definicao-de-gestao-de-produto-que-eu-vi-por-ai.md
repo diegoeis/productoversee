@@ -5,7 +5,7 @@ excerpt: Entendi que o meu trabalho como gestor de produto era mudar o mundo
 authors: Pablo Silva
 date: 2021-03-03
 publishDate: 2021-03-03
-image: https://i.imgur.com/OQvZrAr.jpg
+image: https://i.imgur.com/21BvQMy.jpg
 categories:
   - Opinião
   - Tático

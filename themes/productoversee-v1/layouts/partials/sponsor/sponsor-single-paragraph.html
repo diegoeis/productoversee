@@ -5,7 +5,9 @@
 
     <div class="po-sponsor-paragraph">
 
-      <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}" class="logo-awari"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a>
+      <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=article_ProductOversee&utm_campaign=parceria_ProductOversee" class="logo-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+        <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Um apoio do Patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+      </a>
 
       <p>
         {{ (index .Site.Params.sponsor .Params.sponsor).paragraph_description }}

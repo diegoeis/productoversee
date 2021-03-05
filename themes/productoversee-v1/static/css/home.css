@@ -189,9 +189,13 @@
   width: 100%;
 }
 
-.po-featured-posts ul li img {
+.po-featured-posts ul li > img {
   max-width: 100%;
   margin-right: 20px;
+}
+
+.po-post-vertical-list {
+  position: relative;
 }
 
 
@@ -259,7 +263,7 @@
 }
 
 
-.po-post-vertical-list img {
+.po-post-vertical-list > img {
   max-width: 100%;
   position: absolute;
   top: 50%;
@@ -465,8 +469,10 @@
 
   .po-top .po-left-list {
     order: 2;
+    position: relative;
   }
   .po-top .po-right-list {
+    position: relative;
     order: 3;
     padding-top: 0px;
   }
@@ -483,6 +489,7 @@
 
   .po-featured-posts {
     margin-bottom: 0;
+    position: relative;
   }
 
   .po-sides > section {

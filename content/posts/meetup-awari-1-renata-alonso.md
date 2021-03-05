@@ -5,7 +5,7 @@ excerpt: Fazendo transição de produtora de TV para Product Management.
 authors: Diego Eis
 sponsor: awari
 date: 2021-03-04
-image: https://i.imgur.com/OQvZrAr.jpg
+image: https://i.imgur.com/yAIWbgX.jpg
 categories:
   - Opinião
   - Tático

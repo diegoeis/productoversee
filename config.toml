@@ -41,8 +41,9 @@ disableLiveReload = false
 [params.sponsor]
   [params.sponsor.awari]
       active = true
-      site = "https://awari.com.br/?utm_source=blogProductOversee&utm_campaign=patrocinio&utm_content=ProductOversee"
       name = "awari"
+      site = "https://awari.com.br/"
+      logo = "/images/sponsors/awari@3x.webp"
       paragraph_description = "Aprenda as habilidades mais requisitadas pelo mercado, receba mentoria de profissionais referência em suas áreas de atuação e conte com a ajuda de profissionais especializados para conquistar uma vaga em sua nova área."
   [params.sponsor.organizze]
       active = false

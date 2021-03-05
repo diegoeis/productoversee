@@ -1,22 +1,14 @@
 
-
-
 {{if .Params.sponsor }}
 
   {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
   <div class="po-sponsor-sidebar" id="sponsor-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
-  <style>
-    .logo-awari {
-      text-align: center;
-      display: block;
-    }
-    .logo-awari img {
-      max-width:200px;
-    }
-  </style>
-  <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}" class="logo-awari"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a>
 
-</div>
+    <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=sidebar_ProductOversee&utm_campaign=parceria_ProductOversee" class="po-sidebar-logo-sponsor" id="logo-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+      <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Logo do patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+    </a>
+
+  </div>
   {{end}}
 
 {{end}}

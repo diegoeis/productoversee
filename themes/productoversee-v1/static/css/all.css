@@ -185,8 +185,6 @@ li.po-social-potwitter a {background-position: -30px center;}
 li.po-social-rss a {background-position: left center;}
 li.po-social-polinkedin a {background-position: -60px center;}
 
-
-
 /*** SEARCH ***/
 #po-search-form {
   position: absolute;
@@ -683,6 +681,26 @@ input[type="text"], .po-newsletter-footer .email_type {
   font: .9rem/1.7 var(--fontDefault);
 
 }
+
+
+/**** Sponsor Flag ****/
+.po-sponsor-flag,
+.po-post-vertical-list:first-child .po-sponsor-flag {
+  max-width: 65px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background: #fff;
+  padding: 7px 8px;
+  font-size: 0;
+  z-index: 1;
+  border-radius: 2px
+}
+
+.po-post-vertical-list .po-sponsor-flag {
+  max-width: 50px
+}
+
 
 
 .po-author-midia {padding: 30px 0 20px 10px;}
