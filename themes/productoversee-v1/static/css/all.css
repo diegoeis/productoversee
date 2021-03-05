@@ -95,6 +95,7 @@ hr {
   list-style: none;
   /* margin: 20px 0 10px; */
   display: inline-block;
+  margin-bottom: 10px;
 }
 
 .po-list-categs li {display: inline;}
@@ -106,7 +107,6 @@ span.po-list-categs {
   display: inline-block;
   color: #ff0000 !important;
   font: normal 0.8rem var(--fontDefault);
-  padding: 10px 0;
 }
 
 .po-featured-list .po-list-categs a {padding-top: 0}
