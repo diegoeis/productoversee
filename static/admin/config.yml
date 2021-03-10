@@ -15,7 +15,6 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      - {label: "Sponsor", name: "sponsor", widget: "string"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
       - {label: "Autor", name: "authors", widget: "string"}
@@ -24,6 +23,7 @@ collections:
       - {label: "Imagem destaque", name: "image", widget: "string"}
       - {label: "Categoria", name: "categories", widget: "list", default: ["Opinião, Estratégia, Tático, Design, Dados & Indicadores"], allow_add: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["negócio, mercado, carreira, discovery, ferramenta, agile, desenvolvimento, tecnologia, OKR, métricas"], allow_add: true}
+      - {label: "Sponsor", name: "sponsor", widget: "string"}
       - {label: "Seu texto", name: "body", widget: "markdown"}
   - name: "posts-awari" # Used in routes, e.g., /admin/collections/blog
     label: "Posts da Awari" # Used in the UI
