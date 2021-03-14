@@ -5,7 +5,6 @@ excerpt: Quando se apoiamos em apenas uma métrica que talvez indique tudo o que
 authors: Diego Eis
 date: 2020-12-21
 publishDate: 2020-12-21
-featured_post: true
 image: https://i.imgur.com/wdrj9E7.jpg
 categories:
   - Indicadores e Dados
