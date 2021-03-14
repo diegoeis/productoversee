@@ -6,7 +6,7 @@
 	
 	<body class='Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}'>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRH8LC5"
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRH8LC5"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 
@@ -51,5 +51,9 @@
 
 		</script>
 
+{{ if eq "posts" .Section }}
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-604d82c4195c1c6e"></script>
+{{end}}
   </body>
 </html>
