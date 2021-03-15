@@ -1,7 +1,7 @@
 ---
 type: post
 title: Produtos digitais e antifragilidade
-excerpt: Fazendo transição de produtora de TV para Product Management.
+excerpt: Criar produtos antifrágeis para ter negócios antifrágeis
 authors: Pedro Passarelli
 sponsor: awari
 date: 2021-03-15
