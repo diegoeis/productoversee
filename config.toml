@@ -5,7 +5,8 @@ description = "Teste"
 theme = "productoversee-v1"
 removePathAccents = true
 summaryLength = 10
-
+[markup.goldmark.renderer]
+  unsafe= true
 enableRobotsTXT = true
 disableLiveReload = false
 

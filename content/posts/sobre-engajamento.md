@@ -2,7 +2,7 @@
 excerpt: Meus pensamentos sobre o que é engajamento em serviços e produtos digitais
 authors: Diego Eis
 date: 2020-10-30
-featured_post: false
+featured_post: true
 title: Sobre Engajamento
 publishDate: 2020-12-02
 image: https://images.unsplash.com/photo-1528495612343-9ca9f4a4de28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80
@@ -34,16 +34,11 @@ comportamento. 
 
 Usuários engajados são importantes por que:
 
--   Eles têm maior probabilidade de ficarem mais tempo na plataforma;
-
--   Eles cuidam e mantém suas contas por mais tempo;
-
--   Eles geralmente são early adopters de novas funcionalidades;
-
--   Eles compartilham seu produto pra outras pessoas;
-
--   Eles sabem extrair e usar o seu produto para extrair o máximo de
-    valor possível;
+- Eles têm maior probabilidade de ficarem mais tempo na plataforma;
+- Eles cuidam e mantém suas contas por mais tempo;
+- Eles geralmente são early adopters de novas funcionalidades;
+- Eles compartilham seu produto pra outras pessoas;
+- Eles sabem extrair e usar o seu produto para extrair o máximo de valor possível;
 
 Saber o que afeta o comportamento do usuário, ajuda a entender como é
 possível maximizar e estimular o aumento do uso, além de saber se o
@@ -101,17 +96,9 @@ as tasks principais, há usuários que acabaram de chegar ou que não estão
 satisfeitos com o produto, que também tem um comportamento de pouco uso.
 Contudo, há como diferenciar:
 
--   Entendendo a frequência de retorno. Pessoas que são ativas no
-    sistema, costumam retornar mais. Pessoas não ativas/engajadas, quase
-    não retornam sem estímulos externos;
-
--   Entendendo a execução de tarefas que não são jobs importantes. No
-    nosso exemplo de streaming de música: precisamos investigar usuários
-    que não ouvem música; 
-
--   Investigar visita em seções de saída. Monitorar visitas e ações em
-    áreas como histórico de pagamentos, troca de forma de pagamento,
-    botões de cancelar, sign out, etc;
+- Entendendo a frequência de retorno. Pessoas que são ativas no sistema, costumam retornar mais. Pessoas não ativas/engajadas, quase não retornam sem estímulos externos;
+- Entendendo a execução de tarefas que não são jobs importantes. No nosso exemplo de streaming de música: precisamos investigar usuários que não ouvem música; 
+- Investigar visita em seções de saída. Monitorar visitas e ações em áreas como histórico de pagamentos, troca de forma de pagamento, botões de cancelar, sign out, etc;
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/25d87376-9376-41dc-8b18-d34f91184d58_2302x1737.jpeg)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25d87376-9376-41dc-8b18-d34f91184d58_2302x1737.jpeg)
 
@@ -152,15 +139,10 @@ ser encontrada ou a missão atual deve ser renovada.
 
 Referências:
 ------------
-
--   <https://medium.com/@tsharon/measuring-user-engagement-86d10ae24c0a>
-
--   [How to Increase User Engagement in 2020 4 Strategies \|
+- <https://medium.com/@tsharon/measuring-user-engagement-86d10ae24c0a>
+- [How to Increase User Engagement in 2020 4 Strategies \|
     Intercom](https://www.intercom.com/blog/ways-to-increase-user-engagement/)
-
--   [7 Examples of User Engagement -
+- [7 Examples of User Engagement -
     Simplicable](https://simplicable.com/new/user-engagement)
-
--   <https://medium.com/engagement-marketing-smiles/four-steps-for-creating-a-user-engagement-score-for-your-product-a2c6e1d66930>
-
--   <https://medium.com/boundlessai/user-retention-or-engagement-c3a1dae99c17>
+- <https://medium.com/engagement-marketing-smiles/four-steps-for-creating-a-user-engagement-score-for-your-product-a2c6e1d66930>
+- <https://medium.com/boundlessai/user-retention-or-engagement-c3a1dae99c17>

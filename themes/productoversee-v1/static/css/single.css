@@ -74,7 +74,6 @@
 .po-page-text ol,
 .po-page-text ul {margin-bottom: 30px;}
 
-
 .po-page-text h1 {
   font: bold 2rem/1.8 var(--fontDefault);
   text-align: center;
@@ -179,6 +178,20 @@ hr {
 
 .po-article-text li {
   list-style-position: inside;
+  margin-bottom: 3px;
+}
+
+.po-article-text ul ul,
+.po-article-text ol ol {
+  margin-left: 15px;
+  margin-bottom: 0;
+}
+
+pre {
+  display: block;
+  padding: 10px;
+  background: #FFFADF;
+  margin-bottom: 30px;
 }
 
 .po-article-text h2 {
