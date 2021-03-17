@@ -1,4 +1,5 @@
 ---
+type: post
 title: Kaizen
 excerpt:
 authors: Diego Eis

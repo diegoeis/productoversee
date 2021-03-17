@@ -1,4 +1,5 @@
 ---
+type: post
 title: O débito técnico de hoje é a urgência de amanhã
 excerpt: Os débitos técnicos podem afetar profundamente o negócio
 authors: Pablo Silva

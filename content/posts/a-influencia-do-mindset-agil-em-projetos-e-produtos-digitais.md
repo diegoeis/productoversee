@@ -1,4 +1,5 @@
 ---
+type: post
 title: A influência do Mindset Ágil em Projetos e Produtos Digitais
 excerpt:
 authors: Diego Eis

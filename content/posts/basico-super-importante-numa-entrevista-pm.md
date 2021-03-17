@@ -1,4 +1,5 @@
 ---
+type: post
 title: O básico super importante em uma entrevista para PM
 excerpt: Saber esses conceitos já é um grande passo para passar numa entrevista
 authors: Pablo Silva

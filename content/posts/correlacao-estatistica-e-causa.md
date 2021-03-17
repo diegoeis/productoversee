@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Como entender esses dois conceitos pode facilitar demais a vida de uma PM
 authors: Pablo Silva
 date: 2020-08-26

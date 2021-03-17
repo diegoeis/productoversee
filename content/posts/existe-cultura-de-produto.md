@@ -1,4 +1,5 @@
 ---
+type; post
 title: Existe cultura de produtos?
 excerpt: Empresas erram ao pensar que existe uma forma de implementar a tão falada Cultura de Produtos
 authors: Diego Eis

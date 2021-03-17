@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Um problema comum quando criamos um produto como plataforma
 authors: Diego Eis
 date: 2019-08-28

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Parte 1: Métricas, indicadores e comportamento do usuário"
 excerpt: "Uma introução para entender sobre como comportamento do usuário gera indicadores"
 authors: Diego Eis

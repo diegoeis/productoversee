@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Empresas que são focadas no cliente, criam produtos internos com a
   mesma energia e qualidade que os produtos usados pelos clientes.
 authors: André Pimentel

@@ -1,4 +1,5 @@
 ---
+type: post
 title: Visualizando problemas e oportunidades com Mapas da Jornada do Usuário
 excerpt: Construir jornadas encantadoras para fidelizar os seus clientes
 authors: Pablo Silva

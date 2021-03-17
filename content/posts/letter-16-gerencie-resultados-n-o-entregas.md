@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Gerenciando o produto por resultados (outcomes) e não por entregas (outputs)"
 excerpt: "A quantidade de software entregue, não importa "
 authors: Diego Eis

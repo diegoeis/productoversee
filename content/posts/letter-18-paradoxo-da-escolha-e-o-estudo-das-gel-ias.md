@@ -1,4 +1,5 @@
 ---
+type: post
 title: Paradoxo da escolha
 excerpt: "Quanto mais opções, menos opções."
 authors: André Pimentel

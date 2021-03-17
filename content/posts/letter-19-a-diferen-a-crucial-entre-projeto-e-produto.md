@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Minha opinião (resumida) sobre a diferença crucial entre Projeto e Produto"
 excerpt: "Em uma palavra? Continuidade."
 authors: Diego Eis

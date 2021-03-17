@@ -1,4 +1,5 @@
 ---
+type: post
 title: "North Metric? Acho que não."
 excerpt: "Uma North Metric é o resultado de uma série de ações."
 authors: Diego Eis

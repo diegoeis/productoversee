@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Matriz de Eisenhower: como priorizar suas tarefas e seu tempo"
 excerpt: "PM que não gere seu tempo, não é confiável."
 authors: Diego Eis

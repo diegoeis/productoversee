@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Dual Track: Upstream e Downstream"
 excerpt: 
 authors: Diego Eis

@@ -1,4 +1,5 @@
 ---
+type: post
 title: A criatividade como ferramenta para resolução de problemas
 excerpt: Usar a criatividade para resolver problemas e tomar decisões
 authors: Éricka Padilha

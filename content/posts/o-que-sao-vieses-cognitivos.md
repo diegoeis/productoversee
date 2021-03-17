@@ -1,4 +1,5 @@
 ---
+type: post
 title: O que são vieses cognitivos?
 excerpt: Entenda como os nossos vieses contribuem para os nossos hábitos diários
 authors: Paulo Victor Rodrigues

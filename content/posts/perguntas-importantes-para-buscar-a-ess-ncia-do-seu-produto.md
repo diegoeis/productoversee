@@ -1,4 +1,5 @@
 ---
+type: post
 title: Perguntas importantes para buscar a essência do seu Produto
 excerpt: Questionar é uma das maneiras mais efetivas de conseguir direcionar um Produto Digital
 authors: Diego Eis

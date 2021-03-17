@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Os 13 tipos de Network Effect"
 excerpt: "Entendendo os 13 tipos de efeito de rede que podem ser aplicados no seu produto"
 authors: Diego Eis

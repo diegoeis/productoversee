@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Product Managers de diferentes tipos de produtos precisam aprender a
   escrever boas histórias de usuários, também conhecidos como user story
 authors: Ericka Padilha

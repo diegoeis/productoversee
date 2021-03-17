@@ -1,4 +1,5 @@
 ---
+type: post
 title: Product Managers não decidem negócio
 excerpt: A responsabilidade de uma PM é o direcionamento do produto, não do negócio
 authors: Diego Eis

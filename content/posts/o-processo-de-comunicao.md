@@ -1,4 +1,5 @@
 ---
+type: post
 title: O processo de comunicação
 excerpt: Entendimento sobre o processo de comunicação, suas barreiras e maneiras de melhorar este processo
 authors: Éricka Padilha

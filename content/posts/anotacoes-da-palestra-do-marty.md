@@ -1,4 +1,5 @@
 ---
+type: post
 title: Anotação da Palestra Marty Cagan - Digital Product Week 2020 - Tera
 excerpt: "Anotações da palestra que o Marty Cagan fez no evento Digital Product Week de 2020 com o título de Product Management: the Good, The Bad and the Ugly"
 authors: Diego Eis

@@ -1,4 +1,5 @@
 ---
+type: post
 title: Os pilares da negociação
 excerpt: Um pouco sobre como PMs podem negociar e influenciar
 authors: Éricka Padilha

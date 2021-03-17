@@ -1,4 +1,5 @@
 ---
+type: post
 title: Nomes estranhos e progressão de carreira de um PM
 excerpt: Entender onde está e como evoluir é o mais importante
 authors: Diego Eis

@@ -1,4 +1,5 @@
 ---
+type: post
 title: Disfunções da Web e Produtos Digitais
 excerpt: 
 authors: Diego Eis

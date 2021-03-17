@@ -1,4 +1,5 @@
 ---
+type: post
 title: Contexto de negócio
 excerpt: Começando a entender sobre o contexto do negócio
 authors: Diego Eis

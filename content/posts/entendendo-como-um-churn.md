@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Identifique quais os tipos e estágios de um churn para garantir a
   retenção dos clientes
 authors: Lucas Balbino

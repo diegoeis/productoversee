@@ -1,4 +1,5 @@
 ---
+type: post
 title: Perguntas para entrevistas de PMs
 excerpt: Chegar preparado para a entrevista é uma grande vantagem competitiva
 authors: Diego Eis

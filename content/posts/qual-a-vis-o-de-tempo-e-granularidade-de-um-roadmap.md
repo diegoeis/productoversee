@@ -1,4 +1,5 @@
 ---
+type: post
 title: Qual a visão de tempo e granularidade de um roadmap?
 excerpt:
 authors: Diego Eis

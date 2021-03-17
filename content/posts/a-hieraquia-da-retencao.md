@@ -1,4 +1,5 @@
 ---
+type: post
 title: A Hieraquia da Retenção
 excerpt: Quais ações podem ser tomadas para identificar, prever e reduzir o churn da empresa e manter os clientes engajados
 authors: Lucas Balbino

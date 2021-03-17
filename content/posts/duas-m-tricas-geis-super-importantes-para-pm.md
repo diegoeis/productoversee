@@ -1,4 +1,5 @@
 ---
+type: post
 title: Duas métricas ágeis super importantes para PMs
 excerpt: Um PM que entende bem o fluxo de desenvolvimento consegue se planejar melhor
 authors: Pablo Silva

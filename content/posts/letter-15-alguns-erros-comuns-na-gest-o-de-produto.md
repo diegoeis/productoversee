@@ -1,4 +1,5 @@
 ---
+type: post
 title: Alguns erros comuns na Gestão de produto
 excerpt: "Se tem algo que todos nós fazemos, sem exceção, é cometer erros."
 authors: André Pimentel

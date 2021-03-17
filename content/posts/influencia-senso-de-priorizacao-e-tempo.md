@@ -1,4 +1,5 @@
 ---
+type: post
 title: Influência, Senso de Priorização e Tempo
 excerpt: 
 authors: Diego Eis

@@ -1,4 +1,5 @@
 ---
+type: post
 title: A sutil diferença entre Disrupção e Inovação 🚀✈🚁
 excerpt: Por muito tempo tidos como relativos, há sim uma sutil diferença entre esses termos
 authors: Diego Eis

@@ -1,4 +1,5 @@
 ---
+type: post
 title: Onde está o valor dos Produtos Digitais?
 excerpt: "Quando o usuário percebe o valor do seu produto?"
 authors: Diego Eis

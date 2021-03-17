@@ -1,4 +1,5 @@
 ---
+type: post
 title: Combinando os resultados de frameworks e canvas
 excerpt: Entendendo como podemos conectar diversos métodos e frameworks de negócio
 authors: Diego Eis

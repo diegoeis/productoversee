@@ -1,4 +1,5 @@
 ---
+type: post
 title: Fale um idioma que as pessoas que trabalham com você vão entender
 excerpt: Visão de produto. Como adaptar um produto digital existente para novos segmentos de clientes
 authors: Cleyton Messias

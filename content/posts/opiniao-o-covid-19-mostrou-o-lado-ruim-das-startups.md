@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Opinião: o COVID-19 mostrou o lado ruim das startups"
 excerpt: Uma crítica sobre as startups atuais
 authors: Diego Eis

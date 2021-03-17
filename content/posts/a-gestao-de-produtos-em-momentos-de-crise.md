@@ -1,4 +1,5 @@
 ---
+type: post
 title: A gestão de produto em momentos de crise
 excerpt: O importante é ainda olhar para a estratégia, mesmo que tenha que mudá-la
 authors: Pablo Silva

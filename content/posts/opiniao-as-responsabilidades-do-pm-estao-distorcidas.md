@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Opinião: As responsabilidades do PM estão distorcidas"
 excerpt: Por vezes parece que ainda estamos nos anos 2000
 authors: Pablo Silva

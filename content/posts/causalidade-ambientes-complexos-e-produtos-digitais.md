@@ -1,4 +1,5 @@
 ---
+type: post
 title: Causalidade, Ambientes complexos e Produtos Digitais
 excerpt:
 authors: Diego Eis

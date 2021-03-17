@@ -1,9 +1,10 @@
 ---
+type: post
+title: The Opportunity Solution Tree e ORKs
 excerpt: Visualizar a estratégia para tomar decisões estruturadas
 authors: Diego Eis
 date: 2020-02-12
 featured_post: false
-title: The Opportunity Solution Tree e ORKs
 publishDate: 2020-02-12
 image: https://images.unsplash.com/photo-1480618213131-3abfec8a53cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
 categories:

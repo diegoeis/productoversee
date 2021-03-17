@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Meus pensamentos sobre o que é engajamento em serviços e produtos digitais
 authors: Diego Eis
 date: 2020-10-30

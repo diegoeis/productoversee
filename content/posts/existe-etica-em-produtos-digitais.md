@@ -1,4 +1,5 @@
 ---
+type: post
 title: Existe ética em Produtos Digitais?
 excerpt: Se existe ética, não falamos muito sobre esse tema
 authors: Diego Eis

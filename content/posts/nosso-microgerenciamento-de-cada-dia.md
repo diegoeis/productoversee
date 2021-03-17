@@ -1,4 +1,5 @@
 ---
+type: post
 title: Nosso microgerenciamento de cada dia
 excerpt: Você está promovendo uma cultura saudável de produtos ou está apenas exaltando o microgerenciando
 authors: Éricka Padilha

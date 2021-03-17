@@ -1,4 +1,5 @@
 ---
+type: post
 title: Press Release - Especificação de Produtos Digitais
 excerpt: Criando um Press Release para materializar melhor o futuro do seu produto
 authors: Diego Eis

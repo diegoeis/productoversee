@@ -1,4 +1,5 @@
 ---
+type: post
 title: Aprendizagem autodirigida para uma liderança emocionalmente inteligente
 excerpt: As cinco descobertas para aprender a ser um bom líder
 authors: Éricka Padilha

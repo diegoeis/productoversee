@@ -1,4 +1,5 @@
 ---
+type: post
 title: Product Ops - Escalando times de produto
 excerpt: 
 authors: André Pimentel

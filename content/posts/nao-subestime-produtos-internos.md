@@ -1,4 +1,5 @@
 ---
+type: post
 excerpt: Nunca subestime o contexto de um time de produtos internos
 authors: Pablo Silva
 date: 2020-10-30
