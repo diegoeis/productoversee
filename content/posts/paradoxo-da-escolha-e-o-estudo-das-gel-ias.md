@@ -1,14 +1,14 @@
 ---
 type: post
-title: Paradoxo da escolha
-excerpt: "Quanto mais opções, menos opções."
+title: Paradoxo da escolha e o estudo das geléias
+excerpt: Quanto mais opções, menos opções
 authors: André Pimentel
 date: 18/09/2019
 tags: 
 - comportamento
 categories:
 - Tático
-image: ""
+image: https://i.imgur.com/6PiXetw.png
 featured_post: false
 ---
 
