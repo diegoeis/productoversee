@@ -13,10 +13,8 @@ tags:
   - discovery
   - ferramenta
 ---
-Uber, Airbnb, Facebook, Coursera e outras plataformas de negócios bem-sucedidas têm algo em comum: todas aplicam os fundamentos do modelo de negócios de plataforma. 
-
-Então, se você trabalha com plataformas de negócios ou está planejando desenvolver uma, este artigo é para você. 
-
+Uber, Airbnb, Facebook, Coursera e outras plataformas de negócios bem-sucedidas têm algo em comum: todas aplicam os fundamentos do modelo de negócios de plataforma.
+Então, se você trabalha com plataformas de negócios ou está planejando desenvolver uma, este artigo é para você.
 Aqui eu vou explicar quais são esses princípios e como você pode usá-los no seu negócio.
 
 Bora lá?
@@ -24,30 +22,20 @@ Bora lá?
 ## Para começar, o que é plataforma de negócios?
 
 Se você é um produteiro experiente, pode pular esse tópico.
-
 Afinal de contas, já deve estar cansado de ouvir falar sobre a definição.
-
 Mas, para quem ainda está engatinhando na Gestão de Produtos ou pensando em abrir um negócio digital, entender o conceito é bem importante, antes de entrarmos, definitivamente, nos fundamentos.
-
-A plataforma de negócios é um modelo que utiliza  ferramentas tecnológicas para conectar duas partes, normalmente, produtores e consumidores.  
-
+A plataforma de negócios é um modelo que utiliza  ferramentas tecnológicas para conectar duas partes, normalmente, produtores e consumidores.
 Entretanto, elas podem ultrapassar esses limites e abrigar outros interessados, formando um verdadeiro ecossistema. 
-
 São tipo os “marketplaces 2.0”, uma vez que não só conectam pontas, mas também fazem a gestão do relacionamento entre uma parte e outra. 
-
 Por exemplo, a OLX, que tem anúncios do prestador e disponibiliza contatos para ele ser encontrado pelo consumidor, é um marketplace.  
-
-O Uber, por sua vez, é uma plataforma porque conecta prestador e consumidor automaticamente pelo seu app, faz curadoria de ambos os lados e ainda administra o pagamento. 
-
+O Uber, por sua vez, é uma plataforma porque conecta prestador e consumidor automaticamente pelo seu app, faz curadoria de ambos os lados e ainda administra o pagamento.
 Ou seja, é muito mais do que só conectar lados.  
 
- 
-
-# 10 fundamentos da gestão de produtos para plataforma de negócios
+## 10 fundamentos da gestão de produtos para plataforma de negócios
 
 Devidamente apresentados à plataforma de negócios, vamos logo ao que interessa: os fundamentos da gestão de produtos
 
-1. Efeitos de rede
+# 1. Efeitos de rede
 
 O primeiro fundamento são os de efeito de rede, e ele não está no topo da lista à toa.
 
@@ -73,9 +61,8 @@ Por essa razão, o nosso papel como produteiros é olhar para todo o ecossistema
 * Quais dores eu preciso resolver para não ter o efeito de rede negativo?
 * Qual é o investimento que estou disposto a fazer para o lado líder
 
-##  
 
-## 2. Arquitetura e Design
+# 2. Arquitetura e Design
 
 Nas plataformas de negócios, o design precisa ser emergente.
 
@@ -87,11 +74,9 @@ Isso porque não há como prever todos os cenários e ter controle sobre eles.
 
 Eu até recomendo, na verdade, seguir um dos princípios Lean, que consiste em esperar até o último momento para tomar uma decisão.
 
-Por mais que a gente queira se antecipar, essa nem sempre é a melhor solução para as plataformas de negócios.
+Por mais que a gente queira se antecipar, essa nem sempre é a melhor solução para as plataformas de negócios. 
 
-##  
-
-## 3. Disrupção de pipeline
+# 3. Disrupção de pipeline
 
 Uma das razões pelas quais as plataformas de negócios se destacam está relacionada à superação dos negócios de pipeline.
 
@@ -105,7 +90,7 @@ Por isso, para que tenham sucesso, as plataformas precisam ser donas de recursos
 
 E não necessariamente construindo tijolos para competir com as redes hoteleiras, entende?
 
-## 4. O ovo ou a galinha
+# 4. O ovo ou a galinha
 
 As plataformas de negócios, normalmente, unem dois lados, e você precisa descobrir qual deles é o líder.
 
@@ -139,11 +124,9 @@ E como ele faz isso? 
 
 Oferecendo promoções com descontos. 
 
-Dessa forma, o consumo fica sempre distribuído, satisfazendo os dois lados.  
+Dessa forma, o consumo fica sempre distribuído, satisfazendo os dois lados. 
 
-##  
-
-## 5. Unidade de valor
+# 5. Unidade de valor
 
 Unidade de valor é o sinal vital do seu produto. 
 
@@ -169,9 +152,7 @@ Olha só como ele é importante para satisfazer o desejo mínimo de status de qu
 
 Então, reflita: Qual é a sua unidade de valor?
 
-##  
-
-## 6. Abertura
+# 6. Abertura
 
 Você pode adotar diversas estratégias de abertura (ou fechamento) de APIs para a sua plataforma de negócios.
 
@@ -181,9 +162,7 @@ No geral, elas se dividem em três modelos:
 * Semiaberto: admite desenvolvedores com cadastro, utiliza linguagem/código pré-definidos e, no caso da Apple, o aplicativo precisa ser aprovado pela empresa antes de ser disponibilizado. Ex. Apple Store
 * Aberto: costuma vir associado à conta do Google e qualquer pessoa pode utilizar sem restrição. Ex. YouTube.
 
-##  
-
-## 7. Governança
+# 7. Governança
 
 Se você é daqueles que enxergam a governança como algo tradicional e ultrapassado, é melhor rever esse conceito.
 
@@ -205,9 +184,7 @@ Imagina como pode fazer mal para uma plataforma como o Twitter começar a exclui
 
 Isso, além de afetar a credibilidade da marca, também demonstra uma atuação autoritária da plataforma, fazendo com que ela não seja mais um lugar de geração de valor livre. 
 
-##  
-
-## 8. Métricas relevantes
+# 8. Métricas relevantes
 
 As métricas variam de acordo com o momento da plataforma.
 
@@ -221,9 +198,7 @@ Já na fase de scale up, elas precisam medir o impacto no crescimento e a entreg
 
 Por fim, na fase de maturity, é recomendado usar métricas que estimulem a inovação, além daquelas que servem para detectar ameaças dos concorrentes. 
 
-##  
-
-## 9. Estratégia
+# 9. Estratégia
 
 Toda plataforma de negócios precisa de um planejamento estratégico bem desenhado.
 
@@ -236,9 +211,7 @@ Vou destacar aqui alguns pontos importantes que ajudarão você a construir suas
 * A concorrência se baseia nos seguintes pilares: escala de fornecimento, efeitos de rede, custo de migração da plataforma e valorização de parcerias acima das fusões e aquisições.
 * Em alguns mercados, a concorrência é absurda e beira a falta de ética. Você sabia que algumas plataformas famosas já usaram crawler em concorrentes para aumentar sua base de informações ou prestadores de serviço? 
 
- 
-
-## 10. Políticas e enfrentamento regulatório
+# 10. Políticas e enfrentamento regulatório
 
 Antes de tudo, quero dizer que a regulação não é o lado negro da força, viu?
 
@@ -252,9 +225,7 @@ Vale dizer ainda que os negócios inovadores que transformam a sociedade, geralm
 
 Agora, já imaginou como seria o mercado financeiro se as instituições não tivessem certas obrigações regulatórias, como, por exemplo, garantir a disponibilidade de recursos financeiros para os seus clientes?
 
-Pois, bem, antes de criticar veementemente a regulação, pense em como ela é importante em alguns mercados e também se o rebolde de hoje se tornará o guardião da regulação amanhã :)  
-
-
+Pois, bem, antes de criticar veementemente a regulação, pense em como ela é importante em alguns mercados e também se o rebolde de hoje se tornará o guardião da regulação amanhã :)
 
 ## Conclusão - Influência da Gestão de Produtos nas plataformas de negócios
 
@@ -266,9 +237,7 @@ Espero que o conteúdo tenha atendido às suas expectativas e, caso tenha ficado
 
 É só entrar em contato comigo pelo LinkedIn.
 
-E, se gostou do conteúdo ou tem algo para compartilhar, aproveite o espaço de comentários logo abaixo do texto, beleza?
-
- 
+E, se gostou do conteúdo ou tem algo para compartilhar, aproveite o espaço de comentários logo abaixo do texto, beleza? 
 
 ## Referências
 
