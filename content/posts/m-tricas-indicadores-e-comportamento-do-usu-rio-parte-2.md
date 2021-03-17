@@ -9,7 +9,7 @@ tags:
 - métricas
 categories:
 - Indicadores e Dados
-image: Parte 1: 
+image: https://i.imgur.com/XUo1F1v.png
 featured_post: false
 ---
 
