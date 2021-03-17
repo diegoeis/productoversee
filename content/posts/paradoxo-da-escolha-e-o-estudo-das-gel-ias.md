@@ -1,17 +1,18 @@
 ---
-type: post
-title: Paradoxo da escolha e o estudo das geléias
 excerpt: Quanto mais opções, menos opções
 authors: André Pimentel
 date: 18/09/2019
-tags: 
-- comportamento
-categories:
-- Tático
-image: https://i.imgur.com/6PiXetw.png
 featured_post: false
+type: post
+title: Paradoxo da escolha e o estudo das geléias
+publishDate: 2021-03-17
+image: https://i.imgur.com/6PiXetw.png
+categories:
+  - Tático
+tags:
+  - comportamento
+sponsor: Oversee
 ---
-
 Qual foi o maior tempo que você ficou procurando alguma coisa para
 assistir na Netflix?
 
@@ -35,13 +36,11 @@ ficamos frustrados pelo tempo ou dinheiro perdido com a escolha ruim.
 Quando escolhemos algo que não ficamos satisfeitos, é muito fácil
 imaginar as centenas de opções que não escolhemos.
 
-
 [Shwartz fez também esse TEDTalks](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice#t-112394) em 2005 onde ele traz muitos dos argumentos do livro, vale muito a pena separar um tempo para assistir.
 
 > Learning to choose is hard. Learning to choose well is harder. And learning to choose well in a world of unlimited possibilities is harder still, perhaps too hard.
 
- **O estudo das geléias**
-------------------------
+## **O estudo das geléias**
 
 Realizado por Sheena Iyengar e Mark Lepper, esse estudo tinha como
 objetivo entender como a quantidade de opções disponíveis de um
@@ -59,6 +58,10 @@ de geléias.
 
 O resultado você pode ver na imagem abaixo:
 
+![](https://i.imgur.com/38d3XSZ.jpg "Jam tasting study")
+
+*https://www.cartstack.com/blog/comparison-killing-online-business-paradox-of-choice/*
+
 Uma mesa com muitas opções de geleias trouxe uma quantidade maior de
 clientes interessados.
 
@@ -69,8 +72,7 @@ quantidade de sabores que os clientes provaram.
 Já a grande diferença foi com relação às vendas, que ficaram bem maiores
 no teste com apenas seis sabores de geléia.
 
-**Personalizar a experiência de cada usuário**
-----------------------------------------------
+## **Personalizar a experiência de cada usuário**
 
 A Swiggy é uma empresa indiana de delivery de comida, que promete chegar
 a [30 milhões de
@@ -86,9 +88,9 @@ lista de restaurantes é única para cada pessoa.
 
 ## Referências:
 
--   [What Netflix Can Teach Us About the Paradox of Choice](https://forge.medium.com/netflix-quantity-quality-and-the-paradox-of-choice-5336f4b1be90)
--   [How Swiggy empowers customers, restaurants, drivers to streamline food delivery](https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-swiggy-empowers-customers-restaurants-drivers-to-streamline-food-delivery/71731904)
--   [Comparison Could Be Killing Your Online Business](https://www.cartstack.com/blog/comparison-killing-online-business-paradox-of-choice/)
--   [Too Many Choices: A Problem That Can Paralyze](https://www.nytimes.com/2010/02/27/your-money/27shortcuts.html)
--   [What is the Paradox of Choice?](https://gostrengths.com/what-is-the-paradox-of-choice/)
--   [Psychology 101 (Part 4) : The paradox of choice! Is more better ?](https://productcoalition.com/psychology-101-part-4-the-paradox-of-choice-is-more-better-d06a6e55948e)
+* [What Netflix Can Teach Us About the Paradox of Choice](https://forge.medium.com/netflix-quantity-quality-and-the-paradox-of-choice-5336f4b1be90)
+* [How Swiggy empowers customers, restaurants, drivers to streamline food delivery](https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-swiggy-empowers-customers-restaurants-drivers-to-streamline-food-delivery/71731904)
+* [Comparison Could Be Killing Your Online Business](https://www.cartstack.com/blog/comparison-killing-online-business-paradox-of-choice/)
+* [Too Many Choices: A Problem That Can Paralyze](https://www.nytimes.com/2010/02/27/your-money/27shortcuts.html)
+* [What is the Paradox of Choice?](https://gostrengths.com/what-is-the-paradox-of-choice/)
+* [Psychology 101 (Part 4) : The paradox of choice! Is more better ?](https://productcoalition.com/psychology-101-part-4-the-paradox-of-choice-is-more-better-d06a6e55948e)
