@@ -1,16 +1,18 @@
 ---
+excerpt: Uma introução para entender sobre como comportamento do usuário gera
+  indicadores
+authors: Diego Eis
+date: 2019-08-21
+featured_post: false
 type: post
 title: Métricas, indicadores e comportamento do usuário - Parte 2
-excerpt: Uma introução para entender sobre como comportamento do usuário gera indicadores
-authors: Diego Eis
-date: 21/08/2019
-tags: 
-- experiência
-- métricas
-categories:
-- Indicadores e Dados
+publishDate: 2019-08-21
 image: https://i.imgur.com/XUo1F1v.png
-featured_post: false
+categories:
+  - Indicadores e Dados
+tags:
+  - experiência
+  - métricas
 ---
 
 Um dos objetivos mais intrínsecos de um serviço digital, é fazer com que 
