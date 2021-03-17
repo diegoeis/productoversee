@@ -1,7 +1,7 @@
 ---
 type: post
-title: "Parte 2: Métricas, indicadores e comportamento do usuário"
-excerpt: "Uma introução para entender sobre como comportamento do usuário gera indicadores"
+title: Métricas, indicadores e comportamento do usuário - Parte 2
+excerpt: Uma introução para entender sobre como comportamento do usuário gera indicadores
 authors: Diego Eis
 date: 21/08/2019
 tags: 
@@ -9,10 +9,9 @@ tags:
 - métricas
 categories:
 - Indicadores e Dados
-image: ""
+image: Parte 1: 
 featured_post: false
 ---
-
 
 Um dos objetivos mais intrínsecos de um serviço digital, é fazer com que 
 as pessoas usem o produto de forma constante e frequente.
@@ -30,25 +29,22 @@ totalmente dispensáveis. Essas métricas, apenas refletem a fase de
 **growth** do seu produto. É isso que os investidores querem ver, pois é
 isso que mostra o potencial de futuro do seu produto.
 
-### 
 
 ###  A importância das Core Actions
 
 Todos os produtos tem uma razão para existir. E todos os produtos tem
 funções importantes, que fundamentam essa razão de ser. Chamamos essas
-funções importantes de **core actions**.\
+funções importantes de **core actions**.
 
 Essas **core actions** são a base fundamental do seu produto e que sem
 essas ações, não faria muito sentido usar o produto. A junção do
 engajamento dessas ações, somado com a retenção dos usuários, formam uma
-receita indispensável para qualquer serviço digital.\
-\
-\
+receita indispensável para qualquer serviço digital.
+
 Descobrir ou forjar as core actions do seu produto e entender como elas
 se comportam quando combinadas com a retenção do usuário, criam a
 **Hierarquia de Engajamento**, que o framework da Sarah Tavel ensina.
 
-### 
 
 Ações são valiosas quando geram efeito de rede
 ----------------------------------------------
@@ -58,9 +54,7 @@ Já [falei aqui um pouco sobre como o efeito de rede influencia a forma de uso d
 
 Esse efeito de rede, em vez de afetar o produto como um todo, ele afeta
 as funções de cada produto, gerando um ciclo virtuoso de uso do
-usuário.\
-\
-\
+usuário.
 
 O objetivo aqui é **transformar o uso do produto em hábito**.
 
@@ -72,7 +66,6 @@ Existe um outro framework chamado Hook, idealizado pelo Nir Eyal em seu
 [livro Hooked: How to Build Habit-Forming
 Products](https://amzn.to/2SIQNNE).
 
-\
 Nesse framework, a ideia é que você desenvolva um produto que que
 construa o hábito de uso do seu produto nos usuários. Indo além de
 métricas e indicadores, a ideia é que você entenda profundamente o
