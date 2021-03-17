@@ -11,7 +11,6 @@ categories:
   - Tático
 tags:
   - comportamento
-sponsor: Oversee
 ---
 Qual foi o maior tempo que você ficou procurando alguma coisa para
 assistir na Netflix?
