@@ -1,14 +1,14 @@
 ---
 type: post
-title: "Tech, Usuário ou Negócio. Qual o seu tipo de product manager?"
-excerpt: "Por que nenhuma pessoa é igual e embora sejamos generalistas, podemos ter afinidade com uma especialidade."
+title: Tech, Usuário ou Negócio. Qual o seu tipo de product manager?
+excerpt: Por que nenhuma pessoa é igual e embora sejamos generalistas, podemos ter afinidade com uma especialidade.
 authors: Diego Eis
 date: 25/09/2019
 tags: 
 - carreira
 categories:
 - Tático
-image: "https://i.imgur.com/eDSvVYm.jpg"
+image: https://i.imgur.com/skvrq52.png
 featured_post: true
 ---
 
