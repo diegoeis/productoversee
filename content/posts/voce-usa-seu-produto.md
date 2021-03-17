@@ -1,13 +1,14 @@
 ---
+type: post
 title: Você usa seu produto?
-excerpt: "Você pode tomar decisões depois de usar seu próprio produto?"
+excerpt: Você pode tomar decisões depois de usar seu próprio produto?
 authors: André Pimentel
-date: 10/06/2019
-tags: validação
+date: 2019-06-10
+image: https://i.imgur.com/qY32MMd.png
 categories:
-- Tático
-image: "https://i.imgur.com/PTGY9Ok.jpg"
-featured_post: false
+  - Tático
+tags:
+  - validação
 ---
 
 Will Shu trabalhou por alguns anos no mercado financeiro, e com
