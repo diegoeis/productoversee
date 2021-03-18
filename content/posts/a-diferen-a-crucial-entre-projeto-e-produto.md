@@ -1,7 +1,7 @@
 ---
 type: post
-title: "Minha opinião (resumida) sobre a diferença crucial entre Projeto e Produto"
-excerpt: "Em uma palavra? Continuidade."
+title: Minha opinião (resumida) sobre a diferença crucial entre Projeto e Produto
+excerpt: Em uma palavra? Continuidade
 authors: Diego Eis
 date: 06/11/2019
 tags: conceitos

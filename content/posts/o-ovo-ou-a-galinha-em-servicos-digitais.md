@@ -1,10 +1,10 @@
 ---
 type: post
+title: O ovo ou a galinha em serviços digitais
 excerpt: Um problema comum quando criamos um produto como plataforma
 authors: Diego Eis
 date: 2019-08-28
 featured_post: true
-title: O ovo ou a galinha em serviços digitais
 publishDate: 2019-08-28
 image: https://i.imgur.com/5AN1SLi.jpg
 categories:

@@ -1,7 +1,7 @@
 ---
 type: post
 title: As responsabilidades do Product Owner não são suficientes
-excerpt: "Ter um olhar apenas tático não nos leva a uma direção correta"
+excerpt: Ter um olhar apenas tático não nos leva a uma direção correta
 authors: Diego Eis
 date: 17/07/2019
 tags: carreira

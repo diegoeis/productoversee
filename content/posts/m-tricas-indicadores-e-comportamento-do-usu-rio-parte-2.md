@@ -1,10 +1,10 @@
 ---
+type: post
 excerpt: Uma introução para entender sobre como comportamento do usuário gera
   indicadores
 authors: Diego Eis
 date: 2019-08-21
 featured_post: false
-type: post
 title: Métricas, indicadores e comportamento do usuário - Parte 2
 publishDate: 2019-08-21
 image: https://i.imgur.com/XUo1F1v.png

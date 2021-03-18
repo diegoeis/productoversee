@@ -1,7 +1,7 @@
 ---
 type: post
 title: Ganhos marginais
-excerpt: "A experiência de uso do seu produto também acontece nos detalhes, e não somente no lançamento de novas funcionalidades"
+excerpt: A experiência de uso do seu produto também acontece nos detalhes, e não somente no lançamento de novas funcionalidades
 authors: André Pimentel
 date: 07/08/2019
 tags: 

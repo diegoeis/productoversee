@@ -1,9 +1,9 @@
 ---
+type: post
 excerpt: Quanto mais opções, menos opções
 authors: André Pimentel
 date: 18/09/2019
 featured_post: false
-type: post
 title: Paradoxo da escolha e o estudo das geléias
 publishDate: 2018-09-20
 image: https://i.imgur.com/6PiXetw.png
