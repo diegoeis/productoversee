@@ -15,7 +15,7 @@
 
   <div class="po-container">
     <ul class="po-list-posts">
-      {{ range .Site.RegularPages  }}
+      {{ range where .Site.RegularPages "Params.type" "post" }}
       
         <li>
           <a href="{{ .Permalink }}">
