@@ -1,13 +1,14 @@
 ---
 type: post
-title: "North Metric? Acho que não."
-excerpt: "Uma North Metric é o resultado de uma série de ações."
+title: North Metric? Acho que não
+excerpt: Uma North Metric é o resultado de uma série de ações
 authors: Diego Eis
 date: 30/10/2019
 tags: 
   - métricas
 categories:
   - Indicadores e Dados
+image: https://i.imgur.com/8xKtRIY.png
 featured_post: false
 ---
 
