@@ -163,11 +163,17 @@ hr {
   margin-bottom: 30px;
 }
 
-.po-article-text img {
+.po-single-figure {
+  font-size: 1rem;
+  text-align: center;
   max-width: 100%;
-  margin-bottom: 30px;
   display: inline-block
 }
+
+.po-single-figure figcaption { 
+  color: #4B5563;
+}
+
 .po-article-text p img {margin-bottom: 0;}
 .po-article-text p,
 .po-article-text ul,
