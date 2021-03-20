@@ -2,7 +2,7 @@
 type: post
 title: Temas Organizacionais para Business Agility
 excerpt: Como Temas Organizacionais e a forma com que eles são aplicados a
-  partir da Teoria de Emaranhado.
+  partir da Teoria de Emaranhado
 authors: Alexandre Magno
 date: 2021-01-11
 publishDate: 2021-01-11
@@ -39,15 +39,11 @@ Muitos dos avanços científicos que tivemos nas últimas décadas só ganharam 
 
 Por conexão e alinhamento, me refiro às situações onde o processo de divergência/convergência nasce de uma pergunta direta e é realizado de forma local, para então, depois, ser disponibilizado para outras áreas de conhecimento. Por exemplo, artistas trabalham no seu "território" em um processo contínuo de divergência/convergência, até que geram uma descoberta (arte) que pode então ser utilizada por cientistas ou engenheiros. Temos aqui um alinhamento, uma conexão entre as matérias arte e ciência, ou engenharia.
 
-![Image for post](https://miro.medium.com/max/1402/1*f8-Nh5D1EARThCPade45zw.png)
-
-Processo de divergência/convergência sem emaranhamento
+![Image for post](https://miro.medium.com/max/1402/1*f8-Nh5D1EARThCPade45zw.png "Processo de divergência/convergência sem emaranhamento")
 
 Por emaranhamento, ao invés, me refiro às situações onde o processo de divergência/convergência nasce a partir de uma questão maliciosa (*wicked question*), e se aplica de forma a ignorar os limites entre as matérias, emaranhando-as de forma a contaminarem-se irreversivelmente. Por exemplo, artistas e cientistas trabalham continuamente em divergência/convergência, até que geram um descoberta a qual não se consegue facilmente definir nem como arte, nem como ciência.
 
-![Image for post](https://miro.medium.com/max/1120/1*xY07v3jEiJPw1MDjox7_Mw.png)
-
-*Processo de divergência/convergência com emaranhamento*
+![Image for post](https://miro.medium.com/max/1120/1*xY07v3jEiJPw1MDjox7_Mw.png "Processo de divergência/convergência com emaranhamento")
 
 Nesta linha, o trabalho de Brian Eno se torna um singular campo de estudo sobre emaranhamento por, paradoxalmente, reconfigurar os limites entre luz, espaço, som, e arte. Por exemplo, seu trabalho [“77 Million Paintings”](https://en.wikipedia.org/wiki/77_Million_Paintings) é de difícil definição, justamente devido ao emaranhado de matérias exploradas. Neste caso, poderíamos definir o resultado deste trabalho como um software? Ou arte? Ou ciência? Música? Talvez um conjunto de vídeos? Pinturas? Ou seriam apenas montagens…? Sim ou não, seriam ambas respostas plausíveis para todas estas perguntas.
 
