@@ -1,7 +1,7 @@
 ---
 type: post
 title: Identificando alavancas de crescimento
-excerpt: Entenda como desdobrar o GMV
+excerpt: Entenda como desdobrar o GMV em produtos digitais
 authors: Diego Eis
 date: 2021-03-22
 publishDate: 2021-03-22
