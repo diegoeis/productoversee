@@ -4,48 +4,21 @@ title: Visualizando problemas e oportunidades com Mapas da Jornada do Usuário
 excerpt: Construir jornadas encantadoras para fidelizar os seus clientes
 authors: Pablo Silva
 date: 2020-10-31
-tags: [Discovery]
-categories: [Tático]
-image: /images/posts/oportunidades-mapas-usuario.jpg
-featured_post: false
+categories: 
+  - Tático
+tags: 
+  - Discovery
+image: https://i.imgur.com/RPMVGX3.png
 ---
 
-Ter um produto com uma boa usabilidade, simples de aprender e que
-resolva de fato os problemas dos usuários nos dias de hoje é basicamente
-feijão com arroz. Os usuários estão ficando cada vez mais exigentes por
-uma experiência encantadora desde o primeiro contato que ele tem com a
-sua marca porque ele tem o poder de mudar de empresa em segundos, o que
-não existia na época da Kodak por exemplo, que ficou anos dominando o
-mercado de filme fotográfico no mundo. 
+Ter um produto com uma boa usabilidade, simples de aprender e que resolva de fato os problemas dos usuários nos dias de hoje é basicamente feijão com arroz. Os usuários estão ficando cada vez mais exigentes por uma experiência encantadora desde o primeiro contato que ele tem com a sua marca porque ele tem o poder de mudar de empresa em segundos, o que não existia na época da Kodak por exemplo, que ficou anos dominando o mercado de filme fotográfico no mundo. 
 
-Numa época em que a tecnologia é senso comum, investir em experiência e
-relacionamento é o que de fato irá fazer a diferença na hora do usuário
-continuar ou não com a sua empresa. Veja o Nubank por exemplo, não criou
-nada novo, o cartão de crédito existe desde 1975. O que o Nubank fez foi
-mudar a experiência de uso e investiu fortemente em relacionamento desde
-o começo (fui usuário bem lá no começo e realmente o atendimento era bem
-diferenciado). A última vez que ouvi sobre, os Xpeers eram mais de 1500,
-atendendo os clientes 24 horas por dia.
+Numa época em que a tecnologia é senso comum, investir em experiência e relacionamento é o que de fato irá fazer a diferença na hora do usuário continuar ou não com a sua empresa. Veja o Nubank por exemplo, não criou nada novo, o cartão de crédito existe desde 1975. O que o Nubank fez foi mudar a experiência de uso e investiu fortemente em relacionamento desde o começo (fui usuário bem lá no começo e realmente o atendimento era bem diferenciado). A última vez que ouvi sobre, os Xpeers eram mais de 1500, atendendo os clientes 24 horas por dia.
 
-De novo, ter um app simples, intuitivo, fácil de aprender e que resolve
-o meu problema de gerenciar meu cartão de crédito e agora de ter uma
-conta digital é o básico e até o mais fácil nessa jornada de oferecer um
-serviço digital. Garantir que o usuário terá uma ótima experiência em
-todos os pontos de contato que ele tiver com a sua empresa é o mais
-difícil. Por isso, cada ponto de contato precisa ser gerenciado e
-otimizado para que o seu usuário receba a experiência que ele está
-esperando. 
+De novo, ter um app simples, intuitivo, fácil de aprender e que resolve o meu problema de gerenciar meu cartão de crédito e agora de ter uma conta digital é o básico e até o mais fácil nessa jornada de oferecer um serviço digital. Garantir que o usuário terá uma ótima experiência em todos os pontos de contato que ele tiver com a sua empresa é o mais difícil. Por isso, cada ponto de contato precisa ser gerenciado e otimizado para que o seu usuário receba a experiência que ele está esperando. 
 
-Não adianta você oferecer uma experiência totalmente digital se o seu
-usuário não conhece tão bem tecnologia, é claro que ele terá uma chance
-muito maior de deixar a sua empresa porque não vai conseguir nem chegar
-ao ponto de visualizar o valor do seu produto. Tive uma experiência há
-uns dois anos quando vendemos o produto que eu geria para um público já
-da terceira idade e não percebemos antes que a jornada precisaria ser
-diferente dos outros públicos que atendíamos. Não deu outra, a cliente
-nem chegou a configurar a plataforma e desistiu antes mesmo de começar.
 
-**Onde está o tesouro?**
+## Onde está o tesouro?
 
 Mapas de jornada do usuário são ótimas ferramentas visuais para
 conseguir enxergar pontos de contato problemáticos ou que tem a
@@ -69,7 +42,7 @@ Particularmente eu uso os templates do
 mapas, mas qualquer ferramenta visual (até o ppt) pode ser utilizada, o
 importante é entender o conceito.
 
-**Içando as velas**
+## Içando as velas
 
 A primeira coisa que você precisa ter em mente na hora de criar um mapa
 da jornada de um usuário é qual o objetivo que você tem ao fazer isso? O
@@ -94,7 +67,7 @@ jornada, mesmo que eu esteja pensando em encontrar um estado futuro para
 ela, começar mapeando o mapa atual, a não ser que essa jornada ainda não
 exista.
 
-**Terra à vista!**
+## Terra à vista!
 
 Com a configuração básica definida, para desenhar o mapa basta pensar
 nas etapas da jornada e nos pontos de contato que o usuário tem em cada
@@ -134,16 +107,11 @@ desenho do mapa.
 
 Para uma sessão de desenho, você pode realizar as seguintes etapas:
 
--   Definição das personas
-
--   Definição dos cenários de cada uma das etapas que o usuário passa
-    para cancelar.
-
--   Definição dos objetivos e ações dos usuários.
-
--   Definição dos pontos de contato que cada cenário possui.
-
--   Avaliação da experiência que o usuário tem para cada cenário.
+- Definição das personas.
+- Definição dos cenários de cada uma das etapas que o usuário passa para cancelar.
+- Definição dos objetivos e ações dos usuários.
+- Definição dos pontos de contato que cada cenário possui.
+- Avaliação da experiência que o usuário tem para cada cenário.
 
 Para o nosso exemplo, um MJU seria o seguinte:
 
@@ -170,7 +138,7 @@ gerar empatia nas pessoas e mostrar para elas que podem existir caminhos
 e opções melhores na construção de uma jornada encantadora para os
 clientes.
 
-**Referências**
+## Referências
 
 [A história do cartão de crédito](https://pt.wikipedia.org/wiki/Cart%C3%A3o_de_cr%C3%A9dito#:~:text=Em%201975%2C%20a%20Diners%20lan%C3%A7ou,Club%20da%20Continental%20Insurance%20Corporation)
 
