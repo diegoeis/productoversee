@@ -128,6 +128,8 @@ Veja alguns depoimentos do time de atendimento (tem alguém que representa melho
 
 ![](/images/posts/por-que-startups-morrem-3.png)
 
+
+
 ## Conclusão - Filosofia de gestão ágil é a solução
 
 Precisamos de transformação organizacional que tenha os fundamentos do Manifesto Ágil presentes no dia a dia. Com isso, as startups terão muito mais chance de sucesso contra a dura estatística.
@@ -148,6 +150,5 @@ Gostou deste artigo sobre o porquê as startups morrem? Fique à vontade para me
 
 ## Referências:
 
-[Número de startups no Brasil aumentou 20 vezes nos últimos oito anos](https://oasislab.com.br/numero-de-startups-no-brasil-aumentou-20-vezes-nos-ultimos-oito-anos/#:~:text=O%20Brasil%20tem%2012.700%20startups,quando%20eram%2010%20mil%20empresas)
-
-[74% das startups brasileiras fecham apos cinco anos](https://epocanegocios.globo.com/Empreendedorismo/noticia/2016/07/74-das-startups-brasileiras-fecham-apos-cinco-anos-diz-estudo.html#:~:text=Estudo%20realizado%20pela%20aceleradora%20Startup,de%20aporte%20ou%20de%20investimento)
+- [Número de startups no Brasil aumentou 20 vezes nos últimos oito anos](https://oasislab.com.br/numero-de-startups-no-brasil-aumentou-20-vezes-nos-ultimos-oito-anos/#:~:text=O%20Brasil%20tem%2012.700%20startups,quando%20eram%2010%20mil%20empresas)
+- [74% das startups brasileiras fecham apos cinco anos](https://epocanegocios.globo.com/Empreendedorismo/noticia/2016/07/74-das-startups-brasileiras-fecham-apos-cinco-anos-diz-estudo.html#:~:text=Estudo%20realizado%20pela%20aceleradora%20Startup,de%20aporte%20ou%20de%20investimento)
