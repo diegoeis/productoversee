@@ -20,13 +20,13 @@ Uma dessas iniciativas surgiu agora e se chama: [Clube Product Guru’s](https:/
 
 Você já deve conhecer o [Product Guru’s](https://www.productgurus.com.br/) de algumas outras iniciativas como o [Podcast](https://anchor.fm/product-gurus) e  [Product Drops](https://www.youtube.com/channel/UCtPAnTCRmeVJc-B38hKb4JA). Agora, com o Clube, o objetivo é juntar PMs, mentores, conteúdo em vários formatos, oportunidades de emprego, eventos e outras coisas em um lugar só!
 
-![](/images/posts/cpg1.png)
+![](/images/posts/clube-pg-1.png)
 
 > Nossa comunidade tem muitos cursos e conteúdos pasteurizados. Mentores disponíveis, mas distribuídos e sem uma plataforma conectada que organize essa troca. Existem muitos eventos, mas eles são caros e/ou difíceis de saber quando acontecem para que as pessoas possam se organizar. — Alex Ivonika  
 
 O clube é só pra membros. Ou seja, ou você está fora, ou você está dentro. Ou você tem informação, acompanhando parte da comunidade que estará lá dentro, ou você tem mais trabalho para avançar na carreira e de conseguir conhecimento
 
-![](/images/posts/cpg2.png)
+![](/images/posts/clube-pg-2.png)
 
 Para resumir, MUITO: quem importa está lá no Clube do PG.
 
