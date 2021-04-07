@@ -4,7 +4,6 @@ title: Tecnologias vão e voltam. Os autodidatas ficam
 excerpt: Não existe nenhum MBA, bootcamp ou mestrado que desenvolverá a
   qualidade de atualizar suas habilidades constantemente.
 authors: Tiago Doria
-featured_post: true
 date: 2021-01-06
 publishDate: 2021-01-06
 image: https://i.imgur.com/H7XvNbq.jpg

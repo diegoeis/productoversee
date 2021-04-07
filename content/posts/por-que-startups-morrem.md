@@ -1,6 +1,5 @@
 ---
 type: post
-sponsor: awari
 title: Por que startups morrem
 excerpt: O modelo de gestão atual é do século passado
 authors: Alex Ivonika

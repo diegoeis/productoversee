@@ -1,11 +1,13 @@
 ---
-type: post
 title: "Product Discovery: O Que É, Quando não fazer e Como Fazer"
 excerpt: O by the book sim, para ajudar o montão de gente que ainda não manja discovery no conceito, mas não só isso
 authors: Alex Ivonika
 date: 2021-04-01
 publishDate: 2021-04-01
 image: https://i.imgur.com/sEdlscA.jpg
+type: post
+featured_post: true
+sponsor: awari
 categories:
   - tático
 tags:

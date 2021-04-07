@@ -1,12 +1,11 @@
 ---
-type: post
+title: Sobre Engajamento
 excerpt: Meus pensamentos sobre o que é engajamento em serviços e produtos digitais
 authors: Diego Eis
 date: 2020-10-30
-featured_post: true
-title: Sobre Engajamento
 publishDate: 2020-12-02
-image: https://images.unsplash.com/photo-1528495612343-9ca9f4a4de28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80
+image: https://i.imgur.com/fbqDQ9l.png
+type: post
 categories:
   - Tático
 tags:

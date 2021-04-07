@@ -1,12 +1,11 @@
 ---
-type: post
 title: Desmistificando a cultura organizacional
 excerpt: A cultura como uma força ativa na interação que cultivamos diariamente
 authors: Matheus Marzochi
 date: 2020-12-09
 publishDate: 2020-12-09
 image: https://i.imgur.com/Jq8mSNC.jpg
-featured_post: true
+type: post
 categories:
   - Tático
 tags:
