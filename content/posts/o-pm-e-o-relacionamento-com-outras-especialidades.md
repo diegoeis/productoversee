@@ -1,6 +1,7 @@
 ---
 title: O Product Manager e o relacionamento com outras especialidades
 excerpt: A PM precisa ser alguém que se adapta com facilidade. Ela vai precisar ajustar o discurso, o tom de voz e o comportamento várias vezes durante o dia
+authors: Diego Eis
 date: 2020-06-18
 image: https://i.imgur.com/Br4rYQo.png
 type: post
