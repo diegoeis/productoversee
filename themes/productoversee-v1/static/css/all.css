@@ -86,7 +86,8 @@ hr {
   margin-bottom: 30px;
 }
 .po-authors-list img {
-  max-width: 60px;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   float: left;
 }
@@ -558,8 +559,8 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 .po-section-authors img {
   border-radius: 50%;
-  width: 100%;
-  max-width: 200px;
+  height: 200px;
+  width: 200px;
 }
 
 .po-section-authors h3 {
@@ -658,8 +659,8 @@ input[type="text"], .po-newsletter-footer .email_type {
 }
 
 .po-list-authors img {
-  max-width: 150px;
-  width: 100%;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 

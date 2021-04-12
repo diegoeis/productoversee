@@ -164,17 +164,24 @@ hr {
 }
 
 .po-single-figure {
-  font-size: 1rem;
-  text-align: center;
   max-width: 100%;
-  display: inline-block
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.po-single-figure figcaption { 
+.po-single-figure figcaption {
+  font-size: 1rem;
+  text-align: center;
   color: #4B5563;
 }
 
-.po-article-text p img {margin-bottom: 0;}
+.po-article-text p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .po-article-text p,
 .po-article-text ul,
 .po-article-text ol {
@@ -207,9 +214,9 @@ pre {
 }
 
 .po-article-text h3 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.4;
-  margin: 50px 0 15px;
+  margin: 20px 0 15px;
 }
 
 .po-article-text h4,
