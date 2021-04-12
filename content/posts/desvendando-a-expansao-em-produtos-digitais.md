@@ -1,13 +1,13 @@
 ---
-type: post
 title: Desvendando a expansão em produtos digitais
 excerpt: Entenda todos os aspectos para fazer com sua empresa SaaS B2B escale de
   forma sistêmica e cresça exponencialmente
 authors: Lucas Balbino
-sponsor: awari
 date: 2021-02-01
 publishDate: 2021-02-01
-image: https://i.imgur.com/va3RI1d.png
+image: https://i.imgur.com/twmikI0.png
+type: post
+sponsor: awari
 featured_post: true
 categories:
   - Tático

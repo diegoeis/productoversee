@@ -1,12 +1,12 @@
 ---
-type: post
 title: Temas Organizacionais para Business Agility
 excerpt: Como Temas Organizacionais e a forma com que eles são aplicados a
   partir da Teoria de Emaranhado
 authors: Alexandre Magno
 date: 2021-01-11
 publishDate: 2021-01-11
-image: https://miro.medium.com/max/1500/1*39Zl4Yz5pKHff0s4zrjkOQ.jpeg
+image: https://i.imgur.com/LUfXC3O.png
+type: post
 featured_post: true
 categories:
   - Opinião

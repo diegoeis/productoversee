@@ -7,9 +7,8 @@ publishDate: 2021-04-01
 image: https://i.imgur.com/sEdlscA.jpg
 type: post
 featured_post: true
-sponsor: awari
 categories:
-  - tático
+  - Tático
 tags:
   - discovery
   - ferramenta
