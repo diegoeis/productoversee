@@ -127,8 +127,6 @@ Veja alguns depoimentos do time de atendimento (tem alguém que representa melho
 
 ![](/images/posts/por-que-startups-morrem-3.png)
 
-
-
 ## Conclusão - Filosofia de gestão ágil é a solução
 
 Precisamos de transformação organizacional que tenha os fundamentos do Manifesto Ágil presentes no dia a dia. Com isso, as startups terão muito mais chance de sucesso contra a dura estatística.

@@ -32,11 +32,11 @@ O Uber, por sua vez, é uma plataforma porque conecta prestador e consumidor aut
 
 Ou seja, é muito mais do que só conectar lados.  
 
-## 10 fundamentos da gestão de produtos para plataforma de negócios
+# 10 fundamentos da gestão de produtos para plataforma de negócios
 
 Devidamente apresentados à plataforma de negócios, vamos logo ao que interessa: os fundamentos da gestão de produtos
 
-# 1. Efeitos de rede
+## 1. Efeitos de rede
 
 O primeiro fundamento são os de efeito de rede, e ele não está no topo da lista à toa. O efeito de rede é um dos mais importantes princípios das plataformas de negócios.
 
@@ -53,7 +53,7 @@ Por essa razão, o nosso papel como produteiros é olhar para todo o ecossistema
 * Qual é o investimento que estou disposto a fazer para o lado líder
 
 
-# 2. Arquitetura e Design
+## 2. Arquitetura e Design
 
 Nas plataformas de negócios, o design precisa ser emergente. Ou seja, deve crescer à medida que se desenvolve.
 
@@ -61,13 +61,13 @@ Quando falo do assunto, sempre brinco que vou fazer uma espécie de caça às br
 
 Eu até recomendo, na verdade, seguir um dos princípios Lean, que consiste em esperar até o último momento para tomar uma decisão. Por mais que a gente queira se antecipar, essa nem sempre é a melhor solução para as plataformas de negócios. 
 
-# 3. Disrupção de pipeline
+## 3. Disrupção de pipeline
 
 Uma das razões pelas quais as plataformas de negócios se destacam está relacionada à superação dos negócios de pipeline. Os negócios de pipeline são aqueles que englobam toda a cadeia de um produto ou serviço. Já as plataformas de negócios geram valor conectando interessados nos produtos ou serviços da ponta. Um exemplo clássico é o Airbnb, que não precisa construir hotéis para vender hospedagens. 
 
 Por isso, para que tenham sucesso, as plataformas precisam ser donas de recursos essenciais e devem criar valores que, dificilmente, serão copiados. E não necessariamente construindo tijolos para competir com as redes hoteleiras, entende?
 
-# 4. O ovo ou a galinha
+## 4. O ovo ou a galinha
 
 As plataformas de negócios, normalmente, unem dois lados, e você precisa descobrir qual deles é o líder. O líder é o seu público mais forte, que é capaz de atrair o outro.
 
@@ -83,7 +83,7 @@ Oferecendo promoções com descontos. 
 
 Dessa forma, o consumo fica sempre distribuído, satisfazendo os dois lados. 
 
-# 5. Unidade de valor
+## 5. Unidade de valor
 
 Unidade de valor é o sinal vital do seu produto. É como os sinais do seu batimento cardíaco. Embora você tenha vários outros fluxos e sinais para o seu corpo funcionar, se não houver batimentos cardíacos, não há vida. Ela representa o valor que a sua marca gera para o usuário. A partir dela é que o seu modelo de negócios deve ser estruturado.
 
@@ -91,7 +91,7 @@ De nada adianta definir a monetização, entre outros aspectos da plataforma, se
 
 Olha só como ele é importante para satisfazer o desejo mínimo de status de quem posta conteúdo, mas também é por ele que as recomendações passam. Então, reflita: Qual é a sua unidade de valor?
 
-# 6. Abertura
+## 6. Abertura
 
 Você pode adotar diversas estratégias de abertura (ou fechamento) de APIs para a sua plataforma de negócios.
 
@@ -101,7 +101,7 @@ No geral, elas se dividem em três modelos:
 * Semiaberto: admite desenvolvedores com cadastro, utiliza linguagem/código pré-definidos e, no caso da Apple, o aplicativo precisa ser aprovado pela empresa antes de ser disponibilizado. Ex. Apple Store
 * Aberto: costuma vir associado à conta do Google e qualquer pessoa pode utilizar sem restrição. Ex. YouTube.
 
-# 7. Governança
+## 7. Governança
 
 Se você é daqueles que enxergam a governança como algo tradicional e ultrapassado, é melhor rever esse conceito. A governança é extremamente importante para uma plataforma de negócios dar certo. Isso porque ela ajuda a criar riqueza de maneira justa e distribuída entre todas as partes e usuários. 
 
@@ -111,7 +111,7 @@ Sabe a polêmica de excluir o perfil do Trump do Twitter? Bem, isso passa pela g
 
 É uma reflexão profunda entre excluir alguém que não contribui para a qualidade da plataforma, mas também abre um precedente perigoso para outras exclusões no futuro. Imagina como pode fazer mal para uma plataforma como o Twitter começar a excluir pessoas em virtude do apelo popular. Isso, além de afetar a credibilidade da marca, também demonstra uma atuação autoritária da plataforma, fazendo com que ela não seja mais um lugar de geração de valor livre. 
 
-# 8. Métricas relevantes
+## 8. Métricas relevantes
 
 As métricas variam de acordo com o momento da plataforma. Por isso, ao estabelecer quais serão usadas, identifique a fase do seu negócio: start up, scale up e maturity.
 
@@ -121,7 +121,7 @@ Já na fase de scale up, elas precisam medir o impacto no crescimento e a entreg
 
 Por fim, na fase de maturity, é recomendado usar métricas que estimulem a inovação, além daquelas que servem para detectar ameaças dos concorrentes. 
 
-# 9. Estratégia
+## 9. Estratégia
 
 Toda plataforma de negócios precisa de um planejamento estratégico bem desenhado.
 
@@ -134,7 +134,7 @@ Vou destacar aqui alguns pontos importantes que ajudarão você a construir suas
 * A concorrência se baseia nos seguintes pilares: escala de fornecimento, efeitos de rede, custo de migração da plataforma e valorização de parcerias acima das fusões e aquisições.
 * Em alguns mercados, a concorrência é absurda e beira a falta de ética. Você sabia que algumas plataformas famosas já usaram crawler em concorrentes para aumentar sua base de informações ou prestadores de serviço? 
 
-# 10. Políticas e enfrentamento regulatório
+## 10. Políticas e enfrentamento regulatório
 
 Antes de tudo, quero dizer que a regulação não é o lado negro da força, viu? Embora as questões burocráticas atrapalhem muitas vezes, o regulatório é extremamente necessário para manter o mercado funcionando sem grandes riscos. É até interessante analisar o ciclo que as plataformas de negócios enfrentam nesse sentido.
 
