@@ -6,7 +6,6 @@ date: 2021-04-07
 publishDate: 2021-04-07
 image: https://i.imgur.com/wo50Wp3.jpg
 type: post
-sponsor: awari
 categories:
   - Tático
   - Opinião

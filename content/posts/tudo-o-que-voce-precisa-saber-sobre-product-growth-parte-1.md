@@ -7,7 +7,7 @@ publishDate: 2021-04-12
 image: https://i.imgur.com/NxcudRq.png
 type: post
 categories:
-  - estratégia
+  - Estratégia
 tags:
   - growth
   - marketing
