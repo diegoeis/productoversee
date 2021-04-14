@@ -1,7 +1,7 @@
 ---
 type: post
 title: Kaizen
-excerpt:
+excerpt: Evoluções contínuas em Produtos Digitais
 authors: Diego Eis
 date: 2019-12-18
 tags: [Processos]
@@ -30,16 +30,10 @@ consequentemente mudar a empresa como um todo. As características
 principais dessas pequenas mudanças são:
 
 -   Mudanças pequenas, objetivas e focadas;
-
 -   Geração de menos resistência;
-
 -   Resultados mais constantes e rápidos;
-
--   Mais engajamento de todos os níveis da empresa, já que não causa
-    atrito;
-
--   Geração de confiança de todos os envolvidos, já que os resultados
-    aparecem e são consistentes;
+-   Mais engajamento de todos os níveis da empresa, já que não causa atrito;
+-   Geração de confiança de todos os envolvidos, já que os resultados aparecem e são consistentes;
 
 Esses pequenos passos de evolução, geram aprendizados. Quando esses
 aprendizados são absorvidos, o nível de maturidade aumenta e isso
@@ -75,19 +69,9 @@ escolhas que fazemos.***
 Referências:
 -----------
 
--   [Como cultivar uma cultura
-    Kaizen](https://blog.andrefaria.com/como-cultivar-uma-cultura-kaizen-por-rodrigoy)
-
--   [What's Deming Got to Do With Agile Software Development and
-    Kanban](https://blog.deming.org/2013/07/whats-deming-got-to-do-with-agile-software-development-and-kanban/)
-
--   [Curious Cat: Deming on
-    Management](https://curiouscat.com/management/deming/)
-
--   [Gaining the Full Benefits of Continuous
-    Improvement](https://www.mindtools.com/pages/article/newSTR_97.htm)
-
+-   [Como cultivar uma cultura Kaizen](https://blog.andrefaria.com/como-cultivar-uma-cultura-kaizen-por-rodrigoy)
+-   [What's Deming Got to Do With Agile Software Development and Kanban](https://blog.deming.org/2013/07/whats-deming-got-to-do-with-agile-software-development-and-kanban/)
+-   [Curious Cat: Deming on Management](https://curiouscat.com/management/deming/)
+-   [Gaining the Full Benefits of Continuous Improvement](https://www.mindtools.com/pages/article/newSTR_97.htm)
 -   [What is Kaizen?](https://www.kanbanchi.com/what-is-kaizen)
-
--   [Definition of Kaizen by Kaizen
-    Institute](https://www.kaizen.com/what-is-kaizen.html)
+-   [Definition of Kaizen by Kaizen Institute](https://www.kaizen.com/what-is-kaizen.html)

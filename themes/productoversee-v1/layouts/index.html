@@ -1,8 +1,12 @@
 
 {{ define "main" }}
 
+
+
+
 {{ $posts := (where .Site.RegularPages "Section" "posts") }}
 {{ $featured_posts := (where $posts ".Params.featured_post" "=" true)  }}
+
 
 <div class="po-container">
 
