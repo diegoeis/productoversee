@@ -20,46 +20,11 @@ produtos não seria diferente.
 Um resumo básico das nomenclaturas que você pode encontrar no mercado
 são:
 
--   **APM (Associated Product Manager)**: Muito comum em startups da
-    moda. É um nome para Product Manager Junior. Essa pessoa fica mais
-    próxima do time, geralmente exercendo muito o papel tático, o que um
-    PO faria, contudo, é importante que comece a aprender bastante sobre
-    o mercado e o negócio, já que um PM deve ter um olhar tático e
-    estratégico.
-
--   **Product Manager**: Um PM comum. Ele pode ou não cuidar de um APM.
-    Depende do tamanho da empresa e quantidade de pessoas. Mas o PM
-    basicamente é o responsável pela visão do produto, entendimento de
-    mercado, alinhamento de necessidades do usuário e expectativas do
-    negócio. Num mundo perfeito, existiriam só PM Junior, PM Pleno, PM
-    Sênior. Mas, sabe como é, precisamos de faixas salariais
-    diferenciadas para justificar investimentos, desenvolvimento
-    profissional e etc. então, as outras camadas devem existir.
-
--   **Head de Produtos**: A responsabilidade de um Head de Produtos, no
-    início, era cuidar apenas de Product Managers. Depois evoluiu para
-    cuidar de PMs e Designers. Mas hoje, é muito comum encontrar Heads
-    (meu caso), que lideram todas as especialidades que participam da
-    construção de um Produto, liderando Tecnologia, Design e PMs.
-    Diferente do GPM, que lidera grupos de gestores de Produto, não
-    envolvendo as outras especialidades.
-
--   **GPM (Group Product Manager)**: Líder de um grupo de Product
-    Managers. Não cuida do produto diretamente, geralmente está mais
-    perto da estratégia, mas seu foco é organização, evolução e
-    desenvolvimento das pessoas (no caso os PMs liderados) e
-    direcionamento de produto. Nesse caso ele não lidera ninguém de
-    tecnologia e muito raramente lidera designers. Diferente do Head de
-    Produtos.
-
--   **CPO (Chief Product Office ou Diretor de Produtos)**: C-Level ou
-    Diretoria. Em algumas empresas são dois cargos diferentes. Em
-    outras, o Diretor reporta para o C-Level. Nem sempre eles lideram
-    Tecnologia, que é delegado para o Diretor de Tecnologia ou CTO. Na
-    maioria da vezes, o CPO/Diretor de Produtos lideram o time de Design
-    e o de Produtos, mas podem liderar times de tecnologia. Contudo,
-    existem empresas que não há um CPO, mas o CTO faz o papel idêntico
-    do CPO.
+- **APM (Associated Product Manager)**: Muito comum em startups da moda. É um nome para Product Manager Junior. Essa pessoa fica mais próxima do time, geralmente exercendo muito o papel tático, o que um PO faria, contudo, é importante que comece a aprender bastante sobre o mercado e o negócio, já que um PM deve ter um olhar tático e estratégico.
+- **Product Manager**: Um PM comum. Ele pode ou não cuidar de um APM. Depende do tamanho da empresa e quantidade de pessoas. Mas o PM basicamente é o responsável pela visão do produto, entendimento de mercado, alinhamento de necessidades do usuário e expectativas do negócio. Num mundo perfeito, existiriam só PM Junior, PM Pleno, PM Sênior. Mas, sabe como é, precisamos de faixas salariais diferenciadas para justificar investimentos, desenvolvimento profissional e etc. então, as outras camadas devem existir.
+- **Head de Produtos**: A responsabilidade de um Head de Produtos, no início, era cuidar apenas de Product Managers. Depois evoluiu para cuidar de PMs e Designers. Mas hoje, é muito comum encontrar Heads (meu caso), que lideram todas as especialidades que participam da construção de um Produto, liderando Tecnologia, Design e PMs. Diferente do GPM, que lidera grupos de gestores de Produto, não envolvendo as outras especialidades.
+- **GPM (Group Product Manager)**: Líder de um grupo de Product Managers. Não cuida do produto diretamente, geralmente está mais perto da estratégia, mas seu foco é organização, evolução e desenvolvimento das pessoas (no caso os PMs liderados) e direcionamento de produto. Nesse caso ele não lidera ninguém de tecnologia e muito raramente lidera designers. Diferente do Head de Produtos.
+- **CPO (Chief Product Office ou Diretor de Produtos)**: C-Level ou Diretoria. Em algumas empresas são dois cargos diferentes. Em outras, o Diretor reporta para o C-Level. Nem sempre eles lideram Tecnologia, que é delegado para o Diretor de Tecnologia ou CTO. Na maioria da vezes, o CPO/Diretor de Produtos lideram o time de Design e o de Produtos, mas podem liderar times de tecnologia. Contudo, existem empresas que não há um CPO, mas o CTO faz o papel idêntico do CPO.
 
 É muito difícil dizer que há um processo linear de progressão, pois isso
 vai depender muito da estrutura e do fundamento hierárquico da empresa.
