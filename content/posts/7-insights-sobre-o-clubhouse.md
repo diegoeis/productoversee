@@ -6,7 +6,6 @@ date: 2021-04-21
 publishDate: 2021-04-21
 image: https://i.imgur.com/SfCDwjU.jpg
 type: post
-sponsor: awari
 categories:
   - Estratégia
 tags:

@@ -5,7 +5,6 @@ authors: Paulo Victor Rodrigues
 date: 2021-04-14
 image: https://i.imgur.com/wpZ8ARd.png
 type: post
-sponsor: awari
 categories:
   - Tático
 tags:
