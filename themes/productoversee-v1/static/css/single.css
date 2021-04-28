@@ -349,11 +349,6 @@ pre {
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
 } */
 
-.po-banner-sidebar {
-  display: none;
-  position: sticky;
-  top: 30px;
-}
 
 @media only screen and (max-width: 900px) {
   .graphcomment-button {display: none !important;}  
