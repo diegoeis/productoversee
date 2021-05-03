@@ -7,7 +7,6 @@ publishDate: 2021-04-28
 image: https://i.imgur.com/16PV5uf.jpg
 type: post
 featured_post: true
-sponsor: awari
 categories:
   - Tático
 tags:
