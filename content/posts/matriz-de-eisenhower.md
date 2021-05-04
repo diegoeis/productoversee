@@ -1,7 +1,7 @@
 ---
 type: post
 title: "Matriz de Eisenhower: como priorizar suas tarefas e seu tempo"
-excerpt: PM que não gere seu tempo, não é confiável
+excerpt: Gestão de tempo é parte muito importante do trabalho de uma PM
 authors: Diego Eis
 date: 02/10/2019
 tags: 
