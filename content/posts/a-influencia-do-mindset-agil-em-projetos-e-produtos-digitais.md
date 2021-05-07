@@ -68,17 +68,8 @@ mais organizada e preparada para monitorar e gerir os resultados.
 Referências:
 -----------
 
--   [Agile Project Management: It's Got
-    Legs](https://newtechusa.net/agile-project-management-explained/)
-
--   [Slides - Cynefin
-    complexity](https://www.slideshare.net/rfflynn/cynefin-complexity)
-
--   [Slides - Management 3.0 Complexity
-    Thinking](https://pt.slideshare.net/jurgenappelo/agile-management-complexity-thinking)
-
--   [Video - The tools of complexity: the Stacey
-    Diagramme](https://www.youtube.com/watch?v=10sTkUlylGI)
-
--   [Video - Complex Adaptive Systems - Dave
-    Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
+- [Agile Project Management: It's Got Legs](https://newtechusa.net/agile-project-management-explained/)
+- [Slides - Cynefin complexity](https://www.slideshare.net/rfflynn/cynefin-complexity)
+- [Slides - Management 3.0 Complexity Thinking](https://pt.slideshare.net/jurgenappelo/agile-management-complexity-thinking)
+- [Video - The tools of complexity: the Stacey Diagramme](https://www.youtube.com/watch?v=10sTkUlylGI)
+- [Video - Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
