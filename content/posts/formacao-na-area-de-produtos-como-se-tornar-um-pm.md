@@ -7,7 +7,6 @@ publishDate: 2021-05-07
 image: https://i.imgur.com/crgrsH4.png
 type: post
 featured_post: true
-sponsor: awari
 categories:
   - Opinião
 tags:
