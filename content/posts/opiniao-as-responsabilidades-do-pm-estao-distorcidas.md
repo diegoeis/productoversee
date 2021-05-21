@@ -1,18 +1,20 @@
 ---
-type: post
 title: "Opinião: As responsabilidades do PM estão distorcidas"
 excerpt: Por vezes parece que ainda estamos nos anos 2000
 authors: Pablo Silva
 date: 2020-10-29
-tags: [Carreira]
-categories: [Opinião]
-image: https://images.unsplash.com/photo-1497864979123-ef3595423b92?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
+image: https://i.imgur.com/MDsUYzP.png
+type: post
 featured_post: true
+categories:
+  - Opinião
+tags:
+  - carreira
 ---
 
 Eu entrevistei mais de 50 PMs recentemente que estavam interessados em
 trabalhar com a gente aqui na
-[Vindi](https://medium.com/u/3c736dc3d8b0?source=post_page-----b1db2e421d88----------------------).
+[Vindi](https://medium.com/vindi).
 Na Vindi, nós temos um processo seletivo bem definido e em uma das
 etapas nós sempre perguntamos quais as responsabilidades que ele tem no
 seu trabalho atual. Depois de ter falado com tanta gente, comecei a

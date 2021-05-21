@@ -6,8 +6,7 @@ authors: Pablo Silva
 date: 2020-04-29
 tags: [Negócios]
 categories: [Opinião, Tático]
-image: https://images.unsplash.com/photo-1589918749586-eca775fa4f94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-featured_post: false
+image: https://i.imgur.com/IQQ14yz.png
 ---
 
 ***Quando escrito em chinês, a palavra crise compõe-se de dois

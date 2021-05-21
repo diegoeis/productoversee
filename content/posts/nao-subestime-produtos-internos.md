@@ -1,12 +1,12 @@
 ---
-type: post
 excerpt: Nunca subestime o contexto de um time de produtos internos
 authors: Pablo Silva
 date: 2020-10-30
-featured_post: false
 title: Não subestime produtos internos
 publishDate: 2020-12-13
-image: https://i.imgur.com/l3DcSMJ.jpg
+image: https://i.imgur.com/c5F0XL1.png
+type: post
+featured_post: true
 categories:
   - Estratégia
 tags:

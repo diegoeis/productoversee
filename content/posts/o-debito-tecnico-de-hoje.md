@@ -1,13 +1,16 @@
 ---
-type: post
 title: O débito técnico de hoje é a urgência de amanhã
 excerpt: Os débitos técnicos podem afetar profundamente o negócio
 authors: Pablo Silva
 date: 2020-10-29
-tags: [Negócios]
-categories: [Opinião, Tático]
-image: https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80
+image: https://i.imgur.com/3ORuK5U.png
+type: post
 featured_post: true
+categories:
+  - Opinião
+  - Tático
+tags:
+  - negócios
 ---
 
 É comum que tenhamos que fazer decisões difíceis de priorização na

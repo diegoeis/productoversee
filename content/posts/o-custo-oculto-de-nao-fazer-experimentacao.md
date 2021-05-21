@@ -5,7 +5,7 @@ excerpt: Tem muito dinheiro indo pelo ralo e ninguém vê
 authors: Pablo Silva
 date: 2020-12-16
 publishDate: 2020-12-16
-image: https://i.imgur.com/kQB4sWE.jpg
+image: https://i.imgur.com/YsNtcOp.png
 categories:
   - Tático
 tags:
