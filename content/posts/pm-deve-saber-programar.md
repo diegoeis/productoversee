@@ -6,7 +6,6 @@ date: 2021-05-12
 publishDate: 2021-05-12
 image: https://i.imgur.com/Y1DLaSu.jpg
 type: post
-sponsor: awari
 categories:
   - Opinião
 tags:
