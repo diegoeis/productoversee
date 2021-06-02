@@ -7,7 +7,6 @@ publishDate: 2021-05-19
 image: https://i.imgur.com/MFNuZEg.jpg
 type: post
 feature_post: true
-sponsor: awari
 categories:
   - Tático
   - Opinião

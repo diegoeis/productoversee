@@ -6,7 +6,6 @@ date: 2021-05-26
 publishDate: 2021-05-26
 image: https://i.imgur.com/YrZFoac.jpg
 type: post
-sponsor: awari
 categories:
   - Opinião
 tags:
