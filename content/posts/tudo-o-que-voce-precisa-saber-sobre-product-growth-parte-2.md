@@ -2,8 +2,8 @@
 title: Tudo o que você precisa saber sobre Product Growth - Parte 2
 excerpt: Produto como Drive/Canal para a finalidade de crescimento
 authors: Raphael Dyxklay
-date: 2021-06-05
-publishDate: 2021-06-05
+date: 2021-06-07
+publishDate: 2021-06-07
 image: https://i.imgur.com/NxcudRq.png
 type: post
 categories:
