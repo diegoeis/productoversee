@@ -2,8 +2,8 @@
 title: Ciclo de vida de um produto digital - Parte 2
 excerpt: Um produto digital possui um começo, meio e fim
 authors: Paulo Victor Rodrigues
-date: 2021-06-02
-publishDate: 2021-06-02
+date: 2021-06-10
+publishDate: 2021-06-10
 image: https://i.imgur.com/MTN8B0d.jpg
 type: post
 sponsor: awari
