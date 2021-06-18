@@ -38,7 +38,7 @@ Não quero dar nenhum spoiler sobre o livro, ainda mais esse, que está em prime
 
 Só uma sugestão: leia, leia, leia!
 
-[Link de O Poder do hábito na Amazon](https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119/)
+[Link de O Poder do hábito na Amazon](https://amzn.to/3gEkigU)
 
 
 ## Mais rápido e melhor: Os segredos da produtividade na vida e nos negócios - Charles Duhigg
@@ -52,7 +52,7 @@ O ponto principal desse livro é a produtividade e Charles tenta a todo momento 
 
 Nós tomamos decisões a todo momento e até a mais simples delas pode mudar os resultados de nossas vidas. Este é um livro que irá te ajudar a lógica por trás das nossas decisões. Entender isso pode lhe ajudar a evoluir a oferta do seu produto para o seu público.
 
-[Link de Mais rápido e Melhor na Amazon](https://www.amazon.com.br/Mais-r%C3%A1pido-melhor-Segredos-Produtividade/dp/8547000089/)
+[Link de Mais rápido e Melhor na Amazon](https://amzn.to/3gCn725)
 
 
 ## Rápido e Devagar: Duas Formas de Pensar - Daniel Kahneman
@@ -66,7 +66,7 @@ Entender como nossa maneira de pensar funciona lhe dará uma visão nova sobre o
 
 É definitivamente uma leitura obrigatória para você que quer entender mais sobre o comportamento humano!
 
-[Link de Rápido e Devagar na Amazon](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/)
+[Link de Rápido e Devagar na Amazon](https://amzn.to/3wH9mEU)
 
 
 ## Hooked (Engajado) - Nir Eyal
@@ -85,7 +85,7 @@ A formação de hábitos influencia diretamente no valor da vida de seus consumi
 
 É também um ótimo livro para conseguir criar produtos que vão fidelizar os seus clientes. Eu sempre deixo um disclaimer sobre esse livro, pois como tudo na vida, podemos usar de um jeito bom ou ruim. Viciar as pessoas e as alienar em prol de lucro não é algo que eu considere bom para a sociedade como um todo, por isso, a escolha de como usar os ensinamentos do livro está sempre em nossas mãos.
 
-[Link de Hooked (Engajado) na Amazon](https://www.amazon.com.br/HOOKED-ENGAJADO-construir-produtos-formadores/dp/8583394768/)
+[Link de Hooked (Engajado) na Amazon](https://amzn.to/3vCzAXS)
 
 
 ## Misbehaving: A construção da economia comportamental - Richard Thaler
@@ -102,7 +102,7 @@ A última vez que você comprou algo, o que te levou a comprar? Por que especifi
 
 Entender esse tipo de relação pode ser algo extremamente útil na hora de projetar as ofertas dos seus produtos.
 
-[Link de Misbehaving na Amazon](https://www.amazon.com.br/Misbehaving-Constru%C3%A7%C3%A3o-Comportamental-Richard-Thaler/dp/8551004131/)
+[Link de Misbehaving na Amazon](https://amzn.to/3zDueyM)
 
 
 E você, tem algum livro para indicar sobre o tema comportamento humano? Me envie uma mensagem e vamos tomar um café virtual. Meus contatos estão em pablosilva.com.br.
