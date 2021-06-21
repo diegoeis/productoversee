@@ -311,6 +311,7 @@ li.po-social-polinkedin a {background-position: -60px center;}
 }
 
 #po-menu .po-menu-categs a p {
+  max-width: 265px;
   padding-top: 10px;
   font: .75rem/1.5 var(--fontDefault);
   color: #4F4F4F;

@@ -7,7 +7,6 @@ publishDate: 2021-06-16
 image: https://i.imgur.com/zotrN85.jpg
 type: post
 feature_post: true
-sponsor: awari
 categories:
   - Estratégia
 tags:
