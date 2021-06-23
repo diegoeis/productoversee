@@ -17,7 +17,7 @@ tags:
 
 De imediato adianto que é um ótimo livro, principalmente para os líderes de produto que estão começando nesse papel. Compartilho muito das visões que o Joca tem em relação a posição, afinal ele foi um dos meus primeiros gestores de carreira, ainda quando eu trabalhava na Locaweb.
 
-Esse texto não é exatamente um review, mas sim algumas anotações que eu fiz durante a leitura e um pouco da minha visão sobre alguns temas. Você pode adquirir o livro através deste link. Textos em itálicos são comentários ou contrapontos pessoais.
+Esse texto não é exatamente um review, mas sim algumas anotações que eu fiz durante a leitura e um pouco da minha visão sobre alguns temas. Você pode adquirir o livro através [deste link](https://amzn.to/3vR3Ezk). Textos em itálicos são comentários ou contrapontos pessoais.
 
 # O papel de uma líder de produto
 
