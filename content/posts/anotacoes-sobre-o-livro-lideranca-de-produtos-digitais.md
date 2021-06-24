@@ -6,7 +6,6 @@ date: 2021-06-23
 publishDate: 2021-06-23
 image: https://i.imgur.com/sSFvf6T.png
 type: post
-sponsor: awari
 featured_post: true
 categories:
   - Tático
