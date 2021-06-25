@@ -9,7 +9,7 @@ type: post
 sponsor: awari
 featured_post: true
 categories:
-  - Tático
+  - Carreira
 tags:
   - carreira
   - product manager
