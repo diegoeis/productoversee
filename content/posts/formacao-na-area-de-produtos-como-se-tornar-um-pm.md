@@ -9,6 +9,7 @@ type: post
 featured_post: true
 sponsor: awari
 categories:
+  - Carreira
   - Opinião
 tags:
   - carreira
