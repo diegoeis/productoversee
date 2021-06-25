@@ -1,7 +1,7 @@
 ---
 type: post
 title: Anotações - Meetup 1 Awari - com Renata Alonso
-excerpt: Fazendo transição de produtora de TV para Product Management.
+excerpt: Fazendo transição de produtora de TV para Product Management
 authors: Diego Eis
 sponsor: awari
 date: 2021-03-04
