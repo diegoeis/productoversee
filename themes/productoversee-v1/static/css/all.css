@@ -182,9 +182,10 @@ span.po-list-categs {
   overflow: hidden;
 }
 
-li.po-social-potwitter a {background-position: -30px center;}
-li.po-social-rss a {background-position: left center;}
-li.po-social-polinkedin a {background-position: -60px center;}
+li.po-social-poinstagram a {background-position: 0px center;}
+li.po-social-potwitter a {background-position: -60px center;}
+li.po-social-rss a {background-position: -30px center;}
+li.po-social-polinkedin a {background-position: -90px center;}
 
 /*** SEARCH ***/
 #po-search-form {
