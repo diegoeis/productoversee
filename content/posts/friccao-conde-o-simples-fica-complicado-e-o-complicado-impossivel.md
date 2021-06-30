@@ -2,8 +2,8 @@
 title: "Fricção: onde o simples fica complicado e o complicado, impossível"
 excerpt: Entendendo como a fricção potencializa a transição entre os ambientes simples e complicado
 authors: Pablo Silva
-date: 2021-07-01
-publishDate: 2021-07-01
+date: 2021-06-30
+publishDate: 2021-06-30
 image: https://i.imgur.com/Suk7Vh1.jpg
 type: post
 sponsor: awari
