@@ -6,7 +6,6 @@ date: 2021-06-24
 publishDate: 2021-06-24
 image: https://i.imgur.com/Np63QzE.png
 type: post
-sponsor: awari
 featured_post: true
 categories:
   - Carreira
