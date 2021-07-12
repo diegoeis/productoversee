@@ -159,6 +159,7 @@ span.po-list-categs {
 
 .po-header-inner {position: relative}
 
+.po-header-inner .po-hide-header {display: none;}
 
 .po-header-social {
   position: absolute;
