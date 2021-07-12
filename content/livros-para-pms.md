@@ -11,6 +11,12 @@ Estes são os livros que recomendamos para pessoas que fazem gestão de produtos
 
 <ul class="po-library-list">
 	<li>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=8567886120&asins=8567886120&linkId=78bf0006a30f84113dbb18b9b8916ec4&show_border=true&link_opens_in_new_window=true"></iframe>
+	</li>
+	<li>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=8557170378&asins=8557170378&linkId=b2fa4a70055b65419baba65d7563b451&show_border=true&link_opens_in_new_window=true"></iframe>
+	</li>
+	<li>
 		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=1942788819&asins=1942788819&linkId=08d0aafdf2f7a33764f67464b6c2c81f&show_border=true&link_opens_in_new_window=true"></iframe>
 	</li>
 	<li>
@@ -18,6 +24,9 @@ Estes são os livros que recomendamos para pessoas que fazem gestão de produtos
 	</li>
 	<li>
 		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=B085Q2HH3Y&asins=B085Q2HH3Y&linkId=e9d884e6c942fc3bf9d125885ad7d457&show_border=true&link_opens_in_new_window=true"></iframe>
+	</li>
+	<li>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=1591847486&asins=1591847486&linkId=0a7d6cb33fefaac3976cc55e744adcb2&show_border=true&link_opens_in_new_window=true"></iframe>
 	</li>
 </ul>
 
