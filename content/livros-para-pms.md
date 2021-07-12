@@ -2,6 +2,7 @@
 title: Livros para quem faz gestão de Produtos
 date: 2021-06-11
 layout: pages
+image: https://i.imgur.com/yQ1pOsV.jpg
 ---
 
 
