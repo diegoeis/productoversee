@@ -730,3 +730,15 @@ input[type="text"], .po-newsletter-footer .email_type {
 .po-author-midia a.po-author-midia-icon-linkedin {background-image: url(/images/social-icons/linkedin.png);}
 
 .po-author-midia a:empty {display: none;}
+
+
+.po-page-livros-para-pms ul, .po-library-list {
+  list-style:  none;
+  display:  flex;
+  align-content: space-between;
+}
+
+.po-page-livros-para-pms li, .po-library-list li {
+  flex:  1 0 200px;
+  text-align: center;
+}
