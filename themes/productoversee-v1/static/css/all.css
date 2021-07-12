@@ -737,15 +737,15 @@ input[type="text"], .po-newsletter-footer .email_type {
   margin-bottom: 25px;
 }
 
-.po-page-livros-para-pms ul, .po-library-list {
+.po-page-livros-para-pms .po-page-text ul, .po-library-list {
   list-style:  none;
   display:  flex;
   flex-wrap: wrap;
-  align-content: space-between;
-  overflow: auto;
+  align-items: flex-start;
+  text-align: center;
 }
 
-.po-page-livros-para-pms li, .po-library-list li {
+.po-page-livros-para-pms .po-page-text li, .po-library-list li {
   flex:  1 0 120px;
 }
 

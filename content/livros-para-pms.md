@@ -11,6 +11,9 @@ Estes são os livros que recomendamos para pessoas que fazem gestão de produtos
 
 <ul class="po-library-list">
 	<li>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=8543102146&asins=8543102146&linkId=2cf698b4b2d57e9776bcf27db673034e&show_border=true&link_opens_in_new_window=true"></iframe>
+	</li>
+	<li>
 		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=8567886120&asins=8567886120&linkId=78bf0006a30f84113dbb18b9b8916ec4&show_border=true&link_opens_in_new_window=true"></iframe>
 	</li>
 	<li>
@@ -35,6 +38,9 @@ Estes são os livros que recomendamos para pessoas que fazem gestão de produtos
 
 
 <ul>
+	<li>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=854310663X&asins=854310663X&linkId=2409bcdd51928c6c66ce433287f4f24c&show_border=true&link_opens_in_new_window=true"></iframe>
+	</li>
 	<li>
 		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=productoversee-20&language=pt_BR&marketplace=amazon&region=BR&placement=B06X429CJH&asins=B06X429CJH&linkId=687b5ebef1a881326c850f6fef7747c8&show_border=true&link_opens_in_new_window=true"></iframe>
 	</li>
