@@ -159,6 +159,7 @@ span.po-list-categs {
 
 .po-header-inner {position: relative}
 
+.po-header-inner .po-hide-header {display: none;}
 
 .po-header-social {
   position: absolute;
@@ -744,3 +745,31 @@ input[type="text"], .po-newsletter-footer .email_type {
 .po-author-midia a.po-author-midia-icon-linkedin {background-image: url(/images/social-icons/linkedin.png);}
 
 .po-author-midia a:empty {display: none;}
+
+
+.po-page-livros-para-pms h2 {
+  margin-top:  70px;
+  margin-bottom: 25px;
+}
+
+.po-page-livros-para-pms .po-page-text ul, .po-library-list {
+  list-style:  none;
+  display:  flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.po-page-livros-para-pms .po-page-text li, .po-library-list li {
+  flex:  1 0 120px;
+}
+
+/*.po-page-livros-para-pms li iframe .amazon.amzn-ad-container, .po-library-list li iframe .amazon.amzn-ad-container  {
+  width:  100% !important;
+  display: none !important;
+}*/
+
+/*.po-page-livros-para-pms li iframe, .po-library-list li iframe {
+  max-width:  100% !important;
+  outline:  1px solid red;
+}*/
