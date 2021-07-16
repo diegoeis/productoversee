@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<section>
+
+  <div class="po-section-head po-section-{{.Section}}">
+    <div class="po-container">
+        <h1 class="po-title-h1">{{.Title}}</h1>
+        <p class="po-excerpt">{{ .Param "excerpt" }}</p>
+        <nav class="po-minimenu po-section-menu">
+          <a href="#conteudos">Conteúdos</a>
+          <a href="#pessoas">Pessoas</a>
+          <a href="#eventos">Eventos e Meetups</a>
+          <a href="#cursos">Cursos</a>
+        </nav>
+    </div>
+  </div>
+
+
+  <div class="po-container">
+  
+  </div>  
+</section>
+
+{{end}}
+

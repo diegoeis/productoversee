@@ -162,10 +162,12 @@ span.po-list-categs {
 
 .po-header-social {
   position: absolute;
+  padding: 0 20px;
   right: 0;
   top: 20px;
   height: 20px;
 }
+
 .Type-is-posts .po-header-social {top:13px;}
 
 .po-header-social li {
@@ -341,7 +343,19 @@ li.po-social-polinkedin a {background-position: -90px center;}
     margin: 20px 0;
   }
 }
-  
+
+/*****
+** SECTION MENU
+****/
+.po-section-menu {
+  margin-top: 50px;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 
 /*** SEARCH ***/
 .po-search {
