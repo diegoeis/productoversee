@@ -389,6 +389,7 @@ a.lnk-all-articles {padding-left: 30px}
 .po-header-inner .po-minimenu a {
   margin-left: 40px;
   margin-right: 0;
+  text-align: center;
 }
 
 #po-menu .po-container .po-minimenu {
