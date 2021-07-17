@@ -194,10 +194,6 @@
   margin-right: 20px;
 }
 
-.po-post-vertical-list {
-  position: relative;
-}
-
 
 @media (max-width: 950px)  {
   .po-featured-list {
@@ -240,10 +236,12 @@
   margin: 0 100px;
 }
 
+
 .po-post-vertical-list {
+  position: relative;
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
   padding-bottom: 20px;
   
 }

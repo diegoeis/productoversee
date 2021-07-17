@@ -110,7 +110,8 @@ span.po-list-categs {
   font: normal 0.8rem var(--fontDefault);
 }
 
-.po-featured-list .po-list-categs a {padding-top: 0}
+.po-featured-list .po-list-categs a,
+.po-featured-list .po-list-categs {margin-top:  0 !important; padding-top: 0}
 
 /****
 ** HEADER
