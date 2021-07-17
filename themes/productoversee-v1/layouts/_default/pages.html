@@ -1,24 +1,24 @@
 {{ define "main" }}
+  <div class="po-section-head">
+    <h1 class="po-title-h1">{{ .Title }}</h1>
+    {{if .Params.excerpt }}<p class="po-excerpt">{{ .Params.excerpt }}</p>{{end}}
+  </div>
 
 <section class="po-container po-page">
-    
-    <article class="po-page-text">
-        <h1>{{ .Title }}</h1>
-        {{if .Params.excerpt }}<h2>{{ .Params.excerpt }}</h2>{{end}}
+  <article class="po-page-text">
 
-    
-        {{ if eq "newsletter" .File.BaseFileName }}
-            {{ partial "newsletter-form.html"}}
-            
-            <br><br><br>
-        {{end}}
-            
+      {{ if eq "newsletter" .File.BaseFileName }}
+          {{ partial "newsletter-form.html"}}
+          
+          <br><br><br>
+      {{end}}
+          
 
-        {{.Content}}
-    
-        </article>
-        
-        
-    </section>
-    
-    {{end}}
+      {{.Content}}
+
+  </article>
+  
+  
+</section>
+
+{{end}}

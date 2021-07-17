@@ -1,12 +1,12 @@
 ---
 title: Livros para quem faz gestão de Produtos
 date: 2021-06-11
+excerpt: Estes são os livros que recomendamos para pessoas que fazem gestão de produtos. Acreditamos que essa profissão tem uma essencia generalista e por isso é necessário ter um olhar muito mais amplo sobre diversos tipos de assuntos e abordagens. Bom estudos.
 layout: pages
 image: https://i.imgur.com/yQ1pOsV.jpg
 ---
 
 
-Estes são os livros que recomendamos para pessoas que fazem gestão de produtos. Acreditamos que essa profissão tem uma essencia generalista e por isso é necessário ter um olhar muito mais amplo sobre diversos tipos de assuntos e abordagens. Bom estudos.
 
 ## Negócios e Estratégia
 
