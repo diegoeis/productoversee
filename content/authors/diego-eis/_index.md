@@ -1,6 +1,6 @@
 ---
 name: Diego Eis
-minibio: "Head de Eventos Online na Sympla, autor do Gestão Moderna de Produtos Digitais, um dos idealizadores do Product Oversee e metido a besta."
+minibio: "Diretor de Produtos Digitais na Sympla. Autor do Gestão Moderna de Produtos Digitais. Um dos idealizadores do Product Oversee e metido a besta."
 avatar: "/images/authors/diego.jpg"
 email: "diegoeis@gmail.com"
 twitter: "@diegoeis"
@@ -9,4 +9,4 @@ site: "https://diegoeis.com"
 other: ""
 ---
 
-Head de Eventos Online na Sympla, autor do Gestão Moderna de Produtos Digitais, um dos idealizadores do Product Oversee e metido a besta.
+Diretor de Produtos Digitais na Sympla. Autor do livro Gestão Moderna de Produtos Digitais. Um dos idealizadores do Product Oversee e metido a besta.
