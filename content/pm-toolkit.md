@@ -7,8 +7,7 @@ layout: pages
 
 
 <nav class="po-minimenu-pmtoolkit">
-  <a href="#content">Leitura e Podcasts</a>
-  <a href="#people">Pessoas</a>
+  <a href="#content">Conteúdos</a>
   <a href="#tools">Ferramentas</a>
   <a href="#events">Eventos e Meetups</a>
   <a href="#courses">Cursos</a>
@@ -17,8 +16,8 @@ layout: pages
 </nav>
 
 <section id="content" class="po-toolkit-section">
-<h1 class="pm-title-1">Leitura e Podcasts</h1>
-<p>Conteúdo por toda parte. ouça, leia e consuma os melhroes contéudos sobre gestão de produtos.</p>
+<h1 class="pm-title-1">Conteúdos</h1>
+<p>Conteúdo por toda parte. Ouça, leia, escute e assista os melhroes contéudos sobre gestão de produtos.</p>
 <div class="po-link-collection">
 
   <nav>
@@ -44,7 +43,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>People</h2>
+    <h2>Pessoas para acompanhar</h2>
     <ul>
       <li><a class="lang-ptbr" href="https://medium.com/@ericka.padilha/?utm_source=pmtoolkit.work">Ericka Padilha</a></li>
       <li><a class="lang-ptbr" href="https://medium.com/@ketemr/?utm_source=pmtoolkit.work">Kete Martins Rufino</a></li>
@@ -80,7 +79,7 @@ layout: pages
     </ul>
   </nav>
 
-  <nav>
+<!--   <nav>
     <h2>Books</h2>
     <ul>
       <li><a class="lang-ptbr" href="https://gestaomodernaprodutosdigitais.com/">Gestão de Moderna de Produtos Digitais</a></li>
@@ -102,10 +101,10 @@ layout: pages
       <li><a href="https://www.amazon.com/Design-Business-Thinking-Competitive-Advantage/dp/1422177807/ref=sr_1_1?utm_source=pmtoolkit.work">The Design of Business</a></li>
       <li><a href="https://www.amazon.com/Build-Better-Products-Successful-User-Centered/dp/1933820586?tag=uuid00-20?utm_source=pmtoolkit.work">Building Better Products</a></li>
     </ul>
-  </nav>
+  </nav> -->
 
   <nav>
-    <h2>Articles to start</h2>
+    <h2>Artigos para quem está começando</h2>
     <ul>
       <li><a class="lang-ptbr" href="https://medium.com/gestao-produtos/o-que-é-um-product-owner-c44bb29a9f66?utm_source=pmtoolkit.work">O que é um Product Owner?</a></li>
       <li><a class="lang-ptbr" href="http://blog.plataformatec.com.br/2018/02/pare-de-chamar-product-owners-e-product-managers-de-mini-ceos/?utm_source=pmtoolkit.work">Pare de chamar Product Owners e Product Managers de mini CEOs</a></li>
@@ -150,12 +149,12 @@ layout: pages
 
 <section id="tools" class="po-toolkit-section">
 <h1 class="pm-title-1">Ferramentas</h1>
-<p>Ferramentas usadas por gestores, POs e designers.</p>
+<p>Ferramentas usadas por gestores, PMs e designers.</p>
 
 <div class="po-link-collection">
 
   <nav>
-    <h2>Product Management &amp; Backlog</h2>
+    <h2>Gestão de Produto &amp; Backlog</h2>
     <ul>
       <li><a href="https://www.pipefy.com/?utm_source=pmtoolkit.work">Pipefy</a></li>
       <li><a href="https://pivotal.io/tracker?utm_source=pmtoolkit.work">Pivotal</a></li>
@@ -177,7 +176,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Analytics &amp; Metrics</h2>
+    <h2>Analytics &amp; Métricas</h2>
     <ul>
       <li><a href="https://www.smartlook.com/?utm_source=pmtoolkit.work">Smartlook</a></li>
       <li><a href="https://keen.io/?utm_source=pmtoolkit.work">Keen.io</a></li>
@@ -210,7 +209,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>User/Product Research</h2>
+    <h2>Pesquisa de Produto e de Usuário</h2>
     <ul>
       <li><a href="http://www.cassette.design/?utm_source=pmtoolkit.work">Cassete</a></li>
       <li><a href="https://lookback.io/?utm_source=pmtoolkit.work">Lookback</a></li>
@@ -234,7 +233,7 @@ layout: pages
 
 
   <nav>
-    <h2>A/B Testing</h2>
+    <h2>Teste A/B</h2>
     <ul>
       <li><a href="https://www.optimizely.com/?utm_source=pmtoolkit.work">Optimizely</a></li>
       <li><a href="https://vwo.com/?utm_source=pmtoolkit.work">Visual Website Optimizer</a></li>
@@ -262,7 +261,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Prototyping</h2>
+    <h2>Prototipação</h2>
     <ul>
       <li><a href="https://www.invisionapp.com/?utm_source=pmtoolkit.work">Invision</a></li>
       <li><a href="https://www.baronfig.com/products/strategist?utm_source=pmtoolkit.work">Baron Fig Strategist Cards</a></li>
@@ -279,7 +278,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Ideation</h2>
+    <h2>Ideação</h2>
     <ul>
       <li><a href="https://www.miro.com/?utm_source=pmtoolkit.work">Miro</a></li>
       <li><a href="https://www.mindmeister.com/?utm_source=pmtoolkit.work">MindMeister</a></li>
@@ -295,7 +294,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Canvas, Diagrams, Business/Product Boards</h2>
+    <h2>Canvas, Diagramas, Boards de Produto e de Negócio</h2>
     <ul>
       <li><a href="https://untools.co?utm_source=pmtoolkit.work">UnTools</a></li>
       <li><a href="https://civicservicedesign.com?utm_source=pmtoolkit.work">Civic Service Design</a></li>
@@ -309,7 +308,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Design &amp; UX Resources</h2>
+    <h2>Design &amp; UX</h2>
     <ul>
       <li><a href="https://zeplin.io/?utm_source=pmtoolkit.work">Zeplin</a></li>
       <li><a href="https://www.figma.com/?utm_source=pmtoolkit.work">Figma</a></li>
@@ -331,7 +330,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Heatmaps &amp; Recordings</h2>
+    <h2>Mapas de calor &amp; Gravações</h2>
     <ul>
       <li><a href="https://www.smartlook.com/?utm_source=pmtoolkit.work">Smartlook</a></li>
       <li><a href="https://www.fullstory.com/?utm_source=pmtoolkit.work">FullStory</a></li>
@@ -347,7 +346,7 @@ layout: pages
 
 
   <nav>
-    <h2>Productivity &amp; Organization</h2>
+    <h2>Produtividade &amp; Organização</h2>
     <ul>
       <li><a href="https://todoist.com/?utm_source=pmtoolkit.work">Todoist</a></li>
       <li><a href="https://ifttt.com/?utm_source=pmtoolkit.work">IFTTT</a></li>
@@ -362,7 +361,7 @@ layout: pages
   </nav>
 
   <nav>
-    <h2>Comunication</h2>
+    <h2>Comunicação</h2>
     <ul>
       <li><a href="https://gitter.im/?utm_source=pmtoolkit.work">Gitter</a></li>
       <li><a href="https://slack.com/?utm_source=pmtoolkit.work">Slack</a></li>
@@ -384,7 +383,7 @@ layout: pages
 
 <div class="po-link-collection">
   <nav>
-    <h2>Events</h2>
+    <h2>Eventos</h2>
     <ul>
       <li><a class="lang-ptbr" href="http://productcampsp.com.br/?utm_source=pmtoolkit.work">ProductCamp SP</a></li>
       <li><a class="lang-ptbr" href="https://www.meetup.com/pt-BR/Gerenciamento-de-Produtos-Digitais-Porto-Alegre/?utm_source=pmtoolkit.work">Meetup de Produto Porto Alegre</a></li>
@@ -422,13 +421,12 @@ layout: pages
 
 <section id="courses" class="po-toolkit-section">
 <h1 class="pm-title-1">Cursos</h1>
-<p>Ótimos lugares para aprender</p>
+<p>Ótimos lugares para aprender.</p>
 
 <div class="po-link-collection">
   <nav>
-      <h2>Courses</h2>
     <ul>
-      <li><a class="lang-ptbr" href="https://awari.com.br/?utm_source=pmtoolkit.work">Awari</a></li>
+      <li><a class="lang-ptbr" href="https://awari.com.br/?utm_source=pmtoolkit.work">Awari - Nossa indicação</a></li>
       <li><a class="lang-ptbr" href="https://somostera.com/?utm_source=pmtoolkit.work">Tera</a></li>
       <li><a class="lang-ptbr" href="https://www.bernarddeluna.com.br/cursos/produtos-incriveis?utm_source=pmtoolkit.work">Produtos Incríveis</a></li>
       <li><a href="https://www.udemy.com/become-a-product-manager-learn-the-skills-get-a-job/?utm_source=pmtoolkit.work">Become a Product Manager | Learn the Skills & Get the Job</a></li>
@@ -448,11 +446,10 @@ layout: pages
 
 <section id="jobs" class="po-toolkit-section">
 <h1 class="pm-title-1">Vagas</h1>
-<p>Encontr um lugar legal para trabalhar.</p>
+<p>Encontre um lugar legal para trabalhar.</p>
 
 <div class="po-link-collection">
   <nav>
-      <h2>Vagas</h2>
     <ul>
       <li><a href="https://www.kennorton.com/jobs/?utm_source=pmtoolkit.work">PM Jobs @ GV backed companies</a></li>
       <li><a href="http://www.jobs.productmanagerhq.com/?utm_source=pmtoolkit.work">PMHQ Jobs</a></li>
