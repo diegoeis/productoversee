@@ -172,6 +172,7 @@ layout: pages
       <li><a href="https://www.gridrankit.com/?utm_source=pmtoolkit.work">GridRankit</a></li>
       <li><a href="https://productific.com/?utm_source=pmtoolkit.work">Productific</a></li>
       <li><a href="https://taskade.com/?utm_source=pmtoolkit.work">Taskade</a></li>
+      <li><a href="https://clickup.com/?utm_source=pmtoolkit.work">ClickUp</a></li>
     </ul>
   </nav>
 
