@@ -1,6 +1,5 @@
-
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -21,11 +20,30 @@
   <link rel="prerender" href='{{ range first 1 (where .Site.Pages "Type" "post" )}}{{.Permalink}}{{end}}'>
 
 
+    <script type="text/javascript">console.log("Kind: " + {{.Kind}})</script>
+    <script type="text/javascript">console.log("Type: " + {{.Type}})</script>
+    <script type="text/javascript">console.log("Section: " + {{.Section}})</script>
+    <script type="text/javascript">console.log("Page title: " + {{.Title}})</script>
+    <script type="text/javascript">console.log("Data singular: " + {{.Data.Singular}})</script>
+
   {{ if eq "home" .Kind }}
+
   <meta property="og:type" content="website">
 
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/home.css?{{ now.Unix }}">
 	<title>{{.Site.Title}}</title>
+
+  {{ else if and (eq "taxonomy" .Kind) (eq "authors" .Type)}}
+
+  <title>Autores - Product Oversee</title>
+
+  {{ else if and (eq "term" .Kind) (eq "authors" .Type)}}
+
+  <title>{{.Params.Name}} - Product Oversee</title>
+
+  {{ else }}
+  
+  <title>{{ with .Params.Title }}{{ . }} - {{ end }}Product Oversee</title>
 
   {{end}}
 
@@ -43,9 +61,9 @@
   <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
 
   {{ if eq "page" .Kind }}
-	<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} - {{ end }}Product Oversee{{ end }}</title>
 
   <meta property="og:type" content="article">
+  
   {{end}}
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ .Title}}">

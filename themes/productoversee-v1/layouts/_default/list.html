@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-
-
 <section class="tb-list">
 
   <div class="po-section-list po-section-{{.Section}}">
@@ -24,7 +22,7 @@
           <img src="{{.avatar}}" alt="Foto de {{.name}}">
 
         {{end}} 
-      
+          <script>console.log("Author title:" + {{ $.Title }});</script>
         <h3>{{.Title}}</h3>
 
         <p class="po-excerpt">
@@ -74,5 +72,6 @@
        (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
 </div> -->
+
 {{end}}
 
