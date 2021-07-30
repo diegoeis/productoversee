@@ -8,9 +8,11 @@ image: https://i.imgur.com/Suk7Vh1.jpg
 type: post
 featured_post: true
 categories:
-  - Tático
+  - Estratégia
 tags:
-  - gtm
+  - sistemas complexos
+  - organizações
+  - negócio
 ---
 
 > Uma empresa é uma interação entre organizações humanas. É competitivo, altamente dinâmico, complexo e arriscado. É baseado no comportamento humano individual e coletivo, e conduzido entre organizações que são complexas por si só. Não tem característica determinística, por isso é incerto e evolucionário. Criticamente e de uma forma que nós negligenciamos, uma empresa é fundamentalmente uma atividade humana. — **Bungay, Stephen. The Art of Action**.

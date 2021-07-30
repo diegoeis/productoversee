@@ -19,13 +19,6 @@
   
   <link rel="prerender" href='{{ range first 1 (where .Site.Pages "Type" "post" )}}{{.Permalink}}{{end}}'>
 
-
-    <script type="text/javascript">console.log("Kind: " + {{.Kind}})</script>
-    <script type="text/javascript">console.log("Type: " + {{.Type}})</script>
-    <script type="text/javascript">console.log("Section: " + {{.Section}})</script>
-    <script type="text/javascript">console.log("Page title: " + {{.Title}})</script>
-    <script type="text/javascript">console.log("Data singular: " + {{.Data.Singular}})</script>
-
   {{ if eq "home" .Kind }}
 
   <meta property="og:type" content="website">

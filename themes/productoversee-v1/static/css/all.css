@@ -5,6 +5,7 @@
 :root {
   --colorRed: #FC0D1B;
   --colorBlack: #121212;
+  --colorBlackStrong: #000000;
   --colorGrayLight: #E5E5E5;
   --colorGrayMedium: #4F4F4F;
   --fontDefault: "The Future Mono 02", monospace;
@@ -64,6 +65,10 @@ hr {
   margin: 50px 0;
 }
 
+p strong {
+  color: var(--colorBlackStrong);
+  font-weight: 800;
+}
 
 /*** AUTHORS LIST ***/
 .po-authors-list {
