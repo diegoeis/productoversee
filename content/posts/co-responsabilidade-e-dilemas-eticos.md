@@ -5,7 +5,6 @@ authors: Diego Eis
 date: 2021-07-28
 publishDate: 2021-07-28
 image: https://i.imgur.com/5EbEoJs.png
-sponsor: awari
 featured_post: true
 categories:
   - Opinião
