@@ -4,7 +4,7 @@ title: Minha opinião (resumida) sobre a diferença crucial entre Projeto e Prod
 excerpt: Em uma palavra? Continuidade
 authors: Diego Eis
 date: 2019-06-11
-image: https://i.imgur.com/vmqhhXg.jpg
+image: https://i.imgur.com/C092Qk4.png
 tags: conceitos
 categories:
   - Opinião
