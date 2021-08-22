@@ -3,15 +3,13 @@ type: post
 title: "Matriz de Eisenhower: como priorizar suas tarefas e seu tempo"
 excerpt: Gestão de tempo é parte muito importante do trabalho de uma PM
 authors: Diego Eis
-date: 02/10/2019
-tags: 
-- carreira
+date: 2019-10-02
+image: https://i.imgur.com/8zuHjY1.png
 categories:
 - Tático
-image: ""
-featured_post: false
+tags: 
+- carreira
 ---
-
 
 Uma PM organizada, vale por duas. Já dizia o velho da montanha. Boa
 parte da vida de um PM é priorizar tarefas de devs, do produto e de
@@ -43,27 +41,22 @@ delegadas para outras pessoas, não eram importantes.
 Para organizar essas tarefas e então priorizar de forma eficaz, a Matriz
 de Eisenhower é dividida em 4 quadrantes:
 
-1.  **Fazer** (importante / urgente). Aqui ficam as coisas que tem
+1. **Fazer** (importante / urgente). Aqui ficam as coisas que tem
     consequências claras se não tomarmos decisões imediatamente;
-
-2.  **Agendar** (importante / não urgente). Aqui são atividades que
+2. **Agendar** (importante / não urgente). Aqui são atividades que
     podem levar um pouco mais de tempo para serem decididas. É
     importante você entender que este pode ser o quadrante mais
     importante. Essas tarefas não são necessariamente problemas, mas
     tarefas que vão te fazer avançar para mais perto dos seus objetivos;
-
-3.  **Delegar** (não importante / urgente). Neste quadrante, você
+3. **Delegar** (não importante / urgente). Neste quadrante, você
     precisa entender se a tarefa pode ser feita por outras pessoas ou
     áreas. Ela não é importante para você imediatamente, mas é urgente o
     bastante para impactar o seu trabalho ou o trabalho de outras
     pessoas;
-
-4.  **Eliminar** (não importante / não urgente). Aqui são tarefas que
+4. **Eliminar** (não importante / não urgente). Aqui são tarefas que
     realmente não deveriam estar no seu radar. Tarefas que não te
     ajudarão a alcançar o seu objetivo, ou que tem um potencial de te
     fazer perder tempo;
-
-
 
 Quando você entende a dinâmica do quadrante, a coisa fica muito mais
 fácil de gerenciar. Já te dando um spoiler: quanto mais você trabalhar
@@ -72,9 +65,10 @@ mais disciplina você tiver, menos coisas terão no quadrante 4. Embora o
 quadrante 4 te dá a oportunidade para fazer tarefas que possam te dar
 uma gratificação (desestressar, ócio, etc) mais imediata.
 
-***‪"The greats never sacrifice the important for the urgent. They
+>"The greats never sacrifice the important for the urgent. They
 handle the immediate problem and still make sure to secure the future."
-- Bobby Axelrod‬***
+>
+> Bobby Axelrod‬
 
 Um dos meus mantras pessoais é que o longo prazo pauta suas decisões de
 curto prazo. As suas decisões de hoje devem te que guiar para o seu
@@ -92,7 +86,7 @@ parte dele. Mas essa é outra história.
 
 ## Referências:
 
-[Eisenhower Matrix](https://www.toolshero.com/time-management/eisenhower-matrix/)
-[Eisenhower Me](https://www.eisenhower.me/)
-[Matriz de Eisenhower com Todoist](https://get.todoist.help/hc/pt-br/articles/210762449-Matriz-de-Eisenhower-com-Todoist)
-[Workflow Guide - Avoid the Urgency Trap with the Eisenhower Matrix](https://doist.com/blog/eisenhower-matrix/)
+* [Eisenhower Matrix](https://www.toolshero.com/time-management/eisenhower-matrix/)
+* [Eisenhower Me](https://www.eisenhower.me/)
+* [Matriz de Eisenhower com Todoist](https://get.todoist.help/hc/pt-br/articles/210762449-Matriz-de-Eisenhower-com-Todoist)
+* [Workflow Guide - Avoid the Urgency Trap with the Eisenhower Matrix](https://doist.com/blog/eisenhower-matrix/)

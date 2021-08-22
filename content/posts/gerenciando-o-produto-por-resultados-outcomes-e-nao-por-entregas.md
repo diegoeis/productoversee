@@ -1,16 +1,16 @@
 ---
-type: post
 title: Gerenciando o produto por resultados (outcomes) e não por entregas (outputs)
 excerpt: A quantidade de software entregue, não importa
 authors: Diego Eis
-date: 16/10/2019
+date: 2019-10-16
+image: https://i.imgur.com/Jx448Sk.png
+type: post
+featured_post: true
+categories:
+- Tático
 tags: 
 - desenvolvimento
 - processo
-categories:
-- Tático
-image: ""
-featured_post: true
 ---
 É muito comum encontrar Product Managers que raciocinam da seguinte
 maneira: o usuário tem um problema, então, faço uma
