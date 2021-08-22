@@ -5,7 +5,6 @@ authors: Alex Ivonika
 date: 2021-08-11
 publishDate: 2021-08-11
 image: https://i.imgur.com/PlxPqKm.png
-sponsor: awari
 categories:
   - Opinião
   - Tático

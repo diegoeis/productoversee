@@ -5,7 +5,6 @@ authors: Monique Vinhas
 date: 2021-08-04
 publishDate: 2021-08-04
 image: https://i.imgur.com/JrbeO70.png
-sponsor: awari
 categories:
   - Tático
 tags:

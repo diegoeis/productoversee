@@ -3,19 +3,15 @@ type: post
 title: Minha opinião (resumida) sobre a diferença crucial entre Projeto e Produto
 excerpt: Em uma palavra? Continuidade
 authors: Diego Eis
-date: 06/11/2019
+date: 2019-06-11
+image: https://i.imgur.com/vmqhhXg.jpg
 tags: conceitos
 categories:
-- Tático
-image: ""
-featured_post: false
+  - Opinião
+tags:
+  - produto
+  - projeto
 ---
-
-Foi mal, pessoal, mandei bastante tarde essa Letter, pelo motivo de que
-eu achei que hoje era terça. :-(
-Mas antes tarde na quarta, do que... quinta. ;-)
-
-
 De [acordo com o PMI](https://www.pmi.org/about/learn-about-pmi/what-is-project-management),
 a definição de projetos é:
 
