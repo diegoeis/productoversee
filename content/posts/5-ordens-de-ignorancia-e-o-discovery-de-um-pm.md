@@ -1,11 +1,11 @@
 ---
+type: post
 title: 5 ordens de ignorância e o discovery de um PM
 excerpt: Conhecendo os níveis onde o conhecimento é percebido ao processo de desenvolvimento de software
 authors: Lucas Balbino
 date: 2021-07-14
 publishDate: 2021-07-14
 image: https://i.imgur.com/ROub6qs.jpg
-type: post
 featured_post: true
 categories:
   - Tático

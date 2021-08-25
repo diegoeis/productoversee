@@ -1,11 +1,11 @@
 ---
+type: post
 title: 12 dicas práticas para Product Managers do setor financeiro
 excerpt: Não há verdades absolutas aqui e talvez possa ajudar até quem não é desse mercado
 authors: Renato Negrão
 date: 2021-04-07
 publishDate: 2021-04-07
 image: https://i.imgur.com/wo50Wp3.jpg
-type: post
 categories:
   - Tático
   - Opinião

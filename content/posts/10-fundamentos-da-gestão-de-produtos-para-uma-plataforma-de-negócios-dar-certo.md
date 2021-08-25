@@ -1,8 +1,7 @@
 ---
 type: post
 title: 10 Fundamentos da Gestão de Produtos para uma Plataforma de Negócios dar certo
-excerpt: Os principais fundamentos da gestão de produtos, que provavelmente você
-  conhece pouco, que fazem uma plataforma de negócios avançar e ter sucesso
+excerpt: Os principais fundamentos da gestão de produtos, que provavelmente você conhece pouco, que fazem uma plataforma de negócios avançar e ter sucesso
 authors: Alex Ivonika
 date: 2021-03-17
 publishDate: 2021-03-17
