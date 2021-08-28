@@ -1,6 +1,6 @@
 ---
 name: Pablo Silva
-minibio: Ajudo as pessoas a criarem produtos digitais que mudam o mundo. Um dos idealizadores do Product Oversee e Head de Produto na Vindi
+minibio: Minha missão é ajudar as empresas a criarem produtos que geram mais valor e são mais lucrativos e assim mudar o mundo para melhor. Eu faço isso ajudando as pessoas a se tornarem líderes melhores.
 avatar: /images/authors/pablo.jpg
 email:
 twitter: "@oseupablo"
@@ -9,6 +9,6 @@ site:
 other:
 ---
 
-Ajudo as pessoas a criarem produtos digitais que mudam o mundo. Um dos idealizadores do Product Oversee e Head de Produto na Vindi
+Minha missão é ajudar as empresas a criarem produtos que geram mais valor e são mais lucrativos e assim mudar o mundo para melhor. Eu faço isso ajudando as pessoas a se tornarem líderes melhores.
 
 
