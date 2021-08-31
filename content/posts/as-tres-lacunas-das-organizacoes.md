@@ -6,7 +6,6 @@ date: 2021-08-18
 publishDate: 2021-08-18
 image: https://i.imgur.com/dlkslWw.png
 type: post
-sponsor: awari
 featured_post: true
 categories:
   - Estratégia
