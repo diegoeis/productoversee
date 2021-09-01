@@ -1,12 +1,13 @@
 ---
 type: post
-title: As três lacunas das organizações
+title: As três lacunas das organizações - Parte 2
 excerpt: De boas intenções o mundo está cheio
 authors: Pablo Silva
 date: 2021-09-01
 publishDate: 2021-09-01
 image: https://i.imgur.com/WTIuRsj.png
 sponsor: awari
+featured_post: true
 categories:
   - Estratégia
 tags:
@@ -15,7 +16,7 @@ tags:
   - processo
 ---
 
-**[Você pode ler a Parte 1 aqui.](https://productoversee.com/as-tres-lacunas-das-organizacoes/)**
+**[Você pode ler a Parte 1 aqui.](https://productoversee.com/as-tres-lacunas-das-organizacoes-parte-1/)**
 
 Como herança das duas primeiras revoluções industriais (onde a última se consolidou após a segunda guerra mundial e seus efeitos ainda sentidos nos dias atuais) muitos (senão quase todos) negócios foram criados ainda considerando os modelos das fábricas onde praticamente só existiam máquinas e as pessoas eram como se fossem suas extensões destas, realizando tarefas com ciclos repetitivos.
 

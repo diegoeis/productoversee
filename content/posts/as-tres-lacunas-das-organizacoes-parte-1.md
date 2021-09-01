@@ -1,11 +1,11 @@
 ---
-title: As três lacunas das organizações
+type: post
+title: As três lacunas das organizações - Parte 1
 excerpt: Cuidado com o vão entre a plataforma e o vagão
 authors: Pablo Silva
 date: 2021-08-18
 publishDate: 2021-08-18
 image: https://i.imgur.com/dlkslWw.png
-type: post
 featured_post: true
 categories:
   - Estratégia
