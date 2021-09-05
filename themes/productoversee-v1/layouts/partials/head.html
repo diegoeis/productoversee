@@ -64,7 +64,12 @@
   <meta property="og:date" content="{{ .Params.publishDate}}">
   
   <meta property="og:description" content="{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}" name="description">
+
+  {{ if eq "home" .Kind }}
+  <meta property="og:image" content="/images/home-og.png">
+  {{ else }}
   <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}/images/missing.jpg{{ end }}">
+  {{end}}
   
   <meta property="fb:app_id" content="187329465112652">
 
