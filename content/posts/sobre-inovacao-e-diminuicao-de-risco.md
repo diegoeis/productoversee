@@ -23,6 +23,8 @@ Assim como estratégia, inovação é algo difícil de definir. Existem diversas
 
 Eu gosto bastante dessa Matriz que o Greg Satell montou para organizar um pouco melhor os tipos/momentos de inovação de uma empresa:
 
+![](https://i.imgur.com/0TQAyB8.png)
+
 *Diferentes tipos de inovações necessitam de diferentes tipos de skills, recursos, investimentos e especialidades. Além disso, algumas inovações, para darem certo, requerem que alguns times e partes da empresa trabalhem de maneira mais solta, flexível, sem grandes pressões por resultados.*
 
 Ainda seguindo este mote de dividir inovação em momentos, eu adoro a forma como o Clayton Christensen divide a inovação em três tipos:
@@ -34,6 +36,8 @@ Ainda seguindo este mote de dividir inovação em momentos, eu adoro a forma com
 Em cada um dos tipos de inovação, os riscos também mudam. No modelo onde atacamos mais eficiência, o risco é quase nulo e quase não há incertezas, exatamente porque já atuamos e somos bem sucedidos nesse mercado. Mas a desvantagem é que ficamos cada vez mais próximos da disrupção, principalmente quando surge um novo entrante no mercado, com ideias mais frescas e processos mais leves.
 
 Existe um framework que divide a inovação em dois momentos. Vou usar os nomes desses momentos em inglês, porque eles têm a mesma tradução no português. Os momentos são Explore e Exploit.
+
+![](https://i.imgur.com/PoP1KvD.png)
 
 É importante notar que Explore tem muito a ver com procurar, descobrir, encontrar o modelo ou a hipótese que poderá ter sucesso, ou seja, que consiga ter o menor risco de inovação e maior retorno esperado. Já o Exploit procura crescimento, growth. Na fase de Exploit, nós procuramos aumentar e manter o retorno que o modelo já está trazendo para empresa e diminuir o risco de disrupção que poderá vir do mercado ou até mesmo por falta de capacidade de sustentação do negócio.
 
