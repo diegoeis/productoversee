@@ -278,16 +278,19 @@ pre {
 }
 
 .po-posts-same-author {
-  margin: 100px 0 70px;
+  margin: 100px 0 50px;
+}
+
+.po-sidebar {
   font: 1rem var(--fontDefault);
 }
 
-.po-posts-same-author h3 {
+.po-sidebar h3 {
   margin-bottom: 10px;
   font-size: 1.1rem
 }
 
-.po-posts-same-author li {
+.po-sidebar li {
   padding-bottom: 15px;
   font: 0.85rem var(--fontDefault);
 }

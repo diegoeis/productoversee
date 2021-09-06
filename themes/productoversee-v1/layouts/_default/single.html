@@ -18,7 +18,25 @@
       {{if .Params.image}}<figure class="po-single-img"><img src="{{.Params.image}}" alt="{{if .Params.excerpt}}Imagem de destaque de {{.Title}}{{end}}"></figure>{{end}}
       {{.Content}}
 
+
+    {{ $related := .Site.RegularPages.Related . | first 7}} {{ with $related }}
+    <div class="po-related-posts">
+
+      <h2>Relacionados aqui no blog:</h2>
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}?utm_source=productoversee&utm_medium=linkRelacionadoFinalPost&utm_campaign=poRelatedPosts" data-clicked="po-related-link">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+
+    </div>
+    {{ end }}
+
+<br><br>
+
       {{partial "sponsor/sponsor-single-paragraph.html" . }}
+
+
 
     </div>
     
@@ -50,17 +68,32 @@
       
       <span class="po-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
     
-
-    <div class="po-float-sidebar">
-
       <nav class="po-posts-same-author">
-        <h3>Mais artigos de {{.Params.authors}} </h3>
+        <h3>Mais {{.Params.authors}}: </h3>
         <ul>
-          {{ range first 5 (where .Site.RegularPages "Params.authors" .Params.authors )}}
+          {{ range first 3 (where .Site.RegularPages "Params.authors" .Params.authors )}}
           <li><a href="{{.Permalink}}?utm_source=po_single&utm_medium=link_articles_author&utm_campaign=po_internal_link" data-event="lnk-posts-sameAuthor">{{.Title}}</a></li>
           {{end}}
         </ul>
       </nav>
+
+
+
+    <div class="po-float-sidebar">
+
+        {{ $relatedSide := .Site.RegularPages.Related . | first 5}} {{ with $relatedSide }}
+        <nav class="po-related-sidebar">
+
+          <h3>Relacionados aqui no blog:</h3>
+          <ul>
+            {{ range . }}
+            <li><a href="{{ .RelPermalink }}?utm_source=productoversee&utm_medium=linkRelacionadoSidebar&utm_campaign=poRelatedSidebarPosts" data-clicked="po-related-link">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+
+        </nav>
+        {{ end }}
+        <br><br><Br>
 
       {{partial "sponsor/sponsor-sidebar-logo.html" . }}
 
