@@ -5,13 +5,13 @@ date: 2020-10-26
 layout: pages
 ---
 
-Nossa proposta é influenciar a evolução do mercado, nos dedicando à evolução individual. Fazemos isso por diversos canais, mas um dos principais é a produção de conteúdo autoral. Nós somos porta-vozes. **Representamos opiniões diferentes**. Defendemos a exploração da formação da expressão individual, canalizando as vozes de profissionais que queiram formar um ambiente seguro de troca de ideias e argumentos, com o objetivo de estimular, provocar e interessar quem se dedica a ouvir e a participar dessa conversa. Por isso, sempre ficamos mais perto do nosso objetivo quando alguém quer contribuir para o projeto.
+Nossa proposta é influenciar a evolução do mercado de produtos, nos dedicando à evolução individual. Fazemos isso por diversos canais, mas um dos principais é a produção de conteúdo autoral. Nós somos porta-vozes. **Representamos opiniões diferentes**. _Defendemos a exploração da formação da expressão individual_, canalizando as vozes de profissionais que queiram formar um ambiente seguro de troca de ideias e argumentos, com o objetivo de estimular, provocar e interessar quem se dedica a ouvir e a participar dessa conversa. Por isso, sempre ficamos mais perto do nosso objetivo quando alguém quer contribuir para o projeto.
 
 ## Quem pode escrever?
 
-Qualquer pessoa pode escrever conosco, obviamente, produzindo conteúdo que tenham a ver com o nosso público e com a linha editorial do site. Isso quer dizer que você pode ser PM, Designer, Dev, Data Scientist, Negócios, etc. Qualquer pessoa que trabalhe com tecnologia e esteja inserido no processo de entrega de alguma parte da jornada da construção de produtos digitais.
+Qualquer pessoa pode escrever conosco produzindo conteúdo alinhado com o nosso público e com a linha editorial do site. Isso quer dizer que você pode ser PM, Designer, Dev, Data Scientist, Negócios, etc. Qualquer pessoa que trabalhe com tecnologia e esteja inserido no processo de entrega de alguma parte da jornada da construção de produtos digitais.
 
-Se você escrever apenas uma vez, não tem problema, mas nós queremos estimular que você, como autor, tenha um relacionamento com os seus leitores, por isso, manter a rotina de escrita (seja lá qual rotina e frequencia você escolher), é um passo importante para entregar nossa proposta de valor. Nós sugerimos no mínimo uma vez por mês.
+Se você escrever apenas uma vez, não tem problema, mas nós queremos estimular escritoras e escritores tenham um relacionamento com os seus leitores, por isso, manter a rotina de escrita (seja lá qual rotina e frequencia você escolher), é um passo importante para entregar nossa proposta de valor. Nós sugerimos no mínimo uma vez por mês.
 
 ## Quais assuntos?
 
@@ -32,7 +32,7 @@ Queremos aprender cada vez mais a prezar pela frequência, constância e qualida
 - Uma ou mais pessoas do nosso time irão verificar se o texto é aderente ao conteúdo do site, para editar e sugerir mudanças no texto;
 - Você aprovando essas mudanças, nós publicamos! :-)
 
-Se você for um autor recorrente, nós iremos te dar acesso à nossa interface, pra facilitar a publicação e a edição. Mas isso só ocorre a partir do terceiro texto. Dessa forma, nós garantimos que você é um autor engajado. E nessa fase, será um prazer adicionar você no nosso grupo no Whatsup para trocarmos ideias e nos organizarmos melhor.
+Nós consideramos que uma pessoa é autora recorrente, se escrever pelo menos um texto por mês. Essa é nossa definição de autor ativo. Dessa forma, nós garantimos que você é uma autora engajada. E nessa fase, será um prazer adicionar você no nosso grupo no Whatsapp para trocarmos ideias e nos organizarmos melhor.
 
 ## Será um prazer receber você
 
