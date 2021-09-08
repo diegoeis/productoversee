@@ -5,7 +5,6 @@ excerpt: Inovação não se trata de diminuir budget, escopo ou tempo, mas com o
 authors: Diego Eis
 date: 2021-09-06
 image: https://i.imgur.com/mPxx8y8.png
-sponsor: awari
 featured_post: true
 categories:
   - Estratégia
