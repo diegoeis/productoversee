@@ -1,11 +1,11 @@
 ---
+type: post
 title: 7 insights sobre o Clubhouse
 excerpt: Aplicativo chegou no lugar certo e na hora certa
 authors: Tiago Doria
 date: 2021-04-21
 publishDate: 2021-04-21
 image: https://i.imgur.com/SfCDwjU.jpg
-type: post
 categories:
   - Estratégia
 tags:

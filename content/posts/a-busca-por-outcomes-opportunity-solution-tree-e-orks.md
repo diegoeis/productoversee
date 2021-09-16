@@ -6,7 +6,7 @@ authors: Diego Eis
 date: 2020-02-12
 featured_post: false
 publishDate: 2020-02-12
-image: https://images.unsplash.com/photo-1480618213131-3abfec8a53cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
+image: https://i.imgur.com/6CVP0zH.png
 categories:
   - Estratégia
   - Tático
@@ -90,9 +90,7 @@ Referências:
 
 -   [OUTCOME BASED ROADMAPS : Unleash the Power of a Shared Vision and
     Purpose](https://medium.com/swlh/outcome-based-roadmaps-unleash-the-power-of-a-shared-vision-and-purpose-851401c7aa54)
-
 -   [Breaking the mold: Lean Product Management and MVP in a Large
     Company](https://www.slideshare.net/ilia-v-kuznetsov/kuznetsov-mvpbreakingthemoulden)
-
 -   [How to combine Objectives and Key Results (OKR) and Agile Product
     Management?](https://herbig.co/okr-product-management/)

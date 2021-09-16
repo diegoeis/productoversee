@@ -1,11 +1,11 @@
 ---
+type: post
 title: 5 ótimos livros sobre comportamento humano para entender melhor o seu usuário
 excerpt: São nas mudanças de comportamento que estão as oportunidades
 authors: Pablo Silva
 date: 2021-05-03
 publishDate: 2021-05-03
 image: https://i.imgur.com/1UJjqGb.png
-type: post
 featured_post: true
 categories:
   - Tático

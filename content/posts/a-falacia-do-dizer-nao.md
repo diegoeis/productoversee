@@ -1,11 +1,11 @@
 ---
+type: post
 title: A falácia do dizer "não"
 excerpt: No dia a dia de trabalho, o PM precisa dizer “não” para algumas ideias e sugestões que surgem dos stakeholders
 authors: Alex Ivonika
 date: 2021-08-11
 publishDate: 2021-08-11
 image: https://i.imgur.com/PlxPqKm.png
-type: post
 categories:
   - Opinião
   - Tático

@@ -4,10 +4,11 @@ title: A criatividade como ferramenta para resolução de problemas
 excerpt: Usar a criatividade para resolver problemas e tomar decisões
 authors: Éricka Padilha
 date: 2020-08-19
-tags: [Negócios]
-categories: [Tático]
-image: https://images.unsplash.com/photo-1603665143615-4b7cafb5366b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-featured_post: false
+image: https://i.imgur.com/YbmvqmW.png
+categories: 
+ - Tático
+tags:
+ - negócios
 ---
 
 Em tempos de crise, muito se escuta que um novo olhar e um novo uso para
