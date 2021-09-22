@@ -5,7 +5,6 @@ excerpt: Mapas podem ser ferramentas eficientes para organizar a informação
 authors: Pablo Silva
 date: 2021-09-16
 image: https://i.imgur.com/JSwaGaJ.png
-sponsor: awari
 categories:
   - Tático
 tags:

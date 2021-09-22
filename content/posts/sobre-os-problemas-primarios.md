@@ -7,7 +7,6 @@ date: 2021-09-15
 publishDate: 2021-09-15
 image: https://i.imgur.com/RCB4KGk.png
 featured_post: true
-sponsor: awari
 categories:
   - Estratégia
 tags:
