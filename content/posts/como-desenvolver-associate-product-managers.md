@@ -8,60 +8,75 @@ publishDate: 2021-10-13
 image: 
 sponsor: awari
 categories:
+  - Liderança
   - Carreira
 tags:
-  - carreira
   - apm
+  - framework
 ---
 
-A profissão de PM está em alta. Desde grandes empresas até startups, buscam profissionais que sejam capazes de identificar os problemas dos usuários e resolvê-los, de preferência, de forma inovadora.
+Quando o [primeiro programa voltado para Associate Product Manager (APMs) foi criado em 2002, no Google](https://www.youtube.com/watch?v=OyQ1BUQS-5c), o objetivo era formar dentro de casa profissionais capazes de lidar com a multidisciplinaridade de um cargo como Product Manager - que ainda estava começando a ser parte estratégica das empresas do Vale do Silício.
 
-Liderança implícita, gestão de expectativas, comunicação ativa, gestão de backlog, análise de mercado, análise competitiva, criatividade, coragem, desapego e algumas outras habilidades, são importantes para que alguém se torne uma grande pessoa PM e pode ser que não seja para algumas pessoas, como em qualquer outra profissão. Eu (Pablo) nunca seria médico, por exemplo, porque ao ver cortes, começo a passar mal. Imagina numa mesa de operação!
+Somente quase 20 anos depois começamos a ver este movimento nas empresas brasileiras. [Nubank foi a primeira empresa daqui a criar um programa voltado especificamente para treinar APMs](https://blog.nubank.com.br/nubank-lanca-programa-para-contratacao-e-formacao-de-associate-product-managers/) do começo ao fim, em esquema semelhante aos projetos de trainee. Mas, quando abrimos o leque um pouco mais, vemos que a realidade é um pouco diferente: nem todas as companhias têm o tempo, o dinheiro e a dedicação para formar um grupo de APMs dentro de um programa específico.
 
-Ter conhecimento das suas limitações naturais, com certeza te ajudará a evitar perder tempo em algo que talvez não seja para você. Mas isso também não significa que você não possa tentar no final das contas. Por isso, listo aqui, algumas características da natureza do trabalho de uma PM para que você consiga entender se essa profissão é para você ou não.
+Então, o que acontece? Muitos desses profissionais são contratados para lidar com a mão na massa, muitas vezes com o apoio de um Product Manager Sr. ou até mesmo com um Group Product Manager (ou Product Lead), que assume a responsabilidade de gestão de pessoas que trabalham com produto, dentro de uma tribo.
 
-# Seu trabalho está na área cinzenta
+Como Product Manager Sr., tive a oportunidade de contratar e ajudar no desenvolvimento de uma APM: é uma boa forma de desenvolver a liderança de forma mais direta sobre um contribuidor individual (lembrando, claro, que o PM exerce liderança também com o seu time multidisciplinar, embora não seja gestor de designers e desenvolvedores, por exemplo).
 
-A PM trabalha o tempo todo na área cinzenta, exatamente como quando você está dirigindo e entra no meio de um nevoeiro. É relativamente fácil criar um monte de funcionalidades, mas é extremamente difícil e incerto criar soluções que de fato resolvem problemas e geram valor. Inovação é sinônimo de incerteza.
+Mas, quando se analisa o trabalho de um APM, é preciso tomar alguns cuidados. Diferentemente de um PM que, quando não possui background liderando um produto,  provavelmente já vem de outras áreas, como marketing, tecnologia ou até jornalismo (meu caso), com relevante experiência profissional na bagagem, o APM muitas vezes não possui a experiência que se esperaria para liderar um produto.
 
-Navega bem na incerteza sem travar? Ser PM é para você então!
+Muitas vezes são pessoas que já trabalharam em contextos diferentes e têm conhecimento técnico da gestão de produtos. Alguns podem até terem tido uma atuação próxima a de um Analista de Negócios ou Product Owner, mas sem a autonomia ou experiência exigida para atuar no cargo.
 
-# A autoridade não é o caminho
+Dentro desse contexto, muitas empresas contratam os APMs para lidar com produtos incipientes - às vezes, são apostas em um determinado mercado, ou até mesmo uma forma de dar tempo para que a pessoa se desenvolva e tenha uma atuação mais estratégica dentro da companhia.
 
-Eu já ouvi várias vezes em contextos bastante diferentes a frase "A PM é uma mini CEO". Quero te dizer que se você precisa de controle e autoridade no dia a dia, vai ser só frustração.
+Seja como for, o objetivo aqui é apresentar um framework simplificado de como podemos avaliar o trabalho de um Associate Product Manager, a fim de acelerar o caminho para que ele atinja seu verdadeiro objetivo: se tornar um Product Manager.
 
-Eu vejo a PM como um hub, que conecta todas as partes necessárias para conseguir guiar o desenvolvimento do produto. De fato, a decisão não é da PM em momento algum. Ela precisa atingir uma estratégia que não foi ela que definiu. Para isso, ela vai precisar que as pessoas que usam o produto, mesmo que em forma de dados, digam para ela suas necessidades. A partir disso, precisará analisar o impacto disso para o negócio junto com as stakeholders e para então, tomar uma decisão do que fazer.
+# Como avaliar um APM
 
-No final, como você pode perceber, a decisão não foi da PM. Se a PM tomar uma decisão por conta própria, mais tarde as consequências podem ser grandes, incluindo levar o negócio à falência. A PM está muito mais para uma líder servidora (deixando claro que líder não tem qualquer relação com cargo. Líder é uma coisa, gestor é outra).
+Quando se tem um programa voltado para o desenvolvimento de APMs, você conta com toda uma equipe dedicada a desenvolver essas pessoas mais junior com acompanhamento em cases reais. O primeiro programa do Google, por exemplo, tinha duração de dois anos - embora, na maioria dos exemplos, programas desse tipo duram um ano.
 
-Gosta de colaboração, de trabalho em equipe e de se relacionar com as pessoas? Meio caminho andado para entrar nessa profissão.
+Em um contexto mais isolado, ou seja, em que APMs são encarados como profissionais regulares, assim como um PM, a realidade é um pouco diferente. Pode acontecer de ser promovido em um período de um ano, ou demorar até um pouco mais para isso. Tudo depende do contexto, dos desafios, da performance ou até mesmo do budget disponível.
 
-# Falar em público é rotina
+A ideia aqui é apresentar uma forma de avaliar APMs dado tanto o que se espera que ele possa contribuir, quanto ao que ele aspira. 
 
-Se você é daquelas pessoas que trava completamente na frente de uma plateia, então ser PM pode não ser para você. A PM vai precisar falar em público muitas vezes nos ciclos estratégicos, por vezes até para o nível executivo.
+Nesse sentido, a melhor forma de simplificar esse processo é separar as **hard skills** de **soft skills**.
 
-Também vai precisar adaptar a comunicação o tempo todo, uma vez que navega na grande maioria das áreas das empresas. Você gosta de falar, se considera uma boa comunicadora? Vem ser PM!
+A seguir, vou mostrar um exemplo de como fazer o acompanhamento de um APM simplificando a abordagem de Marty Cagan. 
 
-# Os riscos nunca acabam
+## Hard skills
 
-Gerenciar riscos é um dos maiores trabalhos de uma PM. Toda decisão que a PM toma tem um risco para o negócio, porque tem potencial de mexer com o comportamento das pessoas que usam o produto e consequentemente com os resultados da empresa.
+Para entender o que avaliar de hard skills de um PM, [Marty Cagan apresentou um modelo interessante](https://svpg.com/developing-strong-product-managers/): avaliar conhecimentos sobre o usuário, sobre a indústria de atuação, sobre produto, tecnologia, UX, negócio e finanças. Cada um desses aspectos têm uma pontuação específica, mas não considero produtivo ir a esse nível de detalhe - pelo menos, não se você estiver avaliando um APM pela primeira vez.
 
-A PM vai precisar assumir riscos, não tem jeito. E por vezes, riscos que podem ter um impacto muito grande no negócio. Conseguir tomar decisões nesse tipo de cenário passa então a ser algo bastante importante para quem quer ser PM.
+Nesse sentido, sugiro adaptar as hard skills em quatro disciplinas:
 
-Se dá bem com riscos? Então vem para produto!
+* **Conhecimento de dados:** Confronta as demandas com dados. Dedica parte de seu trabalho em analisar os dados, utilizando-os como parte de sua tomada de decisão no dia a dia.
+* **Conhecimento sobre o usuário:** Mostra empatia pelo usuário na hora de discutir a evolução do produto, participando de processos de Discovery e contribuindo em momentos de prototipação junto ao Product Designer (ou UX/UI).
+* **Conhecimento do mercado:** Conhece e demonstra interesse no negócio no qual está inserido. Tem interesse em fazer benchmarks, analisar concorrência e se propor a investir em conhecimento sobre o setor da empresa em que atua.
+* **Conhecimento do negócio:** Mostra conhecimento não somente do produto em que toca, mas também do ecossistema ou da empresa em que trabalha como um todo: está ciente da direção que é seguida e toma decisões baseadas na direção do negócio. Busca, na maioria das vezes, adaptar a visão do produto à visão do negócio.
 
-# Dificilmente será uma pessoa amada
+De início, sugiro classificar cada um dos aspectos como: **Precisamos Melhorar** (tópico em que a mentoria precisa dedicar maior parte do tempo com o APM); **Atende** (quando existem indícios positivos na disciplina avaliada, mas pode propor maiores desafios para que o APM evolua profissionalmente neste quesito) ou **Supera** (quando o ponto mencionado representa uma fortaleza e deve ser mantido e reforçado, para que o profissional continue evoluindo).
 
-Para ser uma excelente PM, é necessário falar  mais não do que sim. No dia a dia, vai acontecer de muita gente te pedir muita coisa e a realidade é que nenhuma empresa consegue implementar todas as ideias que surgem dentro dela, a não ser que ela tenha dinheiro e capacidade de contratar e manter pessoas infinitas.
+## Soft skills
 
-Por isso, falar não é essencial, porém, falar não fará com que as pessoas não gostem de você. Mesmo que você consiga ser super polida, mostre dados e argumentos que façam sentido. Pessoas são complexas e têm suas necessidades. Ao falar não você deixará de atender a essas necessidades.
+Por mais que o conhecimento técnico seja necessário, são as soft skills que direcionam bem o caminho de evolução de um APM. Essas habilidades são mais valiosas porque 1) são mais difíceis de aprimorar por mentoria e 2) muitas vezes estão intrínsecas nos valores do profissional. 
 
-O que ajuda muito no dia a dia a falar não é entender bastante sobre estratégia e análise de dados, porque dessa forma, o seu não estará apoiado por dados e pela estratégia que foi definida. As chances de as pessoas aceitarem sem atritos será muito maior.
+Assim como as hard skills, Cagan também sugeriu uma abordagem voltada às soft skills, com uma lista ainda maior. Para os APMs, também sugiro simplificar em quatro tópicos:
 
-Gosta de estratégia e de dados? Ser PM é muito para você!
+* **Aprendizagem Contínua:** Demonstra interesse em aprender mais sobre as hard skills de produto, contribuindo para proliferar conhecimento e absorver parte do aprendizado no dia a dia. Conta com o apoio do PM ou da alta liderança de produto, se necessário, para remover bloqueios.
+* **Tomada de Decisão:** Participa das discussões no dia a dia e mostra firmeza na tomada de decisão. Tem autonomia na execução de seu trabalho e confiança por parte de seus stakeholders.
+* **Alinhamento:** Preocupa-se em estar sempre alinhado com os times quando sente que o trabalho gera interdependência. Dá visibilidade do que está acontecendo e mostra boas habilidades de comunicação.
+* **Sinergia com o time:** Participa ativamente das reuniões diárias, se preocupa com os ritos e com as entregas e promove o bem-estar junto ao time, em busca de proporcionar um ambiente de segurança psicológica a todos com quem trabalha.
 
-# No final das contas, se torne uma PM
+Assim como as hard skills, sugiro a classificação **precisamos melhorar, atende e supera** para todos os pontos.
 
-Como eu falei no início do texto, trabalhar como PM exige um conjunto de habilidades, como qualquer outra profissão. Algumas pessoas vão ter mais aptidão e outras menos. Mesmo que para algumas pessoas navegar no dia a dia com essas características que eu mencionei não seja uma tarefa fácil, todas elas são treináveis.
+# Acompanhamento
 
-Por isso, se você quer trabalhar com gestão de produto, está aí um ótimo guia para você seguir no seu desenvolvimento para virar uma PM. No final das contas, o que mais vai importar é com quem você trabalha no seu dia a dia. Muitas empresas têm uma cultura em que as pessoas querem que todas cresçam juntas e vão estar sempre dispostas a te ajudar nesse começo, que pode ser difícil mesmo, é natural. Também tem muitas pessoas dispostas a ajudar na comunidade, não tenha medo de pedir ajuda para elas porque no geral elas vão te ajudar sim!
+Todo desenvolvimento profissional precisa de acompanhamento contínuo. Sou partidário de Cagan quando diz que todo líder de produto precisa ter um lado coach, para ajudar profissionais júnior ao lidar com os desafios, compreender o contexto e se desenvolverem.
+
+Porém, cada empresa e estrutura de produto tem aspectos que consideram mais importantes no desenvolvimento de um PM. Por exemplo, em uma empresa de cibersegurança a qualidade de entrega pode ser um fator determinante - visto que qualquer tipo de bug pode representar um risco enorme para o negócio. Por que não trazer esse aspecto para a avaliação do APM?
+
+O importante é deixar claro em quais aspectos o APM precisa se desenvolver para que possa ser promovido para Product Manager. 
+
+Por mais que as entregas possam ser importantes em determinadas empresas, será que ela foi desafiadora o suficiente para que o profissional esteja mais preparado para a carga de pressão que virá quando for promovido?
+
+É importante alinhar o acompanhamento e desenvolvimento do APM com a alta liderança - principalmente se tiver em uma estrutura com um diretor de produto, VP ou CPO, por exemplo. Líderes sênior são mais experientes ao lidar com desenvolvimento profissional e certamente podem contribuir ainda mais para o desenvolvimento dos APMs, mesmo em uma estrutura enxuta ou em uma companhia sem programa específico para iniciantes na área de produto.
