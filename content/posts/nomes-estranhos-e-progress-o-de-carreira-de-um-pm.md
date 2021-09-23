@@ -4,9 +4,12 @@ title: Nomes estranhos e progressão de carreira de um PM
 excerpt: Entender onde está e como evoluir é o mais importante
 authors: Diego Eis
 date: 2020-10-29
-tags: [Carreira]
-categories: [Opinião]
-image: https://images.unsplash.com/photo-1525538182201-02cd1909effb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80
+image: https://i.imgur.com/mH868jz.png
+categories:
+  - Opinião
+tags:
+  - carreira
+  - pm
 ---
 
 Para falar sobre carreira, gostaria que você tentasse abstrair um pouco
@@ -61,4 +64,4 @@ desenvolvimento e também para tentar analisar o mercado. Sem ter sido
 PM, não daria para virar Diretor ou Head. Seria um caminho bem mais
 difícil.
 
-Esse assunto vai longe, podemos falar mais sobre ele em outras Letters.\
+Esse assunto vai longe, podemos falar mais sobre ele em outros textos.
