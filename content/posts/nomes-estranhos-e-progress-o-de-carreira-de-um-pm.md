@@ -65,3 +65,7 @@ PM, não daria para virar Diretor ou Head. Seria um caminho bem mais
 difícil.
 
 Esse assunto vai longe, podemos falar mais sobre ele em outros textos.
+
+--
+
+[Vagas de Emprego para Pruduct Manager](https://br.jooble.org/vagas-de-emprego-product-manager)
