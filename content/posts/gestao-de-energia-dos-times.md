@@ -7,9 +7,9 @@ date: 2021-09-13
 image: https://i.imgur.com/u18v4ID.png
 featured_post: true
 categories:
-  - Tático
+  - Liderança
 tags:
-  - liderança
+  - times
   - gestão
 ---
 *Este post foi publicado na [Curious Product](https://curiousproduct.substack.com/) (minha newsletter em inglês) no dia 01 de junho de 2021. As passagens das referências em inglês que cito ao longo do texto são traduções livres que fiz do texto original.*
