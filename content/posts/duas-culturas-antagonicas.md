@@ -29,6 +29,8 @@ Eu falei um bocado sobre esse assunto nesse artigo na Product Oversee, onde eu e
 * **Sustaining** é a inovação que explora oportunidades em mercados e oportunidades adjacentes à atuação core da empresa, com o intuito de fortalecer o modelo de negócio já existente, talvez criando produtos ou serviços novos para servir problemas ainda não solucionados em mercados no qual a empresa já atua e conhece. Aqui entra também, por exemplo, planejamentos para expansão internacional, explorar novos canais de distribuição e assim por diante;
 * **Efficiency** é aquela inovação que explora oportunidades que melhoram o modelo operacional de negócio core da empresa, em cima de mercados que já atuamos, usando, na maioria das vezes, produtos e serviços que já temos. Dessa maneira não mudamos o modelo já existente da empresa de forma muito substancial, mas de forma sutil, o suficiente para atendermos melhor os segmentos já existentes. Aqui melhoramos muito operações, processos, distribuição, marca etc;
 
+[Expliquei bem mais sobre as fases de Explore e Exploit aqui nesse artigo](https://productoversee.com/sobre-inovacao-e-diminuicao-de-risco/). 
+
 # Não gerir as duas culturas causa ineficiência e desconforto nas pessoas
 
 Quantas vezes você já ouviu dentro da empresa que "nós devemos ter um time de inovação" ou "precisamos ter um time que cuida do dia a dia, e outro que arruma a casa e/ou evolui". Esses são sinais de que a empresa não está gerenciando de forma eficiente e inteligente os dois momentos de Explore e Exploit.
