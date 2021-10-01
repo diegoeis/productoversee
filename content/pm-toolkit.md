@@ -52,6 +52,7 @@ layout: pages
       <li><a class="lang-ptbr" href="https://www.linkedin.com/in/phsil/?utm_source=pmtoolkit.work">Pablo Silva</a></li>
       <li><a class="lang-ptbr" href="https://diegoeis.com/?utm_source=pmtoolkit.work">Diego Eis</a></li>
       <li><a class="lang-ptbr" href="https://www.linkedin.com/in/paulo-chiodi/?utm_source=pmtoolkit.work">Paulo Chiodi</a></li>
+      <li><a class="lang-ptbr" href="https://www.linkedin.com/in/bernarddeluna/?utm_source=pmtoolkit.work">Bernard de Luna</a></li>
       <li><a class="lang-ptbr" href="https://twitter.com/@demianborba?utm_source=pmtoolkit.work">Demian Borba</a></li>
       <li><a class="lang-ptbr" href="https://twitter.com/@horaciosoares?utm_source=pmtoolkit.work">Horácio Soares</a></li>
       <li><a class="lang-ptbr" href="https://twitter.com/arthur_debert">Arthur Debert</a></li>
