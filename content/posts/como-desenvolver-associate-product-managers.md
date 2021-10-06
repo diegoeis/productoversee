@@ -5,7 +5,7 @@ excerpt: Uma forma simples de avaliar e acompanhar as hard skills e soft skills 
 authors: Tiago Ferreira
 date: 2021-10-13
 publishDate: 2021-10-13
-image: 
+image: https://i.imgur.com/aBAAohm.png
 sponsor: awari
 categories:
   - Liderança
