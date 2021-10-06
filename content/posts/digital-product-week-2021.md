@@ -5,7 +5,7 @@ excerpt: O melhor evento sobre Produtos Digitais do Brasil
 authors: Diego Eis
 date: 2021-10-01
 publishDate: 2021-10-01
-image: https://i.imgur.com/tDom3AT.png
+image: https://i.imgur.com/tc4QNmQ.png
 categories:
   - Liderança
   - Carreira

@@ -5,7 +5,7 @@ excerpt: Essas são meus comentáriso e anotações da palestra sobre Continuous
 authors: Diego Eis
 date: 2021-10-05
 publishDate: 2021-10-05
-image: https://i.imgur.com/yQeVEtd.jpg
+image: https://i.imgur.com/LXtjFpp.png
 categories:
   - Tático
   - Opinião
