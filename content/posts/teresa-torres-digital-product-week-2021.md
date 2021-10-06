@@ -33,11 +33,11 @@ A ideia é termos um feedback dos usuários de forma regular. E essa forma regul
 
 Conforme trabalhamos nos produtos, nós sabemos como nosso produto funciona. O ponto é que conforme aumentamos nossa expertise do nosso produto, nós também aumentamos nosso viés, então, é importante perguntar para os usuários, que ainda não tem esse viés.
 
-==Nós precisamos engajar com os consumidores pelo menos uma vez por semana==
+**Nós precisamos engajar com os consumidores pelo menos uma vez por semana**
 
 A etapa de validação não é a única forma de validar suas ideias. Nós podemos ter feedback dos clientes de diversas maneiras, inclusive das maneiras mais baratas (não só do ponto de vista de grana, mas também de operação e processo). O objetivo é estimular a co-criação com os consumidores.
 
-Nós não perguntamos para os clientes "o que você quer". Essa é a abordagem errada. Quem define o que construir para o desejo dos clientes somos nós, de produto ==A ideia é entender de fato se o que estamos prestes a construir tem potencial de sucesso.==
+Nós não perguntamos para os clientes "o que você quer". Essa é a abordagem errada. Quem define o que construir para o desejo dos clientes somos nós, de produto **A ideia é entender de fato se o que estamos prestes a construir tem potencial de sucesso.**
 
 Não acho que tenhamos que falar todas as semanas com os clientes, também não acho que todo mundo saiba falar com o cliente excluindo totalmente os vieses, e interpretando corretamente as entrelinhas do que o cliente quer dizer.
 
@@ -105,7 +105,7 @@ Mesmo assim, a ideia não é você ter um milhão de clientes para conversar nas
 
 ![](https://i.imgur.com/iUn02dI.png)
 
-Ela fala também sobre como fazer perguntas corretas para os clientes. Existem diversos vieses que queremos evitar e não queremos fazer perguntas diretas. ==Nós precisamos coletar histórias.== Por exemplo, uma pergunta boa seria: "Qual foi a última vez que você assistiu Netflix?". O principal aqui é que dentro da história, você consiga ouvir as respostas dos seus questionamentos e assim você consegue entender quais são as dores, desejos e necessidades dos clientes para completar o seu mapa de oportunidades.
+Ela fala também sobre como fazer perguntas corretas para os clientes. Existem diversos vieses que queremos evitar e não queremos fazer perguntas diretas. **Nós precisamos coletar histórias.** Por exemplo, uma pergunta boa seria: "Qual foi a última vez que você assistiu Netflix?". O principal aqui é que dentro da história, você consiga ouvir as respostas dos seus questionamentos e assim você consegue entender quais são as dores, desejos e necessidades dos clientes para completar o seu mapa de oportunidades.
 
 ![](https://i.imgur.com/gibZeiK.png)
 

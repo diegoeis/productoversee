@@ -1,4 +1,4 @@
-@import url(fonts.css);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 @import url(form-newsletter.css);
 
 /**** VARIABLES ****/
@@ -10,7 +10,7 @@
   --colorGrayMedium: #4F4F4F;
   --fontDefault: "The Future Mono 02", monospace;
   --fontMono: "The Future Mono 02", monospace;
-  --fontArticle: Roboto, arial, helvetica, sans-serif;
+  --fontArticle: "Open Sans", arial, helvetica, sans-serif;
   --breakpoint: 900px;
 }
 
