@@ -1,7 +1,7 @@
 baseURL = "https://productoversee.com/"
 languageCode = "pt-br"
 title = "Product Oversee - o portal de conteúdo para PMs com opinião"
-description = "Teste"
+description = "O Product Oversee é um portal de conteúdo para pessoas que constróem produtos e serviços digitais no Brasil."
 theme = "productoversee-v1"
 removePathAccents = true
 summaryLength = 10
