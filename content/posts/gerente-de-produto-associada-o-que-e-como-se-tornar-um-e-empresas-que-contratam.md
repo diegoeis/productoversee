@@ -1,13 +1,12 @@
 ---
+type: post
 title: "Gerente de Produto Associado (APM): O que é, como se tornar um e empresas que contratam"
 excerpt: Começando certo na área de gestão de produtos
 authors: Alex Ivonika
 date: 2021-04-28
 publishDate: 2021-04-28
 image: https://i.imgur.com/16PV5uf.jpg
-type: post
 sponsor: awari
-featured_post: true
 categories:
   - Carreira
 tags:

@@ -9,7 +9,6 @@ tags:
 categories:
 - Opinião
 image: ""
-featured_post: true
 ---
 
 

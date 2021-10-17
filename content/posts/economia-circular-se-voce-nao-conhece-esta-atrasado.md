@@ -1,12 +1,11 @@
 ---
+type: post
 title: "Economia Circular: se você não conhece, está atrasado!"
 excerpt: Como criar e produzir sem desperdício do início ao fim e ainda sustentar modelos negócios inteiros
 authors: Djenane Rocha
 date: 2021-05-05
 publishDate: 2021-05-05
 image: https://i.imgur.com/HK7yuHC.jpg
-type: post
-featured_post: true
 categories:
   - Estratégia
 tags:

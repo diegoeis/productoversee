@@ -8,7 +8,6 @@ publishDate: 2021-02-01
 image: https://i.imgur.com/twmikI0.png
 type: post
 sponsor: awari
-featured_post: true
 categories:
   - Tático
   - Estratégia

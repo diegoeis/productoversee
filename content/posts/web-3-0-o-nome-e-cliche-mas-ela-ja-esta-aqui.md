@@ -1,12 +1,11 @@
 ---
+type: post
 title: Web 3.0. O nome é clichê, mas ela já está aqui
 excerpt: Uma web realmente descentralizada que não vai mudar apenas a forma com que nos relacionamos, mas principalmente como consumimos e percebemos o mundo digital
 authors: Diego Eis
 date: 2021-07-07
 image: https://i.imgur.com/kPPwc2T.jpg
-type: post
 sponsor: awari
-featured_post: true
 categories:
   - Opinião
 tags:
