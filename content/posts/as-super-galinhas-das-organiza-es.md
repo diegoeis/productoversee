@@ -3,12 +3,12 @@ type: post
 title: As super galinhas das organizações
 excerpt: A forma que por muito tempo fomos moldados, onde acreditávamos que para obter um time de sucesso e alta produtividade precisamos de super pessoas, apenas os mais brilhantes e criativos
 authors: Éricka Padilha
-date: 13/11/2019
-tags: 
-- comportamento
+image: https://i.imgur.com/pEmFazl.png
+date: 2019-11-13
 categories:
 - Opinião
-image: ""
+tags: 
+- comportamento
 ---
 
 

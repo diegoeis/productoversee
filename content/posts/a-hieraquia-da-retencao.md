@@ -4,9 +4,11 @@ title: A Hieraquia da Retenção
 excerpt: Quais ações podem ser tomadas para identificar, prever e reduzir o churn da empresa e manter os clientes engajados
 authors: Lucas Balbino
 date: 2020-08-21
-tags: [Negócios]
-categories: [Estratégia]
-image: https://images.unsplash.com/photo-1597600159211-d6c104f408d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1874&q=80
+image: https://i.imgur.com/zElGUq7.png
+categories:
+  - Estratégia
+tags:
+- Negócios
 ---
 
 O primeiro passo para **aumentar a retenção** de clientes é **[entender
