@@ -6,7 +6,6 @@ authors: Tiago Ferreira
 date: 2021-10-13
 publishDate: 2021-10-13
 image: https://i.imgur.com/aBAAohm.png
-sponsor: awari
 categories:
   - Liderança
   - Carreira

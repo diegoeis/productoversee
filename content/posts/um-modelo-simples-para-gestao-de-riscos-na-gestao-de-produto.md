@@ -6,7 +6,6 @@ authors: Pablo Silva
 date: 2021-10-08
 publishDate: 2021-10-08
 image: https://i.imgur.com/PhFO4C4.png
-sponsor: awari
 categories:
   - Tático
 tags:
