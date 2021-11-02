@@ -1,6 +1,6 @@
 ---
 name: Sandro Maia
-minibio: Sr. Product Manager na Luiza Labs.
+minibio: Apaixonado pela Gestão de Produtos Digitais e por ajudar no desenvolvimento de pessoas, compartilhando conhecimento e experiências. Criador de conteúdo no @theproductland e co-host no Product Lunch.
 avatar: /images/authors/sandro-maia.jpeg
 email:
 twitter:
@@ -9,4 +9,4 @@ site:
 other:
 ---
 
-Sr. Product Manager na Luiza Labs.
+Apaixonado pela Gestão de Produtos Digitais e por ajudar no desenvolvimento de pessoas, compartilhando conhecimento e experiências. Criador de conteúdo no @theproductland e co-host no Product Lunch.
