@@ -7,7 +7,7 @@ publishDate: 2021-06-23
 image: https://i.imgur.com/sSFvf6T.png
 type: post
 categories:
-  - Opinião, Tático
+  - Liderança
 tags:
   - carreira
   - product manager
