@@ -8,7 +8,6 @@ publishDate: 2021-09-22
 image: https://i.imgur.com/tVFtUaA.png
 sponsor: awari
 categories:
-  - Opinião
   - Carreira
 tags:
   - carreira

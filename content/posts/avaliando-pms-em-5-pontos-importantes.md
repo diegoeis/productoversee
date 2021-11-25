@@ -7,8 +7,7 @@ date: 2021-03-10
 publishDate: 2021-03-10
 image: https://i.imgur.com/e6YdLtB.jpg
 categories:
-  - Opinião
-  - Tático
+  - Carreira
 tags:
   - carreira
   - liderança

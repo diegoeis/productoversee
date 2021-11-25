@@ -7,7 +7,7 @@ publishDate: 2021-06-25
 image: https://i.imgur.com/3kKGJKi.png
 type: post
 categories:
-  - Opinião
+  - Carreira
 tags:
   - carreira
   - product manager

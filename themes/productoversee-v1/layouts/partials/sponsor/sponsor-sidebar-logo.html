@@ -1,24 +1,11 @@
+{{ if (index .Site.Params.sponsor .Params.sponsor).active }}
 
-{{if .Params.sponsor }}
+<div class="po-sponsor-sidebar" id="sponsor-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
 
-  {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
-  <div class="po-sponsor-sidebar" id="sponsor-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
-
-    <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=sidebarLogo_ProductOversee&utm_campaign=parceria_ProductOversee" class="po-sidebar-logo-sponsor" id="logo-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
-      <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Logo do patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}" data-event="lnk-sponsor-sidebarLogo">
-    </a>
-
-  </div>
-
-
-  {{end}}
-
-{{else}}
-<div class="po-banner-sidebar" id="banner-pg">
-
-	<a href="https://www.productgurus.com.br/clube?utm_source=ProductOversee&utm_medium=sidebarBanner_ProductOversee&utm_campaign=banner_ProductOversee" class="po-banner-sidebar-lnk" id="po-banner-pg">
-		<img src="/images/banner-product-oversee.jpg" alt="Conheça o único clube de benefícios pra Product Managers" data-event="lnk-banner-sidebar">
-	</a>
+  <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}?utm_source=ProductOversee&utm_medium=sidebarLogo_ProductOversee&utm_campaign=parceria_ProductOversee" class="po-sidebar-logo-sponsor" id="logo-{{ (index .Site.Params.sponsor .Params.sponsor).name }}">
+    <img src="{{ (index .Site.Params.sponsor .Params.sponsor).logo }}" alt="Logo do patrocinador - {{ (index .Site.Params.sponsor .Params.sponsor).name }}" data-event="lnk-sponsor-sidebarLogo">
+  </a>
 
 </div>
+
 {{end}}

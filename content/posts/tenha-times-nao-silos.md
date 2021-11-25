@@ -8,7 +8,6 @@ type: post
 feature_post: true
 sponsor: awari
 categories:
-  - Opinião
   - Liderança
 tags:
   - times

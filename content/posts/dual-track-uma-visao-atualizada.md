@@ -9,7 +9,6 @@ type: post
 feature_post: true
 categories:
   - Tático
-  - Opinião
 tags:
   - framework
   - times
