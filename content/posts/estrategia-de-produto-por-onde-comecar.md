@@ -4,7 +4,7 @@ title: "Estratégia de produto: por onde começar"
 excerpt: A diferença entre o produto acontecer ou ser projetado
 authors: Pablo Silva
 date: 2021-12-01
-publishDate: 2021-11-24
+publishDate: 2021-12-01
 image: https://i.imgur.com/N4tMlZz.png
 sponsor: awari
 categories:
