@@ -8,15 +8,15 @@ layout: pages
 
 O PM Letter Oversee é uma letter feita para a comunidade brasileira de produtos digitais. Sabemos que informação abundante pode atrapalhar mais do que ajudar, por isso, ter acesso a bons conteúdos pode te ajudar a formar opinião mais rápido e melhor.
 
-## Todas as quartas
-Você recebe todas as quartas um breve texto abordando um assunto de interesse para quem faz produtos digitais. Embora a newsletter seja destinada para Product Managers, qualquer um que constrói produtos vai se sentir em casa. 
+## Todas às quartas
+Você recebe todas às quartas um texto abordando um assunto de interesse para quem constrói e gere produtos digitais. Embora a newsletter seja destinada para Product Managers, qualquer pessoa dessa área vai gostar dos textos.
 
 ## Regras da casa:
 
 - Nunca mandaremos spam;
 - Nunca floodaremos sua caixa de entrada;
 - Sempre mandaremos conteúdo relevante referentes a Produtos Digitais, incluindo: Negócios, Agile, Design, Desenvolvimento e claro Gestão de Pessoas e Produtos;
-- Nós limpamos a lista a cada 3 meses, removendo assinantes que não abriram qualquer das Letters nesse período. Apreciamos engajamento e qualidade, não número inchados;
+- Nós podemos limpamos a lista a cada 3 meses, removendo assinantes que não abriram qualquer das Letters nesse período. Apreciamos engajamento e qualidade, não números inchados;
 
 ## Quer escrever conosco?
 
