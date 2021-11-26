@@ -3,13 +3,13 @@ type: post
 title: Ganhos marginais
 excerpt: A experiência de uso do seu produto também acontece nos detalhes, e não somente no lançamento de novas funcionalidades
 authors: André Pimentel
-date: 07/08/2019
-tags: 
-- experiência
+date: 2019-08-07
+image: https://i.imgur.com/bb7jxQl.png
 categories:
-- Tático
-image: ""
-featured_post: false
+  - Tático
+tags:
+  - produto
+  - métricas
 ---
 
 Em 2002, Davi Brailsford foi convidado para liderar a equipe de ciclismo
@@ -21,7 +21,7 @@ Além do treinamento da equipe, Davi fez um trabalho minucioso
 encontrando diversos pequenos pontos de melhoria que normalmente eram
 deixados de lado pelas outras equipes.
 
-**Identificando pequenas melhorias**
+# Identificando pequenas melhorias
 
 - Davi descobriu pequenos detalhes que poderiam melhorar a aerodinâmica dos atletas, fazendo testes em um túnel de vento.
 - Nos caminhões de transporte, era comum haver muita poeira, que prejudicava as bicicletas. Eles resolveram pintar o chão dos caminhões de branco para facilitar a detecção de qualquer sujeira rapidamente.
@@ -30,14 +30,13 @@ deixados de lado pelas outras equipes.
 
 A lista inteira é bem maior. Individualmente, essas melhorias não
 geraram um grande resultado, mas quando somadas, os resultados foram
-expressivos.\
+expressivos.
 
-> ***Forget about perfection; focus on progression, and compound the
-> improvements.***\
+> **Forget about perfection; focus on progression, and compound the
+> improvements.**\
 > Davi Brailsford
 
-\
-**Resultados**
+# Resultados
 
 Em 2004 os resultados começaram a aparecer, quando dois de seus atletas
 ganharam medalhas de ouro nas Olimpíadas de verão - até então foi o
@@ -49,17 +48,17 @@ de ouro, de um total de dez. O mesmo aconteceu em Londres em 2012.
 Entre 2003 e 2013, ciclistas britânicos ganharam 59 campeonatos, em
 diferentes modalidades.
 
-**Ganhos marginais em Produtos Digitais**
+# Ganhos marginais em Produtos Digitais
 
 Anos atrás, a Amazon divulgou que a cada 100ms a mais na latência de seu
 site, as perdas em vendas poderiam chegar a 1%. Ou seja, um espaço de
 tempo tão curto quanto uma piscada de olhos, tinha um impacto bem
-representativo.\
-\
+representativo.
+
 Para o Walmart, cada segundo a menos no carregamento de páginas no E
 Commerce, trouxe 2% de aumento de receita.
 
-**Legal, mas meu produto não tem a escala da Amazon e do Walmart**
+# Legal, mas meu produto não tem a escala da Amazon e do Walmart
 
 Na Gestão de Produto temos diversas técnicas que chamamos de \"Product
 Discovery\", alguns exemplos:
@@ -72,7 +71,7 @@ Discovery\", alguns exemplos:
 Se você já fez alguma das atividades acima, sabe que muitas vezes temos
 como resultado uma lista grande de pequenas melhorias para o produto.
 Você até as coloca no seu backlog, mas depois de um tempo você vê que
-elas continuam lá, esperando para ser implementadas.\
+elas continuam lá, esperando para ser implementadas.
 
 Outra forma de identificar essas melhorias é fazer uma visita na área de
 atendimento da sua empresa, ver como é o dia a dia das pessoas que
@@ -82,7 +81,6 @@ usuários também.
 Lá você vai identificar muitas coisas relativamente simples e pequenas
 que você como PM deve melhorar no seu produto.
 
-\
 **A experiência de uso do seu produto também acontece nos detalhes, e
 não somente no lançamento de novas funcionalidades.**
 
