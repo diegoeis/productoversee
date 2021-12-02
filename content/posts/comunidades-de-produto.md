@@ -4,11 +4,11 @@ title: Comunidades de Produto
 excerpt: Por que as comunidades são importantes
 authors: André Pimentel
 date: 24/06/2019
-tags: comunidades
+image: https://i.imgur.com/hs3BqQW.png
 categories:
-- Opinião
-image: ""
-featured_post: false
+  - Opinião
+tags:
+  - comunidades
 ---
 
 Em 2016, fazia 10 anos que trabalhava na Locaweb - uma empresa

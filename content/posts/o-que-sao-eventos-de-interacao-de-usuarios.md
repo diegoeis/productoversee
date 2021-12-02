@@ -5,7 +5,6 @@ excerpt: Como entender o que s√£o eventos pode te ajudar a tomar melhores decis√
 authors: Arthur Martinho
 date: 2021-11-24
 image: https://i.imgur.com/cQ30Pqr.png
-sponsor: awari
 categories:
   - Indicadores e Dados
 tags:
