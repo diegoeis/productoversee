@@ -46,6 +46,8 @@ body {
   border-top: 5px solid var(--colorRed);
 }
 
+p small {font-size: .75rem !important;}
+
 a:hover,
 a:hover *,
 .po-list-text:hover h2,
@@ -68,6 +70,33 @@ hr {
 p strong {
   color: var(--colorBlackStrong);
   font-weight: 800;
+}
+
+table {
+  margin-bottom: 25px;
+  box-sizing: border-box;
+  border:  1px solid rgba(0,0,0,.1);
+  border-collapse: collapse;
+  font: 0.8rem/1.7 var(--fontDefault);
+}
+
+thead {
+  background: rgba(0, 0, 0, .1);
+}
+thead th {
+  font-weight: bold;
+  padding: 10px;
+  text-transform: uppercase;
+  border-bottom:  1px solid rgba(0,0,0,.1);
+}
+
+tbody tr {
+}
+
+tbody td, tbody th {
+  min-width: 200px;
+  border-bottom:  1px solid rgba(0,0,0,.1);
+  padding: 20px;
 }
 
 /*** AUTHORS LIST ***/

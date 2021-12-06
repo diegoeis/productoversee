@@ -5,6 +5,7 @@ excerpt: Os riscos sempre vão estar presentes
 authors: Pablo Silva
 date: 2021-10-08
 publishDate: 2021-10-08
+featured_post: true
 image: https://i.imgur.com/PhFO4C4.png
 categories:
   - Tático

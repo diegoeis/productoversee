@@ -5,6 +5,7 @@ excerpt: 5 bons pontos para se avaliar e avaliar outras PMs
 authors: Diego Eis
 date: 2021-03-10
 publishDate: 2021-03-10
+featured_post: true
 image: https://i.imgur.com/e6YdLtB.jpg
 categories:
   - Carreira

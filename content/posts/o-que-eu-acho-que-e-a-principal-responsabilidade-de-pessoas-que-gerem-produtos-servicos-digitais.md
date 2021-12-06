@@ -6,6 +6,7 @@ authors: Diego Eis
 publishDate: 2021-11-10
 date: 2021-11-10
 image: https://i.imgur.com/06U9AIP.png
+featured_post: true
 categories:
   - Opinião
   - Carreira

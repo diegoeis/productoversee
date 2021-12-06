@@ -29,4 +29,4 @@ Nós estamos comprometidos a influenciar a evolução do mercado, nos dedicando 
 
 ---
 
-Agradecimento ao nosso designer predileto que nos guiou em toda a ideação da nossa personalidade e marca: [Conrado Cotomacio](https://www.behance.net/ConradoPoke). <3 
+<small style="text-align: center; display: inline-block;">Agradecimento ao nosso designer predileto que nos guiou em toda a ideação da nossa personalidade e marca:<br> **[Conrado Cotomacio](https://www.behance.net/ConradoPoke)**. <3</small>
