@@ -53,6 +53,13 @@ a:hover *,
 .po-list-text:hover h2,
 .po-list-text:hover h2 ~ p {color: #ff0000 !important;}
 
+.po-hide-mobile {display: none !important;}
+
+@media only screen and (min-width: 900px) {
+  .po-hide-mobile {display: block !important;}
+}
+
+
 @media only screen and (max-width: 900px) {
   ul,
   ol {
@@ -90,13 +97,24 @@ thead th {
   border-bottom:  1px solid rgba(0,0,0,.1);
 }
 
-tbody tr {
+tbody th {
+  font-size: 1rem;
 }
 
 tbody td, tbody th {
   min-width: 200px;
   border-bottom:  1px solid rgba(0,0,0,.1);
   padding: 20px;
+}
+
+
+@media only screen and (max-width: 900px) {
+  table thead th,
+  table tbody th,
+  table tbody td {
+    display: block;
+    text-align: center;
+  }
 }
 
 /*** AUTHORS LIST ***/
@@ -155,6 +173,8 @@ span.po-list-categs {
 }
 
 .Kind-is-home #po-header {border: none;}
+
+#po-header .po-btn-mini {margin-left: 25px;}
 
 #po-header > .po-container {
   padding: 25px 20px;
@@ -503,7 +523,7 @@ input[type="text"], .po-newsletter-footer .email_type {
 /****
 ** BUTTONS
 *****/
-.po-btn, .po-newsletter-footer #submit-button {
+.po-btn, .po-newsletter-footer #submit-button, .po-btn-mini {
   display: inline-block;
   background: var(--colorBlack);
   color: #fff;
@@ -515,10 +535,15 @@ input[type="text"], .po-newsletter-footer .email_type {
   vertical-align: middle;
 }
 
-.po-btn:hover, .po-newsletter-footer #submit-button:hover {
+.po-btn:hover, .po-newsletter-footer #submit-button:hover, .po-btn-mini:hover {
   background: #4F4F4F;
   color: #fff;
   text-decoration: none;
+}
+
+.po-btn-mini {
+  padding: 3px 7px;
+  font-size: .75rem;
 }
 
 /*****
