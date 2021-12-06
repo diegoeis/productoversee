@@ -21,22 +21,22 @@ Abaixo, seguem algumas opções para que você possa nos ajudar a manter esse pr
 	<tbody>
 		<tr>
 			<th>R$5 / Mês</th>
-			<td>Apoio mensal com R$ 5.  Nesse plano, você fica sabendo de novas iniciativas antes de todo mundo.</td>
+			<td>Seja uma apoiador(a) recorrente. Apoio mensal com R$ 5. Nesse plano, você fica sabendo de novas iniciativas antes de todo mundo.</td>
 			<td><a href="https://buy.stripe.com/eVa8wx1C29mKdd67st" target="_new" class="po-btn" data-event="click-plan-5">Contribuir</a></td>
 		</tr>
 		<tr>
 			<th>R$50 / Ano</th>
-			<td>Apoio anual com R$ 50. Nesse plano, você fica sabendo de novas iniciativas e ainda tem prioridade.</td>
+			<td>Seja uma apoiador(a) recorrente. Apoio anual com R$ 50. Nesse plano, você fica sabendo de novas iniciativas e ainda tem prioridade.</td>
 			<td><a href="https://buy.stripe.com/4gw6op0xYbuSgpi000" target="_new" class="po-btn" data-event="click-plan-50">Contribuir</a></td>
 		</tr>
 		<tr>
-			<th>R$70 / One Time</th>
+			<th>R$70 / Doação</th>
 			<td>Apoio pontual com R$ 70. Aqui você não se compromete mensalmente, mas nos ajuda MUITO a manter o projeto.</td>
 			<td><a href="https://buy.stripe.com/fZedQR4OefL86OI147" target="_new" class="po-btn" data-event="click-plan-70">Contribuir</a></td>
 		</tr>
 		<tr>
-			<th>R$100 / One Time</th>
-			<td>Apoio incrível com R$ 100. Aqui você não se compromete mensalmente, mas nos ajuda MUITO a manter o projeto além de ganhar gratiluz do Diego do Pablo.</td>
+			<th>R$100 / Diação</th>
+			<td>Apoio incrível com R$ 100. Aqui você não se compromete mensalmente, mas essa doação nos ajuda MUITO a manter o projeto além de ganhar gratiluz do Diego do Pablo.</td>
 			<td><a href="https://buy.stripe.com/3cs5klcgG0Qe1uocMO" target="_new" class="po-btn" data-event="click-plan-100">Contribuir</a></td>
 		</tr>
 	</tbody>
