@@ -6,7 +6,6 @@ authors: Pablo Silva
 date: 2021-12-01
 publishDate: 2021-12-01
 image: https://i.imgur.com/N4tMlZz.png
-sponsor: awari
 categories:
   - Estratégia
 tags:
