@@ -104,12 +104,13 @@ strong {font-weight: 900 !important;}
 .po-donate-sidebar {
   background: #FDFBEC;
   padding: 15px;
+  margin-top: 50px;
   text-align: center;
 }
 
 .po-donate-sidebar h4 {text-transform: uppercase;}
 
-.po-donate-sidebar p {margin-bottom:  10px}
+.po-donate-sidebar p {margin-bottom: 20px}
 
 
 /*****
