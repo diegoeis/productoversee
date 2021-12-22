@@ -30,7 +30,7 @@
           <a href="{{ .Permalink }}">
             <figure>
                 <!-- <a href="#" class="sponsor-stamp"><img src="https://awari.com.br/wp-content/themes/awari/dist/img/awari@3x.webp" alt=""></a> -->
-              <img src="{{ .Params.image }}" alt="" data-event="lnk-medium-posts">
+              {{if .Params.image}}<img src="{{ .Params.image }}" data-event="lnk-medium-posts" alt="">{{else}}<img src="/images/missing.jpg" data-event="lnk-medium-posts">{{end}}
             </figure>
           </a>
           <ul class="po-list-categs">
@@ -63,7 +63,7 @@
     {{end}}
       <a href="{{ .Permalink }}" id="po-middle-post">
         
-        <img src="{{ .Params.image }}" alt="">
+        {{if .Params.image}}<img src="{{ .Params.image }}" alt="">{{else}}<img src="/images/missing.jpg">{{end}}
         
         <h1>{{ .Title }}</h1>
         <p>{{ .Params.excerpt }}</p>
@@ -78,7 +78,7 @@
         <div>
             <figure>
               <a href="{{ .Permalink }}">
-                <img src="{{ .Params.image }}" alt=""  data-event="lnk-minor-posts">
+                {{if .Params.image}}<img src="{{ .Params.image }}" data-event="lnk-minor-posts" alt="">{{else}}<img src="/images/missing.jpg" data-event="lnk-minor-posts">{{end}}
               </a>
             </figure>
           <span>
