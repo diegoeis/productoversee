@@ -155,6 +155,14 @@ strong {font-weight: 900 !important;}
 
 .po-article-text p:first-child + hr {display: none;}
 
+.po-article-text pre {
+  font-size: .7rem;
+  overflow-wrap: break-word; 
+  word-break: break-all;
+  overflow: auto;
+
+}
+
 
 .po-single-img {
   height: 360px;
