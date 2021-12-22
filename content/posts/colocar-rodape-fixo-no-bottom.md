@@ -19,27 +19,25 @@ Existem duas formas mais modernas de se fazer isso hoje em dia. Uma é usando o 
 
 ## Flex
 
-<pre class="lang-html">
-&lt;html&gt;
-  &lt;body&gt;
-    &lt;section&gt;
-      &lt;header&gt;
-        Header
-      &lt;/header&gt;
-      &lt;main&gt;
-        Aqui vai o conteúdo
-      &lt;/main&gt;
-      &lt;footer&gt;
-        Aqui o Rodapé 
-      &lt;/footer&gt;
-    &lt;/section&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</pre>
+{{< highlight html >}}
+<section>
+  <header>
+    Header
+  </header>
+  <main>
+    Aqui vai o conteúdo
+  </main>
+  <footer>
+    Aqui o Rodapé 
+  </footer>
+</section>
+{{< / highlight >}}
+
 
 E agora o código CSS:
 
-<pre>
+{{< highlight css >}}
+
   html, body {
     width: 100%;
     height: 100%;
@@ -59,7 +57,7 @@ main {
 header, main, footer {
     flex-shrink: 0;
 }
-</pre>  
+{{< / highlight >}}
 
 Aqui vai o link do [Codepen pra você brincar](https://codepen.io/diegoeis-the-typescripter/pen/wvrrWgz).
 

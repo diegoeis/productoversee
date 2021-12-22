@@ -155,14 +155,26 @@ strong {font-weight: 900 !important;}
 
 .po-article-text p:first-child + hr {display: none;}
 
-.po-article-text pre {
+/*.po-article-text > pre {
   font-size: .7rem;
   overflow-wrap: break-word; 
   word-break: break-all;
   overflow: auto;
 
 }
+*/
 
+.highlight {
+  margin-bottom:  20px;
+}
+.highlight table td {
+  width:  auto !important;
+  min-width:  100% !important;
+}
+
+.highlight code {
+  color:  lightgray;
+}
 
 .po-single-img {
   height: 360px;
@@ -220,12 +232,12 @@ hr {
   margin-bottom: 0;
 }
 
-pre {
+/*pre {
   display: block;
   padding: 10px;
   background: #FFFADF;
   margin-bottom: 30px;
-}
+}*/
 
 .po-article-text h1 {
   font-size: 2rem;
