@@ -55,6 +55,17 @@ a:hover *,
 
 .po-hide-mobile {display: none !important;}
 
+.po-date {
+  display: block;
+  font: 0.8rem/1.7 var(--fontDefault);
+  padding-left: 10px;
+}
+
+a:hover .po-date {
+  color: black !important;
+  text-decoration: none !important;
+}
+
 @media only screen and (min-width: 900px) {
   .po-hide-mobile {display: block !important;}
 }
@@ -575,6 +586,8 @@ input[type="text"], .po-newsletter-footer .email_type {
   align-items: flex-start;
   justify-content: center;
 }
+
+.po-list-posts a:hover {text-decoration: none;}
 
 .po-list-posts li {
   flex: 1 0 300px;

@@ -22,6 +22,8 @@
             <figure>
               {{if .Params.image}}<img src="{{ .Params.image }}" alt="">{{else}}<img src="/images/missing.jpg">{{end}}
             </figure>
+            
+            <span class="po-date">{{ dateFormat "02/1/06" .Date.UTC }}</span>
 
             <h4 class="po-title-h4">{{ .Title }}</h4>
           </a>
