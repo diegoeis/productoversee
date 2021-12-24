@@ -12,6 +12,8 @@ type = "post"
 +++
 _Nós estamos_ [_inaugurando uma forma de você contribuir monetariamente_](https://pmletter.substack.com/subscribe?) _com o Product Oversee. São **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos._ [**_O que acha de nos apoiar_**](https://productoversee.com/apoie/)**_?_**
 
+Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há duas semanas atrás.
+
 ***
 
 [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441d1acd-3eb6-4ddc-929d-226cb9a8730d_730x380.jpeg =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441d1acd-3eb6-4ddc-929d-226cb9a8730d_730x380.jpeg)
