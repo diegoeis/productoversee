@@ -6,6 +6,7 @@ fields:
   name: type
   label: type
   default: post
+  hidden: true
 - type: text
   name: title
   label: title
@@ -18,6 +19,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY/MM/DD
 - type: datetime
   name: publishDate
   label: publishDate
@@ -27,9 +30,27 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Estratégia
+    - Indicadores
+    - Tátito
+    - Tech e Desenvolvimento
+    - Indicadores e Dados
+    - Opinião
+    - Liderança
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+    source:
+      type: simple
+      section: posts
+    options: []
 pages:
 - content/posts/5-dicas-para-melhorar-as-interacoes-com-os-stakeholders.md
 - content/posts/a-hierarquia-dos-marketplaces-por-sarah-tavel.md
