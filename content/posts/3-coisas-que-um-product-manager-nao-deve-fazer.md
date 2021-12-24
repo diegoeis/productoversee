@@ -1,6 +1,6 @@
 +++
 authors = "Diego Eis"
-categories = ["Opinião"]
+categories = ["Carreira", "Opinião"]
 date = 2022-01-17T03:00:00Z
 excerpt = "São 3 coisas bem simples que te ajudam a estragar relacionamentos"
 image = ""
