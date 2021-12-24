@@ -2,7 +2,6 @@
 authors = "Diego Eis"
 categories = ["Estratégia"]
 date = 2021-12-27T12:00:00Z
-draft = true
 excerpt = "Como marketplaces funcionam e quais os passos para criar negócios de sucesso baseados em marketplaces por uma investidora."
 image = ""
 publishDate = 2021-12-27T12:00:00Z
