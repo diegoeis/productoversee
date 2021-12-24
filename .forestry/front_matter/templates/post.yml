@@ -30,3 +30,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/posts/a-hierarquia-dos-marketplaces-por-sarah-tavel.md
