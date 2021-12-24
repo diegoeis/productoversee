@@ -3,7 +3,7 @@ type: post
 title: North Metric? Acho que não
 excerpt: Uma North Metric é o resultado de uma série de ações
 authors: Diego Eis
-date: 30/10/2019
+date: 2019-10-30
 tags: 
   - métricas
 categories:

@@ -14,7 +14,23 @@
 
 
   <div class="po-container">
-    <ul class="po-list-posts">
+{{ range .Site.RegularPages.GroupByDate "1/2006" }}
+
+<h2 class="po-titlelist-all">{{ .Key }} ({{ len .Pages }})</h2>
+
+<table id="po-list-all">
+    {{ range .Pages }}
+    <tr>
+      <td><a href='{{ "/authors/" | relLangURL }}{{ .Params.authors | urlize }}?utm_source=po_all_posts&utm_medium=link_author_name&utm_campaign=po_internal_link' class="po-author">Por {{ .Params.authors }}</a></td>
+      <th><a href="{{.Permalink}}">{{.Title}}</a></th> 
+      <td>{{ dateFormat "02/1/06" .Date.UTC }}<td>
+    </tr>
+    {{ end }}
+</table>
+{{ end }}
+
+    <!-- <ul class="po-list-posts">
+
       {{ range where .Site.RegularPages "Params.type" "post" }}
       
         <li>
@@ -31,7 +47,7 @@
             <a href='{{ "/authors/" | relLangURL }}{{ .Params.authors | urlize }}?utm_source=po_all_posts&utm_medium=link_author_name&utm_campaign=po_internal_link' class="po-author">Por {{ .Params.authors }}</a>
         </li>
       {{end}}
-    </ul>
+    </ul> -->
   </div>
     
 </section>

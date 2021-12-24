@@ -118,6 +118,17 @@ tbody td, tbody th {
   padding: 20px;
 }
 
+.po-titlelist-all {
+  font: bold 1.4rem/1.5 var(--fontDefault);
+}
+
+#po-list-all {width: 100%;}
+#po-list-all th {
+  text-align: left;
+  font-weight: 500;
+  width: 70%;
+}
+
 
 @media only screen and (max-width: 900px) {
   table thead th,

@@ -3,7 +3,7 @@ type: post
 title: Os 13 tipos de Network Effect
 excerpt: Entendendo os 13 tipos de efeito de rede que podem ser aplicados no seu produto
 authors: Diego Eis
-date: 11/09/2019
+date: 2019-09-11
 image: https://i.imgur.com/z1KT9rE.png
 categories:
 - Estratégia

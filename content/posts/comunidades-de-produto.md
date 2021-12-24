@@ -3,7 +3,7 @@ type: post
 title: Comunidades de Produto
 excerpt: Por que as comunidades são importantes
 authors: André Pimentel
-date: 24/06/2019
+date: 2019-06-24
 image: https://i.imgur.com/hs3BqQW.png
 categories:
   - Opinião

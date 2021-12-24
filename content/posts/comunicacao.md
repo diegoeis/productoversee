@@ -3,7 +3,7 @@ type: post
 title: Comunicação
 excerpt: "A habilidade que pode dar sucesso ou destruir a carreira das pessoas que gerem produtos."
 authors: André Pimentel
-date: 18/09/2019
+date: 2019-09-18
 tags: 
 - carreira
 categories:

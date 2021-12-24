@@ -3,7 +3,7 @@ type: post
 title: Onde está o valor dos Produtos Digitais?
 excerpt: Quando o usuário percebe o valor do seu produto?
 authors: Diego Eis
-date: 31/07/2019
+date: 2019-07-31
 tags: 
 - experiência
 categories:
