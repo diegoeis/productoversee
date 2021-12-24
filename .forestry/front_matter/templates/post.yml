@@ -52,6 +52,7 @@ fields:
       section: posts
     options: []
 pages:
+- content/posts/3-coisas-que-um-product-manager-nao-deve-fazer.md
 - content/posts/5-dicas-para-melhorar-as-interacoes-com-os-stakeholders.md
 - content/posts/a-hierarquia-dos-marketplaces-por-sarah-tavel.md
 - content/posts/cuidado-com-os-okrs-de-promessas-de-fim-de-ano.md
