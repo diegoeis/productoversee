@@ -37,11 +37,11 @@ fields:
     options:
     - Estratégia
     - Indicadores
-    - Tátito
     - Tech e Desenvolvimento
     - Indicadores e Dados
     - Opinião
     - Liderança
+    - Tático
 - type: list
   name: tags
   label: tags
