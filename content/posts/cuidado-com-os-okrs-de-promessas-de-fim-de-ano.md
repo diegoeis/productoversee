@@ -1,6 +1,6 @@
 +++
 authors = "Luiz Corandin"
-categories = ["Tátito"]
+categories = ["Tático"]
 date = 2022-01-10T03:00:00Z
 excerpt = "Não prometa o que pode ter um efeito contrário, semelhante às promessas de fim de ano."
 image = ""
