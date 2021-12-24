@@ -41,6 +41,7 @@ fields:
     - Opinião
     - Liderança
     - Tático
+    - Carreira
 - type: list
   name: tags
   label: tags
