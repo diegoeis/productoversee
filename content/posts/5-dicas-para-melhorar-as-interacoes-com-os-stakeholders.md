@@ -10,11 +10,6 @@ title = "5 dicas para melhorar as interações com os stakeholders"
 type = "post"
 
 +++
-Já imaginou **duplicar sua remuneração** com projetos **part-time**? A [BossaBox](https://hubs.ly/Q010PsN10) te ajuda a ser **freelancer** do jeito certo. **Remuneração justa**. Projetos inovadores. Squads com os melhores profissionais do Brasil. Tudo isso **sem burocracia** e sem dor de cabeça. É só mandar bem no que você já faz: produto. Vamos nessa? [**Crie seu perfil de prolancer em 5 minutos**](https://hubs.ly/Q010PsN10)**.**
-
-[Crie seu perfil](https://hubs.ly/Q010PsN10)
-
-***
 
 [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a0a34fe-712b-457f-9b2e-ac8305fac789_730x380.png =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a0a34fe-712b-457f-9b2e-ac8305fac789_730x380.png)
 
