@@ -10,13 +10,11 @@ title = "5 dicas para melhorar as interações com os stakeholders"
 type = "post"
 
 +++
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a0a34fe-712b-457f-9b2e-ac8305fac789_730x380.png =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a0a34fe-712b-457f-9b2e-ac8305fac789_730x380.png)
-
 Outro dia, um PM que trabalha comigo me fez a seguinte pergunta: "O que exatamente os stakeholders esperam no dia a dia?". Eu fiquei pensando sobre essa pergunta e parei para pensar que não tinha feito nada estruturado ainda sobre o tema. Então juntei algumas das respostas que eu falei para ele e mais algumas outras ideias que surgiram depois disso e compilei neste texto 5 dicas para você ter uma boa interação com os stakeholders.
 
 Aqui vai!
 
-# Tenha uma mapa de stakeholders e o mantenha atualizado
+# Tenha um mapa de stakeholders e o mantenha atualizado
 
 Essa é a dica mais importante desse texto: mapeie quem são os seus stakeholders e os classifique de uma maneira que faça sentido para o seu contexto. Eu criei um mapa que particularmente eu uso no meu dia a dia.
 
