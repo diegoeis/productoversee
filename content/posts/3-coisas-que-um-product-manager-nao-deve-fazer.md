@@ -3,7 +3,7 @@ authors = "Diego Eis"
 categories = ["Carreira", "Opinião"]
 date = 2022-01-17T03:00:00Z
 excerpt = "São 3 coisas bem simples que te ajudam a estragar relacionamentos"
-image = ""
+image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e090eb5-b3a3-479e-a4e2-d6a17ffd5510_730x380.jpeg"
 publishDate = 2022-01-17T12:00:00Z
 tags = []
 title = "3 coisas que um Product Manager não deve fazer"
@@ -15,8 +15,6 @@ _Nós estamos_ [_inaugurando uma forma de você contribuir monetariamente_](http
 Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias atrás. Fique sabendo primeiro lá.
 
 ***
-
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e090eb5-b3a3-479e-a4e2-d6a17ffd5510_730x380.jpeg =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e090eb5-b3a3-479e-a4e2-d6a17ffd5510_730x380.jpeg)
 
 Ser um Product Manager é chato. Muita gente acha que existe um glamour em ser a pessoa por trás do produto e é isso que seduz muita gente desavisada. O ponto é: não existe só uma pessoa por trás de um produto, mas um time inteiro. Uma empresa inteira. Logo, alguns PMs insistem em cair nas armadilhas da vida. Separei 3 coisas que na minha opinião, ajudam a esfolar a relação do PM com o resto da empresa:
 
