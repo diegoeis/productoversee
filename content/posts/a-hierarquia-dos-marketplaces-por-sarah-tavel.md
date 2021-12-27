@@ -3,7 +3,7 @@ authors = "Diego Eis"
 categories = ["Estratégia"]
 date = 2021-12-27T12:00:00Z
 excerpt = "Como marketplaces funcionam e quais os passos para criar negócios de sucesso baseados em marketplaces por uma investidora."
-image = ""
+image = "/uploads/group-82.jpg"
 publishDate = 2021-12-27T12:00:00Z
 tags = ["sara-tavel"]
 title = "A hierarquia dos marketplaces por Sarah Tavel"
@@ -11,9 +11,7 @@ type = "post"
 
 +++
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441d1acd-3eb6-4ddc-929d-226cb9a8730d_730x380.jpeg =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441d1acd-3eb6-4ddc-929d-226cb9a8730d_730x380.jpeg)
-
-Uma das coisas que mudaram minha forma de pensar e que fizeram ter aquele "click" sobre gestão de produto conectado com negócio, foi buscar conteúdos não tradicionais sobre "Product Management". Foi aí que eu comecei a procurar pessoas que falavam sobre gestão de negócios de tecnologia e não sobre gestão de produtos em si. O Produto faz parte de um negócio e como trabalhamos em empresas de tecnologia, a estratégia do negócio é geralmente executada por meio do produto.
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441d1acd-3eb6-4ddc-929d-226cb9a8730d_730x380.jpeg)Uma das coisas que mudaram minha forma de pensar e que fizeram ter aquele "click" sobre gestão de produto conectado com negócio, foi buscar conteúdos não tradicionais sobre "Product Management". Foi aí que eu comecei a procurar pessoas que falavam sobre gestão de negócios de tecnologia e não sobre gestão de produtos em si. O Produto faz parte de um negócio e como trabalhamos em empresas de tecnologia, a estratégia do negócio é geralmente executada por meio do produto.
 
 Quando falamos sobre product management, essencialmente estamos falando sobre a execução do negócio. Já falei isso algumas vezes e várias pessoas podem ter ficado chateados, por que elas entraram na área de Product Management achando que estariam posicionadas níveis acima da operação. Coitadas. Aprenderam em qualquer cursinho gravado uma imagem romantizada do que é ser Product Manager... infelizmente, essa visão brilhante não é o caso real do nosso dia a dia.
 
