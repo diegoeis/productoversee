@@ -13,6 +13,12 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+  description: URL da imagem de destaque. Sugerimos subir no IMGUR
 - type: text
   name: authors
   label: authors
@@ -24,9 +30,6 @@ fields:
 - type: datetime
   name: publishDate
   label: publishDate
-- type: file
-  name: image
-  label: image
 - type: list
   name: categories
   label: categories
