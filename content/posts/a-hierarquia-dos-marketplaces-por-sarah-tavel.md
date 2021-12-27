@@ -26,7 +26,7 @@ Quando escalam, Marketplaces são negócios incríveis... mas que são difíceis
 
 Eu não gosto muito dessa ideia de escala forçada por subsidio, por que se for mal feito, o negócio fica refém do subsidio. Isso só funciona se conseguimos ter alavancas suficientes no produto e no negócio, que fazem os usuários engajarem o suficiente para terem seu LTV muito maior que o CAC;
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea5ee9d-68fb-4b1e-9654-071fcc8b42af_1211x637.png =728x579)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea5ee9d-68fb-4b1e-9654-071fcc8b42af_1211x637.png)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea5ee9d-68fb-4b1e-9654-071fcc8b42af_1211x637.png)
 
 A Sarah fala que existe uma hierarquia para entender, criar e manter marketplaces. Essa hierarquia é formada por:
 
@@ -46,7 +46,7 @@ Por que o Uber ganhou a guerra dos taxis em NY? Não importava o quanto o taxi e
 
 Todos eles ganharam por que é totalmente irrelevante para o comprador (buyers) e para o vendedor (supply) o quão grande você é. Eles se importam mais sobre como você faz eles felizes versus outros serviços substitutos.
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bef0010-bc12-408b-acc3-38540b82fefe_1210x675.png =728x614)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bef0010-bc12-408b-acc3-38540b82fefe_1210x675.png)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bef0010-bc12-408b-acc3-38540b82fefe_1210x675.png)
 
 Consumidores tem expectativas sobre como suas necessidades serão resolvidas durante a experiência de uso do produto.
 
