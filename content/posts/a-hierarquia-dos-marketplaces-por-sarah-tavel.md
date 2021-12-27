@@ -76,11 +76,11 @@ Bom, agora que temos a proposta de valor fluindo pela plataforma e os usuários 
 
 Esse é o momento que eu falo sobre quando o LTV começa a compensar o CAC. É quando os usuários realmente se tornam leais às suas propostas de valor e entendem realmente como você está ajudando-os a resolver seus problemas e suas necessidades.
 
-![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd078db74-d0bb-4aed-8f2f-a329d5a9ca12_1206x628.png =728x573)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd078db74-d0bb-4aed-8f2f-a329d5a9ca12_1206x628.png=728x573)
 
 É interessante por que você cresce de acordo com a quantidade de pessoas "felizes" que usam seu produto. Ou seja, conforme você consegue afinar as alavancas que fazem seus usuários atingirem cada vez mais o Happy GMV, sua network effect passa a ser mais eficiente, e isso se reflete em crescimento de market share no mercado.
 
-![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F002109ca-94cc-4be0-899b-7594f34668ac_1218x686.png =728x620)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F002109ca-94cc-4be0-899b-7594f34668ac_1218x686.png=728x620)
 
 E conforme você começa a ter crescimento orgânico, tanto suppliers quanto buyers começam a perceber cada vez mais valor. É assim que um efeito de rede tem que ser: quanto mais usuários interagindo e trocando serviços, mais valorosa essa rede se torna e mais valor essa rede fornece para todas as pontas, criando um ciclo virtuoso.
 
@@ -88,7 +88,7 @@ E conforme você começa a ter crescimento orgânico, tanto suppliers quanto buy
 
 _É possível fazer isso criando um "back test" da sua base. Defina qual é o usuário mais valoroso da sua base, como o exemplo do Uber que a Sarah deu. Veja qual o comportamento em comum que esse segmento de usuário tem no seu produto. Entendendo esses comportamentos, você encontra quais as alavancas você precisa fazer com que os usuários usem para gerar replicação e criar novos usuários "felizes"._
 
-![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdccaa7bb-2276-402e-a331-179b64893051_1214x686.png =728x622)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdccaa7bb-2276-402e-a331-179b64893051_1214x686.png=728x622)
 
 O nosso trabalho dentro de produto e dentro do negócio, é identificar esses loops e maximizá-los de maneira que isso se torne cíclico e orgânico.
 
@@ -103,15 +103,15 @@ A Sarah diz que nem todos os mercados são suscetíveis a fazer esses loops. Exi
 
 ## Sobre o terceiro nível: Dominate
 
-![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3e22897-64bb-48c3-8485-0ad57f524b9b_1215x688.png =728x623)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3e22897-64bb-48c3-8485-0ad57f524b9b_1215x688.png=728x623)
 
 Ser o primeiro não é o suficiente. Quanto maior você é em relação ao segundo lugar na sua categoria ou no mercado, menor vai ser a necessidade de subsidio de crescimento você terá.
 
-![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fad9cce-f26b-4618-96a1-75650ff180e0_601x692.png =601x692)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fad9cce-f26b-4618-96a1-75650ff180e0_601x692.png=601x692)
 
 A forma com que você vai lidar com sua competição, depende do ambiente do ambiente. Se você for sortuda o bastante para atuar em um lugar sem competidores, você só tem um propósito: explorar e conquistar o campo.
 
-![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3bb8c7c-ef0c-4136-a017-f16e6736185b_1214x682.png =728x618)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3bb8c7c-ef0c-4136-a017-f16e6736185b_1214x682.png=728x618)
 
 Essa parte é bastante interessante, por que ela mostra que é importante procurar casos de uso já validados no mercado. Exemplo do uber que começou com um serviço mais caro e depois deixou mais barato. Ou o Etsy que começou com artesanato e depois abriu para outras alternativas.
 
