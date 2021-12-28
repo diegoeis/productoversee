@@ -18,7 +18,7 @@ Aqui vai!
 
 Essa é a dica mais importante desse texto: mapeie quem são os seus stakeholders e os classifique de uma maneira que faça sentido para o seu contexto. Eu criei um mapa que particularmente eu uso no meu dia a dia.
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa3fa6dc-a989-423f-90f0-86e2b241bf11_1000x999.jpeg =728x999)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa3fa6dc-a989-423f-90f0-86e2b241bf11_1000x999.jpeg)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa3fa6dc-a989-423f-90f0-86e2b241bf11_1000x999.jpeg)
 
 Diferentemente de alguns outros mapas que existem por aí, que classificam os stakeholders por grau de influência e poder eu prefiro classificá-los levando em consideração o quanto eles tem que participar do processo decisório da seguinte maneira
 
@@ -80,7 +80,7 @@ Roadmaps se tornaram algo polêmico na comunidade, mas eu ainda os vejo como uma
 
 Eu realmente não concordo em usar roadmaps como se você estivesse escrevendo em pedra. Se for dessa forma, é melhor não ter mesmo. Mas se usado da forma correta, é algo visual que ajuda muito a alinhar de forma assíncrona o que estamos validando e de fato desenvolvendo no momento. [O próprio Miro tem vários templates prontos](https://miro.com/app/dashboard/?tpTemplate=product-development-roadmap&isCustom=false&invite_link_id=265672184046).
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3ef90f2-db7d-43b2-82af-a04e9852a553_1136x758.png =728x734)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3ef90f2-db7d-43b2-82af-a04e9852a553_1136x758.png)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3ef90f2-db7d-43b2-82af-a04e9852a553_1136x758.png)
 
 As pessoas se sentem inseguras sem saber o que está acontecendo, é normal, principalmente se elas estão sofrendo pressão do outro lado por entregas. Você pode usar qualquer ferramenta de comunicação visual, mas tenha certeza que as pessoas que tem a necessidade de entender o que está acontecendo, consigam entender.
 
