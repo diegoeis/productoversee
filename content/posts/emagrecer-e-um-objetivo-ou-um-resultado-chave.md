@@ -6,7 +6,6 @@ authors: Luiz Corandin
 date: 2021-12-15
 publishDate: 2021-12-15
 image: https://i.imgur.com/xdUzZ0S.png
-sponsor: awari
 categories:
   - Indicadores e Dados
   - Estratégia

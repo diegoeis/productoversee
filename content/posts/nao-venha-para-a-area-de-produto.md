@@ -6,7 +6,6 @@ authors: Danielle Dauster
 date: 2021-12-22
 publishDate: 2021-12-22
 image: https://i.imgur.com/IEPGzxE.png
-sponsor: awari
 categories:
   - Carreira
   - Opinião
