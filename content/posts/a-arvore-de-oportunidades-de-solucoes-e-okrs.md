@@ -1,10 +1,9 @@
 ---
 type: post
-title: A árvore de soluções de oportunidades e ORKs
+title: A árvore de oportunidades de soluções e OKRs
 excerpt: Visualizar a estratégia para tomar decisões estruturadas
 authors: Diego Eis
 date: 2020-02-12
-featured_post: false
 publishDate: 2020-02-12
 image: https://i.imgur.com/6CVP0zH.png
 sponsor: awari
