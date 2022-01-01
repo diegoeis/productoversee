@@ -1,20 +1,19 @@
 <ul>
 	{{ range $author_name, $taxonomy := .Site.Taxonomies.authors }}
 		<li><a href="{{ .Page.Permalink }}">{{ $author_name }}</a> {{ .Count }}</li>
+
 	{{ end }}
 </ul>
 
 
 {{ range .Site.RegularPages.GroupByDate "2006-1" }}
-<h2>{{ .Key }}
- ({{ len .Pages }})</h2>
-
 <table id="list">
     {{ range .Pages}}
     <tr>
         <td>{{- .Params.authors -}}		
 </td>
         <td><a href="{{.Permalink}}">{{.Title}}</a></td> 
+        <td>{{ .Date.Format "January 2006" }}<td>
         <td>{{ .Date.Format "Mon, Jan 2, 2006" }}<td>
        </tr>
     {{ end }}
