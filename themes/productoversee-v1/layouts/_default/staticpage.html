@@ -12,7 +12,8 @@
     <tr>
         <td>{{- .Params.authors -}}</td>
         <td><a href="{{.Permalink}}">{{.Title}}</a></td> 
-        <td>{{ .Date.Format "January 2006" }}<td>
+        <td>{{ .Date.Format "January" }}<td>
+        <td>{{ .Date.Format "2006" }}<td>
         <td>{{ .Date.Format "Mon, Jan 2, 2006" }}<td>
        </tr>
     {{ end }}
