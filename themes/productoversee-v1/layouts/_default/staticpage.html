@@ -6,17 +6,16 @@
 </ul>
 
 
-{{ range .Site.RegularPages.GroupByDate "2006-1" }}
 <table id="list">
+{{ range .Site.RegularPages.GroupByDate "2006-1" }}
     {{ range .Pages}}
     <tr>
-        <td>{{- .Params.authors -}}		
-</td>
+        <td>{{- .Params.authors -}}</td>
         <td><a href="{{.Permalink}}">{{.Title}}</a></td> 
         <td>{{ .Date.Format "January 2006" }}<td>
         <td>{{ .Date.Format "Mon, Jan 2, 2006" }}<td>
        </tr>
     {{ end }}
-</table>
 {{ end }}
+</table>
 
