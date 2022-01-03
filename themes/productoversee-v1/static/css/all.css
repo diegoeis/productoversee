@@ -174,14 +174,14 @@ tbody td, tbody th {
 }
 
 .po-list-categs li {display: inline;}
-.po-list-categs li:after {content: ", "; color: #ff0000;}
+.po-list-categs li:after {content: ", "; font-size: 0.7rem; color: #ff0000;}
 .po-list-categs li:last-child:after {display: none;}
 
 .po-list-categs li a,
 span.po-list-categs {
   display: inline-block;
   color: #ff0000 !important;
-  font: normal 0.8rem var(--fontDefault);
+  font: normal 0.7rem var(--fontDefault);
 }
 
 .po-featured-list .po-list-categs a,
@@ -463,15 +463,17 @@ a.lnk-all-articles {padding-left: 30px}
 }
 
 .po-minimenu ul li ul {
+  background: #fff;
   display: none;
-  width:  110px;
+  width:  180px;
   position: absolute;
   top: 15px;
   left:  50%;
-  margin-left: -55px;
+  margin-left: -90px;
   padding-top: 5px;
 }
 .po-minimenu ul li:hover ul {display: block;}
+.po-minimenu ul li:hover span {font-weight: bold;}
 
 .po-minimenu ul li ul li {
   display: block;
