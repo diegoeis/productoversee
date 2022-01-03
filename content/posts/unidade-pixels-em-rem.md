@@ -3,6 +3,7 @@ title: Qual unidade utilizar – Pixel, EM ou REM
 authors: Diego Eis
 type: post
 date: 2012-09-03
+url: /unidade-pixels-em-rem/
 excerpt: Entenda mais sobre as duas unidades prediletas pelos desenvolvedores.
 categories:
   - Tech e Dev
