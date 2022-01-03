@@ -207,13 +207,14 @@ span.po-list-categs {
 .po-logo {
   flex: 1; 
   position: relative;
+  max-width: 250px;
 }
 
 .po-logo a {
   overflow: hidden;
   text-indent: -8888px;
   display: block;
-  max-width: 260px;
+  max-width: 200px;
   width: 100%;
   height: 90px;
   margin: 0 auto;
@@ -451,7 +452,36 @@ a.lnk-all-articles {padding-left: 30px}
 
 .po-minimenu a {
   display: inline-block;
-  margin-right: 40px;
+}
+
+.po-minimenu ul li span {cursor: pointer;}
+.po-minimenu ul li {
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  padding: 0 10px;
+}
+
+.po-minimenu ul li ul {
+  display: none;
+  width:  110px;
+  position: absolute;
+  top: 15px;
+  left:  50%;
+  margin-left: -55px;
+  padding-top: 5px;
+}
+.po-minimenu ul li:hover ul {display: block;}
+
+.po-minimenu ul li ul li {
+  display: block;
+  text-align: left;
+}
+
+.po-minimenu ul li ul li a {
+  display: block;
+  padding: 3px 5px;
+  text-align: left;
 }
 
 .po-header-inner .po-minimenu {
@@ -465,7 +495,6 @@ a.lnk-all-articles {padding-left: 30px}
 }
 
 .po-header-inner .po-minimenu a {
-  margin-left: 40px;
   margin-right: 0;
   text-align: center;
 }
@@ -476,6 +505,7 @@ a.lnk-all-articles {padding-left: 30px}
   padding: 30px 0 0 20px;
   text-align: left;
 }
+#po-menu .po-container .po-minimenu span {display: none;}
 
 @media only screen and (max-width: 900px) {
   .po-logo {
@@ -767,6 +797,11 @@ a.po-lnk-backtop {
   display: block;
   max-width: 200px;
   margin: 0 auto 150px;
+}
+
+.po-page-text a {
+  text-decoration: underline;
+  color:  blue;
 }
 
 .po-about-text,
