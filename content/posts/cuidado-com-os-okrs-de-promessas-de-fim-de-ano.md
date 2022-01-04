@@ -1,10 +1,10 @@
 +++
 authors = "Luiz Corandin"
 categories = ["Tático"]
-date = 2022-01-10T03:00:00Z
+date = 2022-01-12T03:00:00Z
 excerpt = "Não prometa o que pode ter um efeito contrário, semelhante às promessas de fim de ano."
 image = ""
-publishDate = 2022-01-10T12:00:00Z
+publishDate = 2022-01-12T12:00:00Z
 tags = ["OKR"]
 title = "Cuidado com os OKRs de promessas de fim de ano"
 type = "post"
