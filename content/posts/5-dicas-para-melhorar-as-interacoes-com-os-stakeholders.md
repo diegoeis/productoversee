@@ -1,10 +1,10 @@
 +++
 authors = "Pablo Silva"
 categories = ["Tático", "Carreira"]
-date = 2022-01-05T11:00:00Z
+date = 2022-01-05
 excerpt = "Torne o seu dia a dia mais fácil e menos estressante "
 image = "https://i.imgur.com/TurzdMi.png"
-publishDate = 2022-01-05T11:00:00Z
+publishDate = 2022-01-05
 tags = ["stakeholders"]
 title = "5 dicas para melhorar as interações com os stakeholders"
 type = "post"
