@@ -3,7 +3,7 @@ authors = "Luiz Corandin"
 categories = ["Tático"]
 date = 2022-01-12T03:00:00Z
 excerpt = "Não prometa o que pode ter um efeito contrário, semelhante às promessas de fim de ano."
-image = ""
+image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df8d06d-3361-4443-b023-c6529741808d_730x380.jpeg"
 publishDate = 2022-01-12T12:00:00Z
 tags = ["OKR"]
 title = "Cuidado com os OKRs de promessas de fim de ano"
@@ -15,8 +15,6 @@ _Nós estamos_ [_inaugurando uma forma de você contribuir monetariamente_](http
 Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias atrás. Fique sabendo primeiro lá.
 
 ***
-
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df8d06d-3361-4443-b023-c6529741808d_730x380.jpeg =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df8d06d-3361-4443-b023-c6529741808d_730x380.jpeg)
 
 **OKRs ASPIRACIONAIS**
 
