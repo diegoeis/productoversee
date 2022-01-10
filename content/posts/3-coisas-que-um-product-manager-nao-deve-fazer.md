@@ -1,10 +1,10 @@
 +++
 authors = "Diego Eis"
 categories = ["Carreira", "Opinião"]
-date = 2022-01-19T03:00:00Z
+date = 2022-01-27T03:00:00Z
 excerpt = "São 3 coisas bem simples que te ajudam a estragar relacionamentos"
 image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e090eb5-b3a3-479e-a4e2-d6a17ffd5510_730x380.jpeg"
-publishDate = 2022-01-19T12:00:00Z
+publishDate = 2022-01-27T12:00:00Z
 tags = []
 title = "3 coisas que um Product Manager não deve fazer"
 type = "post"
