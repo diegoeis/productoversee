@@ -1,10 +1,10 @@
 +++
 authors = "Gabriel Leite"
 categories = ["Tático"]
-date = 2022-02-23T03:00:00Z
+date = 2022-03-09T03:00:00Z
 excerpt = "O que são alavancas em produtos com perfil de plataforma?"
 image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70d61f33-fb1b-484f-9ac6-51acf0edf29a_730x380.jpeg"
-publishDate = 2022-02-23T11:00:00Z
+publishDate = 2022-03-09T11:00:00Z
 tags = ["marketplace", "efeito de rede", "network effect", "plataforma"]
 title = "Alavancas de plataforma, o que são?"
 type = "post"
