@@ -10,7 +10,7 @@ title = "Alavancas de plataforma, o que são?"
 type = "post"
 
 +++
-_Nós estamos_ [_inaugurando uma forma de você contribuir monetariamente_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) _com o Product Oversee. São **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos._ [**_O que acha de nos apoiar_**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**_?_**
+_Agora você pode nos ajudar a manter o Product Oversee_ [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **_R$48/ano_** _ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos._ [**_O que acha de nos apoiar_**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**_?_**
 
 Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias atrás. Fique sabendo primeiro lá.
 
@@ -34,7 +34,7 @@ Ou seja, as alavancas podem gerar um efeito positivo ou um efeito negativo, tudo
 
 ## **Minha vivência com alavancas de crescimento**
 
-O ano era 2018 e depois dos _early adopters,_ entramos em momento de tração, cada vez mais leads entravam no nosso funil, o percentual de fechamento só aumentava e o Custo de Aquisição do Cliente (CAC) estava em queda. O cenário se apresentava favorável para uma Startup que busca se estabelecer no mercado, mas uma alavanca influenciava os indicadores do negócio. 
+O ano era 2018 e depois dos _early adopters,_ entramos em momento de tração, cada vez mais leads entravam no nosso funil, o percentual de fechamento só aumentava e o Custo de Aquisição do Cliente (CAC) estava em queda. O cenário se apresentava favorável para uma Startup que busca se estabelecer no mercado, mas uma alavanca influenciava os indicadores do negócio.
 
 Tínhamos um tempo médio de sucesso no onboarding de 15 dias. Nos dois primeiros meses de tração percebemos que esse prazo estava sendo um problema exponencial, uma bola de neve, entrava mais clientes novos do que atingíamos o sucesso no onboarding e mesmo com fidelização, o churn médio de clientes no onboarding era de 14% ao mês, muito mais do que os 6% mensais dos demais clientes.
 
@@ -42,11 +42,11 @@ Isso nos fez iniciar entrevistas e analisar o comportamento dos usuários. Após
 
 Este último, precisaria ser repetido por pelo menos 3 vezes, sendo que este gol, estava correlacionado a dependência da interação dos usuários mais ativos (recepção de das empresas clientes) com os usuários que realizavam a prestação de serviço para o cliente final, que até o momento, não tinha um entrega de valor direto da plataforma. Aliás, alguns deles enxergavam como uma ameaça, a plataforma vinha substituir a comanda em papel que fazia parte da sua rotina por mais de 20 anos.
 
-Isso representava o maior empecilho na adoção da plataforma, pois alongava o processo de onboarding. Percebemos que ⅔ dos churns do onboarding aconteciam devido a rejeição dos profissionais em abandonar as comandas de papel e ficarem sujeitos a comanda digital. Como era um desafio totalmente novo, fomos ao mercado realizar um Benchmarking para entender como as plataformas concorrentes estavam posicionadas, notamos um consenso na inclusão destas pessoas como usuários ativos da plataforma, mas com uma estratégia que gerava custo para o estabelecimento o uso da plataforma pelos profissionais de beleza. 
+Isso representava o maior empecilho na adoção da plataforma, pois alongava o processo de onboarding. Percebemos que ⅔ dos churns do onboarding aconteciam devido a rejeição dos profissionais em abandonar as comandas de papel e ficarem sujeitos a comanda digital. Como era um desafio totalmente novo, fomos ao mercado realizar um Benchmarking para entender como as plataformas concorrentes estavam posicionadas, notamos um consenso na inclusão destas pessoas como usuários ativos da plataforma, mas com uma estratégia que gerava custo para o estabelecimento o uso da plataforma pelos profissionais de beleza.
 
 Dessa forma, realizamos entrevistas com clientes ativos da base que já tinham sido usuários das plataformas estudadas no benchmarking, essa pesquisa apontou que mais de ¾ dos clientes consideraram essa monetização quando migraram para a nossa plataforma, logo ficou claro que não seria uma boa estratégia para o nosso negócio.
 
-A nossa estratégia foi semelhante à dos concorrentes, oferecemos a possibilidade de incluir estes usuários como ativos na plataforma, com tudo, diferenciada na monetização, não adotamos uma estratégia de cross selling ao incluir esses usuários. Definimos que iríamos prezar pelo efeito de rede e os usuários passariam a ter acesso gratuito à plataforma e com isso obtivemos uma adesão de 87% nos primeiros 2 meses. 
+A nossa estratégia foi semelhante à dos concorrentes, oferecemos a possibilidade de incluir estes usuários como ativos na plataforma, com tudo, diferenciada na monetização, não adotamos uma estratégia de cross selling ao incluir esses usuários. Definimos que iríamos prezar pelo efeito de rede e os usuários passariam a ter acesso gratuito à plataforma e com isso obtivemos uma adesão de 87% nos primeiros 2 meses.
 
 Com essa mudança de estratégia, adaptação do processo de vendas e do processo de onboarding, essa adesão foi refletida nos índices do onboarding, dois indicadores apontaram esse impacto positivo, o churn caiu para 6% e o período para sucesso no onboarding caiu para 9 dias. Essa maneira de condução do processo proporcionou um resultado final positivo da alavanca nos indicadores do negócio.
 
