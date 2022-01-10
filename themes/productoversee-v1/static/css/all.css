@@ -577,7 +577,7 @@ input[type="text"], .po-newsletter-footer .email_type {
 /****
 ** BUTTONS
 *****/
-.po-btn, .po-newsletter-footer #submit-button, .po-btn-mini {
+.po-btn, .po-newsletter-footer #submit-button, .po-btn-mini, .po-page-text .po-btn {
   display: inline-block;
   background: var(--colorBlack);
   color: #fff;
