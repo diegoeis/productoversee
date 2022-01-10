@@ -10,7 +10,7 @@ title = "Cuidado com os OKRs de promessas de fim de ano"
 type = "post"
 
 +++
-_Nós estamos_ [_inaugurando uma forma de você contribuir monetariamente_](https://pmletter.substack.com/subscribe?) _com o Product Oversee. São **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos._ [**_O que acha de nos apoiar_**](https://productoversee.com/apoie/)**_?_**
+_Nós estamos_ [_inaugurando uma forma de você contribuir monetariamente_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) _com o Product Oversee. São **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos._ [**_O que acha de nos apoiar_**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**_?_**
 
 Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias atrás. Fique sabendo primeiro lá.
 
