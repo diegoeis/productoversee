@@ -33,15 +33,18 @@
               {{if .Params.image}}<img src="{{ .Params.image }}" data-event="lnk-medium-posts" alt="">{{else}}<img src="/images/missing.jpg" data-event="lnk-medium-posts">{{end}}
             </figure>
           </a>
-          <ul class="po-list-categs">
+          <!-- <ul class="po-list-categs">
             {{ range .Params.categories }}
               <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
             {{ end }}
-          </ul>
-          <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-medium-posts">
-            <h2 data-event="lnk-medium-posts">{{ .Title }}</h2>
+          </ul> -->
+              <a href="/authors/{{ .Params.authors | urlize }}" class="po-author">{{ .Params.authors }}</a>
+
+          
+            <h2 data-event="lnk-medium-posts">
+            <a href="{{ .Permalink }}" class="po-list-text" data-event="lnk-medium-posts">{{ .Title }}</a></h2>
             <!-- <p>{{.Params.excerpt}}</p> -->
-          </a>
+          
         </div>
       {{ end }}
     </section>
@@ -82,11 +85,13 @@
               </a>
             </figure>
           <span>
-            <ul class="po-list-categs">
+            <!-- <ul class="po-list-categs">
               {{ range .Params.categories }}
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
-            </ul>
+            </ul> -->
+
+              <a href="/authors/{{ .Params.authors | urlize }}" class="po-author">{{ .Params.authors }}</a>
             <a href="{{ .Permalink }}" class="po-list-text">
               <h2 data-event="lnk-minor-posts">{{ .Title }}</h2>
               <!-- <p>{{.Params.excerpt}}</p> -->
@@ -122,15 +127,19 @@
             </a>
           </figure>
           <div>
-            <ul class="po-list-categs">
+<!--             <ul class="po-list-categs">
               {{ range .Params.categories }}
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
-            </ul>
-            <a href="{{ .Permalink }}">
-              <h4 class="po-title-h4" data-event="lnk-home-recommended">{{ .Title }}</h4>
+            </ul> -->
+              <a href="/authors/{{ .Params.authors | urlize }}" class="po-author">{{ .Params.authors }}</a>
+
+            
+              <h4 class="po-title-h4" data-event="lnk-home-recommended">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </h4>
+            
               <p data-event="lnk-home-recommended">{{if .Params.excerpt }}{{.Params.excerpt}}{{else}}{{.Summary}}{{end}}</p>
-            </a>
           </div>
         </li>
       {{ end }}

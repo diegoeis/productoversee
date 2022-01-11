@@ -6,6 +6,7 @@
   justify-content: flex-end;
   font-family: var(--fontDefault);
 }
+
 #po-featured-post {
   text-decoration: none; 
   color: #fff;
@@ -49,7 +50,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  font-family: var(--fontDefault);
 }
 
 .po-hor-list div {
@@ -83,9 +83,6 @@
 
 .po-hor-list .po-list-categs {padding-left: 10px; display: block;}
 
-.po-list-text {
-  padding: 0 10px;
-}
 
 .po-list-text:hover {text-decoration: none;}
 
@@ -130,7 +127,6 @@
 
 }
 
-
 .po-first-featured-post,
 .po-featured-list .po-post-vertical-list:first-child {
   /* flex: 1 0 300px; */
@@ -164,24 +160,25 @@
 .po-featured-list .po-post-vertical-list:first-child .po-list-categs,
 .po-featured-list .po-post-vertical-list:first-child h2,
 .po-featured-list .po-post-vertical-list:first-child p {
-  padding: 0 20px;
+  padding: 0 10px;
 }
 
 .po-first-featured-post h2,
 .po-featured-list .po-post-vertical-list:first-child h2,
 .po-featured-list .po-post-vertical-list:first-child h4.po-title-h4 {
-  width: 86%; 
-  font-size: 1.5rem;
-  padding-left: 20px;
+  width: 85%; 
+  padding-left: 10px;
 }
 
 .po-first-featured-post p,
 .po-featured-list .po-post-vertical-list:first-child p {
-  font: 1.2rem/1.7 var(--fontDefault);
   padding-top: 10px;
   max-width: 550px;
-  color: var(--colorGrayMedium)
+  font-weight: 400;
+  font-family: var(--fontSansSerif);
 }
+
+.po-featured-list .po-post-vertical-list:first-child .po-author {padding-left: 10px;}
 
 .po-featured-posts ul {
   list-style: none;
@@ -243,7 +240,6 @@
   flex-direction: row;
   align-items: flex-start;
   padding-bottom: 20px;
-  
 }
 
 .po-post-vertical-list figure {
@@ -255,12 +251,6 @@
   position: relative;
 }
 
-.po-latest-posts .po-post-vertical-list > figure:hover ~ div * {
-  color: var(--colorRed);
-  text-decoration: underline;
-}
-
-
 .po-post-vertical-list > img {
   max-width: 100%;
   position: absolute;
@@ -268,15 +258,6 @@
   transform: translateY(-50%);
 }
 
-.po-post-vertical-list figure:hover ~ div a h4,
-.po-first-featured-post figure:hover ~ a p,
-.po-first-featured-post figure:hover ~ a h2 {color: var(--colorRed); text-decoration: underline;}
-
-
-.po-post-vertical-list h2,
-.po-post-vertical-list h4 {
-  font: 500 0.9375rem var(--fontDefault);
-}
 
 @media (max-width: 950px)  {
   .po-latest-posts {
@@ -375,9 +356,9 @@
 
 .po-left-list a:hover ~ a h2 {color: var(--colorRed);}
 .po-top div {position: relative;}
+
 .po-top .po-left-list,
 .po-top .po-right-list {
-  font: 1rem var(--fontDefault);
   flex: 1 0 300px;
 }
 
@@ -406,11 +387,6 @@
   padding-right: 15px;
 }
 
-.po-top .po-right-list h2 {
-  font-weight: normal;
-  font-size: .8rem;
-}
-
 .po-top .po-left-list div {
   margin-bottom: 30px;
 }
@@ -423,7 +399,6 @@
 #po-middle-post {
   display: block;
   text-align: center;
-  font: 1.4rem var(--fontDefault);
 }
 #po-middle-post:hover {text-decoration: none;}
 #po-middle-post:hover * {
@@ -443,7 +418,6 @@
 }
 
 #po-middle-post p {
-  font-size: 1.1rem;
   line-height: 1.8;
   color: var(--colorGrayMedium);
   padding: 20px 30px;

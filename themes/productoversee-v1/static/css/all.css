@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;600;700&family=Noto+Serif+Display:wght@300;400;600;800&display=swap');
+@import url(fonts.css);
 @import url(form-newsletter.css);
 
 /**** VARIABLES ****/
@@ -8,9 +10,6 @@
   --colorBlackStrong: #000000;
   --colorGrayLight: #E5E5E5;
   --colorGrayMedium: #4F4F4F;
-  --fontDefault: "The Future Mono 02", monospace;
-  --fontMono: "The Future Mono 02", monospace;
-  --fontArticle: "Open Sans", arial, helvetica, sans-serif;
   --breakpoint: 900px;
 }
 
@@ -33,7 +32,7 @@ a {
 
 a:hover {
   color: #FF0000;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .po-container {
@@ -68,10 +67,7 @@ a:hover .po-date {
 
 @media only screen and (min-width: 900px) {
   .po-hide-mobile {display: block !important;}
-}
 
-
-@media only screen and (max-width: 900px) {
   ul,
   ol {
     list-style-position: inside;
@@ -118,10 +114,6 @@ tbody td, tbody th {
   padding: 20px;
 }
 
-.po-titlelist-all {
-  font: bold 1.4rem/1.5 var(--fontDefault);
-}
-
 #po-list-all {width: 100%;}
 #po-list-all th {
   text-align: left;
@@ -140,9 +132,6 @@ tbody td, tbody th {
 }
 
 /*** AUTHORS LIST ***/
-.po-authors-list {
-  font: 0.8rem/1.7 var(--fontDefault);
-}
 
 .po-authors-list a:hover {
   text-decoration: none;
@@ -180,8 +169,6 @@ tbody td, tbody th {
 .po-list-categs li a,
 span.po-list-categs {
   display: inline-block;
-  color: #ff0000 !important;
-  font: normal 0.7rem var(--fontDefault);
 }
 
 .po-featured-list .po-list-categs a,
@@ -192,9 +179,8 @@ span.po-list-categs {
 ****/
 #po-header {
   border-bottom: 1px solid var(--colorGrayLight);
+  padding: 30px 0px 20px;
 }
-
-.Kind-is-home #po-header {border: none;}
 
 #po-header .po-btn-mini {margin-left: 25px;}
 
@@ -202,26 +188,28 @@ span.po-list-categs {
   padding: 25px 20px;
   display: flex;
   justify-content: space-between;
+  /*align-items: flex-start;*/
 }
 
 .po-logo {
   flex: 1; 
   position: relative;
-  max-width: 250px;
 }
 
 .po-logo a {
   overflow: hidden;
   text-indent: -8888px;
   display: block;
-  max-width: 200px;
-  width: 100%;
-  height: 90px;
+  height: 80px;
   margin: 0 auto;
   background: url(../images/logo-bg-white.png?1) no-repeat center;
   background-size: contain;
-  position: relative;
-  left: 15px; /** para acertar a centralização do logo **/
+}
+
+.Kind-is-home .po-logo a {
+  max-width: 350px;
+  height: 100px;
+  /*background-image: url(../images/logo-oversee-vertical.png);*/
 }
 
 .po-header-tools {
@@ -243,7 +231,7 @@ span.po-list-categs {
   position: absolute;
   padding: 0 20px;
   right: 0;
-  top: 20px;
+  top: 10px;
   height: 20px;
 }
 
@@ -448,7 +436,6 @@ li.po-social-polinkedin a {background-position: -120px center;}
 a.lnk-all-articles {padding-left: 30px}
 
 /** SUPPORT HEADER MENU**/
-.po-minimenu, a.lnk-all-articles {font: .75rem/1.5 var(--fontDefault);}
 
 .po-minimenu a {
   display: inline-block;
@@ -523,45 +510,6 @@ a.lnk-all-articles {padding-left: 30px}
 
 .po-align-center {text-align: center !important;}
 
-/*****
-** TITLES
-*****/
-.po-title-h2 {
-  color: var(--colorBlack);
-  border-bottom: 1px solid var(--colorGrayLight);
-  font: bold 1.7rem var(--fontDefault);
-  padding-bottom: 30px;
-  margin: 70px 0 30px;
-  position: relative;
-}
-
-.po-title-h2:before {
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  content: "";
-  height: 4px;
-  background: var(--colorRed);
-  width: 120px;
-  display: block;
-}
-
-.po-align-center.po-title-h2:before {
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-
-.po-title-h3 {
-  color: var(--colorBlack);
-  font: bold 1.875rem/1.2 var(--fontDefault);
-}
-
-.po-title-h4 {
-  color: var(--colorBlack);
-  font: 0.9375rem/1.6 var(--fontDefault);
-}
-
 
 
 /****
@@ -580,9 +528,7 @@ input[type="text"], .po-newsletter-footer .email_type {
 .po-btn, .po-newsletter-footer #submit-button, .po-btn-mini, .po-page-text .po-btn {
   display: inline-block;
   background: var(--colorBlack);
-  color: #fff;
   cursor: pointer;
-  font: 0.9375rem var(--fontDefault);
   border: none;
   border-radius: 3px;
   padding: 10px 20px;
@@ -597,7 +543,6 @@ input[type="text"], .po-newsletter-footer .email_type {
 
 .po-btn-mini {
   padding: 3px 7px;
-  font-size: .75rem;
 }
 
 /*****
