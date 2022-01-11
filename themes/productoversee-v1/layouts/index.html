@@ -199,14 +199,16 @@
               </a>
             </figure>
           <div>
-            <ul class="po-list-categs">
+            <!-- <ul class="po-list-categs">
               {{ range .Params.categories }}
                 <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
               {{ end }}
-            </ul>
-            <a href="{{ .Permalink }}" class="po-list-text">
-              <h2 data-event="lnk-home-latest">{{ .Title }}</h2>
-            </a>
+            </ul> -->
+              <a href="/authors/{{ .Params.authors | urlize }}" class="po-author">{{ .Params.authors }}</a>
+            
+            
+              <h2 data-event="lnk-home-latest" class="po-list-text"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            
           </div>
         </li>
       {{ end }}

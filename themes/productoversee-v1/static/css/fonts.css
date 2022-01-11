@@ -5,8 +5,22 @@
   --fontArticle: "Open Sans", arial, helvetica, sans-serif;
 }
 
-.po-minimenu, a.lnk-all-articles {font: .75rem/1.5 var(--fontSansSerif);}
+.po-minimenu a, .po-minimenu span {font: .85rem/1.5 var(--fontSansSerif);}
 
+.po-authors-list .po-title-h2 a,
+.po-title-h2 a.lnk-all-articles {
+    font-size: .9rem;
+  font-weight: normal;
+}
+
+#po-menu .po-menu-categs a h2 {
+  font: bold 1.5rem/1 var(--fontDefault);
+}
+
+#po-menu .po-menu-categs a p {
+  font: 1rem/1.5 var(--fontSansSerif);
+  color: #4F4F4F;
+}
 
 /*****
 ** TITLES
@@ -101,6 +115,10 @@
   font: 300 1.8rem/1.5 var(--fontSansSerif);
 }
 
+.po-featured-list .po-post-vertical-list h4.po-title-h4 {
+  font-size: 1rem;  
+}
+
 .po-first-featured-post h2,
 .po-featured-list .po-post-vertical-list:first-child h2,
 .po-featured-list .po-post-vertical-list:first-child h4.po-title-h4 {
@@ -128,6 +146,24 @@ span.po-list-categs {
 
 .po-sidebar-author p a {
   font: 800 1.3rem/1.5 var(--fontDefault);
+}
+
+
+.po-authors-list h4,
+.po-authors-list a p {
+  margin-left: 75px; 
+  color: #4F4F4F;
+  font-family: var(--fontSansSerif);
+}
+
+.po-authors-list h4 {
+  margin-bottom: 5px;
+  font: 600 1.2rem var(--fontDefault);
+  color: #000;
+}
+
+.po-list-text {
+  font: 400 1rem var(--fontDefault);
 }
 
 /****

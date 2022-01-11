@@ -5,6 +5,7 @@ date = 2021-12-27T12:00:00Z
 excerpt = "Como marketplaces funcionam e quais os passos para criar negócios de sucesso baseados em marketplaces por uma investidora."
 image = "https://i.imgur.com/79xqVS8.png"
 publishDate = 2021-12-27T12:00:00Z
+featured_post = true
 tags = ["sara-tavel"]
 title = "A hierarquia dos marketplaces por Sarah Tavel"
 type = "post"

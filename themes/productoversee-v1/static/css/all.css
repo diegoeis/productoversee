@@ -137,13 +137,6 @@ tbody td, tbody th {
   text-decoration: none;
 }
 
-.po-authors-list h4 {font-weight: bold; margin-bottom: 5px;}
-.po-authors-list h4,
-.po-authors-list a p {
-  margin-left: 75px; 
-  color: #4F4F4F; 
-}
-
 .po-authors-list li {
   overflow: hidden;
   margin-bottom: 30px;
@@ -377,15 +370,12 @@ li.po-social-polinkedin a {background-position: -120px center;}
 }
 
 #po-menu .po-menu-categs a h2 {
-  font: bold 1.25rem/1 var(--fontDefault);
   transition: all linear .1s;
 }
 
 #po-menu .po-menu-categs a p {
   max-width: 265px;
   padding-top: 10px;
-  font: .75rem/1.5 var(--fontDefault);
-  color: #4F4F4F;
   transition: all linear .1s;
 }
 

@@ -233,12 +233,11 @@
   margin: 0 100px;
 }
 
-
 .po-post-vertical-list {
   position: relative;
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   padding-bottom: 20px;
 }
 
@@ -246,7 +245,7 @@
   flex: 1 0 188px;
   max-width: 188px;
   margin-right: 20px;
-  height: 125px;
+  /*height: 125px;*/
   overflow: hidden;
   position: relative;
 }
@@ -295,8 +294,6 @@
 
 .po-authors-list .po-title-h2 a,
 .po-title-h2 a.lnk-all-articles {
-  font-size: .9rem;
-  font-weight: normal;
   display: inline-block;
   float: right;
   padding-top: 10px;

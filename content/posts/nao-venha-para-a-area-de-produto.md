@@ -4,6 +4,7 @@ title: Não venha para a área de produto
 excerpt: O meu caminho das pedras
 authors: Danielle Dauster
 date: 2021-12-22
+featured_post: true
 publishDate: 2021-12-22
 image: https://i.imgur.com/IEPGzxE.png
 categories:
