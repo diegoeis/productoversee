@@ -9,7 +9,9 @@ Nossa proposta é influenciar a evolução do mercado de produtos, nos dedicando
 
 ## Envie seu primeiro artigo por aqui
 
-Para facilitar, você pode [enviar seu primeiro artigo por esse form](https://forms.gle/N5cHi8VvhBjDNzwY6). Não esqueça de nos dar acesso de edição. Preferimos Google DOCs.
+Para facilitar, você pode [enviar seu primeiro artigo pelo formulário abaixo](https://forms.gle/N5cHi8VvhBjDNzwY6). Não esqueça de nos dar acesso de edição. Preferimos Google DOCs.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhiZvYWBAro7Xb3wPPMgcJNkm3yuPa_yz2vOdlr8O1D7F95A/viewform?embedded=true" width="640" height="1288" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Como pagamos os autores?
 
