@@ -7,9 +7,11 @@ layout: pages
 
 Nossa proposta é influenciar a evolução do mercado de produtos, nos dedicando à evolução individual. Fazemos isso por diversos canais, mas um dos principais é a produção de conteúdo autoral. Nós somos porta-vozes. **Representamos opiniões diferentes**. _Defendemos a exploração da formação da expressão individual_, canalizando as vozes de profissionais que queiram formar um ambiente seguro de troca de ideias e argumentos, com o objetivo de estimular, provocar e interessar quem se dedica a ouvir e a participar dessa conversa. Por isso, sempre ficamos mais perto do nosso objetivo quando alguém quer contribuir para o projeto.
 
-## Envie seu primeiro artigo por aqui
+## Envie seu artigo por aqui
 
 Para facilitar, você pode [enviar seu primeiro artigo pelo formulário abaixo](https://forms.gle/N5cHi8VvhBjDNzwY6). Não esqueça de nos dar acesso de edição. Preferimos Google DOCs.
+
+Esse artigo cai direto no Trello para que outros autores possam revisar. Entraremos em contato contigo por e-mail.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhiZvYWBAro7Xb3wPPMgcJNkm3yuPa_yz2vOdlr8O1D7F95A/viewform?embedded=true" width="640" height="1288" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
