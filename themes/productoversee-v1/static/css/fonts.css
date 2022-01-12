@@ -1,6 +1,7 @@
 :root {
-  --fontDefault: "Noto Serif Display", "Bodoni Moda", "The Future Mono 02", monospace;
-  --fontMono: "The Future Mono 02", monospace;
+  --fontDefault: "Azeret Mono", Inconsolata, "The Future Mono 02", monospace;
+  --fontSerif: "Noto Serif Display", "Bodoni Moda", "The Future Mono 02", monospace;
+  --fontMono: "Azeret Mono", Inconsolata, "The Future Mono 02", monospace;
   --fontSansSerif: "Open Sans", arial, helvetica, sans-serif;
   --fontArticle: "Open Sans", arial, helvetica, sans-serif;
 }
@@ -8,10 +9,11 @@
 .po-minimenu a, .po-minimenu span {font: .85rem/1.5 var(--fontSansSerif);}
 
 .po-authors-list .po-title-h2 a,
-.po-title-h2 a.lnk-all-articles {
-    font-size: .9rem;
-  font-weight: normal;
+a.lnk-all-articles {
+  font: normal .9rem var(--fontDefault);
 }
+
+.po-header-tools a.lnk-all-articles {font-size: .8rem}
 
 #po-menu .po-menu-categs a h2 {
   font: bold 1.5rem/1 var(--fontDefault);
@@ -62,13 +64,17 @@
 }
 
 
-
 .po-author {
   color: var(--colorRed);
   display: inline-block;
   padding: 5px 0;
-  font: 400 .9rem var(--fontSansSerif);
+  font: 600 .6rem var(--fontSansSerif);
+  letter-spacing: .06rem;
+  text-transform: uppercase;
 }
+
+.po-author:hover {color:  #000!important; text-decoration: underline; }
+
 
 .po-titlelist-all {
   font: bold 1.4rem/1.5 var(--fontDefault);
@@ -89,7 +95,7 @@
 }
 
 #po-middle-post p {
-  font: 400 1.3rem var(--fontSansSerif);
+  font: 300 1.3rem/1.5 var(--fontSansSerif);
   color:  #000;
 }
 
@@ -103,7 +109,7 @@
 }
 
 .po-top .po-right-list h2 {
-  font: 400 1rem var(--fontDefault);
+  font: 300 0.8rem/1.4 var(--fontDefault)
 }
 
 
@@ -163,7 +169,7 @@ span.po-list-categs {
 }
 
 .po-list-text {
-  font: 400 1rem var(--fontDefault);
+  font: 400 .9rem/1.4 var(--fontDefault);
 }
 
 /****

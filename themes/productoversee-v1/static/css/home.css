@@ -145,7 +145,7 @@
   max-width: 100%;
   display: block;
   width: 655px;
-  height: 360px;
+  margin-bottom: 20px;
 }
 
 .po-first-featured-post .po-list-categs,
@@ -178,7 +178,7 @@
   font-family: var(--fontSansSerif);
 }
 
-.po-featured-list .po-post-vertical-list:first-child .po-author {padding-left: 10px;}
+.po-featured-list .po-post-vertical-list:first-child .po-author {padding: 0 0 20px 10px;}
 
 .po-featured-posts ul {
   list-style: none;
@@ -415,7 +415,6 @@
 }
 
 #po-middle-post p {
-  line-height: 1.8;
   color: var(--colorGrayMedium);
   padding: 20px 30px;
 }
