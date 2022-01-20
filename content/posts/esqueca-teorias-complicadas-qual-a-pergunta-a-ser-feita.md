@@ -1,16 +1,17 @@
 +++
 authors = "Lucas Juliano"
 categories = ["Liderança", "Carreira"]
-date = 2022-01-26T03:00:00Z
+date = 2022-01-19
 excerpt = "Procure o relevante e o essencial. Fuja da complexidade."
-image = ""
-publishDate = 2022-01-26T12:00:00Z
+image = "https://i.imgur.com/0Kuao9T.jpg"
+publishDate = 2022-01-19
 tags = []
 title = "Esqueça teorias complicadas: qual a pergunta a ser feita?"
 type = "post"
-
+sponsor = "awari"
 +++
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ec72dd3-a4ad-4e5c-b39b-b67ccee353fc_730x380.jpeg =728x380)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ec72dd3-a4ad-4e5c-b39b-b67ccee353fc_730x380.jpeg)Tomada de decisão é difícil. Mesmo em assuntos cotidianos, descobrir qual é a melhor opção não é fácil. Há sempre muito a ser considerado, e quanto mais se pensa, mais confuso se fica.
+
+Tomada de decisão é difícil. Mesmo em assuntos cotidianos, descobrir qual é a melhor opção não é fácil. Há sempre muito a ser considerado, e quanto mais se pensa, mais confuso se fica.
 
 O caminho “comum” para uma decisão é considerar cada um dos aspectos das opções antes de qualquer ação. Entretanto, existe uma maneira mais simples e fácil de se fazer que é explicada neste artigo: **perguntar**.
 
@@ -42,7 +43,7 @@ Mas como tudo isso se relaciona aos negócios? Há dois possíveis caminhos para
 
 Como definida pelo psicólogo Gerd Gigerenzer, em seu artigo [Heuristics: Tools for an Uncertain World](https://pure.mpg.de/rest/items/item_2175422/component/file_2175421/content):
 
-_“Heurísticas são ferramentas adaptativas que ignoram informação para fazer decisões rápidas e simples que são acuradas e robustas sob condições de incerteza”_.
+>“Heurísticas são ferramentas adaptativas que ignoram informação para fazer decisões rápidas e simples que são acuradas e robustas sob condições de incerteza”_.
 
 A definição é bem completa, com muitos pontos, mas três são chave para a discussão aqui: 1) ignorar informação; 2) tomar decisões rápidas e simples 3) sob condições de incerteza.
 
