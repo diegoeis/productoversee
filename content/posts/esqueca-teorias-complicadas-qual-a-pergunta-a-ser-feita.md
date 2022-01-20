@@ -1,10 +1,10 @@
 +++
 authors = "Lucas Juliano"
 categories = ["Liderança", "Carreira"]
-date = 2022-01-19
+date = 2022-01-26
 excerpt = "Procure o relevante e o essencial. Fuja da complexidade."
 image = "https://i.imgur.com/0Kuao9T.jpg"
-publishDate = 2022-01-19
+publishDate = 2022-01-26
 tags = []
 title = "Esqueça teorias complicadas: qual a pergunta a ser feita?"
 type = "post"
