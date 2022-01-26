@@ -1,6 +1,6 @@
 ---
 name: Danielle Dauster
-minibio: Product Owner na Lumis.
+minibio: Produteira do nordeste, apaixonada pelo universo tech, por livros e amante de um bom café.
 avatar: /images/authors/danielle-dauster.jpeg
 email:
 twitter:
@@ -9,5 +9,5 @@ site:
 other:
 ---
 
-Product Owner na Lumis.
+Produteira do nordeste, apaixonada pelo universo tech, por livros e amante de um bom café.
 
