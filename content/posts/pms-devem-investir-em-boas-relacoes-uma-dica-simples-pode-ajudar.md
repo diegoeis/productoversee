@@ -10,7 +10,7 @@ title = "PMs devem investir em boas relações: uma dica simples pode ajudar"
 type = "post"
 
 +++
-_Agora você pode nos ajudar a manter o Product Oversee_ [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **_R$48/ano_** _ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos._ [**_O que acha de nos apoiar_**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**_?_**
+Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
 
 Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias atrás. Fique sabendo primeiro lá.
 
