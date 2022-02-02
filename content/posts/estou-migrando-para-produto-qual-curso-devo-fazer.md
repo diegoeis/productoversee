@@ -1,10 +1,10 @@
 +++
 authors = "Danielle Dauster"
 categories = ["Opinião", "Carreira"]
-date = 2022-02-01T03:00:00Z
+date = 2022-02-09
 excerpt = "Uma breve descrição sobre como escolher cursos sobre gestão e qual foi minha jornada."
 image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd46f8668-fb3f-44ef-9117-79243399720e_730x380.jpeg"
-publishDate = 2022-02-01T03:00:00Z
+publishDate = 2022-02-09
 tags = ["mercado", "cursos"]
 title = "Estou migrando para produto, qual curso devo fazer?"
 type = "post"

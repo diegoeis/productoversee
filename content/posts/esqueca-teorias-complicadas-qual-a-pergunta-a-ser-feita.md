@@ -3,12 +3,11 @@ authors = "Lucas Juliano"
 categories = ["Liderança", "Carreira"]
 date = 2022-01-26
 excerpt = "Procure o relevante e o essencial. Fuja da complexidade."
-image = "https://i.imgur.com/0Kuao9T.jpg"
+image = "https://i.imgur.com/25Fcdzu.png"
 publishDate = 2022-01-26
 tags = []
 title = "Esqueça teorias complicadas: qual a pergunta a ser feita?"
 type = "post"
-sponsor = "awari"
 +++
 
 Tomada de decisão é difícil. Mesmo em assuntos cotidianos, descobrir qual é a melhor opção não é fácil. Há sempre muito a ser considerado, e quanto mais se pensa, mais confuso se fica.
