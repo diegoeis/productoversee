@@ -1,10 +1,10 @@
 +++
 authors = "Tiago Ferreira"
 categories = ["Carreira", "Opinião"]
-date = 2022-01-02
+date = 2022-02-02
 excerpt = "E se você tivesse o hábito de conversar com diferentes stakeholders uma vez por semana?"
 image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc94cba3-ba67-48e0-a97f-1ce19b8a80f5_730x380.jpeg"
-publishDate = 2022-01-02
+publishDate = 2022-02-02
 tags = ["alinhamento", "stakeholders"]
 title = "PMs devem investir em boas relações: uma dica simples pode ajudar"
 type = "post"
