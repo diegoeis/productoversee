@@ -10,6 +10,12 @@ title = "Priorização: o grande problema de quem gere produtos"
 type = "post"
 
 +++
+Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
+
+Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias (semanas?) atrás. Fique sabendo primeiro lá.
+
+***
+
 Priorização é difícil. Pra mim o problema atual das pessoas que gerem produtos é priorização. Isso se intensificou muito com a migração enorme de pessoas de outras áreas para Produto, mas tenho identificado esse problema desde quando eu era um Coordenador Técnico e lidava diretamente com PMs.
 
 Priorização é a arma mais importante e essencial da gestão de produtos. Só para citar alguns exemplos, a maioria das pessoas têm dificuldades de lidar com priorizações de:
