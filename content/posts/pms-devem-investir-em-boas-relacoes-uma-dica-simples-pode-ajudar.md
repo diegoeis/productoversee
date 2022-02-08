@@ -1,10 +1,10 @@
 +++
 authors = "Tiago Ferreira"
 categories = ["Carreira", "Opinião"]
-date = 2022-02-02
+date = 2022-02-02T00:00:00Z
 excerpt = "E se você tivesse o hábito de conversar com diferentes stakeholders uma vez por semana?"
 image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc94cba3-ba67-48e0-a97f-1ce19b8a80f5_730x380.jpeg"
-publishDate = 2022-02-02
+publishDate = 2022-02-02T00:00:00Z
 tags = ["alinhamento", "stakeholders"]
 title = "PMs devem investir em boas relações: uma dica simples pode ajudar"
 type = "post"
@@ -36,7 +36,7 @@ Digamos que você tenha acabado de entrar em uma nova empresa. Muito provavelmen
 
 A matriz RACI - em que listamos Responsáveis, Aprovadores, Consultados e Informados de determinado produto ou projeto - pode ajudar nesse primeiro momento, nessa matriz, listamos boa parte dos stakeholders envolvidos com o seu produto e podemos até mesmo ter uma ideia com quais deles dedicaremos mais tempo durante a etapa de construção de uma solução.
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd02d7cdc-e496-43d0-820c-73b369f0875b_668x317.png =668x317)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd02d7cdc-e496-43d0-820c-73b369f0875b_668x317.png)
+![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd02d7cdc-e496-43d0-820c-73b369f0875b_668x317.png =668x317)
 
 _Fonte: FIA (Fundação Instituto de Administração)_
 
