@@ -10,10 +10,7 @@ title = "AI Driven Products"
 type = "post"
 
 +++
-
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6674b7e-7f63-4168-ac24-f126dbcddd0f_640x360.jpeg =640x360)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6674b7e-7f63-4168-ac24-f126dbcddd0f_640x360.jpeg)
-
-Em uma época na qual, cada dia mais, humanos interagem com máquinas das mais diversas maneiras, nada mais natural do que se perguntar: **como utilizar essa tecnologia nos meus produtos e negócios?** Eu sou a Duda e, antes de entrarmos no tema central desta pequena série de artigos, quero dividir um pouco da minha jornada (que está apenas começando) até aqui. 
+Em uma época na qual, cada dia mais, humanos interagem com máquinas das mais diversas maneiras, nada mais natural do que se perguntar: **como utilizar essa tecnologia nos meus produtos e negócios?** Eu sou a Duda e, antes de entrarmos no tema central desta pequena série de artigos, quero dividir um pouco da minha jornada (que está apenas começando) até aqui.
 
 Cresci uma pessoa inquieta, fui daquelas crianças que têm diversas atividades extracurriculares: joguei vôlei, futsal, fiz dança, inglês e natação. Tudo ao mesmo tempo. Minhas tardes eram extremamente divertidas e cheias de compromissos.
 
@@ -27,7 +24,7 @@ E foi a partir desse primeiro questionamento que comecei minha busca por materia
 
 1. As possibilidades de aplicar a IA são infinitas e podem nos auxiliar na entrega de experiências que tenham **significado** _(recomendo o livro **Overcrowded - Desenvolvendo produtos com significados em um mundo repleto de ideias**, a quem quiser se aprofundar no tema)_
 2. O início de **uma era impulsionada pelo aprendizado de máquina e pela inteligência artificial** exigirá um conjunto de habilidades, entendimento e dinâmica de equipe diferentes para criar a melhor experiência possível
-3. Como podemos projetar experiências significativas em uma época com produtos e serviços orientados à IA? 
+3. Como podemos projetar experiências significativas em uma época com produtos e serviços orientados à IA?
 4. O que define **boas experiências** em uma era de inteligência artificial?
 5. Quais desafios estão à frente com a criação de experiências orientadas pela IA?
 
@@ -37,7 +34,7 @@ Eu acredito, profundamente, que daqui alguns anos os produtos - não apenas digi
 
 ## **O que, afinal, pode ser resolvido com ajuda de inteligência artificial?**
 
-Antes de começar a cogitar as mais diversas ferramentas de I.A. - ou outras soluções de machine learning - para resolver qualquer que seja o problema, precisamos entender: o que **realmente pode ser resolvido** utilizando aplicações de inteligência artificial atualmente? 
+Antes de começar a cogitar as mais diversas ferramentas de I.A. - ou outras soluções de machine learning - para resolver qualquer que seja o problema, precisamos entender: o que **realmente pode ser resolvido** utilizando aplicações de inteligência artificial atualmente?
 
 É possível mapear cinco grandes capacidades dos algoritmos atuais que estão sendo cada vez mais utilizadas nos produtos e negócios:
 
@@ -49,15 +46,15 @@ Antes de começar a cogitar as mais diversas ferramentas de I.A. - ou outras sol
 
 Cada uma dessas capacidades encontra aplicações das mais diversas formas. Aqui na Take, pela natureza conversacional do nosso produto, estamos sempre em contato com soluções de reconhecimento de linguagem natural. Os serviços de streaming, as lojas de varejo e todos os anúncios online, estão sempre buscando melhorar seus mecanismos de personalização para aumentar a conversão.
 
-Depois de entendermos as principais possibilidades de aplicação de ferramentas de IA nos produtos, é hora de nos perguntarmos: **eu realmente preciso utilizar uma aplicação de inteligência artificial para resolver essa questão?** 
+Depois de entendermos as principais possibilidades de aplicação de ferramentas de IA nos produtos, é hora de nos perguntarmos: **eu realmente preciso utilizar uma aplicação de inteligência artificial para resolver essa questão?**
 
 ## **AI Driven Discovery - I.A. é a melhor solução?**
 
-Um discovery de produto AI Driven vai levar em conta as capacidades das ferramentas de I.A. para identificar as questões que possivelmente se beneficiariam do uso de inteligência artificial. É interessante ter sempre o usuário em mente e buscar entender como uma aplicação de I.A. geraria valor para suprir as suas necessidades. 
+Um discovery de produto AI Driven vai levar em conta as capacidades das ferramentas de I.A. para identificar as questões que possivelmente se beneficiariam do uso de inteligência artificial. É interessante ter sempre o usuário em mente e buscar entender como uma aplicação de I.A. geraria valor para suprir as suas necessidades.
 
 Por isso, é importante mapear os fluxos de jornadas do usuário, para conhecer os processos que eles percorrem e que poderiam ser automatizados ou melhorados. E, também, **prestar atenção naqueles processos cuja automatização traria desconforto ao usuário**.
 
-Para decidir se a I.A. é ou não a melhor solução para o aspecto em questão, é importante questionar: de que outra forma eu poderia resolver essa questão? Você pode ser capaz de encontrar soluções mais fáceis e baratas de construir e que dependam apenas de regras simples e algumas lógicas.  
+Para decidir se a I.A. é ou não a melhor solução para o aspecto em questão, é importante questionar: de que outra forma eu poderia resolver essa questão? Você pode ser capaz de encontrar soluções mais fáceis e baratas de construir e que dependam apenas de regras simples e algumas lógicas.
 
 No geral, I.A. será uma boa escolha quando você tiver:
 
@@ -83,7 +80,7 @@ Por último, para te ajudar a não cair em armadilhas e se deparar com problemas
 
 ## **Um Design AI Driven**
 
-Espero que esse texto tenha aguçado a sua curiosidade sobre inteligência artificial e o futuro dos produtos (digitais ou não). Para quem chegou até aqui, eu convido a pensar junto comigo sobre os próximos passos dessa jornada AI Driven. 
+Espero que esse texto tenha aguçado a sua curiosidade sobre inteligência artificial e o futuro dos produtos (digitais ou não). Para quem chegou até aqui, eu convido a pensar junto comigo sobre os próximos passos dessa jornada AI Driven.
 
 Em breve nos encontraremos novamente para falar mais sobre produtos, inteligência artificial e design. 😉
 
