@@ -1,14 +1,20 @@
 +++
 authors = "Lucas Juliano"
 categories = ["Liderança", "Carreira"]
-date = 2022-01-26
+date = 2022-01-26T00:00:00Z
 excerpt = "Procure o relevante e o essencial. Fuja da complexidade."
 image = "https://i.imgur.com/25Fcdzu.png"
-publishDate = 2022-01-26
+publishDate = 2022-01-26T00:00:00Z
 tags = []
 title = "Esqueça teorias complicadas: qual a pergunta a ser feita?"
 type = "post"
+
 +++
+Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
+
+Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias (semanas?) atrás. Fique sabendo primeiro lá.
+
+***
 
 Tomada de decisão é difícil. Mesmo em assuntos cotidianos, descobrir qual é a melhor opção não é fácil. Há sempre muito a ser considerado, e quanto mais se pensa, mais confuso se fica.
 
@@ -16,15 +22,15 @@ O caminho “comum” para uma decisão é considerar cada um dos aspectos das o
 
 Vamos começar com um exemplo de uma decisão que eu acredito que todos que me leem já passaram. Escolher um restaurante para almoçar.
 
-**Vamos almoçar!**
+## **Vamos almoçar!**
 
 Imagine que você tem dois restaurantes à sua frente. Você nunca visitou nenhum deles, então não há como usar experiências passadas nessa escolha. Como você é uma pessoa muito analítica, você quer fazer uma boa decisão avaliando todos os aspectos de cada uma das opções. Seguindo as melhores práticas de gerenciamento, a primeira coisa que você faz é considerar toda informação disponível: preço, qualidade, ambiente, serviço e avaliação na internet. Mas tudo isso ainda não é suficiente. Você precisa não apenas coletar todas as informações sobre o restaurante, mas todas as informações sobre os pratos, o que é óbvio já que você vai ao restaurante para comer. O prato é a decisão final.
 
 Até agora, você deve estar achando que escolher um restaurante ponderando cada uma das informações mencionadas (qualidade, ambiente, etc) combinando com a informação sobre os pratos é uma tarefa muito complicada para o final de semana. Você tem a semana cheia de trabalho altamente analítico durante suas horas de trabalho e agora parece que escolher onde comer se tornou mais difícil que criar um portfólio de investimentos.
 
-Parece complicado porque realmente é. Você está considerando informação demais em para tomar uma decisão simples. Esse é o método normalmente ensinado em escolas de administração e negócios, ainda assim é muito difícil colocá-lo em prática na sua vida pessoal ou nos negócios. Entretanto, há um outro trajeto que você pode seguir e ele demanda que você mantenha apenas uma coisa em mente: **uma pergunta_._**
+Parece complicado porque realmente é. Você está considerando informação demais em para tomar uma decisão simples. Esse é o método normalmente ensinado em escolas de administração e negócios, ainda assim é muito difícil colocá-lo em prática na sua vida pessoal ou nos negócios. Entretanto, há um outro trajeto que você pode seguir e ele demanda que você mantenha apenas uma coisa em mente: **uma pergunta.**
 
-**Escolhendo o restaurante como um ser humano comum**
+## **Escolhendo o restaurante como um ser humano comum**
 
 Não somos computadores. Não é fácil, para seres humanos, computar um grande número de variáveis ao mesmo tempo, então se você tentar usar esse tipo de processo na tomada de decisão, você provavelmente se perderá no meio do caminho. Como um ser humano, você pode fazer algo muito mais esperto: **_perguntar._**
 
@@ -38,11 +44,11 @@ Algumas pessoas podem dizer que eles sugeriram o prato mais caro, mas isso não 
 
 Mas como tudo isso se relaciona aos negócios? Há dois possíveis caminhos para tomada de decisão: você pode considerar todos os detalhes, pesá-los e decidir ou você pode tomar um caminho mais rápido e fácil, normalmente utilizado de maneira inconsciente. **Você pode usar as heurísticas.**
 
-**Nada de processos complexos, apenas heurísticas**
+## **Nada de processos complexos, apenas heurísticas**
 
 Como definida pelo psicólogo Gerd Gigerenzer, em seu artigo [Heuristics: Tools for an Uncertain World](https://pure.mpg.de/rest/items/item_2175422/component/file_2175421/content):
 
->“Heurísticas são ferramentas adaptativas que ignoram informação para fazer decisões rápidas e simples que são acuradas e robustas sob condições de incerteza”_.
+> “Heurísticas são ferramentas adaptativas que ignoram informação para fazer decisões rápidas e simples que são acuradas e robustas sob condições de incerteza”_.
 
 A definição é bem completa, com muitos pontos, mas três são chave para a discussão aqui: 1) ignorar informação; 2) tomar decisões rápidas e simples 3) sob condições de incerteza.
 
