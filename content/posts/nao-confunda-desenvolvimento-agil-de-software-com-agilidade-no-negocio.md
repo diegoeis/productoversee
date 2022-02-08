@@ -10,13 +10,19 @@ title = "Não confunda Desenvolvimento Ágil de Software com Agilidade no Negóc
 type = "post"
 
 +++
+Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
+
+Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias (semanas?) atrás. Fique sabendo primeiro lá.
+
+***
+
 O termo Desenvolvimento de Software Ágil ou Método Ágil vem dominando a literatura especializada em gerenciamento de produtos/projetos desde a divulgação do Manifesto Ágil no início dos anos 2000. Desde então, muito se avançou em termos do desenvolvimento dos conceitos-chave, porém ainda é muito comum notar confusões geradas pela falta de clareza dos conceitos, o que denota que, em que pese ser mais e mais comum a criação de papéis vindos de algum framework Ágil, ainda existe um caminho longo a ser trilhado em termos do entendimento dos conceitos-chave e de como aplicá-los à realidade de cada empresa.
 
 Há um tempo presenciei os desdobramentos da implantação de um framework Ágil em uma unidade de negócio da qual eu fazia parte após os executivos da empresa colocarem como um dos objetivos estratégicos ser “uma empresa ágil” e “mover o negócio com mais agilidade”. Uma das reações imediatas após a comunicação desse objetivo estratégico foi a formação de “times ágeis”. O que até então se fazia dentro de qualquer outro framework (Waterfall, por exemplo) passou a ser taxado de obsoleto e ineficiente e o mantra passou a ser de que “o futuro era passar por uma transformação Ágil ou fracassar”. Houve uma grande mobilização em termos de treinamento das pessoas, de reestruturação dos times em “Squads” (o que na prática em alguns casos significou apenas dar um nome mais adequado ao tema do momento) e muita interação entre diferentes times em diferentes partes do mundo para compartilhar o aprendizado e boas práticas daquela jornada em direção à Agilidade.
 
 Ao final deste período de implantação, tivemos uma empresa mais Ágil? Difícil dizer, mas o sucesso ou as lições aprendidas durante esse processo não são o tema central da reflexão que proponho hoje. Então, voltando ao título deste artigo: promover desenvolvimento Ágil de Software e ter Agilidade no Negócio são conceitos completamente distintos, embora ambos tenham sido cunhados dentro da mesma base conceitual dada pelo Manifesto Ágil, cujo objetivo central **era proporcionar uma melhor habilidade para lidar e, em última instância, obter sucesso, em um ambiente incerto e turbulento**, no qual a única constante é a mudança. Ágil é então uma mentalidade (mindset) introduzida pela publicação do Manifesto Ágil, cujos valores e princípios orientam como criar e responder à mudança e como lidar com a incerteza. Foi a partir desse arcabouço teórico que se originaram outras definições, conceitos e frameworks, tais como Desenvolvimento Ágil de Software e Agilidade dos Negócios. Vamos explorar cada um destes em mais detalhes:
 
-## **Desenvolvimento Ágil de Software** 
+## **Desenvolvimento Ágil de Software**
 
 Este é um termo amplo que engloba um conjunto de frameworks (Scrum, Extreme Programming, etc) e práticas (pair programming, stand-ups meetings, Retrospectivas, etc) que são bastante eficazes quando usados no desenvolvimento de software. Quando se trabalha com produtos digitais, o nível de incerteza é muito alto, portanto, ter essa habilidade de se adaptar facilmente a um ambiente que está em constante mudança é fundamental para permitir que o sucesso seja alcançado.
 
