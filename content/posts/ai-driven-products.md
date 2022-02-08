@@ -10,6 +10,12 @@ title = "AI Driven Products"
 type = "post"
 
 +++
+Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
+
+Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias (semanas?) atrás. Fique sabendo primeiro lá.
+
+***
+
 Em uma época na qual, cada dia mais, humanos interagem com máquinas das mais diversas maneiras, nada mais natural do que se perguntar: **como utilizar essa tecnologia nos meus produtos e negócios?** Eu sou a Duda e, antes de entrarmos no tema central desta pequena série de artigos, quero dividir um pouco da minha jornada (que está apenas começando) até aqui.
 
 Cresci uma pessoa inquieta, fui daquelas crianças que têm diversas atividades extracurriculares: joguei vôlei, futsal, fiz dança, inglês e natação. Tudo ao mesmo tempo. Minhas tardes eram extremamente divertidas e cheias de compromissos.
