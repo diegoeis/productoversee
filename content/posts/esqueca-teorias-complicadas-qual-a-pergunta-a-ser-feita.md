@@ -8,7 +8,7 @@ publishDate = 2022-01-26T00:00:00Z
 tags = []
 title = "Esqueça teorias complicadas: qual a pergunta a ser feita?"
 type = "post"
-
+sponsor = "ituring"
 +++
 Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
 

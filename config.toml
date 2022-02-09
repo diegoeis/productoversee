@@ -50,6 +50,12 @@ disableLiveReload = false
       site = "https://awari.com.br/"
       logo = "/images/sponsors/awari@3x.webp"
       paragraph_description = "Aprenda as habilidades mais requisitadas pelo mercado, receba mentoria de profissionais referência em suas áreas de atuação e conte com a ajuda de profissionais especializados para conquistar uma vaga em sua nova área."
+  [params.sponsor.ituring]
+      active = true
+      name = "ituring"
+      site = "https://classroom.ituring.com.br/#/checkout/def48f6b-af77-ec11-94f6-281878446ba4/product/4e0e69fa-0986-ec11-94f6-2818780634ed/?utm_source=productoversee&utm_medium=sidebanner&utm_campaign=affiliate"
+      logo = "/images/sponsors/ituring.png"
+      paragraph_description = "O ITuring é um instituto de educação em tecnologia e negócios da era digital."
   [params.sponsor.organizze]
       active = false
       site = "https://www.organizze.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"

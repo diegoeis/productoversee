@@ -6,7 +6,7 @@ authors: Pablo Silva
 date: 2021-10-27
 image: https://i.imgur.com/gkrgPue.png
 featured_post: true
-sponsor: awari
+sponsor: ituring
 categories:
   - Tático
 tags:
