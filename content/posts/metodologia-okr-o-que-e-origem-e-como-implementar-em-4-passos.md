@@ -3,7 +3,7 @@ type: post
 title: "Metodologia OKR: O que É, Origem e Como Implementar Em 4 Passos"
 excerpt: O básico que não é básico
 authors: Alex Ivonika
-sponsor: awari
+sponsor: ituring
 date: 2021-01-15
 publishDate: 2021-01-15
 image: https://i.imgur.com/hdWVyQf.jpg
