@@ -1,5 +1,5 @@
 +++
-authors = "Gabriel Leite"
+authors = "João Gabriel Lima"
 categories = ["Tático"]
 date = 2022-02-16
 excerpt = "O que são alavancas em produtos com perfil de plataforma?"
@@ -56,9 +56,7 @@ Em 2004, surgiu a rede social MySpace e caso algum usuário ou ator quisesse con
 
 Na Figura 1, podemos perceber que mesmo o MySpace tendo feito a abertura antes do Facebook, a distância entre a data do seu lançamento e a data da sua abertura, fez com que sua curva de crescimento fosse achatada. Já o Facebook, adotou essa estratégia em um curto espaço de tempo, utilizou uma estratégia de evolução gradativa da plataforma e de interação com atores desta. O que fez com que essa abertura surgisse como uma forte alavanca de crescimento para a plataforma, que em maio de 2008 ultrapassou o MySpace em alcance diário, depois disso já era tarde demais para recuperar o topo.
 
-[![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d44f522-4105-4cfe-92d2-173b9aea982f_351x310.png =351x310)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d44f522-4105-4cfe-92d2-173b9aea982f_351x310.png)
-
-Figura 1 - Comparativo da curva de crescimento
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d44f522-4105-4cfe-92d2-173b9aea982f_351x310.png "Figura 1 - Comparativo da curva de crescimento")
 
 Ou seja, o MySpace decidiu pela não abertura e internalizando todas as soluções, transformando a oportunidade que ali existia, da criação do **efeito de rede**, em uma trava para o crescimento, já que muitos usuários foram impactados negativamente pela barreira que limitava a tendência de comportamento e interações de usuários, ou seja, essa foi uma alavanca de efeito negativo.
 
