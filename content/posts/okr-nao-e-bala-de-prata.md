@@ -3,7 +3,7 @@ authors = "Luiz Corandin"
 categories = ["Tático", "Indicadores e Dados"]
 date = 2022-03-08T03:00:00Z
 excerpt = "Embora OKRs simplifique a vida de comunicação e transparência dos objetivos da empresa, ela não é a solução definitiva e pode ser usada para controlar e comandar em vez dar autonomia e alinhamento."
-image = "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd301a99-4711-45f0-a45e-1a07a85ad96e_640x360.jpeg"
+image = "https://i.imgur.com/we2tJ3D.jpg"
 publishDate = 2022-03-08T03:00:00Z
 tags = ["objetivos", "indicadores", "okr"]
 title = "OKR não é bala de prata!"
@@ -26,7 +26,7 @@ Nesse momento, o OKR tem sido uma delas, uma das metodologias mais faladas no me
 
 ## **Por que OKR não é bala de prata?**
 
-Quando Andrew Grove, CEO da Intel, apresentou a primeira versão do OKR na década de 70, ele buscava dar clareza e foco em um único objetivo para toda a organização: tirar a concorrente Motorola do mercado de microprocessadores, líder de mercado na época. Com toda a empresa direcionada por uma única diretriz, a Intel conseguiu ultrapassar e assumir a liderança em poucos anos, que inclusive levou a própria Motorola a desistir deste segmento. 
+Quando Andrew Grove, CEO da Intel, apresentou a primeira versão do OKR na década de 70, ele buscava dar clareza e foco em um único objetivo para toda a organização: tirar a concorrente Motorola do mercado de microprocessadores, líder de mercado na época. Com toda a empresa direcionada por uma única diretriz, a Intel conseguiu ultrapassar e assumir a liderança em poucos anos, que inclusive levou a própria Motorola a desistir deste segmento.
 
 O OKR foi criado com o intuito de dar foco, alinhamento, responsabilidade e atingir grandes conquistas, carinhosamente apelidados de “Os quatro poderes” por John Doeer, diretor da Intel na época e hoje reconhecido como o grande precursor da metodologia nos dias atuais. Contudo, em empresas com culturas mais tradicionais de comando e controle, a implantação da metodologia OKR tem entrado como um mero “controlador” de metas e indicadores, promovendo a cultura do top-down e o individualismo dos silos, limitando as chances de extrair os benefícios citados acima.
 
@@ -40,6 +40,6 @@ A primeira pergunta que fazemos aos clientes em nosso processo é: por que OKR?
 
 Pergunte-se quais são os problemas que se quer resolver com a mudança da metodologia de gestão estratégica. Ao identificar as reais necessidades, é preciso avaliar se o OKR de fato faz parte da solução ou se os problemas estão relacionados a outros aspectos que não a metodologia de gestão. Se a raiz do problema está centrada em falta de alinhamento da estratégia, foco no que precisa ser feito em meio a inúmeras iniciativas surgindo a todo momento e pouca clareza de onde a empresa gostaria de chegar, o OKR é, sim, um bom caminho a ser considerado.
 
-Uma certeza é que a metodologia OKR, quando implantada do jeito certo, provoca uma reflexão nos comportamentos atuais, na cultura e na forma das pessoas trabalharem. A transformação real ocorre quando mudamos comportamentos e atitudes, e não simplesmente implantando novas ferramentas e metodologias. 
+Uma certeza é que a metodologia OKR, quando implantada do jeito certo, provoca uma reflexão nos comportamentos atuais, na cultura e na forma das pessoas trabalharem. A transformação real ocorre quando mudamos comportamentos e atitudes, e não simplesmente implantando novas ferramentas e metodologias.
 
 Deixe um comentário sobre o que achou desse artigo, será um prazer trocar experiências com você.
