@@ -8,6 +8,7 @@ publishDate = 2022-02-23T03:00:00Z
 tags = []
 title = "Seja sua própria régua"
 type = "post"
+sponsor = "awari"
 
 +++
 Já acessou o Linkedin de alguém e pensou: Nossa, que currículo perfeito!!!
@@ -30,7 +31,7 @@ Já percebeu que um **maratonista amador** não está na prova para vencer os de
 
 Sendo assim, procurei algumas formas de me entender, enxergar meus pontos fortes e as minhas fraquezas, descobrir no que preciso atacar agora, ver no que sou boa e deve ser meu destaque. Então, peguei meu conhecimento de administradora e decidi fazer uma matriz SWOT de mim mesma.
 
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fded4c861-c5b1-41c2-8bae-d2436c5e7302_484x315.png =484x315)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fded4c861-c5b1-41c2-8bae-d2436c5e7302_484x315.png)
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fded4c861-c5b1-41c2-8bae-d2436c5e7302_484x315.png)
 
 Se essa matriz pode ser usada para avaliar empresas, por que não para mim?
 
@@ -61,7 +62,7 @@ E isso é muito importante, talvez diversas categorias estejam com pontuação m
 
 Por vezes meu maior foco precisou ser em dados, em como analisar, aprender novas ferramentas de BI, construir dashboard, e em outros momentos aprender mais de discovery, em como conversar com clientes e fazer uma boa pesquisa tinham mais impacto, o valor para meu momento era maior. Então, avalie o seu.
 
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6a92dba-613b-4c37-ad12-1ea05d7852f6_738x636.png =728x636)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6a92dba-613b-4c37-ad12-1ea05d7852f6_738x636.png)
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6a92dba-613b-4c37-ad12-1ea05d7852f6_738x636.png)
 
 ## Plano de Aprendizagem
 

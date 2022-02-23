@@ -408,9 +408,6 @@ hr {
   text-align: center;
   display: block;
 }
-.po-sidebar-logo-sponsor img {
-  max-width:200px;
-}
 
 .po-sponsor-paragraph {
   border-top: 1px solid rgba(0, 0, 0, .1);

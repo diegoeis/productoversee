@@ -1,10 +1,10 @@
 +++
 authors = "Diego Eis"
 categories = ["Opinião"]
-date = 2022-02-22T03:00:00Z
+date = 2022-02-25
 excerpt = "Uma provocação sobre a falácia de posicionar o usuário antes das empresas"
 image = "https://i.imgur.com/h7QQJvM.jpg"
-publishDate = 2022-02-22T13:00:00Z
+publishDate = 2022-02-25
 tags = ["usuario", "produto", "ux"]
 title = "Negócio primeiro, usuário depois"
 type = "post"
@@ -12,7 +12,7 @@ type = "post"
 +++
 [Eu encontrei essa imagem na publicação](https://www.linkedin.com/feed/update/urn:li:activity:6892510594067746816/) do glorioso [Eduardo Silveira](https://www.linkedin.com/in/silveiraeduardo/).
 
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F15760012-9932-4b31-854c-0aa6df721247_627x619.png =627x619)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F15760012-9932-4b31-854c-0aa6df721247_627x619.png)
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F15760012-9932-4b31-854c-0aa6df721247_627x619.png)
 
 E eu acho que a grande maioria das pessoas não está preparada para uma discussão como essa. Quando digo que o negócio é mais importante que o cliente, elas entendem como uma afronta ao status quo. É uma opinião tão polêmica quanto dizer que entrevista com usuário é menos importante ou prioritário que o seu conhecimento e/ou feeling sobre o seu produto.
 
