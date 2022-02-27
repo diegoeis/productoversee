@@ -5,6 +5,21 @@
 	{{ end }}
 </ul>
 
+<br>
+
+<hr>
+
+<ul>
+{{ range .Pages }}
+{{ if ge .Params.Date.Unix now.Unix }}
+    <li>
+        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+    </li>
+{{ end }}
+{{ end }}
+</ul>
+<hr>
+
 
 <table id="list">
 {{ range .Site.RegularPages.GroupByDate "2006-1" }}

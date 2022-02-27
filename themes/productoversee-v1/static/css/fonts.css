@@ -1,7 +1,7 @@
 :root {
-  --fontDefault: "Azeret Mono", Inconsolata, "The Future Mono 02", monospace;
-  --fontSerif: "Noto Serif Display", "Bodoni Moda", "The Future Mono 02", monospace;
-  --fontMono: "Azeret Mono", Inconsolata, "The Future Mono 02", monospace;
+  --fontDefault: "Azeret Mono", "The Future Mono 02", monospace;
+  --fontSerif: "Noto Serif Display", "Times New Roman", Times, serif;
+  --fontMono: "Azeret Mono", "The Future Mono 02", monospace;
   --fontSansSerif: "Open Sans", arial, helvetica, sans-serif;
   --fontArticle: "Open Sans", arial, helvetica, sans-serif;
 }
@@ -128,9 +128,9 @@ a.lnk-all-articles {
 .po-first-featured-post h2,
 .po-featured-list .po-post-vertical-list:first-child h2,
 .po-featured-list .po-post-vertical-list:first-child h4.po-title-h4 {
-  font-size: 1.8rem;
-  line-height: 1.3;
-  font-weight: 600;
+  font-size: 1.7rem;
+  line-height: 1.2;
+  font-weight: 700;
 }
 
 .po-list-categs li a,
