@@ -8,7 +8,7 @@ publishDate = 2022-02-25
 tags = ["usuario", "produto", "ux"]
 title = "Negócio primeiro, usuário depois"
 type = "post"
-
+sponsor = "ituring"
 +++
 [Eu encontrei essa imagem na publicação](https://www.linkedin.com/feed/update/urn:li:activity:6892510594067746816/) do glorioso [Eduardo Silveira](https://www.linkedin.com/in/silveiraeduardo/).
 

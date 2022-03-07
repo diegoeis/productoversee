@@ -6,7 +6,7 @@ date: 2021-06-02
 image: https://i.imgur.com/d3ws9ii.png
 type: post
 feature_post: true
-sponsor: awari
+sponsor: ituring
 categories:
   - Liderança
 tags:

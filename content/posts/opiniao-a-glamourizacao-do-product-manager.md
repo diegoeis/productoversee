@@ -7,7 +7,7 @@ date: 2020-10-29
 publishDate: 2020-10-29
 image: https://i.imgur.com/TYWELfx.jpg
 featured_post: true
-sponsor: awari
+sponsor: ituring
 categories:
   - Opinião
 tags:

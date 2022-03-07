@@ -5,7 +5,7 @@ excerpt: Não podemos nos conformar que, para evoluir como PMs, precisamos depen
 authors: Tiago Ferreira
 date: 2021-11-17
 image: https://i.imgur.com/helV43C.png
-sponsor: awari
+sponsor: ituring
 categories:
   - Carreira
 tags:

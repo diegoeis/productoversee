@@ -6,7 +6,7 @@ date: 2021-06-23
 publishDate: 2021-06-23
 image: https://i.imgur.com/tZGuWaV.jpg
 type: post
-sponsor: awari
+sponsor: ituring
 featured_post: true
 categories:
   - Tático

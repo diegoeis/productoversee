@@ -6,7 +6,7 @@ authors: Diego Eis
 date: 2020-02-12
 publishDate: 2020-02-12
 image: https://i.imgur.com/6CVP0zH.png
-sponsor: awari
+sponsor: ituring
 categories:
   - Estratégia
   - Tático

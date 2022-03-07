@@ -5,7 +5,7 @@ authors: Diego Eis
 date: 2021-07-21
 publishDate: 2021-07-21
 image: https://i.imgur.com/dC2C1kk.jpg
-sponsor: awari
+sponsor: ituring
 featured_post: true
 categories:
   - Estratégia

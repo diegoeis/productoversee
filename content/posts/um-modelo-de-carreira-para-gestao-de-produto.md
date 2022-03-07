@@ -6,7 +6,7 @@ authors: Pablo Silva
 date: 2021-10-01
 publishDate: 2021-10-01
 image: https://i.imgur.com/8JtgZ4n.png
-sponsor: awari
+sponsor: ituring
 featured_post: true
 categories:
   - Liderança

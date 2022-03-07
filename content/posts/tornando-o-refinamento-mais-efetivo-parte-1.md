@@ -7,7 +7,7 @@ publishDate: 2020-05-13
 image: https://i.imgur.com/CVzesbq.png
 type: post
 featured_post: true
-sponsor: awari
+sponsor: ituring
 categories:
   - Tático
 tags:

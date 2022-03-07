@@ -3,7 +3,7 @@ type: post
 title: 15 ideias de livros para ler em 2021
 excerpt: Ler é essencial para qualquer pessoa e na minha opinião, Product Managers deveriam ler muito mais do que qualquer um do time. Essas são minhas sugestões
 authors: Diego Eis
-sponsor: awari
+sponsor: ituring
 date: 2021-01-04
 image: https://i.imgur.com/fG3wHPr.jpg
 categories:

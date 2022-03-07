@@ -1,11 +1,11 @@
 +++
-authors = "Ericka Padilha"
+authors = "Éricka Padilha"
 categories = ["Carreira", "Opinião"]
-date = 2022-02-23T03:00:00Z
+date = 2022-02-23
 excerpt = "Procurando superar suas próprias marcas é o exercício mais intenso de desenvolvimento que você pode executar."
 image = "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F005aa0d9-aad0-47f6-9e32-50407d4abf63_961x540.jpeg"
-publishDate = 2022-02-23T03:00:00Z
-sponsor = "awari"
+publishDate = 2022-02-23
+sponsor = "ituring"
 tags = []
 title = "Seja sua própria régua"
 type = "post"

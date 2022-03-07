@@ -5,7 +5,7 @@ excerpt: Uma web realmente descentralizada que não vai mudar apenas a forma com
 authors: Diego Eis
 date: 2021-07-07
 image: https://i.imgur.com/kPPwc2T.jpg
-sponsor: awari
+sponsor: ituring
 categories:
   - Opinião
 tags:

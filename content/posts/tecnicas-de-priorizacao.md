@@ -5,7 +5,7 @@ excerpt: Compartilhando algumas técnicas de fatiamento para auxiliar no seu dia
 authors: Éricka Padilha
 date: 2021-08-25
 image: https://i.imgur.com/87aP1bG.png
-sponsor: awari
+sponsor: ituring
 categories:
   - Tático
 tags:

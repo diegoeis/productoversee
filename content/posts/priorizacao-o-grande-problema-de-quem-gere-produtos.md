@@ -1,14 +1,14 @@
 +++
 authors = "Diego Eis"
 categories = ["Tático", "Opinião"]
-date = 2022-02-23T03:00:00Z
+date = 2022-03-16
 excerpt = "Para priorizar é necessário bom senso, dados, sensibilidade sobre o negócio e sobre os usuários e principalmente sobre o timing do produto. Priorizar é gerir expectativas e potencializar resultados."
 image = "https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9d7631ed-8aa3-4053-9188-421e4abdfd0d_640x360.jpeg"
-publishDate = 2022-02-23T11:00:00Z
+publishDate = 2022-03-16
 tags = ["backlog", "priorizacao"]
 title = "Priorização: o grande problema de quem gere produtos"
 type = "post"
-
+sponsor = "ituring"
 +++
 Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
 

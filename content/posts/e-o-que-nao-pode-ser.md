@@ -6,7 +6,7 @@ authors: Diego Eis
 date: 2021-12-08
 publishDate: 2021-12-08
 image: https://i.imgur.com/XwjiaUF.png
-sponsor: awari
+sponsor: ituring
 categories:
   - Opinião
 tags:

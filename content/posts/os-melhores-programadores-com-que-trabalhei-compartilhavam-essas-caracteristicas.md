@@ -6,7 +6,7 @@ authors: Diego Eis
 date: 2021-10-20
 publishDate: 2021-10-20
 image: https://i.imgur.com/0IrGbPJ.png
-sponsor: awari
+sponsor: ituring
 categories:
   - Carreira
 tags:

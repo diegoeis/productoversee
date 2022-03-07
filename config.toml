@@ -45,7 +45,7 @@ disableLiveReload = false
 
 [params.sponsor]
   [params.sponsor.awari]
-      active = true
+      active = false
       name = "awari"
       site = "https://awari.com.br/"
       logo = "/images/sponsors/awari@3x.webp"
@@ -55,6 +55,7 @@ disableLiveReload = false
       active = true
       name = "ituring"
       site = "https://ituring.com.br/analise-de-dados-para-negocios?utm_source=productoversee"
+      logo = "/images/sponsors/ituring-logo.png"
       banner = "/images/sponsors/ituring-banner.png"
       paragraph_description = "O ITuring é um instituto de educação em tecnologia e negócios da era digital."
   [params.sponsor.organizze]

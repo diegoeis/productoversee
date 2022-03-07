@@ -6,7 +6,7 @@ authors: Alex Ivonika
 date: 2021-04-28
 publishDate: 2021-04-28
 image: https://i.imgur.com/16PV5uf.jpg
-sponsor: awari
+sponsor: ituring
 categories:
   - Carreira
 tags:

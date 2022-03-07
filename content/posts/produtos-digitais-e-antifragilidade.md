@@ -12,7 +12,7 @@ categories:
 tags:
   - produto
   - gestãodeproduto
-sponsor: awari
+sponsor: ituring
 ---
 A construção de produtos é uma arte que se alimenta de diversas disciplinas. É preciso entender de gente (quais situações geram angústias e frustrações), de tecnologia (quais ferramentas posso utilizar para aplacar esses sentimentos negativos) e de negócio (como posso fazer isso de maneira lucrativa), no mínimo. 
 

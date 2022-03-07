@@ -7,7 +7,7 @@ date: 2021-02-01
 publishDate: 2021-02-01
 image: https://i.imgur.com/twmikI0.png
 type: post
-sponsor: awari
+sponsor: ituring
 categories:
   - Tático
   - Estratégia

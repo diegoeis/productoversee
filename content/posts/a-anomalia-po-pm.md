@@ -6,7 +6,7 @@ authors: Pablo Silva
 date: 2021-09-08
 image: https://i.imgur.com/Za7yvcf.png
 featured_post: true
-sponsor: awari
+sponsor: ituring
 categories:
   - Opinião
   - Carreira
