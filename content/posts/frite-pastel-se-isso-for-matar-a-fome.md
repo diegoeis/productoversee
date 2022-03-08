@@ -1,14 +1,14 @@
 +++
 authors = "Paulo Chiodi"
 categories = ["Opinião"]
-date = 2022-03-08T03:00:00Z
+date = 2022-03-09
 excerpt = "Pastel bem fritinho é bom para o cliente e para o negócio. Eu acho desleal ter uma analogia como essa, dado que uma barraca de pastel é um exemplo de processo orgânico em ambiente complexo. "
 image = "https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20b32471-9461-48c4-9636-6ff129d7ad9e_640x360.jpeg"
-publishDate = 2022-03-08T12:00:00Z
+publishDate = 2022-03-09
 tags = ["priorizacao"]
 title = "Frite pastel se isso for matar a fome"
 type = "post"
-
+sponsor = "ituring"
 +++
 “Quem tem fome come o que tem!”
 

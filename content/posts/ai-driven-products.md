@@ -1,14 +1,14 @@
 +++
 authors = "Duda Bona"
 categories = ["Tech e Desenvolvimento", "Indicadores e Dados"]
-date = 2022-03-14T03:00:00Z
+date = 2022-03-02
 excerpt = "Construindo uma mentalidade de produto aliada a inteligência artificial."
 image = "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6674b7e-7f63-4168-ac24-f126dbcddd0f_640x360.jpeg"
-publishDate = 2022-03-14T12:00:00Z
+publishDate = 2022-03-02
 tags = ["data-driven", "inteligencia-artificial", "dados"]
 title = "AI Driven Products"
 type = "post"
-
+sponsor = "ituring"
 +++
 Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
 

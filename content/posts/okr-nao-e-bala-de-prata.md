@@ -1,14 +1,14 @@
 +++
 authors = "Luiz Corandin"
 categories = ["Tático", "Indicadores e Dados"]
-date = 2022-03-08T03:00:00Z
+date = 2022-03-16
 excerpt = "Embora OKRs simplifique a vida de comunicação e transparência dos objetivos da empresa, ela não é a solução definitiva e pode ser usada para controlar e comandar em vez dar autonomia e alinhamento."
 image = "https://i.imgur.com/we2tJ3D.jpg"
-publishDate = 2022-03-08T03:00:00Z
+publishDate = 2022-03-16
 tags = ["objetivos", "indicadores", "okr"]
 title = "OKR não é bala de prata!"
 type = "post"
-
+sponsor = "ituring"
 +++
 ## **O projeto “salvador da pátria”**
 
