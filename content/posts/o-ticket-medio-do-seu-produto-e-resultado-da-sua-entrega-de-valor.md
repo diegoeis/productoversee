@@ -1,14 +1,14 @@
 +++
 authors = "João Gabriel Lima"
 categories = ["Tático", "Indicadores e Dados"]
-date = 2022-03-15T03:00:00Z
+date = 2022-03-23
 excerpt = "Tangibilizar a proposta de valor do seu produto é uma etapa desafiadora, mas que irá nortear o sucesso ou não do produto. Não é óbvia, nem simples e muito menos uma receita de bolo."
 image = "https://i.imgur.com/hXUK8kU.jpg"
-publishDate = 2022-03-15T03:00:00Z
+publishDate = 2022-03-23
 tags = ["métricas", "indicadores"]
 title = "O ticket médio do seu produto é resultado da sua entrega de valor"
 type = "post"
-
+sponsor = "ituring"
 +++
 O ticket médio é um indicador fundamental para os negócios digitais, uma vez que oferece um panorama da saúde do negócio. Por exemplo, é possível combiná-lo com percentuais de crescimento para obter projeção de faturamento, bem como obter perspectivas de ponto de equilíbrio (_breakeven)_ de um produto. Outro exemplo é quando confrontamos com o Custo de Aquisição de Clientes (CAC), entendemos o tempo necessário para obtermos o Retorno sobre o Investimento (ROI).
 
