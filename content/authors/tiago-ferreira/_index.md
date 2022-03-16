@@ -1,6 +1,6 @@
 ---
 name: Tiago Ferreira
-minibio: Sr. Product Manager no TC. Gosto dos frameworks, mas sou apaixonado mesmo é por liderança e desenvolvimento de pessoas.
+minibio: Product Manager na NeoAssist. Gosto dos frameworks, mas sou apaixonado mesmo é por liderança e desenvolvimento de pessoas.
 avatar: /images/authors/tiago-ferreira.jpg
 email:
 twitter: 
@@ -9,6 +9,6 @@ site:
 other:
 ---
 
-Sr. Product Manager no TC. Gosto dos frameworks, mas sou apaixonado mesmo é por liderança e desenvolvimento de pessoas.
+Product Manager na NeoAssist. Gosto dos frameworks, mas sou apaixonado mesmo é por liderança e desenvolvimento de pessoas.
 
 
