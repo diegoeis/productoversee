@@ -10,7 +10,7 @@ title = "O ticket médio do seu produto é resultado da sua entrega de valor"
 type = "post"
 sponsor = "ituring"
 +++
-O ticket médio é um indicador fundamental para os negócios digitais, uma vez que oferece um panorama da saúde do negócio. Por exemplo, é possível combiná-lo com percentuais de crescimento para obter projeção de faturamento, bem como obter perspectivas de ponto de equilíbrio (_breakeven)_ de um produto. Outro exemplo é quando confrontamos com o Custo de Aquisição de Clientes (CAC), entendemos o tempo necessário para obtermos o Retorno sobre o Investimento (ROI).
+O ticket médio é um indicador fundamental para os negócios digitais, uma vez que oferece um panorama da saúde do negócio. Por exemplo, é possível combiná-lo com percentuais de crescimento para obter projeção de faturamento, bem como obter perspectivas de ponto de equilíbrio (breakeven) de um produto. Outro exemplo é quando confrontamos com o Custo de Aquisição de Clientes (CAC), entendemos o tempo necessário para obtermos o Retorno sobre o Investimento (ROI).
 
 Quando relacionamos ticket médio e análises temporais é possível entender o cenário da qualidade do nosso produto na visão dos usuários e pagantes, ou seja, quanto mais nossos usuários estão pagando e por mais tempo, quer dizer que estamos entregando o valor esperado por eles ou muito próximo disso.
 

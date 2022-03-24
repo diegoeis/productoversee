@@ -1,14 +1,14 @@
 +++
 authors = "Paulo Chiodi"
 categories = ["Tático"]
-date = 2022-04-06T03:00:00Z
-excerpt = "O papel das pessoas que gerem produtos é uma intersecção entre responsabilidades. Uma dessas intersecções é que com cria a experiência do usuário de fato. "
+date = 2022-04-06
+excerpt = "O papel das pessoas que gerem produtos é uma intersecção entre responsabilidades. Uma dessas intersecções é com quem cria a experiência do usuário de fato."
 image = "https://i.imgur.com/K28HjgU.jpg"
-publishDate = 2022-04-06T13:00:00Z
+publishDate = 2022-04-06
 tags = ["design"]
 title = "Como construir uma boa relação com a pessoa de designer?"
 type = "post"
-
+sponsor = "ituring"
 +++
 Recentemente tive a honra de participar de um #bomdiaux para conversar com o Rafael Burity e Rodrigo Lemes sobre "[Como funciona a relação da pessoa de produto e pessoa de designer?](https://bit.ly/3t1jBDE)"
 
