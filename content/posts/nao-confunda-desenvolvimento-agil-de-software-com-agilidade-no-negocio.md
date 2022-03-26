@@ -1,14 +1,14 @@
 +++
 authors = "Malu Ferraz"
 categories = ["Tech e Desenvolvimento", "Tático"]
-date = 2022-03-22T03:00:00Z
+date = 2022-03-30
 excerpt = "Cuidado com interpretações rasas das palavras e conceitos da moda. Conceitos e aplicações totalmente distintos."
 image = "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7a7a128-2a11-42be-8d19-3f5925d4ef92_640x360.jpeg"
-publishDate = 2022-03-22T10:00:00Z
+publishDate = 2022-03-30
 tags = ["manifesto-agil", "agilidade"]
 title = "Não confunda Desenvolvimento Ágil de Software com Agilidade no Negócio"
 type = "post"
-
+sponsor = "ituring"
 +++
 Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
 
