@@ -54,7 +54,7 @@ disableLiveReload = false
   [params.sponsor.ituring]
       active = true
       name = "ituring"
-      site = "https://ituring.com.br/analise-de-dados-para-negocios?utm_source=productoversee"
+      site = "https://www.ituring.com.br/analise-de-dados-para-negocios/?utm_source=productoversee&utm_medium=comunidade&utm_campaign=adpn"
       logo = "/images/sponsors/ituring-logo.png"
       banner = "/images/sponsors/ituring-banner.png"
       paragraph_description = "O ITuring é um instituto de educação em tecnologia e negócios da era digital."
