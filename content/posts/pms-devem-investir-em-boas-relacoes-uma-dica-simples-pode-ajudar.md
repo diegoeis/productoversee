@@ -6,10 +6,11 @@ excerpt = "E se você tivesse o hábito de conversar com diferentes stakeholders
 image = "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc94cba3-ba67-48e0-a97f-1ce19b8a80f5_730x380.jpeg"
 publishDate = 2022-02-02T00:00:00Z
 tags = ["alinhamento", "stakeholders"]
-title = " : uma dica simples pode ajudar"
+title = "PMs devem investir em boas relações: uma dica simples pode ajudar"
 type = "post"
-
+sponsor = "ituring"
 +++
+
 Agora você pode nos ajudar a manter o Product Oversee [_contribuindo_](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado) com **R$48/ano** ou **R$5/mês**. Isso vai nos ajudar a conseguir criar novos projetos e a manter e melhorar o que já temos. [**O que acha de nos apoiar**](https://productoversee.com/apoie/?utm_source=ProductOversee&utm_medium=linkArtigo&utm_campaign=linkArtigoPublicado)**?**
 
 Esse artigo foi postado primeiro na [nossa Newsletter](https://productoversee.com/newsletter/) há dias atrás. Fique sabendo primeiro lá.
