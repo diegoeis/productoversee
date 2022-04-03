@@ -1,3 +1,11 @@
+      <ul>
+          <li>
+              <a href="{{ .Permalink}}">{{ .Permalink}}</a>
+          </li>
+      </ul>
+
+<br><br><Br>
+
 <ul>
 	{{ range $author_name, $taxonomy := .Site.Taxonomies.authors }}
 		<li><a href="{{ .Page.Permalink }}">{{ $author_name }}</a> {{ .Count }}</li>
@@ -5,12 +13,9 @@
 	{{ end }}
 </ul>
 
-<br>
-
 <hr>
-
 <ul>
-{{ range .Pages }}
+{{ range .Site.RegularPages }}
 {{ if ge .Params.Date.Unix now.Unix }}
     <li>
         <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>

@@ -1,4 +1,4 @@
 ---
 title: "Authors Articles"
-layout: staticpage
+layout: authors_articles
 ---

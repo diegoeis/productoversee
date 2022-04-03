@@ -9,6 +9,7 @@ summaryLength = 10
   unsafe= true
 enableRobotsTXT = true
 disableLiveReload = false
+buildFuture = true
 
 [sitemap]
   changefreq = "monthly"

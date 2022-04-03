@@ -840,7 +840,12 @@ a.po-lnk-backtop {
   position: absolute;
   top: 5px;
   left: 5px;
+<<<<<<< Updated upstream
   padding: 7px 8px;
+=======
+  background: #fff;
+  /*padding: 7px 8px;*/
+>>>>>>> Stashed changes
   font-size: 0;
   z-index: 1;
   border-radius: 2px
