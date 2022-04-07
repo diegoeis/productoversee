@@ -6,7 +6,7 @@ excerpt = "O papel das pessoas que gerem produtos é uma intersecção entre res
 image = "https://i.imgur.com/K28HjgU.jpg"
 publishDate = 2022-04-06
 tags = ["design"]
-title = "Como construir uma boa relação com a pessoa de designer?"
+title = "Como construir uma boa relação com a pessoa de design?"
 type = "post"
 sponsor = "ituring"
 +++
