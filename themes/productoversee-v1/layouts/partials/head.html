@@ -14,8 +14,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/all.css?{{ now.Unix }}">
-  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/footer.css?{{ now.Unix }}">
+  <link rel="stylesheet" href="/css/all.css?{{ now.Unix }}">
+  <link rel="stylesheet" href="/css/footer.css?{{ now.Unix }}">
   
   <link rel="prerender" href='{{ range first 1 (where .Site.Pages "Type" "post" )}}{{.Permalink}}{{end}}'>
 
@@ -23,7 +23,7 @@
 
   <meta property="og:type" content="website">
 
-  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/home.css?{{ now.Unix }}">
+  <link rel="stylesheet" href="/css/home.css?{{ now.Unix }}">
 	<title>{{.Site.Title}}</title>
 
   {{ else if and (eq "taxonomy" .Kind) (eq "authors" .Type)}}
@@ -84,7 +84,7 @@
 
   <!-- <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5fa3c7fa742843001990ec2c&product=sticky-share-buttons" async="async"></script> -->
   
-  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/single.css?{{ now.Unix }}">
+  <link rel="stylesheet" href="/css/single.css?{{ now.Unix }}">
   
   <script type="application/ld+json">
     { "@context": "https://schema.org",
