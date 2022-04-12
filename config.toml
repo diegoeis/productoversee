@@ -1,4 +1,4 @@
-baseURL = "https://productoversee.com/"
+baseURL = "https://productoversee.netlify.app/"
 languageCode = "pt-br"
 title = "Product Oversee - o portal de conteúdo para PMs com opinião"
 description = "O Product Oversee é um portal de conteúdo para pessoas que constróem produtos e serviços digitais no Brasil."
